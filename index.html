@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom News Dashboard</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            height: 100vh;
+            background: #f5f7fa;
+            color: #1a1a1a;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 240px;
+            background: #1f2937;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            color: white;
+        }
+
+        .sidebar h2 {
+            font-size: 1.1rem;
+            margin-bottom: 25px;
+            color: #d1d5db;
+            font-weight: 600;
+        }
+
+        .nav-btn {
+            padding: 12px;
+            margin-bottom: 8px;
+            border: none;
+            background: #374151;
+            color: #e5e7eb;
+            text-align: left;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background .2s;
+            font-size: 0.95rem;
+        }
+
+        .nav-btn:hover,
+        .nav-btn.active {
+            background: #2563eb;
+            color: white;
+        }
+
+        /* Main content */
+        .main-content {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+        }
+
+        .header {
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 20px;
+        }
+
+        .news-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,.1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .source {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: #2563eb;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .title {
+            font-size: 1.05rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+
+        .desc {
+            font-size: 0.9rem;
+            color: #4b5563;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+
+        .read-btn {
+            padding: 8px 12px;
+            border-radius: 6px;
+            background: #f3f4f6;
+            text-decoration: none;
+            color: #111827;
+            font-size: 0.85rem;
+        }
+
+        .read-btn:hover {
+            background: #e5e7eb;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="sidebar">
+        <h2>Custom News Intelligence</h2>
+        <button class="nav-btn active" onclick="loadNews('news_ai.json', this)">AI Technology</button>
+        <button class="nav-btn" onclick="loadNews('news_adtech.json', this)">Programmatic AdTech</button>
+        <button class="nav-btn" onclick="loadNews('news_mergers.json', this)">Mergers & Deals</button>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1 id="page-title">AI Technology</h1>
+        </div>
+
+        <div id="news-container" class="news-grid"></div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            loadNews("news_ai.json", document.querySelector(".nav-btn"));
+        });
+
+        async function loadNews(filename, btn) {
+            document.querySelectorAll(".nav-btn").forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+
+            const titles = {
+                "news_ai.json": "AI Technology",
+                "news_adtech.json": "Programmatic AdTech",
+                "news_mergers.json": "Mergers & Deals"
+            };
+            document.getElementById("page-title").innerText = titles[filename];
+
+            const container = document.getElementById("news-container");
+            container.innerHTML = "Loading...";
+
+            try {
+                const res = await fetch(filename);
+                const data = await res.json();
+
+                container.innerHTML = "";
+
+                data.forEach(a => {
+                    container.innerHTML += `
+                        <div class="news-card">
+                            <div class="source">${a.source?.name || "Unknown"}</div>
+                            <div class="title">${a.title || "No title"}</div>
+                            <div class="desc">${a.description || "No description available"}</div>
+                            <a href="${a.url}" class="read-btn" target="_blank">Read Article</a>
+                        </div>
+                    `;
+                });
+
+            } catch (err) {
+                container.innerHTML = `
+                    <p style="color:red">Unable to load data.  
+                    Run using: <code>python -m http.server</code></p>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

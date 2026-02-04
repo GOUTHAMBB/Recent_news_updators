@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Caroline Haskins",
+        "title": "HHS Is Using AI Tools From Palantir to Target \u2018DEI\u2019 and \u2018Gender Ideology\u2019 in Grants",
+        "description": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with \u201cDEI\u201d or \u201cgender ideology.\u201d",
+        "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
+        "urlToImage": "https://media.wired.com/photos/697d34ebbf7f7d94e7772911/191:100/w_1280,c_limit/HHS-Using-Palantirs-AI-to-Target-DEI-Science-2256813198.jpg",
+        "publishedAt": "2026-02-02T20:56:41Z",
+        "content": "Since last March, the Department of Health and Human Services has been using AI tools from Palantir to screen and audit grants, grant applications, and job descriptions for noncompliance with Preside\u2026 [+3775 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Hayden Field",
+        "title": "Humans are infiltrating the Reddit for AI bots",
+        "description": "Ordinary social networks face a constant onslaught of chatbots pretending to be human. A new social platform for AI agents may face the opposite problem: getting clogged up by humans pretending to post as bots. Moltbook - a website meant for conversations bet\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-02-03T14:22:39Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nHumans are infiltrating the Reddit for AI bots\r\nThings on the AI agent social media platform got even weirder over the weekend.\r\nby\r\nHayden FieldClose\r\nPosts fro\u2026 [+8998 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Gayoung Lee",
+        "title": "NASA Let AI Drive a Rover on Mars\u2014and It Somehow Survived",
+        "description": "The AI used the same data human planners employ to guide Perseverance through the Martian terrain.",
+        "url": "https://gizmodo.com/ai-operates-martian-rover-on-mars-somehow-survives-2000716801",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/perseverance-claude-ai-drive-1200x675.jpg",
+        "publishedAt": "2026-02-02T21:20:45Z",
+        "content": "February marks the five-year anniversary of Perseverance\u2018s time on Mars. But when it comes to trying out new things, NASA\u2019s rover seems to be as active as it was on the day it first arrived on the Ma\u2026 [+2971 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "MIT Technology Review"
         },
@@ -11,6 +50,19 @@
         "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/01/iconic-use-case-1.png?resize=1200,600",
         "publishedAt": "2026-02-02T14:20:29Z",
         "content": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomesbut how do you design for success?\r\nAt Mistral AI, we partner with globa\u2026 [+6407 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "OpenAI\u2019s Codex app: When your IDE gets a brain",
+        "description": "OpenAI has given software developers a new desktop toy, and judging by the early reactions, it might feel like someone finally handed coders the Swiss Army knife they\u2019ve been dreaming about or the kind of gadget that makes them wonder if they\u2019re working with \u2026",
+        "url": "https://thenextweb.com/news/openais-codex-app-when-your-ide-gets-a-brain",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FOpenAI-Codex-app.png&signature=aa2eedf8a7af4dd4e8447b968051cb60",
+        "publishedAt": "2026-02-03T09:56:49Z",
+        "content": "OpenAI has given software developers a new desktop toy, and judging by the early reactions, it might feel like someone finally handed coders the Swiss Army knife theyve been dreaming about or the kin\u2026 [+4706 chars]"
     },
     {
         "source": {
@@ -44,12 +96,168 @@
             "name": "SiliconANGLE News"
         },
         "author": "Kyt Dotson",
+        "title": "Corti launches multi-agent AI framework for healthcare",
+        "description": "Hearthcare artificial intelligence startup Corti Inc. today announced the launch of a production-grade, multi-agent execution and orchestration framework that enforces rules and guardrails when they are needed most. The company stated that generative AI and a\u2026",
+        "url": "https://siliconangle.com/2026/02/03/corti-launches-multi-agent-ai-framework-healthcare/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/03/Designer-32.jpeg",
+        "publishedAt": "2026-02-03T16:30:07Z",
+        "content": "Hearthcare artificial intelligence startup Corti Inc. today announced the launch of a production-grade, multi-agent execution and orchestration framework that enforces rules and guardrails when they \u2026 [+4774 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Tobias Mann",
+        "title": "DRAM prices expected to double in Q1 as AI ambitions push memory fabs to their limit",
+        "description": "NAND flash now expected to surge 55\u201360% compared to Q4\nThe memory shortage is worse than most of us first thought. Prices on DRAM and NAND flash memory are expected to surge in the first quarter of 2026 as AI-driven hyperscalers and cloud service providers (C\u2026",
+        "url": "https://www.theregister.com/2026/02/02/dram_prices_expected_to_double/",
+        "urlToImage": "https://regmedia.co.uk/2025/09/24/shutterstock_dram.jpg",
+        "publishedAt": "2026-02-02T19:32:59Z",
+        "content": "The memory shortage is worse than most of us first thought. Prices on DRAM and NAND flash memory are expected to surge in the first quarter of 2026 as AI-driven hyperscalers and cloud service provide\u2026 [+3330 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Evan Helda, Head of Physical AI at Nebius",
+        "title": "Robotics will break AI infrastructure: Here's what comes next",
+        "description": "Robotics is forcing a fundamental rethink of AI compute, data, and systems design\nPartner Content Physical AI and robotics are moving from the lab to the real world\u2014 and the cost of getting it wrong is no longer theoretical. With robots deployed in factories,\u2026",
+        "url": "https://www.theregister.com/2026/02/03/robotics-ai-infrastructure-next/",
+        "urlToImage": "https://regmedia.co.uk/2024/05/24/robot_shutterstock.jpg",
+        "publishedAt": "2026-02-03T16:00:15Z",
+        "content": "Partner Content Physical AI and robotics are moving from the lab to the real world and the cost of getting it wrong is no longer theoretical. With robots deployed in factories, warehouses, and public\u2026 [+5857 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Elon Musk confirms SpaceX has acquired xAI to accelerate his space-based data center plans",
+        "description": "Elon Musk\u2019s rocket company SpaceX Corp. has acquired his artificial intelligence startup xAI Corp. ahead of what will likely be one of the largest initial public offerings in history later this year. The technology entrepreneur announced the deal in a blog po\u2026",
+        "url": "https://siliconangle.com/2026/02/02/elon-musk-confirms-spacex-acquired-xai-accelerate-space-based-data-center-plans/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-03-06-34-00.png",
+        "publishedAt": "2026-02-02T23:36:35Z",
+        "content": "Elon Musks rocket company SpaceX Corp.\u00a0today said it has acquired his artificial intelligence startup xAI Corp. ahead of what will likely be one of the largest initial public offerings in history lat\u2026 [+6154 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Alaffia Health raises $55M to expand agentic AI for health plan claims operations",
+        "description": "Agentic artificial intelligence for health plan claims operations startup Alaffia Health Inc. announced today that it has raised $55 million in new funding to accelerate growth, launch new AI agents and increase research and development. Founded in 2020, Alaf\u2026",
+        "url": "https://siliconangle.com/2026/02/03/alaffia-health-raises-55m-expand-agentic-ai-health-plan-claims-operations/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/alaffiahealth.png",
+        "publishedAt": "2026-02-03T14:12:47Z",
+        "content": "Agentic artificial intelligence for health plan claims operations startup Alaffia Health Inc. announced today that it has raised $55 million in new funding to accelerate growth, launch new AI agents \u2026 [+4016 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Raising $6.1M in seed funding, Airrived says agentic AI\u2019s breakthrough moment has arrived",
+        "description": "Agentic artificial intelligence startup Airrived has arrived on the scene to help enterprises transform AI agents into the \u201cfoundational infrastructure\u201d of their business operations after raising $6.1 million in seed funding. Today\u2019s round was led by Cannage \u2026",
+        "url": "https://siliconangle.com/2026/02/03/airrived-says-agentic-ais-breakthrough-moment-arrived-raising-6-1m-seed-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-02-08-32-19.png",
+        "publishedAt": "2026-02-03T11:00:44Z",
+        "content": "Agentic artificial intelligence startup Airrived has arrived on the scene to help enterprises transform AI agents into the foundational infrastructure of their business operations after raising $6.1 \u2026 [+4136 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
         "title": "LimX raises $200M to build embodied intelligence for humanoid robotics",
         "description": "LimX Dynamics Inc., a Chinese artificial intelligence autonomous humanoid robotics company, today announced it has raised about $200 million in early-stage funding to showcase embodied intelligence for robots. Institutional investors involved in the Series B \u2026",
         "url": "https://siliconangle.com/2026/02/02/limx-raises-200m-build-embodied-intelligence-humanoid-robotics/",
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/1_u19xNUVOuqHeX6ot_5WPkw.png",
         "publishedAt": "2026-02-02T16:10:26Z",
         "content": "LimX Dynamics Inc., a Chinese artificial intelligence autonomous humanoid robotics company, today announced it has raised about $200 million in early-stage funding to showcase embodied intelligence f\u2026 [+3922 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Fieldguide raises $75M on $700M valuation to scale agentic AI for audit and advisory firms",
+        "description": "Agentic artificial intelligence-native platform for audit and advisory company Fieldguide Inc. revealed today that it had raised $75 million in new funding on a $700 million valuation to scale its platform, expand its agentic AI tools and grow its team. Found\u2026",
+        "url": "https://siliconangle.com/2026/02/02/fieldguide-raises-75m-700m-valuation-scale-agentic-ai-audit-advisory-firms/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/fieldguide.png",
+        "publishedAt": "2026-02-02T23:50:24Z",
+        "content": "Fieldguide Inc. revealed today that it has raised $75 million in new funding on a $700 million valuation to scale up its agentic artificial intelligence platform for audit and advisory services, expa\u2026 [+3841 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Western Digital outlines new HDD capacity, performance and power gains for AI workloads",
+        "description": "Western Digital Corp. today unveiled a new customer-centric storage roadmap that it says reinvents the hard drive for artificial intelligence needs and reinforces its position as a strategic storage infrastructure partner for the AI-driven data economy. The a\u2026",
+        "url": "https://siliconangle.com/2026/02/03/western-digital-outlines-new-hdd-capacity-performance-power-gains-ai-workloads/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/westerndigital.png",
+        "publishedAt": "2026-02-03T14:30:52Z",
+        "content": "Western Digital Corp. today unveiled a new customer-centric storage roadmap that it says reinvents the hard drive for artificial intelligence needs and reinforces its position as a strategic storage \u2026 [+4202 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Identity intelligence firm Fingerprint launches AI agent signature ecosystem for the web",
+        "description": "FingerprintJS Inc., a leader in device intelligence for fraud prevention, today announced the launch of a new ecosystem of signed artificial intelligence agents, enabling enterprises to distinguish between authorized agent AI traffic and malicious bots and sc\u2026",
+        "url": "https://siliconangle.com/2026/02/03/identity-intelligence-firm-fingerprint-launches-ai-agent-signature-ecosystem-web/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/digitalfingerprint.jpg",
+        "publishedAt": "2026-02-03T12:00:49Z",
+        "content": "FingerprintJS Inc., a leader in device intelligence for fraud prevention, today announced the launch of a new ecosystem of signed artificial intelligence agents, enabling enterprises to distinguish b\u2026 [+4650 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Dassault and Nvidia partner to build industrial AI platform",
+        "description": "Dassault Syst\u00e8mes SA and Nvidia Corp. today announced a long-term strategic partnership aimed at creating a shared industrial artificial intelligence platform that combines science-based virtual twins with large-scale AI infrastructure to support applications\u2026",
+        "url": "https://siliconangle.com/2026/02/03/dassault-nvidia-partner-build-industrial-ai-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/12/Designer-3.jpeg",
+        "publishedAt": "2026-02-03T16:00:54Z",
+        "content": "Dassault Syst\u00e8mes SA and Nvidia Corp. today announced a long-term strategic partnership aimed at creating a shared industrial artificial intelligence platform that combines science-based virtual twin\u2026 [+4916 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Umanitek launches Guardian Agent to tackle AI hallucinations, deepfakes and identity abuse",
+        "description": "Artificial intelligence harm reduction company Umanitek AG today announced the launch of Guardian Agent, an AI identity protection platform designed to combat large language model hallucinations, deepfakes, impersonation and threats to digital identities. It \u2026",
+        "url": "https://siliconangle.com/2026/02/03/umanitek-launches-guardian-agent-tackle-ai-hallucinations-deepfakes-identity-abuse/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/umanitekguardianagent.png",
+        "publishedAt": "2026-02-03T15:00:00Z",
+        "content": "Artificial intelligence harm reduction company Umanitek AG today announced the launch of Guardian Agent, an AI identity protection platform designed to combat large language model hallucinations, dee\u2026 [+5164 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "AI agent social network Moltbook left millions of credentials publicly exposed",
+        "description": "Moltbook, the recently launched social media platform for artificial intelligence agents, has been hit by a major security lapse that has left millions of sensitive credentials exposed, according to a\u00a0report\u00a0today from cybersecurity firm Wiz Inc. Moltbook is \u2026",
+        "url": "https://siliconangle.com/2026/02/02/ai-agent-social-network-moltbook-left-millions-credentials-publicly-exposed/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/moltbookexposure.png",
+        "publishedAt": "2026-02-02T23:20:34Z",
+        "content": "Moltbook, the recently launched social media platform for artificial intelligence agents, has been hit by a major security lapse that has left millions of sensitive credentials exposed, according to \u2026 [+4481 chars]"
     },
     {
         "source": {
@@ -76,6 +284,110 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Snowflake-OpenAI.jpeg",
         "publishedAt": "2026-02-02T14:00:40Z",
         "content": "Snowflake Inc. today said it has struck a $200 million, multiyear partnership with OpenAI Group PBC to bring enterprise-grade generative artificial intelligence models directly into its data platform\u2026 [+4552 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Snowflake bets on platform-native AI as enterprises rethink custom development",
+        "description": "Snowflake Inc. today detailed a sweeping set of product updates aimed at accelerating enterprise adoption of artificial intelligence, positioning its platform as a foundation for building, governing and operating AI systems directly on enterprise data rather \u2026",
+        "url": "https://siliconangle.com/2026/02/03/snowflake-bets-platform-native-ai-enterprises-rethink-custom-development/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Snowflake.png",
+        "publishedAt": "2026-02-03T14:00:07Z",
+        "content": "Snowflake Inc. today detailed a sweeping set of product updates aimed at accelerating enterprise adoption of artificial intelligence, positioning its platform as a foundation for building, governing \u2026 [+7586 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Vala Afshar",
+        "title": "Why more consumers prefer AI-enhanced shopping - and still expect the human touch",
+        "description": "Consumers are favoring brands that leverage AI agents to deliver transparency, confidence, and highly personalized assistance.",
+        "url": "https://www.zdnet.com/article/ai-agents-consumer-buying-experience-value-through-intelligence/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/9b4642e2ebe8ebaf070affc5f1f5f2bdf37698c2/2026/01/27/ff4310cf-e49f-40f6-bf1c-57f70edfd6c3/aicart-gettyimages-1573569215.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-03T02:00:45Z",
+        "content": "photoman/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>73% of consumers have used AI chatbots to search for products\u2026 [+10734 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "RapidFort raises $42M to push continuous remediation for software supply chain security",
+        "description": "Software supply chain security startup RapidFort Inc. announced today that it has raised $42 million in early-stage funding to expand go-to-market efforts, advance automated remediation, deepen enterprise adoption in regulated industries, and expand software \u2026",
+        "url": "https://siliconangle.com/2026/02/03/rapidfort-raises-42m-push-continuous-remediation-software-supply-chain-security/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/rapidfort.png",
+        "publishedAt": "2026-02-03T12:00:09Z",
+        "content": "Software supply chain security startup RapidFort Inc. announced today that it has raised $42 million in early-stage funding to expand go-to-market efforts, advance automated remediation, deepen enter\u2026 [+3932 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Shield raises $100M to acquire more managed service providers",
+        "description": "Shield Technology Partners Inc., a company that invests in managed service providers and optimizes their business operations, has closed a $100 million funding round. The financing was announced\u00a0today. It was provided entirely by Thrive Holdings, an investor \u2026",
+        "url": "https://siliconangle.com/2026/02/02/shield-raises-100m-acquire-managed-service-providers/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/unsplash-gigabyte.png",
+        "publishedAt": "2026-02-02T23:16:21Z",
+        "content": "Shield Technology Partners Inc., a company that invests in managed service providers and optimizes their business operations, has closed a $100 million funding round.\r\nThe financing was announced\u00a0tod\u2026 [+4326 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Satellite maker CesiumAstro raises $470M to grow its manufacturing capacity",
+        "description": "Aerospace startup CesiumAstro Inc. today announced that it has raised $470 million to finance manufacturing and product development initiatives.\u00a0 More than half the sum was provided in the form of an equity funding round led by Trousdale Ventures. The venture\u2026",
+        "url": "https://siliconangle.com/2026/02/02/satellite-maker-cesiumastro-raises-470m-grow-manufacturing-capacity/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/CesiumAstro.png",
+        "publishedAt": "2026-02-02T21:13:43Z",
+        "content": "Aerospace startup CesiumAstro Inc. today announced that it has raised $470 million to finance manufacturing and product development initiatives.\u00a0\r\nMore than half the sum was provided in the form of a\u2026 [+4234 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Tomorrow.io raises $175M to deploy its AI-native weather satellite constellation",
+        "description": "Elon Musk might have another competitor on his hands following the news that the satellite constellation company Tomorrow.io Inc. has just closed on a bumper $175 million in funding. The money was provided by Stonecourt Capital and HarbourVest, and the compan\u2026",
+        "url": "https://siliconangle.com/2026/02/03/tomorrow-io-raises-175m-deploy-ai-native-weather-satellite-constellation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-03-10-20-00.png",
+        "publishedAt": "2026-02-03T14:00:35Z",
+        "content": "Elon Musk might have another competitor on his hands following the news that the satellite constellation company Tomorrow.io Inc. has just closed on a bumper $175 million in funding.\r\nThe money was p\u2026 [+5305 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Palantir rallies as revenue jumps 70% and guidance leaves Wall Street behind",
+        "description": "Shares in Palantir Technologies Inc. were up more than 5% in late trading today after the big data analytics company reported earnings and revenue ahead of expectations in its fiscal 2025 fourth quarter and provided guidance that was well ahead of expectation\u2026",
+        "url": "https://siliconangle.com/2026/02/02/palantir-rallies-revenue-jumps-70-guidance-leaves-wall-street-behind/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/palantir.png",
+        "publishedAt": "2026-02-02T22:40:31Z",
+        "content": "Shares in Palantir Technologies Inc. were up more than 5% in late trading today after the big data analytics company reported earnings and revenue ahead of expectations in its fiscal 2025 fourth quar\u2026 [+4018 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "OpenAI launches Codex app for macOS to speed up software projects",
+        "description": "OpenAI Group PBC today released a macOS client for its Codex programming assistant. The launch comes about two months after Claude Code, a competing service from Anthropic PBC, topped $1 billion in annualized recurring revenue. That number reportedly grew by \u2026",
+        "url": "https://siliconangle.com/2026/02/02/openai-launches-codex-app-macos-speed-software-projects/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/OpenAI.png",
+        "publishedAt": "2026-02-03T01:07:22Z",
+        "content": "OpenAI Group PBC today released a macOS client for its Codex programming assistant.\r\nThe launch comes about two months after Claude Code, a competing service from Anthropic PBC, topped $1 billion in \u2026 [+4057 chars]"
     },
     {
         "source": {
@@ -119,6 +431,58 @@
     {
         "source": {
             "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Chris Stokel-Walker",
+        "title": "Photonics and high-speed data movement is the next big AI bottleneck \u2014 following copper, power, DRAM, and NAND",
+        "description": "Generative AI is pushing demand in all areas of the industry, and data interconnects, such as Silicon Photonics, may well be the next big bottleneck that hyperscalers need to be paying attention to.",
+        "url": "https://www.tomshardware.com/tech-industry/photonics-and-high-speed-data-movement-is-the-next-big-ai-bottleneck-following-copper-power-dram-and-nand",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/zjF6jBbLk5mt7oCFCxwy9G-1920-80.jpg",
+        "publishedAt": "2026-02-03T11:24:19Z",
+        "content": "The voracious appetite of the generative AI revolution has overhauled any number of industries so far in its three-year history. First, it upended demand for high-end chips, pushing companies like Nv\u2026 [+7497 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Maxwell Zeff",
+        "title": "Elon Musk Rolls His AI Startup Into SpaceX, Creating the World\u2019s Most Valuable Company",
+        "description": "By fusing SpaceX and xAI\u2014which acquired X last year\u2014Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
+        "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
+        "urlToImage": "https://media.wired.com/photos/69811faf5fea9b4898ac924e/191:100/w_1280,c_limit/SpaceX-Aquires-xAI-Business-2256970109.jpg",
+        "publishedAt": "2026-02-02T23:07:19Z",
+        "content": "Elon Musks rocket and satellite company SpaceX is acquiring his AI startup xAI, the centibillionaire announced on Monday. In a blog post, Musk said the acquisition was warranted because global electr\u2026 [+2555 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "NXP beats expectations and its forecast is bullish, but investors shrug",
+        "description": "NXP Semiconductors N.V. delivered fourth-quarter results that surpassed expectations and offered strong guidance for the current quarter, but investors were nonplussed and its stock fell in extended trading. The Dutch chipmaker reported earnings before certai\u2026",
+        "url": "https://siliconangle.com/2026/02/02/nxp-beats-expectations-forecast-bullish-investors-shrug/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-03-09-05-39.png",
+        "publishedAt": "2026-02-03T02:08:10Z",
+        "content": "NXP Semiconductors N.V. delivered fourth-quarter results that surpassed expectations and offered strong guidance for the current quarter, but investors were nonplussed and its stock fell in extended \u2026 [+3907 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "RADICL secures $31M to expand AI-driven security operations for small businesses",
+        "description": "Cybersecurity-as-a-service startup RADICL Defense Inc. announced today that it has raised $31 million in early-stage funding to accelerate the development of its autonomous virtual security operations center built specifically for small and medium-sized busin\u2026",
+        "url": "https://siliconangle.com/2026/02/03/radicl-secures-31m-expand-ai-driven-security-operations-small-businesses/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/radicl.png",
+        "publishedAt": "2026-02-03T14:00:44Z",
+        "content": "Cybersecurity-as-a-service startup RADICL Defense Inc. announced today that it has raised $31 million in early-stage funding to accelerate the development of its autonomous virtual security operation\u2026 [+3882 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "SiliconANGLE News"
         },
         "author": "Mike Wheatley",
@@ -128,6 +492,71 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2025-12-22-08-55-21.png",
         "publishedAt": "2026-02-02T00:55:17Z",
         "content": "Alphabet Inc.s self-driving car business Waymo LLC is looking to raise around $16 billion through a fresh funding round that would hike its valuation to about $110 billion, according to a report\u00a0Satu\u2026 [+4934 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Emile Louw",
+        "title": "The cost of poor cloud resilience is often paid in ransom, Rubrik warns",
+        "description": "The latest wave of ransomware attacks is exposing a deeper flaw in enterprise strategy: cloud resilience not being treated as a first-class business priority. But in those environments where recovery plans rely on assumptions instead of clean architecture, ou\u2026",
+        "url": "https://siliconangle.com/2026/02/02/cloud-resilience-hidden-costs-ransomware-rubrikresilience/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/white-border-export-2026-02-02T18-42-32-177005762713100561-e1770057802749.jpg",
+        "publishedAt": "2026-02-02T19:45:17Z",
+        "content": "The latest wave of ransomware attacks is exposing a deeper flaw in enterprise strategy: cloud resilience not being treated as a first-class business priority. But in those environments where recovery\u2026 [+4781 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Barbara Pazur",
+        "title": "AI Browsers: What You Need to Know About ChatGPT Atlas, Perplexity Comet and More",
+        "description": "Are AI browsers a productivity boost or just AI bloat? We dive into privacy implications, accuracy and everything else you need to know before trying them.",
+        "url": "https://www.cnet.com/tech/services-and-software/ai-browsers-what-to-know-chatgpt-atlas-perplexity-comet-copilot-brave-opera-one-dia-duckai-gemini/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/611f58fcc0599f608529e84f32fc394b365f80f4/hub/2025/10/23/8708a0b5-3c2e-4945-83fc-8f0650755a28/gpt-atlas-02.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-03T15:17:38Z",
+        "content": "For the last 15 years, the rhythm of doing online research has remained largely unchanged. Open a browser. Type a question. Get a list of blue links. Click through 20 tabs in hopes of finding the ans\u2026 [+10705 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Jon Skillings",
+        "title": "Darren Aronofsky, Your AI Slop Is Ruining American History in 'On This Day\u20261776'",
+        "description": "Commentary: The high-profile Hollywood director created a studio dedicated to creating a \"new cinematic grammar\" built around AI. This is not a good start.",
+        "url": "https://www.cnet.com/tech/services-and-software/darren-aronofsky-primordial-soup-on-this-day-1776-ai-slop-commentary/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/54bf51d64fd4b75e12489223d5b74dc772e94ec2/hub/2026/02/02/fd8a2ea4-6497-4ec3-8a88-99c8021ee555/1776-reading-common-sense-winter-scene.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-03T15:22:00Z",
+        "content": "Just over 2 minutes into an early episode of the new short film series, On This Day\u20261776, we see a hand sweep tenderly over the title page of Thomas Paine's just-published firebrand pamphlet Common S\u2026 [+9852 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Nina Raemont",
+        "title": "I uncovered hidden Oura Ring data using this free tool, but I'm not fully convinced yet",
+        "description": "Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how it works.",
+        "url": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/d7bd242fa42a16fe157c734e496cff7f3db727f3/2024/12/19/6367d483-0ea6-4252-9a0b-a53198124bfd/f187aff6-cdee-4a98-bc56-066eefd08609-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-03T15:27:00Z",
+        "content": "Nina Raemont/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>Simple Wearable Report turns Oura data into a lab-style report.</li><li>The free tool provid\u2026 [+5799 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+        "title": "SpaceX acquires xAI in a bid to make orbiting data centers a reality \u2014 Musk plans to launch a million tons of satellites annually, targets 1TW/year of space-based compute capacity",
+        "description": "Elon Musk merges SpaceX and xAI to help achieve his dreams of putting AI data centers in orbit, with a goal of hitting 100 gigawatts of compute in space.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-acquires-xai-in-a-bid-to-make-orbiting-data-centers-a-reality-musk-plans-to-launch-a-million-tons-of-satellites-annually-targets-1tw-year-of-space-based-compute-capacity",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/SixcqdypU9u8pydsTqaoJc-1920-80.jpg",
+        "publishedAt": "2026-02-03T12:54:27Z",
+        "content": "SpaceX has officially announced its acquisition of xAI, allowing the two companies to vertically integrate their operations and help Elon Musk achieve his dream of artificial intelligence in space. A\u2026 [+3163 chars]"
     },
     {
         "source": {
@@ -160,38 +589,25 @@
             "id": null,
             "name": "ZDNet"
         },
-        "author": "Charlie Osborne",
-        "title": "From Clawdbot to OpenClaw: This viral AI agent is evolving fast - and it's nightmare fuel for security pros",
-        "description": "The breakneck speed of the personal AI assistant's evolution has prompted dire warnings from security researchers.",
-        "url": "https://www.zdnet.com/article/clawdbot-moltbot-openclaw-security-nightmare/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/d3c26b0c8f442a3d0423c34c9ea673d04a45d480/2026/02/02/ea88d498-12fc-4a6c-a9cb-3ce41dc43d55/clawdbot-to-moltbot-to-openclaw-the-evolving-ai-bot-giving-the-security-community-whiplash.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-02T15:07:49Z",
-        "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Clawdbot has rebranded again, completing its \"molt\" into OpenClaw.</li><li>Security\u2026 [+7789 chars]"
+        "author": "Ritoban Mukherjee",
+        "title": "The best business plan software of 2026: Expert tested",
+        "description": "Looking for the best business plan software? I tested data-driven platforms to help you plan your business operations from the ground up, from content schedules to funding to market research.",
+        "url": "https://www.zdnet.com/article/best-business-plan-software/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/bc7b48c422c79db7304d5219f0d937f86c35a8ae/2025/05/12/fae9b3d1-a0d4-4ad9-95da-ab93ef8c37f5/gettyimages-1454968666.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-03T12:00:38Z",
+        "content": "When you're starting a new business, having the right software to help you plan out your roadmap can make all the difference. Maybe you just need a way to organize your thoughts. Or you want to creat\u2026 [+9799 chars]"
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Aisha Malik",
-        "title": "Firefox will soon let you block all of its generative AI features | TechCrunch",
-        "description": "Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.",
-        "url": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1200",
-        "publishedAt": "2026-02-02T18:39:31Z",
-        "content": "Firefox will begin catering to those who don\u2019t want AI in their browser. On Monday, Mozilla announced that Firefox will soon let users block all current and future generative AI features. Users will \u2026 [+2607 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Rebecca Bellan",
-        "title": "Coalition demands federal Grok ban over nonconsensual sexual content | TechCrunch",
-        "description": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns.",
-        "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-        "publishedAt": "2026-02-02T15:03:25Z",
-        "content": "A coalition of nonprofits is urging the U.S. government to immediately suspend the deployment of Grok, the chatbot developed by Elon Musks xAI, in federal agencies including the Department of Defense\u2026 [+6907 chars]"
+        "author": "Ana-Maria Stanciuc",
+        "title": "SpaceX and xAI: A merger of ambition, optics, and unanswered questions",
+        "description": "If you look at the press releases and breathless commentary around the recent acquisition of xAI by SpaceX, you might think we\u2019re witnessing a tectonic shift in technological destiny.\u00a0 A $1.25 trillion \u201cmega-company\u201d is born, poised to reshape artificial inte\u2026",
+        "url": "https://thenextweb.com/news/spacex-and-xai-a-merger-of-ambition-optics-and-unanswered-questions",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FSpacex-aquires-xAI.png&signature=f5f479090376ba5e87b2fea3ef9765fa",
+        "publishedAt": "2026-02-03T14:45:51Z",
+        "content": "If you look at the press releases and breathless commentary around the recent acquisition of xAI by SpaceX, you might think were witnessing a tectonic shift in technological destiny.\u00a0\r\nA $1.25 trilli\u2026 [+7091 chars]"
     }
 ]

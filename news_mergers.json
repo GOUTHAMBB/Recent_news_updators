@@ -1,159 +1,68 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Grace Kay",
-        "title": "XAI shares Q&A with staff on what they can expect from the SpaceX merger",
-        "description": "XAI sent workers a memo answering questions about how the merger will work.",
-        "url": "https://www.businessinsider.com/xai-sends-staff-q-and-a-on-spacex-merger-2026-2",
-        "urlToImage": "https://i.insider.com/69813effa645d118818884f8?width=1200&format=jpeg",
-        "publishedAt": "2026-02-03T00:48:58Z",
-        "content": "Elon Musk's companies have been swapping IP and cash. He argues it makes his firms less prone to geopolitical risks.Harun Ozalp/Anadolu via Getty Images\r\n<ul><li>XAI sent out a Q&A to staff after it \u2026 [+2461 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Melia Russell,Ben Bergman,Geoff Weiss,Sydney Bradley,Julia Hornstein",
-        "title": "Meet the 37 rising stars of the venture capital industry",
-        "description": "These up-and-coming venture capitalists are backing the next generation of startups as the VC industry resets after years of easy money.",
-        "url": "https://www.businessinsider.com/venture-capital-industry-rising-stars-list-2026-1",
-        "urlToImage": "https://i.insider.com/698111a5d3c7faef0ecd6d76?width=1200&format=jpeg",
-        "publishedAt": "2026-02-03T10:00:01Z",
-        "content": "Kendra Schultz, James Flynn, and Mustafa Neemuchwala.Benchstrength; Sequoia Capital; NEA; Business Insider\r\n<ul><li>We asked our readers and top VCs to name the best up-and-coming investors of 2026.<\u2026 [+33990 chars]"
+        "author": "Elias Schisgall",
+        "title": "Texas Instruments to Acquire Silicon Labs in Deal Valued at $7.5 Billion",
+        "description": "Texas Instruments agreed to acquire Silicon Labs in a deal with an enterprise value of about $7.5 billion, including cash and debt.",
+        "url": "https://www.wsj.com/tech/texas-instruments-to-acquire-silicon-labs-in-deal-valued-at-7-5-billion-48047a5c",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YmFrga8R8gJdv2YAi0O0MQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/92688926442771edf21ab3ae8aaab4be",
+        "publishedAt": "2026-02-04T12:29:00Z",
+        "content": "The semiconductor company said that it would buy Silicon Labs, a wireless technology company, for $231 a share in cash. - dado ruvic/Reuters\r\nTexas Instruments said Wednesday it has agreed to acquire\u2026 [+1228 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Ben Weiss",
-        "title": "Famed startup incubator Y Combinator to let founders receive funds in stablecoins",
-        "description": "The move is significant since, in the past, generally just crypto VC firms have let startups receive funding in the form of digital assets.",
-        "url": "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2151668652-e1770125503609.jpg?resize=1200,600",
-        "publishedAt": "2026-02-03T14:50:00Z",
-        "content": "In the latest sign of digital currencies going mainstream, Silicon Valleys most prominent startup incubator will allow its spring cohort of entrepreneurs to receive their funding in stablecoins. YCom\u2026 [+2394 chars]"
+        "author": "Nick Lichtenberg",
+        "title": "Scott Galloway predicts OpenAI could pull its IPO amid AI \u2018vibe shift\u2019 as investors \u2018gag\u2019 on Trump proximity, questionable revenue",
+        "description": "\"Sustainable advantage is really, really thin,\" the NYU professor argued about the potential $830 billion IPO.",
+        "url": "https://fortune.com/2026/02/04/scott-galloway-predicts-openai-could-pull-its-ipo-amid-ai-vibe-shift-as-investors-gag-on-trump-proximity-questionable-revenue/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2236730082-e1770238387432.jpg?resize=1200,600",
+        "publishedAt": "2026-02-04T21:09:05Z",
+        "content": "Despite industry forecasts for a blockbuster resurgence in initial public offerings in the coming year, NYU Stern marketing professor and tech analyst Scott Galloway has issued a contrarian warning a\u2026 [+3534 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeremy Kahn",
-        "title": "Moltbook is scary\u2014but not for the reasons so many headlines said",
-        "description": "It is people's devil-may-care attitude to the risk of AI agents that ought to really frighten us.",
-        "url": "https://fortune.com/2026/02/03/moltbook-is-scary-cybersecurity-ai-safety-risks-eye-on-ai/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2259341239-e1770143719951.jpg?resize=1200,600",
-        "publishedAt": "2026-02-03T20:25:41Z",
-        "content": "Hello and welcome to Eye on AI. In this editionwhy you really should be worried about MoltbookOpenAI eyes an IPOElon Musk merges SpaceX and xAINovices dont benefit as much from AI as people thinkand \u2026 [+12037 chars]"
+        "author": "John Kell",
+        "title": "Why United Rentals\u2019 CTO tried to break his own AI agent before giving it to thousands of employees",
+        "description": "Tony Leopold stress tested his new AI agent before making it available to frontline employees across more than 1,500 branches that rent equipment.",
+        "url": "https://fortune.com/2026/02/04/why-united-rentals-cto-tried-to-break-his-own-ai-agent-before-giving-it-to-thousands-of-employees/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2018/05/f500-2018-united-rentals.jpg?resize=1200,600",
+        "publishedAt": "2026-02-04T18:09:29Z",
+        "content": "When Tony Leopold, the chief technology and strategy officer at United Rentals, held a hackathon to test out a new artificial intelligence agent, he said he wanted to clear one final hurdle before de\u2026 [+13644 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeremy Kahn, Jim Edwards",
+        "title": "Short-seller claims IonQ, the biggest quantum computing company on the stock market, failed to disclose holes in its revenue",
+        "description": "Short-seller Wolfpack Research says IonQ misled investors about cancelled government earmarks; it also points to suspicious insider stock sales.",
+        "url": "https://fortune.com/2026/02/04/ionq-wolfpack-research-short-seller-says-quantum-computing-company-misled-investors-about-cancelled-government-backdoor-earmarks/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2201668226-e1770234419289.jpg?resize=1200,600",
+        "publishedAt": "2026-02-04T21:24:06Z",
+        "content": "IonQ, one of the best known publicly traded quantum computing companies, is facing a raft of questions about the quality of its revenues and insider stock sales following a research report published \u2026 [+12622 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Samantha Subin",
-        "title": "Musk's xAI, SpaceX combo is the biggest merger of all time, valued at $1.25 trillion",
-        "description": "The record-setting deal will be the largest merger of all time and is valued at $1.25 trillion",
-        "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108255802-17690988712026-01-22t154643z_1661161031_rc2f6jamiok9_rtrmadp_0_davos-meeting.jpeg?v=1769098902&w=1920&h=1080",
-        "publishedAt": "2026-02-03T14:42:44Z",
-        "content": "Elon Musk's rocket maker SpaceX has acquired his artificial intelligence startup xAI in a deal that will value the company at $1.25 trillion, CNBC's David Faber has confirmed.\r\nThe record-setting dea\u2026 [+934 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Leo Schwartz",
-        "title": "Why President Trump\u2019s latest crypto scandal could spell disaster for the blockchain industry",
-        "description": "A bombshell report revealed that an Abu Dhabi royal bought a 49% stake in Trump\u2019s flagship crypto project.",
-        "url": "https://fortune.com/2026/02/03/president-trump-crypto-world-liberty-financial-abu-dhabi-bitcoin/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-489498096-e1770002277122.jpg?resize=1200,600",
-        "publishedAt": "2026-02-03T11:39:15Z",
-        "content": "Just over a year ago, I stood in a gilded Washington, D.C. ballroom during inauguration weekend, surrounded by the blockchain industrys top executives and investors. They had traded in their hoodies \u2026 [+7710 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Phil Wahba",
-        "title": "Did Target\u2019s CEO miss the mark by ignoring Minnesota?",
-        "description": "Also: All the news and watercooler chat from Fortune.",
-        "url": "https://fortune.com/2026/02/03/target-ceo-michael-fiddelke-miss-the-mark-ignoring-ice-minnesota/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2250837155-e1770111811196.jpg?resize=1200,600",
-        "publishedAt": "2026-02-03T10:52:52Z",
-        "content": "Good morning. If you read brand new Target CEO Michael Fiddelkes first message as chief to customers, employees and partners, you could be forgiven for not realizing that the retailer currently finds\u2026 [+4672 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Harring",
-        "title": "The xAI-SpaceX merger, Palantir earnings, China's frowning horses and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/02/03/5-things-to-know-before-the-stock-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108255762-17690962602026-01-22t153714z_1035611969_rc2f6jatc4xw_rtrmadp_0_davos-meeting.jpeg?v=1769096274&w=1920&h=1080",
-        "publishedAt": "2026-02-03T13:12:40Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Tuesday. I did my workout studio's Hyrox-themed class yesterday, which not only left me sore \u2026 [+4868 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Alexei Oreskovic",
-        "title": "Amazon AWS CEO Matt Garman pushes back against Elon Musk\u2019s space data centers plan",
-        "description": "The head of Amazon's cloud business says major obstacles need to be overcome before space-based data centers are a reality.",
-        "url": "https://fortune.com/2026/02/03/amazon-aws-ceo-pushes-back-against-elon-musk-space-data-centers/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2249059883-e1770159138566.jpg?resize=1200,600",
-        "publishedAt": "2026-02-03T23:18:35Z",
-        "content": "Speaking at a tech conference in San Francisco on Tuesday, Garman threw some cold water on the notion of space-based data centers, which have been touted by Elon Musk and others as the future of AI.\u00a0\u2026 [+2513 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jacob Pramuk",
-        "title": "Walmart hits $1 trillion market cap, fueled by growth of e-commerce, new businesses",
-        "description": "Walmart joins a group of mostly technology companies in the $1 trillion market cap club.",
-        "url": "https://www.cnbc.com/2026/02/03/walmart-wmt-hits-1-trillion-market-cap.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108239272-17653094962025-12-09t162104z_212304965_rc21dials529_rtrmadp_0_walmart-nasdaq.jpeg?v=1765310250&w=1920&h=1080",
-        "publishedAt": "2026-02-03T15:16:55Z",
-        "content": "Walmart crossed the $1 trillion market cap threshold on Tuesday after a dizzying stock climb fueled by the growth of digital businesses and the acquisition of new customers. \r\nIn hitting the benchmar\u2026 [+309 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "wedwards@businessinsider.com (William Edwards)",
-        "title": "Why Jeremy Grantham's GMO thinks the colossal tech IPOs expected this year could be bad for the stock market",
-        "description": "The onslaught of tech mega IPOs expected in 2026 could suck money away from the broader market as investors chase the hype, GMO says.",
-        "url": "https://www.businessinsider.com/ipo-anthropic-openai-spacex-tech-stocks-outlook-gmo-jeremy-grantham-2026-2",
-        "urlToImage": "https://i.insider.com/69820e16e1ba468a96ab419f?width=1200&format=jpeg",
-        "publishedAt": "2026-02-03T17:50:14Z",
-        "content": "Investors are salivating at the chance to buy into private tech titans like OpenAI, Anthropic, and SpaceX when they potentially go public later this year, but the enormous influx of new shares in the\u2026 [+1702 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Bernard Condon, Matt O'Brien, The Associated Press",
-        "title": "\u2018Space-based AI is obviously the only way to scale\u2019: Elon Musk hatches grand plan as he merges SpaceX and xAI",
-        "description": "Musk said in his announcement he estimates \u201cthat within 2 to 3 years, the lowest cost way to generate AI compute will be in space.\u201d",
-        "url": "https://fortune.com/2026/02/03/musk-merges-spacex-xai-ahead-of-potential-ipo/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26016829061149.jpg?resize=1200,600",
-        "publishedAt": "2026-02-03T13:34:01Z",
-        "content": "Elon Musk is joining his space exploration and artificial intelligence ventures into a single company before whats expected to be a massive initial public offering for the business later this year.Hi\u2026 [+3987 chars]"
+        "author": "Kai Nicol-Schwarz",
+        "title": "Nvidia-backed AI voice startup ElevenLabs hits $11 billion valuation in fresh fundraise, as it eyes IPO",
+        "description": "Global funding for AI startups hit record levels in 2025, with European ones raising a record $21.6 billion, per Dealroom.",
+        "url": "https://www.cnbc.com/2026/02/04/nvidia-backed-ai-startup-elevenlabs-11-billion-valuation.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166937-1751460466152-gettyimages-2210000239-TFSPI_16042025-6546.jpeg?v=1770218820&w=1920&h=1080",
+        "publishedAt": "2026-02-04T16:06:03Z",
+        "content": "AI startup ElevenLabs announced on Wednesday it had raised $500 million at an $11 billion valuation, as it eyes a potential IPO.\r\nSequoia Capital led the round, with participation from existing backe\u2026 [+2258 chars]"
     },
     {
         "source": {
@@ -173,39 +82,26 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Lora Kolodny, Ari Levy",
-        "title": "Musk's xAI needs SpaceX deal for the money. Data centers in space are still a dream",
-        "description": "In merging SpaceX with xAI, Elon Musk may be providing his artificial intelligence startup with a much-needed cash infusion.",
-        "url": "https://www.cnbc.com/2026/02/02/musks-xai-needs-spacex-for-money-data-centers-in-space-are-a-dream.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228375-1763570599577-108228375-1763570145468-gettyimages-2246882306-US_SAUDI.jpg?v=1770074276&w=1920&h=1080",
-        "publishedAt": "2026-02-03T03:00:31Z",
-        "content": "Elon Musk, chief executive officer of Tesla Inc., during the US-Saudi Investment Forum at the Kennedy Center in Washington, DC, US, on Wednesday, Nov. 19, 2025.\r\nElon Musk said a primary reason for m\u2026 [+6738 chars]"
+        "author": "Jennifer Elias",
+        "title": "Alphabet to report earnings: AI, ad momentum key to the fourth quarter",
+        "description": "Wall Street will be looking for more details Google's deal to revamp Apple's Siri virtual assistant with the search company's Gemini AI models.",
+        "url": "https://www.cnbc.com/2026/02/04/alphabet-googl-q4-2025-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095059-17382611632024-02-15t141049z_245790524_rc2x26ao4cju_rtrmadp_0_google-france.jpeg?v=1738719000&w=1920&h=1080",
+        "publishedAt": "2026-02-04T17:00:01Z",
+        "content": "Alphabet is set to report its fourth-quarter earnings Wednesday after the bell.\r\nHere's what analysts polled by LSEG are expecting:\r\n<ul><li>Earnings per share: $2.63</li><li>Revenue: $111.43 billion\u2026 [+3410 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Yeo Boon Ping",
-        "title": "CNBC Daily Open: India and U.S. strike a trade deal, and markets shrug off precious metals rout",
-        "description": "As part of the deal, New Delhi will \"BUY AMERICAN\" at \"a much higher level,\" and stop buying oil from Russia, according to Trump.",
-        "url": "https://www.cnbc.com/2026/02/03/cnbc-daily-open-india-and-us-strike-a-trade-deal-and-markets-shrug-off-precious-metals-rout.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108260387-17700648342025-02-13t232744z_1148150881_rc2ytcalqf08_rtrmadp_0_usa-india.jpeg?v=1770064882&w=1920&h=1080",
-        "publishedAt": "2026-02-03T01:03:52Z",
-        "content": "U.S. President Donald Trump and Indian Prime Minister Narendra Modi shake hands as they attend a joint press conference at the White House in Washington, D.C., U.S., Feb. 13, 2025. \r\nThe world's larg\u2026 [+3287 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jim Cramer",
-        "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-        "description": "The S&P 500 was headed for a higher open this morning, boosted by massive post-earnings gains in Palantir stock.",
-        "url": "https://www.cnbc.com/2026/02/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215556-1761161061507-gettyimages-617288676-93063630.jpeg?v=1770122193&w=1920&h=1080",
-        "publishedAt": "2026-02-03T14:14:42Z",
-        "content": "1. The S&amp;P 500 was headed for a higher open this morning, boosted by post-earnings gains in Palantir stock and sharp bounces in gold and silver. This follows yesterday's strong start to February \u2026 [+3881 chars]"
+        "author": "Jordan Novet",
+        "title": "Software experiencing 'most exciting moment' as AI fears hammer the stocks",
+        "description": "Shares of software companies have been getting beaten up, and the selloff accelerated this week after Anthropic's latest unveiling.",
+        "url": "https://www.cnbc.com/2026/02/04/software-experiencing-most-exciting-moment-as-ai-fears-hammer-stocks.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228600-1763581285846-gettyimages-2246896522-US_SAUDI.jpeg?v=1770251995&w=1920&h=1080",
+        "publishedAt": "2026-02-05T00:41:21Z",
+        "content": "Salesforce CEO Marc Benioff appears at the US-Saudi Investment Forum at the Kennedy Center in Washington on Nov. 19, 2025. \r\nBox CEO Aaron Levie says that in the 20-year history of his cloud software\u2026 [+5690 chars]"
     },
     {
         "source": {
@@ -225,32 +121,6 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Kif Leswing",
-        "title": "Nvidia's Jensen Huang denies OpenAI deal rumors: 'There\u2019s no drama'",
-        "description": "Nvidia CEO Jensen Huang said the chipmaker's plan to invest in OpenAI remains \"on track.\"",
-        "url": "https://www.cnbc.com/2026/02/03/nvidias-jensen-huang-denies-openai-deal-rumors-theres-no-drama.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256213-1769171467655-108256213-17691714072026-01-21t110421z_923549888_rc2m5jaurrtk_rtrmadp_0_davos-meeting.jpg?v=1769171479&w=1920&h=1080",
-        "publishedAt": "2026-02-03T19:30:45Z",
-        "content": "Nvidia CEO Jensen Huang said the chipmaker's plan to invest in OpenAI remains \"on track\" after recent reports suggested brewing tension between the two sides. \r\n\"There's no drama involved. Everything\u2026 [+2101 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Yeo Boon Ping",
-        "title": "CNBC Daily Open: Asia markets and precious metals rebound amid Trump's trade deal with India",
-        "description": "As part of the deal, New Delhi will \"BUY AMERICAN\" at \"a much higher level,\" and stop buying oil from Russia, according to Trump.",
-        "url": "https://www.cnbc.com/2026/02/03/cnbc-daily-open-asia-markets-and-precious-metals-rebound-amid-trumps-trade-deal-with-india.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/104552496-RTS18QS6-trump-modi.jpg?v=1529452320&w=1920&h=1080",
-        "publishedAt": "2026-02-03T07:30:01Z",
-        "content": "Asia markets on Tuesday staged a staggering turnaround from the previous day. South Korea's Kospi led gains in the region, soaring 6.7% as of 1:40 a.m. ET, after triggering a temporary pause in purch\u2026 [+3481 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
         "author": "Yeo Boon Ping",
         "title": "CNBC Daily Open: Nvidia denies rift with OpenAI, while software and asset management stocks plunge",
         "description": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer on Tuesday that there's \"no drama involved\" between the company and OpenAI. \"Everything's on track,\" he added.",
@@ -258,31 +128,5 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248936-1767726495532-gettyimages-2254355544-CES_2026.jpeg?v=1767726543&w=1920&h=1080",
         "publishedAt": "2026-02-04T01:21:46Z",
         "content": "Advanced Micro Devices reported fourth-quarter earnings on Tuesday after the bell. The chipmaker beat Wall Street's revenue and profit estimates, but shares plunged more than 8% in extended trading b\u2026 [+3225 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kif Leswing",
-        "title": "Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other",
-        "description": "Five months after OpenAI and Nvidia announced a $100 billion deal, no contract has been signed and no money has changed hands.",
-        "url": "https://www.cnbc.com/2026/02/03/nvidia-openai-stalled-on-their-mega-deal-ai-giants-need-each-other.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202501-1758585935917-Untitled-4.jpg?v=1758586002&w=1920&h=1080",
-        "publishedAt": "2026-02-03T22:22:05Z",
-        "content": "Sam Altman, CEO of OpenAI (L), and Jensen Huang CEO of Nvidia.\r\nNvidia CEO Jensen Huang and OpenAI CEO Sam Altman appeared together on CNBC in September to announce a mammoth $100 billion deal that w\u2026 [+5898 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Harvard Business Review"
-        },
-        "author": null,
-        "title": "If and How to Scale the Acquired Podcast",
-        "description": "When breaking the rules is what got you here, how do you grow without breaking what works?",
-        "url": "https://hbr.org/podcast/2026/02/if-and-how-to-scale-the-acquired-podcast",
-        "urlToImage": "https://hbr.org/resources/images/article_assets/2025/02/wide-cold-call-25.png",
-        "publishedAt": "2026-02-03T13:10:00Z",
-        "content": "BRIAN KENNY: Welcome to Cold Call, the podcast where we dive deep into the stories behind groundbreaking Harvard Business School case studies.\r\nIf you followed the rules for building a successful pod\u2026 [+44897 chars]"
     }
 ]

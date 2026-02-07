@@ -1,94 +1,68 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Elias Schisgall",
-        "title": "Texas Instruments to Acquire Silicon Labs in Deal Valued at $7.5 Billion",
-        "description": "Texas Instruments agreed to acquire Silicon Labs in a deal with an enterprise value of about $7.5 billion, including cash and debt.",
-        "url": "https://www.wsj.com/tech/texas-instruments-to-acquire-silicon-labs-in-deal-valued-at-7-5-billion-48047a5c",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YmFrga8R8gJdv2YAi0O0MQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/92688926442771edf21ab3ae8aaab4be",
-        "publishedAt": "2026-02-04T12:29:00Z",
-        "content": "The semiconductor company said that it would buy Silicon Labs, a wireless technology company, for $231 a share in cash. - dado ruvic/Reuters\r\nTexas Instruments said Wednesday it has agreed to acquire\u2026 [+1228 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Nick Lichtenberg",
-        "title": "Scott Galloway predicts OpenAI could pull its IPO amid AI \u2018vibe shift\u2019 as investors \u2018gag\u2019 on Trump proximity, questionable revenue",
-        "description": "\"Sustainable advantage is really, really thin,\" the NYU professor argued about the potential $830 billion IPO.",
-        "url": "https://fortune.com/2026/02/04/scott-galloway-predicts-openai-could-pull-its-ipo-amid-ai-vibe-shift-as-investors-gag-on-trump-proximity-questionable-revenue/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2236730082-e1770238387432.jpg?resize=1200,600",
-        "publishedAt": "2026-02-04T21:09:05Z",
-        "content": "Despite industry forecasts for a blockbuster resurgence in initial public offerings in the coming year, NYU Stern marketing professor and tech analyst Scott Galloway has issued a contrarian warning a\u2026 [+3534 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "John Kell",
-        "title": "Why United Rentals\u2019 CTO tried to break his own AI agent before giving it to thousands of employees",
-        "description": "Tony Leopold stress tested his new AI agent before making it available to frontline employees across more than 1,500 branches that rent equipment.",
-        "url": "https://fortune.com/2026/02/04/why-united-rentals-cto-tried-to-break-his-own-ai-agent-before-giving-it-to-thousands-of-employees/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2018/05/f500-2018-united-rentals.jpg?resize=1200,600",
-        "publishedAt": "2026-02-04T18:09:29Z",
-        "content": "When Tony Leopold, the chief technology and strategy officer at United Rentals, held a hackathon to test out a new artificial intelligence agent, he said he wanted to clear one final hurdle before de\u2026 [+13644 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jeremy Kahn, Jim Edwards",
-        "title": "Short-seller claims IonQ, the biggest quantum computing company on the stock market, failed to disclose holes in its revenue",
-        "description": "Short-seller Wolfpack Research says IonQ misled investors about cancelled government earmarks; it also points to suspicious insider stock sales.",
-        "url": "https://fortune.com/2026/02/04/ionq-wolfpack-research-short-seller-says-quantum-computing-company-misled-investors-about-cancelled-government-backdoor-earmarks/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2201668226-e1770234419289.jpg?resize=1200,600",
-        "publishedAt": "2026-02-04T21:24:06Z",
-        "content": "IonQ, one of the best known publicly traded quantum computing companies, is facing a raft of questions about the quality of its revenues and insider stock sales following a research report published \u2026 [+12622 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kai Nicol-Schwarz",
-        "title": "Nvidia-backed AI voice startup ElevenLabs hits $11 billion valuation in fresh fundraise, as it eyes IPO",
-        "description": "Global funding for AI startups hit record levels in 2025, with European ones raising a record $21.6 billion, per Dealroom.",
-        "url": "https://www.cnbc.com/2026/02/04/nvidia-backed-ai-startup-elevenlabs-11-billion-valuation.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166937-1751460466152-gettyimages-2210000239-TFSPI_16042025-6546.jpeg?v=1770218820&w=1920&h=1080",
-        "publishedAt": "2026-02-04T16:06:03Z",
-        "content": "AI startup ElevenLabs announced on Wednesday it had raised $500 million at an $11 billion valuation, as it eyes a potential IPO.\r\nSequoia Capital led the round, with participation from existing backe\u2026 [+2258 chars]"
-    },
-    {
-        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "cmlee@insider.com (Lee Chong Ming)",
-        "title": "Jensen Huang says Nvidia would love to back an OpenAI IPO, and there's 'no drama' with Sam Altman",
-        "description": "Jensen Huang said Nvidia would love to back a future OpenAI IPO and dismissed talk of tension with Sam Altman.",
-        "url": "https://www.businessinsider.com/jensen-huang-nvidia-back-future-openai-ipo-sam-altman-drama-2026-2",
-        "urlToImage": "https://i.insider.com/6982e47ca645d1188188a481?width=1200&format=jpeg",
-        "publishedAt": "2026-02-04T07:14:20Z",
-        "content": "Jensen Huang says Nvidia would love to invest in a future OpenAI IPO.\r\nHuang said in an interview on CNBC's \"Mad Money\" on Tuesday that there was \"no drama\" between Nvidia and OpenAI CEO Sam Altman, \u2026 [+2097 chars]"
+        "author": "pkafka@insider.com (Peter Kafka)",
+        "title": "Jeff Bezos used to be in love with The Washington Post. What happened?",
+        "description": "After Jeff Bezos bought the Washington Post in 2013, the billionaire was considered a model owner. Not anymore. I asked an insider what happened.",
+        "url": "https://www.businessinsider.com/jeff-bezos-washington-post-erik-wemple-interview-peter-kafka-podcast-2026-2",
+        "urlToImage": "https://i.insider.com/6984e944a645d1188188c6b6?width=1200&format=jpeg",
+        "publishedAt": "2026-02-05T20:22:42Z",
+        "content": "Lots of people are angry at Jeff Bezos because of the massive cuts he's ordered at his Washington Post. But a decade ago, Bezos was widely celebrated for his ownership of the Post, which he had bough\u2026 [+7925 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Jennifer Elias",
-        "title": "Alphabet to report earnings: AI, ad momentum key to the fourth quarter",
-        "description": "Wall Street will be looking for more details Google's deal to revamp Apple's Siri virtual assistant with the search company's Gemini AI models.",
-        "url": "https://www.cnbc.com/2026/02/04/alphabet-googl-q4-2025-earnings.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095059-17382611632024-02-15t141049z_245790524_rc2x26ao4cju_rtrmadp_0_google-france.jpeg?v=1738719000&w=1920&h=1080",
-        "publishedAt": "2026-02-04T17:00:01Z",
-        "content": "Alphabet is set to report its fourth-quarter earnings Wednesday after the bell.\r\nHere's what analysts polled by LSEG are expecting:\r\n<ul><li>Earnings per share: $2.63</li><li>Revenue: $111.43 billion\u2026 [+3410 chars]"
+        "author": "Jake Angelo",
+        "title": "Tech giants are shelling out up to $400k for AI evangelists to defend against surging American skepticism",
+        "description": "Some firms are willing to pay high salaries for communications directors as Americans grow wary of AI.",
+        "url": "https://fortune.com/2026/02/05/battle-for-talent-ai-anthropic-commercial-openai-adobe-comms-director-ai-fears/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2256664479_2ad824-e1769534748678.jpg?resize=1200,600",
+        "publishedAt": "2026-02-05T18:47:41Z",
+        "content": "AI has a PR problem.\u00a0As companies bet big on AIs developmentfrom Googlesaying it will double its capital expenditure to Metas bet on an AI acceleration in 2026Americans have soured on the technology.\u2026 [+4429 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Beatrice Nolan",
+        "title": "ChatGPT\u2019s market share is slipping as Google and rivals close the gap, app tracker data shows",
+        "description": "ChatGPT's app market share has plummeted from 69% to 45% in a year as Google's Gemini gains ground\u2014potentially complicating OpenAI's widely anticipated IPO.",
+        "url": "https://fortune.com/2026/02/05/chatgpt-openai-market-share-app-slip-google-rivals-close-the-gap/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2225624183-e1770297356782.jpg?resize=1200,600",
+        "publishedAt": "2026-02-05T15:54:19Z",
+        "content": "OpenAIs ChatGPT early lead among individual users appears to be shortening as rivals like Googles Gemini close in on its app and web market sharea shift that could complicate the companys reported pl\u2026 [+3879 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Diane Brady",
+        "title": "Less than 10% of employees believe their bosses are demonstrating moral leadership",
+        "description": "Also: All the news and watercooler chat from Fortune.",
+        "url": "https://fortune.com/2026/02/05/less-than-10-of-employees-believe-their-bosses-are-demonstrating-moral-leadership/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2017/09/way09-15_a.jpg?resize=1200,600",
+        "publishedAt": "2026-02-05T08:56:17Z",
+        "content": "Good morning.Good morning. As someone who has covered CEOs for decades, I think a lot about what makes a good leader, especially in this environment. It comes down to behaviors and practices, not int\u2026 [+4402 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "Uber has appointed a new CFO\u2014its third in three years",
+        "description": "The company's latest finance shake-up comes as it doubles down on robotaxis and faces fresh questions about its long-term AV strategy.",
+        "url": "https://fortune.com/2026/02/05/uber-appointed-new-cfo-third-in-three-years/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2156607992.jpg?resize=1200,600",
+        "publishedAt": "2026-02-05T13:04:08Z",
+        "content": "The global rideshare giant announced on Wednesday that CFO Prashanth Mahendra-Rajah, who joined the company in November 2023, will step down on Feb. 16. He will be succeeded by Balaji Krishnamurthy, \u2026 [+7014 chars]"
     },
     {
         "source": {
@@ -105,28 +79,41 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Yeo Boon Ping",
-        "title": "CNBC Daily Open: UBS posts strong earnings while Novo Nordisk's U.S. shares crater on slowing growth",
-        "description": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer on Tuesday that there's \"no drama involved\" between the company and OpenAI. \"Everything's on track,\" he added.",
-        "url": "https://www.cnbc.com/2026/02/04/cnbc-daily-open-ubs-posts-strong-earnings-while-novo-nordisks-us-shares-crater-on-slowing-growth.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254446-1768932031002-b3MHLV3w.jpg?v=1768941958&w=1920&h=1080",
-        "publishedAt": "2026-02-04T07:48:22Z",
-        "content": "UBSfourth-quarter profit rose 56% year on year to $1.2 billion, beating expectations. The Swiss bank on Wednesday also announced plans for a $3 billion share buyback in 2026 but said it aims to excee\u2026 [+3034 chars]"
+        "author": "rshahidi@insider.com (Roya Shahidi)",
+        "title": "Elon Musk says money can't buy happiness. Research shows he's both right and wrong.",
+        "description": "Elon Musk, the world's richest person, questions if money buys happiness. Studies suggest income boosts happiness, but with diminishing returns.",
+        "url": "https://www.businessinsider.com/elon-musk-money-cant-buy-happiness-wealth-studies-2026-2",
+        "urlToImage": "https://i.insider.com/6984770ba645d1188188bb08?width=1200&format=jpeg",
+        "publishedAt": "2026-02-05T13:25:25Z",
+        "content": "Elon Musk wants you to know that the money hasn't made him happy.\r\n\"Whoever said 'money can't buy happiness' really knew what they were talking about,\"Elon Musk wrote in a post on X on Thursday with \u2026 [+2081 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "aaltchek@insider.com (Ana Altchek)",
+        "title": "5 ways to help AI-proof your job",
+        "description": "Whether or not AI is already changing your job description, here are five actionable steps you can take to future-proof your career.",
+        "url": "https://www.businessinsider.com/ways-to-help-ai-proof-your-job-2026-2",
+        "urlToImage": "https://i.insider.com/6983c8a8a645d1188188b6ae?width=1200&format=jpeg",
+        "publishedAt": "2026-02-05T10:22:01Z",
+        "content": "Anthropic's latest AI release sent investors fleeing from legal-software stocks and it's just the latest reminder of a potentialwhite-collar bloodbath.\r\nMichael Housman, the founder and lead strategi\u2026 [+4774 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Yeo Boon Ping",
-        "title": "CNBC Daily Open: Nvidia denies rift with OpenAI, while software and asset management stocks plunge",
-        "description": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer on Tuesday that there's \"no drama involved\" between the company and OpenAI. \"Everything's on track,\" he added.",
-        "url": "https://www.cnbc.com/2026/02/04/cnbc-daily-open-nvidia-denies-rift-with-openai-while-software-and-asset-management-stocks-plunge.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248936-1767726495532-gettyimages-2254355544-CES_2026.jpeg?v=1767726543&w=1920&h=1080",
-        "publishedAt": "2026-02-04T01:21:46Z",
-        "content": "Advanced Micro Devices reported fourth-quarter earnings on Tuesday after the bell. The chipmaker beat Wall Street's revenue and profit estimates, but shares plunged more than 8% in extended trading b\u2026 [+3225 chars]"
+        "author": "Priyanka Salve",
+        "title": "CNBC's Inside India newsletter: The facts \u2014 and frictions \u2014 of the U.S.-India trade deal",
+        "description": "The India-U.S. trade deal is a significant breakthrough, but is laced with terms that can cause friction between the two nations.",
+        "url": "https://www.cnbc.com/2026/02/05/cnbcs-inside-india-newsletter-the-facts-and-frictions-of-the-us-india-trade-deal.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215132-1761112569430-gettyimages-2199453516-ah801760_exlljxqv.jpeg?v=1770064691&w=1920&h=1080",
+        "publishedAt": "2026-02-05T09:15:37Z",
+        "content": "This report is from this week's CNBC's \"Inside India\" newsletter which brings you timely, insightful news and market commentary on the emerging powerhouse. Subscribe\u00a0here.\r\nThe big story\r\n\"It's easie\u2026 [+10753 chars]"
     }
 ]

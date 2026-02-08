@@ -1,55 +1,55 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "pkafka@insider.com (Peter Kafka)",
-        "title": "Jeff Bezos used to be in love with The Washington Post. What happened?",
-        "description": "After Jeff Bezos bought the Washington Post in 2013, the billionaire was considered a model owner. Not anymore. I asked an insider what happened.",
-        "url": "https://www.businessinsider.com/jeff-bezos-washington-post-erik-wemple-interview-peter-kafka-podcast-2026-2",
-        "urlToImage": "https://i.insider.com/6984e944a645d1188188c6b6?width=1200&format=jpeg",
-        "publishedAt": "2026-02-05T20:22:42Z",
-        "content": "Lots of people are angry at Jeff Bezos because of the massive cuts he's ordered at his Washington Post. But a decade ago, Bezos was widely celebrated for his ownership of the Post, which he had bough\u2026 [+7925 chars]"
+        "author": "Preston Fore",
+        "title": "Even with $850 billion to his name, Elon Musk admits \u2018money can\u2019t buy happiness.\u2019 But billionaire Mark Cuban says it\u2019s not so simple",
+        "description": "Elon Musk may be the richest person on the planet\u2014and on track to become a trillionaire\u2014but a viral social post indicates his wealth is not bringing him happiness.",
+        "url": "https://fortune.com/2026/02/06/billionaire-elon-musk-believes-money-cant-buy-happiness-viral-x-post-mark-cuban-bill-ackman-respond-philanthropy/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2217852298-e1770392569871.jpg?resize=1200,600",
+        "publishedAt": "2026-02-06T16:33:43Z",
+        "content": "Elon Musks net worth surged to $852 billion this weeka record high set into motion by the merger of two of his companies, SpaceX and xAI, ahead of a highly anticipated IPO later this year. But even w\u2026 [+4824 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Samantha Subin",
+        "title": "Voyager Technologies CEO says space data center cooling problem still needs to be solved",
+        "description": "Voyager CEO Dylan Taylor said a two-year timeframe for data centers in space would be  \"aggressive.\"",
+        "url": "https://www.cnbc.com/2026/02/06/voyager-technologies-cooling-space-data-centers.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108157961-1749659621481-Voyager-OB-Photo-20250611-CC-PRESS-33.jpg?v=1749659959&w=1920&h=1080",
+        "publishedAt": "2026-02-06T13:20:31Z",
+        "content": "Voyager Technologies' CEO Dylan Taylor said two years would be an \"aggressive\" timeframe for space data centers and cooling remains a problem for the developing technology.\r\nWhile SpaceX has the heav\u2026 [+1936 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jake Angelo",
-        "title": "Tech giants are shelling out up to $400k for AI evangelists to defend against surging American skepticism",
-        "description": "Some firms are willing to pay high salaries for communications directors as Americans grow wary of AI.",
-        "url": "https://fortune.com/2026/02/05/battle-for-talent-ai-anthropic-commercial-openai-adobe-comms-director-ai-fears/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2256664479_2ad824-e1769534748678.jpg?resize=1200,600",
-        "publishedAt": "2026-02-05T18:47:41Z",
-        "content": "AI has a PR problem.\u00a0As companies bet big on AIs developmentfrom Googlesaying it will double its capital expenditure to Metas bet on an AI acceleration in 2026Americans have soured on the technology.\u2026 [+4429 chars]"
+        "author": "Allie Garfinkle",
+        "title": "Moltbook is the talk of Silicon Valley. But the furor is eerily reminiscent of a 2017 Facebook research experiment",
+        "description": "As Fortune\u2019s Jeremy Kahn points out, we\u2019ve seen this film before.",
+        "url": "https://fortune.com/2026/02/06/moltbook-talk-of-silicon-valley-furor-eerily-reminiscent-2017-facebook-research-experiment/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2259341239-e1770143719951.jpg?resize=1200,600",
+        "publishedAt": "2026-02-06T12:08:22Z",
+        "content": "The xAI-SpaceX merger is still fresh, AI fears have been slamming software stocks, and Moltbooka social network for personal AI agentsblew up the Internet.\u00a0\r\nThe online furor over Moltbook was cascad\u2026 [+7427 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Beatrice Nolan",
-        "title": "ChatGPT\u2019s market share is slipping as Google and rivals close the gap, app tracker data shows",
-        "description": "ChatGPT's app market share has plummeted from 69% to 45% in a year as Google's Gemini gains ground\u2014potentially complicating OpenAI's widely anticipated IPO.",
-        "url": "https://fortune.com/2026/02/05/chatgpt-openai-market-share-app-slip-google-rivals-close-the-gap/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2225624183-e1770297356782.jpg?resize=1200,600",
-        "publishedAt": "2026-02-05T15:54:19Z",
-        "content": "OpenAIs ChatGPT early lead among individual users appears to be shortening as rivals like Googles Gemini close in on its app and web market sharea shift that could complicate the companys reported pl\u2026 [+3879 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Diane Brady",
-        "title": "Less than 10% of employees believe their bosses are demonstrating moral leadership",
-        "description": "Also: All the news and watercooler chat from Fortune.",
-        "url": "https://fortune.com/2026/02/05/less-than-10-of-employees-believe-their-bosses-are-demonstrating-moral-leadership/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2017/09/way09-15_a.jpg?resize=1200,600",
-        "publishedAt": "2026-02-05T08:56:17Z",
-        "content": "Good morning.Good morning. As someone who has covered CEOs for decades, I think a lot about what makes a good leader, especially in this environment. It comes down to behaviors and practices, not int\u2026 [+4402 chars]"
+        "author": "Jason Ma",
+        "title": "Musk predicts more AI capacity will be in orbit than on earth in 5 years, with SpaceX becoming a \u2018hyper-hyper\u2019 scaler",
+        "description": "Musk said getting all that AI and solar capacity in space will require about 10,000 launches a year\u2014or a launch in less than an hour every day.",
+        "url": "https://fortune.com/2026/02/06/elon-musk-space-based-ai-data-centers-spacex-hyperscaler-starship/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2184685180-e1770390588141.jpg?resize=1200,600",
+        "publishedAt": "2026-02-06T18:15:57Z",
+        "content": "By the beginning of the next decade, AI will primarily become a space-based venture as the cost becomes much more advantageous to operate in orbit, according to SpaceX CEO Elon Musk.In a lengthy, wid\u2026 [+4237 chars]"
     },
     {
         "source": {
@@ -57,63 +57,63 @@
             "name": "Fortune"
         },
         "author": "Sheryl Estrada",
-        "title": "Uber has appointed a new CFO\u2014its third in three years",
-        "description": "The company's latest finance shake-up comes as it doubles down on robotaxis and faces fresh questions about its long-term AV strategy.",
-        "url": "https://fortune.com/2026/02/05/uber-appointed-new-cfo-third-in-three-years/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2156607992.jpg?resize=1200,600",
-        "publishedAt": "2026-02-05T13:04:08Z",
-        "content": "The global rideshare giant announced on Wednesday that CFO Prashanth Mahendra-Rajah, who joined the company in November 2023, will step down on Feb. 16. He will be succeeded by Balaji Krishnamurthy, \u2026 [+7014 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jordan Novet",
-        "title": "Software experiencing 'most exciting moment' as AI fears hammer the stocks",
-        "description": "Shares of software companies have been getting beaten up, and the selloff accelerated this week after Anthropic's latest unveiling.",
-        "url": "https://www.cnbc.com/2026/02/04/software-experiencing-most-exciting-moment-as-ai-fears-hammer-stocks.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228600-1763581285846-gettyimages-2246896522-US_SAUDI.jpeg?v=1770251995&w=1920&h=1080",
-        "publishedAt": "2026-02-05T00:41:21Z",
-        "content": "Salesforce CEO Marc Benioff appears at the US-Saudi Investment Forum at the Kennedy Center in Washington on Nov. 19, 2025. \r\nBox CEO Aaron Levie says that in the 20-year history of his cloud software\u2026 [+5690 chars]"
+        "title": "How e.l.f. Beauty has used Super Bowl ads to rocket from 10% brand awareness to 40%",
+        "description": "CFO Mandy Fields discusses the strategy finance and marketing use to help the brand reach new shoppers.",
+        "url": "https://fortune.com/2026/02/06/e-l-f-beauty-super-bowl-ads-rocket-10-percent-brand-awareness-40-percent-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Mandy-Fields-1.jpg?resize=1200,600",
+        "publishedAt": "2026-02-06T12:59:12Z",
+        "content": "Good morning. E.l.f. Beauty CFO Mandy Fields wants to play on the biggest stage there is.The rising beauty powerhouse, a Gen Z favorite, ran its first Super Bowl Sunday ad in 2023. From a finance per\u2026 [+8512 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "rshahidi@insider.com (Roya Shahidi)",
-        "title": "Elon Musk says money can't buy happiness. Research shows he's both right and wrong.",
-        "description": "Elon Musk, the world's richest person, questions if money buys happiness. Studies suggest income boosts happiness, but with diminishing returns.",
-        "url": "https://www.businessinsider.com/elon-musk-money-cant-buy-happiness-wealth-studies-2026-2",
-        "urlToImage": "https://i.insider.com/6984770ba645d1188188bb08?width=1200&format=jpeg",
-        "publishedAt": "2026-02-05T13:25:25Z",
-        "content": "Elon Musk wants you to know that the money hasn't made him happy.\r\n\"Whoever said 'money can't buy happiness' really knew what they were talking about,\"Elon Musk wrote in a post on X on Thursday with \u2026 [+2081 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "aaltchek@insider.com (Ana Altchek)",
-        "title": "5 ways to help AI-proof your job",
-        "description": "Whether or not AI is already changing your job description, here are five actionable steps you can take to future-proof your career.",
-        "url": "https://www.businessinsider.com/ways-to-help-ai-proof-your-job-2026-2",
-        "urlToImage": "https://i.insider.com/6983c8a8a645d1188188b6ae?width=1200&format=jpeg",
-        "publishedAt": "2026-02-05T10:22:01Z",
-        "content": "Anthropic's latest AI release sent investors fleeing from legal-software stocks and it's just the latest reminder of a potentialwhite-collar bloodbath.\r\nMichael Housman, the founder and lead strategi\u2026 [+4774 chars]"
+        "author": "bshimkus@insider.com (Ben Shimkus)",
+        "title": "The EV retreat just saw its biggest charge yet \u2014 a $26 billion write-down from Jeep-maker Stellantis",
+        "description": "Stellantis' eleven-figure write-down is the largest in a wave of EV charges on global automakers. For consumers, that means fewer vehicle options.",
+        "url": "https://www.businessinsider.com/stellantis-stock-jeep-ram-chrysler-ev-retreat-26-billion-charge-2026-2",
+        "urlToImage": "https://i.insider.com/6985f881d3c7faef0ecdc265?width=1200&format=jpeg",
+        "publishedAt": "2026-02-06T16:03:15Z",
+        "content": "Another Detroit automaker is paying a steep price as it pulls back from electric vehicles.\r\nStellantis the global auto giant behind brands like Jeep, Dodge, Ram, and Chrysler said Friday that it woul\u2026 [+3186 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Priyanka Salve",
-        "title": "CNBC's Inside India newsletter: The facts \u2014 and frictions \u2014 of the U.S.-India trade deal",
-        "description": "The India-U.S. trade deal is a significant breakthrough, but is laced with terms that can cause friction between the two nations.",
-        "url": "https://www.cnbc.com/2026/02/05/cnbcs-inside-india-newsletter-the-facts-and-frictions-of-the-us-india-trade-deal.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215132-1761112569430-gettyimages-2199453516-ah801760_exlljxqv.jpeg?v=1770064691&w=1920&h=1080",
-        "publishedAt": "2026-02-05T09:15:37Z",
-        "content": "This report is from this week's CNBC's \"Inside India\" newsletter which brings you timely, insightful news and market commentary on the emerging powerhouse. Subscribe\u00a0here.\r\nThe big story\r\n\"It's easie\u2026 [+10753 chars]"
+        "author": "Michael Wayland",
+        "title": "Stellantis CEO says automaker is stronger together amid $26 billion restructuring",
+        "description": "The automaker announced $26 billion in charges from a business restructuring that includes pulling back on electrification plans and reintroducing V8 engines.",
+        "url": "https://www.cnbc.com/2026/02/06/stellantis-stla-ceo-antonio-filosa.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108236700-17648675632025-12-04t160441z_1876970717_rc2o3iaf0cbg_rtrmadp_0_autos-stellantis-filosa.jpeg?v=1768424783&w=1920&h=1080",
+        "publishedAt": "2026-02-06T13:32:46Z",
+        "content": "Stellantis CEO Antonio Filosa speaks during an event in Turin, Italy, Nov. 25, 2025.\r\nDETROIT Stellantis CEO Antonio Filosa on Friday said the automaker plans to move forward as one company amid spec\u2026 [+4779 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Alex Harring",
+        "title": "Bitcoin's rough week, Amazon's plunge, Super Bowl ads and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/02/06/5-things-to-know-before-the-stock-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108259472-1769776783103-gettyimages-2258454612-20090101260130-99-336595.jpeg?v=1770344940&w=1920&h=1080",
+        "publishedAt": "2026-02-06T13:38:13Z",
+        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Friday. U.S.-listed shares of Stellantis are down more than 25% this morning after the automa\u2026 [+5097 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "How America\u2019s EV retreat is increasing China's control of global markets",
+        "description": "U.S. automakers are pivoting away from EVs to refocus on gas-guzzling trucks and SUVs while Chinese manufacturers are expected to keep growing electric exports.",
+        "url": "https://www.cnbc.com/2026/02/06/automakers-ev-china-ford-gm.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108153444-1748889792514-gettyimages-2217703955-cfoto-chinaaut250602_np3Tv.jpeg?v=1748889878&w=1920&h=1080",
+        "publishedAt": "2026-02-06T14:19:34Z",
+        "content": "A large number of new energy vehicles for export park at a car terminal on the Hangzhou section of the Beijing-Hangzhou Grand Canal in Hangzhou, Zhejiang Province, China, on June 2, 2025. \r\nDETROIT T\u2026 [+11965 chars]"
     }
 ]

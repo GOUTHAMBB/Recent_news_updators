@@ -1,159 +1,42 @@
 [
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Ana-Maria Stanciuc",
-        "title": "TechEx Global returns to London with enterprise technology and AI execution",
-        "description": "London, TechEx Global 2026, one of Europe\u2019s biggest enterprise technology conferences, brought thousands of technology professionals together at Olympia London on 4 and 5 February. The event went beyond buzzwords, focusing on how emerging technologies, especi\u2026",
-        "url": "https://thenextweb.com/news/techex-global-returns-to-london-with-enterprise-technology-and-ai-execution",
-        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FTechEx-London.png&signature=1067cbab6ef0385b23085d9f0d53a954",
-        "publishedAt": "2026-02-06T08:56:15Z",
-        "content": "London, TechEx Global 2026, one of Europes biggest enterprise technology conferences, brought thousands of technology professionals together at Olympia London on 4 and 5 February. The event went beyo\u2026 [+2765 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "James Pero",
-        "title": "New Voice Assistants Are Officially a Whiff (for Now)",
-        "description": "Even with the full rollout of Amazon's Alexa+ and Google's Gemini for Home, it feels like we're still shouting into the void.",
-        "url": "https://gizmodo.com/new-voice-assistants-are-officially-a-whiff-for-now-2000719058",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Amazon-Fire-Echo-Ring-Scribe-Device-Launch-16-1200x675.jpg",
-        "publishedAt": "2026-02-06T22:00:39Z",
-        "content": "After about a decade in the making, new voice assistants from Amazon and Google are finally here, and while a lot has changed in the time since they were first released, the new boss, so to speak, fe\u2026 [+3818 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "AJ Dellinger",
-        "title": "Waymo Catches World Model Fever, and the Only Prescription Is More World Models",
-        "description": "What happens if a Waymo runs into an elephant? The world model knows.",
-        "url": "https://gizmodo.com/waymo-catches-world-model-fever-and-the-only-prescription-is-more-world-models-2000719093",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/WaymoWorldModel-copy-1200x675.jpg",
-        "publishedAt": "2026-02-06T22:15:31Z",
-        "content": "Waymo vehicles have reportedly racked up more than 200 million miles of autonomous driving on public roads. But it\u2019s yet to run into a tornado or an elephant, and odds are that it\u2019d respond poorly if\u2026 [+3338 chars]"
+        "author": "Mila Fiordalisi",
+        "title": "The Technologies Changing How You\u2019ll Watch the 2026 Winter Olympic Games",
+        "description": "From drones with \u201cfirst-person\u201d visualization to real-time 360-degree replays and Olympics GPT, get ready to immerse yourself in the Winter Games in Milan and Cortina.",
+        "url": "https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/",
+        "urlToImage": "https://media.wired.com/photos/698655d97cbb83907b42da12/191:100/w_1280,c_limit/Technologies-Changing-How-Youll-Watch-Winter-Olympic-Games-Gear-2259908698.jpg",
+        "publishedAt": "2026-02-07T12:00:00Z",
+        "content": "During the 2024 Summer Olympics in Paris, 5G and 4K were the leading technologies available to many viewers. There was some AI, but it was mostly used for athletes benefit. For the 2026 Milano Cortin\u2026 [+3413 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Brandon Vigliarolo",
-        "title": "Let there be light! DARPA seeking physics-defying photonic computers to supercharge AI",
-        "description": "There\u2019s about $35M up for grabs if your circuits can beat today\u2019s limits\nIt's no lightweight matter. DARPA is putting about $35 million in total funding on the table in the hope that it will spur researchers to work around fundamental physical constraints and\u2026",
-        "url": "https://www.theregister.com/2026/02/06/darpa_seeking_physicsdefying_photonic_computers/",
-        "urlToImage": "https://regmedia.co.uk/2016/08/16/shutterstock_beam_of_light.jpg",
-        "publishedAt": "2026-02-06T18:34:03Z",
-        "content": "It's no lightweight matter. DARPA is putting about $35 million in total funding on the table in the hope that it will spur researchers to work around fundamental physical constraints and build much l\u2026 [+4259 chars]"
+        "author": "O'Ryan Johnson",
+        "title": "Whether they are building agents or folding proteins, LLMs need a friend",
+        "description": "AI pioneer Vishal Sikka warns to never trust an LLM that runs alone\ninterview Don't trust; verify. According to AI researcher Vishal Sikka, LLMs alone are limited by computational boundaries and will start to hallucinate when they push those boundaries. One s\u2026",
+        "url": "https://www.theregister.com/2026/02/07/ai_companion_bots_vishal_sikka_interview/",
+        "urlToImage": "https://regmedia.co.uk/2026/02/06/vishal_sikka.jpg",
+        "publishedAt": "2026-02-07T15:00:14Z",
+        "content": "interview Don't trust; verify. According to AI researcher Vishal Sikka, LLMs alone are limited by computational boundaries and will start to hallucinate when they push those boundaries. One solution?\u2026 [+6041 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Duncan Riley",
-        "title": "Portal26 targets weak enterprise AI returns with new Value Realization platform",
-        "description": "Generative artificial intelligence security startup Portal26 Inc. today announced a new AI Value Realization solution aimed at helping enterprises close the widening gap between heavy generative AI investment and weak returns. The AI Value Realization module \u2026",
-        "url": "https://siliconangle.com/2026/02/06/portal26-targets-weak-enterprise-ai-returns-new-value-realization-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/portal26.png",
-        "publishedAt": "2026-02-06T14:00:31Z",
-        "content": "Generative artificial intelligence security startup Portal26 Inc. today announced a new AI Value Realization solution aimed at helping enterprises close the widening gap between heavy generative AI i\u2026 [+3612 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Goodfire raises $150M in funding to enhance its AI interpretability platform",
-        "description": "Goodfire Inc., a startup working to uncover how artificial intelligence models make decisions, has raised $150 million in funding. B Capital led the Series B round. Goodfire stated in its funding announcement today that the deal also drew contributions from S\u2026",
-        "url": "https://siliconangle.com/2026/02/05/goodfire-raises-150m-funding-enhance-ai-interpretability-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/unsplash2.png",
-        "publishedAt": "2026-02-06T01:15:00Z",
-        "content": "Goodfire Inc., a startup working to uncover how artificial intelligence models make decisions, has raised $150 million in funding.\r\nB Capital led the Series B round. Goodfire stated in its funding an\u2026 [+3837 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "Agents in the enterprise: Salesforce and DeepL see productivity move the needle as use cases grow for AI",
-        "description": "If 2025 was the year of experimentation and pilots with agentic artificial intelligence, then 2026 is shaping up to be the year when agents find a permanent home in enterprise operations. Use cases are scaling up rapidly, based on data delivered during briefi\u2026",
-        "url": "https://siliconangle.com/2026/02/06/agents-enterprise-salesforce-deepl-see-productivity-move-needle-use-cases-grow-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-Big-Data-Expo.jpg",
-        "publishedAt": "2026-02-06T16:20:23Z",
-        "content": "If 2025 was the year of experimentation and pilots with agentic artificial intelligence, then 2026 is shaping up to be the year when agents find a permanent home in enterprise operations.\r\nUse cases \u2026 [+8031 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Augment Code makes its semantic coding capability available for any AI agent",
-        "description": "Augment Computing Inc., the maker of an agentic artificial intelligence coding tool for developers, today announced the launch of Model Context Protocol support for its service, which will enable AI coding agents and platforms to use its tools. Under the hood\u2026",
-        "url": "https://siliconangle.com/2026/02/06/augment-code-makes-semantic-coding-capability-available-ai-agent/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/07/A-woman-developer-with-headphones-sitting-at-a-desk-with-computer-screens-as-a-ghostly-AI-agent-made.jpeg",
-        "publishedAt": "2026-02-06T18:00:15Z",
-        "content": "Augment Computing Inc., the maker of an agentic artificial intelligence coding tool for developers, today announced the launch of Model Context Protocol support for its service, which will enable AI \u2026 [+3818 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Paul Gillin",
-        "title": "Exclusive: Startup Lyzr.ai launches app builder aimed at moving agents to production in volume",
-        "description": "Lyzr Inc., a startup that builds tools for deploying artificial intelligence agents in enterprises, will launch a new agentic application builder next week that it says lets nontechnical users create multi-agent systems to automate complex business processes.\u2026",
-        "url": "https://siliconangle.com/2026/02/06/exclusive-startup-lyzr-ai-launches-app-builder-aimed-moving-agents-production-volume/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/intelagents.png",
-        "publishedAt": "2026-02-06T19:10:40Z",
-        "content": "Lyzr Inc., a startup that builds tools for deploying artificial intelligence agents in enterprises, will launch a new agentic application builder next week that it says lets nontechnical users create\u2026 [+5355 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Paul Gillin",
-        "title": "AI agents could crush enterprise infrastructure, says Cockroach Labs CEO",
-        "description": "As artificial intelligence agents shift from experimental projects to production systems, enterprise technology leaders are worried that today\u2019s infrastructure can\u2019t handle the coming scalability demands. They have good reason, according to Spencer Kimball, c\u2026",
-        "url": "https://siliconangle.com/2026/02/06/ai-agents-crush-enterprise-infrastructure-says-cockroach-labs-ceo/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/11/illustration-of-a-crowd-of-ai-agents.jpeg",
-        "publishedAt": "2026-02-06T15:30:25Z",
-        "content": "As artificial intelligence agents shift from experimental projects to production systems, enterprise technology leaders are worried that todays infrastructure cant handle the coming scalability deman\u2026 [+6116 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Sapiom reels in $15.75M to equip AI agents with payment features",
-        "description": "Artificial intelligence tooling startup Sapiom Inc. has raised $15.75 million in seed funding from a consortium led by Accel. The investment, which was announced on Thursday, also included the participation of Alphabet Inc.\u2019s Gradient fund, Anthropic PBC, Coi\u2026",
-        "url": "https://siliconangle.com/2026/02/06/sapiom-reels-15-75m-equip-ai-agents-payment-features/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Photo.png",
-        "publishedAt": "2026-02-06T21:49:12Z",
-        "content": "Artificial intelligence tooling startup Sapiom Inc. has raised $15.75 million in seed funding from a consortium led by Accel.\r\nThe investment, which was announced on Thursday, also included the parti\u2026 [+4594 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Salesforce to stop selling enterprise Heroku subscriptions, scale back upgrades",
-        "description": "Salesforce Inc. is shifting resources away from its Heroku platform-as-a-service offering to prioritize other parts of its business. Nitin Bhat, the chief product officer of Heroku, announced the move in a blog post published today. He wrote that Salesforce w\u2026",
-        "url": "https://siliconangle.com/2026/02/06/salesforce-stop-selling-enterprise-heroku-subscriptions-scale-back-upgrades/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/salesforce.png",
-        "publishedAt": "2026-02-06T23:42:09Z",
-        "content": "Salesforce Inc. is shifting resources away from its Heroku platform-as-a-service offering to prioritize other parts of its business.\r\nNitin Bhat, the chief product officer of Heroku, announced the mo\u2026 [+4159 chars]"
+        "author": "Bruno Ferreira",
+        "title": "Security researcher says AMD auto-updater downloads software insecurely, enabling remote code execution \u2014 company rep reportedly said man-in-the-middle attacks are \"out of scope,\" ignored bug",
+        "description": "AMD auto-update delivers software insecurely, company says MITM attacks are \"out of scope\"",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/security-researcher-says-amd-auto-updater-downloads-software-insecurely-enabling-remote-code-execution-company-rep-reportedly-said-man-in-the-middle-attacks-are-out-of-scope-ignored-bug",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/yCcRs6y64wPXUdn4aVnG74-2258-80.jpg",
+        "publishedAt": "2026-02-07T11:54:51Z",
+        "content": "The year is 2026. The future of humanity is under discussion thanks to the rise of artificial intelligence, as robots become eerily humanoid. And somehow, AMD's Windows driver auto-updater still down\u2026 [+3409 chars]"
     },
     {
         "source": {
@@ -171,118 +54,14 @@
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "ZDNet"
         },
-        "author": "Joe Supan",
-        "title": "Starlink Is Using Your Personal Data to Train AI. Here\u2019s How to Opt Out",
-        "description": "Starlink says it may also share personal data with partners to help it \"develop AI-enabled tools that improve your customer experience.\u201d",
-        "url": "https://www.cnet.com/home/internet/starlink-updates-privacy-policy-for-ai-training/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/93909450994888c30a7013fd7b35029da91016db/hub/2025/03/06/83678a72-12b5-42a2-8b23-752f83fd5026/starlink-building-logo-gettyimages-2039978753.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-06T00:21:00Z",
-        "content": "Starlink customers are the latest grist for the AI mill. The company updated its privacy policy on Jan. 15 to allow harvesting of user data for AI training. Customers are opted in by default, but it\u2019\u2026 [+3575 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Zscaler snaps up SquareX to strengthen browser security without enterprise browsers",
-        "description": "Cloud security company\u00a0Zscaler Inc.\u00a0announced today that it has acquired\u00a0browser security company\u00a0SquareX Ltd.\u00a0for an undisclosed sum. Founded in 2023, SquareX protects users from browser-based threats such as phishing and session hijacking with technology th\u2026",
-        "url": "https://siliconangle.com/2026/02/05/zscaler-snaps-squarex-strengthen-browser-security-without-enterprise-browsers/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/squarex.png",
-        "publishedAt": "2026-02-06T00:22:29Z",
-        "content": "Cloud security company\u00a0Zscaler Inc.\u00a0announced today that it has acquired\u00a0browser security company\u00a0SquareX Ltd.\u00a0for an undisclosed sum.\r\nFounded in 2023, SquareX protects users from browser-based thre\u2026 [+3488 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "From RFID to real-time AI: How a decade of AWS and NFL Next Gen Stats has rewritten the playbook",
-        "description": "In the world of professional sports, \u201cdata-driven\u201d is often a term tossed around to describe basic box scores. But for the National Football League, the last 10 years have represented a fundamental shift in how the game is measured, analyzed and even played. \u2026",
-        "url": "https://siliconangle.com/2026/02/06/rfid-real-time-ai-decade-aws-nfl-next-gen-stats-rewritten-playbook/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AWS-NFL.jpg",
-        "publishedAt": "2026-02-06T15:29:01Z",
-        "content": "In the world of professional sports, data-driven is often a term tossed around to describe basic box scores. But for the National Football League, the last 10 years have represented a fundamental shi\u2026 [+8254 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "AI torches software stocks, even as investors fret about all that AI factory spending",
-        "description": "Investors think AI is going to kill or at least maim\u00a0software-as-a-service companies, and a lot more. That seems a tad early, frankly, even if AI could slow SaaS\u2019 growth story\u00a0\u2014 which is why the likes of ServiceNow, Salesforce and even Palantir have seen thei\u2026",
-        "url": "https://siliconangle.com/2026/02/06/ai-torches-software-stocks-even-investors-fret-ai-factory-spending/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/aitorchessaas.png",
-        "publishedAt": "2026-02-06T14:00:18Z",
-        "content": "Investors think AI is going to kill or at least maim\u00a0software-as-a-service companies, and a lot more.\r\nThat seems a tad early, frankly, even if AI could slow SaaS\u2019 growth story\u00a0\u2014 which is why the lik\u2026 [+14786 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Jennifer Pattison Tuohy",
-        "title": "The Alexa app is so bad I\u2019m using Siri again",
-        "description": "I've used Alexa to manage my shopping list for years. There are plenty of great list apps out there, but the convenience of adding items by voice anywhere in my house, pulling up the list on an Echo Show in the kitchen, and having it on my phone via the Alexa\u2026",
-        "url": "https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268324_Alexa_Plus_broke_my_shopping_list_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-02-06T16:32:44Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons redesign has made the shopping list feature mostly unusable, so Ive switched to Apples Reminders.\r\nAmazons redesign has made the shopping list feature mo\u2026 [+7477 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Carly Page",
-        "title": "DWP considers chatbot work coaches as AI-fueled job losses loom",
-        "description": "Benefits system trials automation amid growing interest in universal basic income\nAI-pocalypse Britain's welfare system is experimenting with AI to manage Universal Credit claimants \u2013 even as evidence piles up that artificial intelligence may soon be pushing \u2026",
-        "url": "https://www.theregister.com/2026/02/06/dwp_chatbot_testing/",
-        "urlToImage": "https://regmedia.co.uk/2022/12/07/terminator_shutterstock.jpg",
-        "publishedAt": "2026-02-06T10:53:59Z",
-        "content": "AI-pocalypse Britain's welfare system is experimenting with AI to manage Universal Credit claimants even as evidence piles up that artificial intelligence may soon be pushing more people onto benefit\u2026 [+2847 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "Jake Roach",
-        "title": "CPU scaling with DLSS \u2014 investigating CPU performance in the age of upscaling",
-        "description": "DLSS can represent a massive improvement in your performance in games, but it can also introduce a CPU bottleneck. Here, we benchmark various CPUs in multiple games to see how CPU performance scales across resolutions and DLSS quality settings.",
-        "url": "https://www.tomshardware.com/tech-industry/cpu-scaling-with-dlss-investigating-cpu-performance-in-the-age-of-upscaling",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/yptUB5vqJYAfKPn42SahhR-1999-80.jpg",
-        "publishedAt": "2026-02-06T16:16:22Z",
-        "content": "Like it or not, upscaling is a cornerstone of a modern gaming PC. Much to the chagrin of vocal commenters, tools like DLSS and FSR are the backbone of PC gaming today. It's ubiquitous among AAA (and \u2026 [+7740 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Carly Page",
-        "title": "Romanian rail workers accused of bribery turned to ChatGPT for legal tips",
-        "description": "Corruption probe takes detour as staff facing trial reportedly asked AI if seat-blocking scams caused financial damage More than 30 Romanian railway employees accused of running a bribery and ticket resale racket allegedly tried to crowdsource their legal str\u2026",
-        "url": "https://www.theregister.com/2026/02/06/romanian_rail_workers_chatgpt/",
-        "urlToImage": "https://regmedia.co.uk/2026/02/06/railway_end_of_line.jpg",
-        "publishedAt": "2026-02-06T11:39:43Z",
-        "content": "More than 30 Romanian railway employees accused of running a bribery and ticket resale racket allegedly tried to crowdsource their legal strategy from ChatGPT.\r\nProsecutors in Bucharest have sent 33 \u2026 [+3320 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Steven Levy",
-        "title": "The Only Thing Standing Between Humanity and AI Apocalypse Is \u2026 Claude?",
-        "description": "As AI systems grow more powerful, Anthropic\u2019s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
-        "url": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
-        "urlToImage": "https://media.wired.com/photos/6983d17e27e294ea7eb1b76f/191:100/w_1280,c_limit/Backchannel-Constitution-of-Claude-Business-2191761606.jpg",
-        "publishedAt": "2026-02-06T16:33:18Z",
-        "content": "Anthropic is locked in a paradox: Among the top AI companies, its the most obsessed with safety and leads the pack in researching how models can go wrong. But even though the safety issues it has ide\u2026 [+3723 chars]"
+        "author": "Maria Diaz",
+        "title": "I broke my 5-year iPhone upgrade rule with the latest model - here's why I'm not regretting it",
+        "description": "The iPhone 17 Pro is the new hotness, but is it truly worth the upgrade? Here's how I made my decision, as a former iPhone 14 Pro user.",
+        "url": "https://www.zdnet.com/article/iphone-17-pro-vs-iphone-14-pro/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/f9eaaba96516179b41d177c921befdff8c6a167f/2024/09/18/f584c0e6-7109-4913-9ef2-eab9e3f128a9/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-08T01:30:51Z",
+        "content": "Apple/Maria Diaz/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nAs a former iPhone 14 Pro Max user, I still felt like my three-year-old iPhone gave me everything I needed when I traded\u2026 [+6000 chars]"
     }
 ]

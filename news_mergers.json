@@ -1,68 +1,29 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "atecotzky@businessinsider.com (Alice Tecotzky)",
+        "title": "Blackstone's Jon Gray says there's a silver lining in all of the bubble talk",
+        "description": "Jonathan Gray also said he sees a key difference between the dot-com bubble and AI bubble.",
+        "url": "https://www.businessinsider.com/blackstone-president-jon-gray-ai-bubble-2026-2",
+        "urlToImage": "https://i.insider.com/698611b0a645d1188188d6e6?width=1200&format=jpeg",
+        "publishedAt": "2026-02-08T12:31:01Z",
+        "content": "Sometimes, a little stress at work is a good thing especially if you're responsible for millions of other people's dollars.\r\nBlackstone's president and COO, Jon Gray, said that all of the current tal\u2026 [+2642 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Christopher Rugaber, The Associated Press",
-        "title": "Trump backs Nexstar\u2019s $6.2 billion takeover of broadcast rival Tegna, a few months after blasting merger of \u2018Radical Left Networks\u2019",
-        "description": "\u201cWe need more competition against THE ENEMY, the Fake News National TV Networks,\u201d Trump wrote on social media on Saturday.",
-        "url": "https://fortune.com/2026/02/07/trump-nexstar-takeover-broadcast-rival-tegna-fcc-merger-tv-networks/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26038616039692.jpg?resize=1200,600",
-        "publishedAt": "2026-02-07T22:13:59Z",
-        "content": "President Donald Trump on Saturday endorsed Nexstar Media Groups\u00a0$6.2 billion purchase\u00a0of broadcast rival Tegna, an apparent reversal from earlier criticism of the deal.We need more competition again\u2026 [+1767 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Laya Neelakandan",
-        "title": "In reversal, Trump backs Nexstar's proposed acquisition of Tegna",
-        "description": "President Donald Trump on Saturday expressed support for Nexstar's bid for Tegna, which would significantly expand the network's reach.",
-        "url": "https://www.cnbc.com/2026/02/07/trump-nexstar-tegna.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108233565-1764349433841-gettyimages-1234736300-PGONCHAR_W6645.jpeg?v=1764349518&w=1920&h=1080",
-        "publishedAt": "2026-02-07T18:05:11Z",
-        "content": "President Donald Trump on Saturday endorsed Nexstar Media's proposed $6.2 billion acquisition of Tegna, just months after criticizing the deal.\r\n\"We need more competition against THE ENEMY, the Fake \u2026 [+2426 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Robert Frank, Lora Kolodny",
-        "title": "Elon Musk wants to be a trillionaire \u2014 here's how SpaceX may get him there",
-        "description": "Elon Musk's net worth soared past $800 billion this week after he merged SpaceX with xAI in a deal that valued the combined entity at $1.25 trillion.",
-        "url": "https://www.cnbc.com/2026/02/07/elon-musk-wants-to-be-a-trillionaire-how-spacex-xai-tesla-can-get-him-there.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108152712-17486294672025-05-30t182024z_621376337_rc2iseabdps8_rtrmadp_0_usa-trump.jpeg?v=1748633433&w=1920&h=1080",
-        "publishedAt": "2026-02-07T13:00:02Z",
-        "content": "Elon Musk's journey to becoming the world's first trillionaire will likely be powered by rockets rather than cars, as SpaceX now accounts for nearly two-thirds of the Tesla CEO's wealth.\r\nMusk became\u2026 [+5121 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Crippen",
-        "title": "Berkshire Hathaway outperforms this week as tech stocks sink",
-        "description": "Berkshire Hathaway's stock outperformed the benchmark S&P 500 stock index this week as investors sought safety from tech selling.",
-        "url": "https://www.cnbc.com/2026/02/07/berkshire-hathaway-outperforms-this-week-as-tech-stocks-sink.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
-        "publishedAt": "2026-02-07T13:50:03Z",
-        "content": "(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)\r\nBerkshire\u2026 [+5245 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Spencer Kimball",
-        "title": "The Trump administration equity portfolio is growing. These are the investments so far",
-        "description": "Here are all the companies that the Trump administration has invested in, to date.",
-        "url": "https://www.cnbc.com/2026/02/07/trump-administration-equity-portfolio-grows-these-are-investments-so-far.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108152866-17486419092025-05-30t215115z_480407439_rc2gseayn92u_rtrmadp_0_usa-trump.jpeg?v=1748865026&w=1920&h=1080",
-        "publishedAt": "2026-02-07T13:54:49Z",
-        "content": "The Trump administration has made unprecedented equity investments and obtained other stakes in at least 10 companies over the past year.\r\nMany are in critical mineral companies as the White House pl\u2026 [+7451 chars]"
+        "author": "Abrar Mir",
+        "title": "Patient private capital is needed to help Asia plug its healthcare gaps",
+        "description": "Governments have reached the threshold of what public finance alone can deliver.",
+        "url": "https://fortune.com/2026/02/08/asia-healthcare-private-capital-investment-quadria-capital-abrar-mir/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2198158602-e1770393405766.jpg?resize=1200,600",
+        "publishedAt": "2026-02-09T00:00:00Z",
+        "content": "Asias healthcare challenges include aging populations, rising disease, and strained infrastructure, but the crisis is better understood at the kitchen table, where families decide what conditions to \u2026 [+5134 chars]"
     },
     {
         "source": {

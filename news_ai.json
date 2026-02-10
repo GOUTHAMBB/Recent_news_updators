@@ -1,55 +1,55 @@
 [
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Mila Fiordalisi",
-        "title": "The Technologies Changing How You\u2019ll Watch the 2026 Winter Olympic Games",
-        "description": "From drones with \u201cfirst-person\u201d visualization to real-time 360-degree replays and Olympics GPT, get ready to immerse yourself in the Winter Games in Milan and Cortina.",
-        "url": "https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/",
-        "urlToImage": "https://media.wired.com/photos/698655d97cbb83907b42da12/191:100/w_1280,c_limit/Technologies-Changing-How-Youll-Watch-Winter-Olympic-Games-Gear-2259908698.jpg",
-        "publishedAt": "2026-02-07T12:00:00Z",
-        "content": "During the 2024 Summer Olympics in Paris, 5G and 4K were the leading technologies available to many viewers. There was some AI, but it was mostly used for athletes benefit. For the 2026 Milano Cortin\u2026 [+3413 chars]"
+        "author": "Terrence O\u2019Brien",
+        "title": "New York is considering two bills to rein in the AI industry",
+        "description": "New York's state legislature is set to consider a pair of bills that would require labels on AI-generated content and would put a three-year pause on new data center construction. The New York Fundamental Artificial Intelligence Requirements in News Act (NY F\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/OMB-Datacenter-Hero-9_18_25.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-02-08T21:04:53Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nOne requires labels on AI-generated news and the other puts a pause on new data center construction.\r\nOne requires labels on AI-generated news and the other puts\u2026 [+2558 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Lauren Feiner",
+        "title": "Section 230 turns 30 as it faces its biggest tests yet",
+        "description": "Thirty years ago today, Section 230 of the Communications Decency Act, a bill credited with creating the groundwork for the modern internet, became law and set off a chain of events that would make it a lightning rod for the techlash. The statute has survived\u2026",
+        "url": "https://www.theverge.com/policy/875300/section-230-turns-30-social-media-addiction-cases-sunset",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKS519_FREE_SPEECH_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-02-08T13:52:01Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSection 230 turns 30 as it faces its biggest tests yet\r\nThe law has survived the dot-com bubble and the Supreme Court, but its up against potentially larger chal\u2026 [+12829 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "O'Ryan Johnson",
-        "title": "Whether they are building agents or folding proteins, LLMs need a friend",
-        "description": "AI pioneer Vishal Sikka warns to never trust an LLM that runs alone\ninterview Don't trust; verify. According to AI researcher Vishal Sikka, LLMs alone are limited by computational boundaries and will start to hallucinate when they push those boundaries. One s\u2026",
-        "url": "https://www.theregister.com/2026/02/07/ai_companion_bots_vishal_sikka_interview/",
-        "urlToImage": "https://regmedia.co.uk/2026/02/06/vishal_sikka.jpg",
-        "publishedAt": "2026-02-07T15:00:14Z",
-        "content": "interview Don't trust; verify. According to AI researcher Vishal Sikka, LLMs alone are limited by computational boundaries and will start to hallucinate when they push those boundaries. One solution?\u2026 [+6041 chars]"
+        "author": "Liam Proven",
+        "title": "Containers, cloud, blockchain, AI \u2013 it's all the same old BS, says veteran Red Hatter",
+        "description": "After decades in the trenches, this engineer is done with hype cycles\nOpinion The real opponent of digital sovereignty is \"enterprise IT\" marketing, according to one Red Hat engineer who ranted entertainingly about the repeated waves of bullshit the industry \u2026",
+        "url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
+        "urlToImage": "https://regmedia.co.uk/2023/06/13/shutterstock_rubbishmeeting.jpg",
+        "publishedAt": "2026-02-08T12:30:08Z",
+        "content": "Opinion The real opponent of digital sovereignty is \"enterprise IT\" marketing, according to one Red Hat engineer who ranted entertainingly about the repeated waves of bullshit the industry hype cycle\u2026 [+6471 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "Gizmodo.com"
         },
-        "author": "Bruno Ferreira",
-        "title": "Security researcher says AMD auto-updater downloads software insecurely, enabling remote code execution \u2014 company rep reportedly said man-in-the-middle attacks are \"out of scope,\" ignored bug",
-        "description": "AMD auto-update delivers software insecurely, company says MITM attacks are \"out of scope\"",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/security-researcher-says-amd-auto-updater-downloads-software-insecurely-enabling-remote-code-execution-company-rep-reportedly-said-man-in-the-middle-attacks-are-out-of-scope-ignored-bug",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/yCcRs6y64wPXUdn4aVnG74-2258-80.jpg",
-        "publishedAt": "2026-02-07T11:54:51Z",
-        "content": "The year is 2026. The future of humanity is under discussion thanks to the rise of artificial intelligence, as robots become eerily humanoid. And somehow, AMD's Windows driver auto-updater still down\u2026 [+3409 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Report: SambaNova is raising $350M+ from Intel-backed consortium",
-        "description": "Chip startup SambaNova Systems Inc. is in talks to raise more than $350 million from investors, Reuters reported today. The deal is expected to be led by Vista Equity Partners. That\u2019s notable partly because the private equity firm has until now invested solel\u2026",
-        "url": "https://siliconangle.com/2026/02/06/report-sambanova-raising-350m-intel-backed-consortium/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/SambaNova.png",
-        "publishedAt": "2026-02-07T01:36:29Z",
-        "content": "Chip startup SambaNova Systems Inc. is in talks to raise more than $350 million from investors, Reuters reported today.\r\nThe deal is expected to be led by Vista Equity Partners. Thats notable partly \u2026 [+4469 chars]"
+        "author": "Ece Yildirim",
+        "title": "Countries Across Europe Take Action to Ban Social Media for Minors",
+        "description": "At least 15 governments on the continent are planning social media bans inspired by Australia.",
+        "url": "https://gizmodo.com/countries-across-europe-take-action-to-ban-social-media-for-minors-2000719321",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2461243261-1200x675.jpg",
+        "publishedAt": "2026-02-08T20:18:36Z",
+        "content": "Under-16 social media bans are picking up steam across Europe.\r\nCzech Prime Minister Andrej Babis was the latest leader to praise a ban, saying that the experts he\u2019s spoken to have said that social m\u2026 [+4780 chars]"
     },
     {
         "source": {
@@ -63,5 +63,44 @@
         "urlToImage": "https://www.zdnet.com/a/img/resize/f9eaaba96516179b41d177c921befdff8c6a167f/2024/09/18/f584c0e6-7109-4913-9ef2-eab9e3f128a9/3.jpg?auto=webp&fit=crop&height=675&width=1200",
         "publishedAt": "2026-02-08T01:30:51Z",
         "content": "Apple/Maria Diaz/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nAs a former iPhone 14 Pro Max user, I still felt like my three-year-old iPhone gave me everything I needed when I traded\u2026 [+6000 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "David Gewirtz",
+        "title": "I tried a Claude Code rival that's local, open source, and completely free - how it went",
+        "description": "I was curious if Block's Goose agent, paired with Ollama and the Qwen3-coder model, could really replace Claude Code. Here's how it worked.",
+        "url": "https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/0d7dd7c40b7fd19b7860349e8f6183b0c58becab/2026/02/02/7bb3b258-409d-4e90-a7c9-abdcf4abace0/how-to-get-started-with-goose-a-free-open-source-alternative-to-claude-code.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-09T02:16:00Z",
+        "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways \r\n<ul><li>Free AI tools Goose and Qwen3-coder may replace a pricey Claude Code plan.</li><li\u2026 [+9096 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Dave Vellante",
+        "title": "Cloud earnings bring capex clarity, concern and confusion",
+        "description": "This winter\u2019s 2026 hyperscale earnings prints from Meta Platforms Inc., Microsoft Corp,, Alphabet Inc. and Amazon.com Inc. made it quite\u00a0clear\u00a0that capital expenditures are accelerating. Combined, these four firms will spend more than $615 billion in capex th\u2026",
+        "url": "https://siliconangle.com/2026/02/08/cloud-earnings-bring-capex-clarity-concern-confusion/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/ba306.jpg",
+        "publishedAt": "2026-02-08T17:32:29Z",
+        "content": "This winters 2026 hyperscale earnings prints from Meta Platforms Inc., Microsoft Corp,, Alphabet Inc. and Amazon.com Inc. made it quite\u00a0clear\u00a0that capital expenditures are accelerating. Combined, the\u2026 [+34429 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "Okay, I\u2019m slightly less mad about that \u2018Magnificent Ambersons\u2019 AI project | TechCrunch",
+        "description": "Okay, I\u2019m slightly less mad about that \u2018Magnificent Ambersons\u2019 AI project | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-3348882.jpg?w=1024",
+        "publishedAt": "2026-02-08T19:38:38Z",
+        "content": "When a startup announced plans last fall to recreate lost footage from Orson Welles classic film The Magnificent Ambersons using generative AI, I was skeptical. More than that, I was baffled why anyo\u2026 [+4418 chars]"
     }
 ]

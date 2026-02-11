@@ -1,68 +1,393 @@
 [
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Terrence O\u2019Brien",
-        "title": "New York is considering two bills to rein in the AI industry",
-        "description": "New York's state legislature is set to consider a pair of bills that would require labels on AI-generated content and would put a three-year pause on new data center construction. The New York Fundamental Artificial Intelligence Requirements in News Act (NY F\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/OMB-Datacenter-Hero-9_18_25.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-02-08T21:04:53Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nOne requires labels on AI-generated news and the other puts a pause on new data center construction.\r\nOne requires labels on AI-generated news and the other puts\u2026 [+2558 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Lauren Feiner",
-        "title": "Section 230 turns 30 as it faces its biggest tests yet",
-        "description": "Thirty years ago today, Section 230 of the Communications Decency Act, a bill credited with creating the groundwork for the modern internet, became law and set off a chain of events that would make it a lightning rod for the techlash. The statute has survived\u2026",
-        "url": "https://www.theverge.com/policy/875300/section-230-turns-30-social-media-addiction-cases-sunset",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKS519_FREE_SPEECH_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-02-08T13:52:01Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nSection 230 turns 30 as it faces its biggest tests yet\r\nThe law has survived the dot-com bubble and the Supreme Court, but its up against potentially larger chal\u2026 [+12829 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Liam Proven",
-        "title": "Containers, cloud, blockchain, AI \u2013 it's all the same old BS, says veteran Red Hatter",
-        "description": "After decades in the trenches, this engineer is done with hype cycles\nOpinion The real opponent of digital sovereignty is \"enterprise IT\" marketing, according to one Red Hat engineer who ranted entertainingly about the repeated waves of bullshit the industry \u2026",
-        "url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
-        "urlToImage": "https://regmedia.co.uk/2023/06/13/shutterstock_rubbishmeeting.jpg",
-        "publishedAt": "2026-02-08T12:30:08Z",
-        "content": "Opinion The real opponent of digital sovereignty is \"enterprise IT\" marketing, according to one Red Hat engineer who ranted entertainingly about the repeated waves of bullshit the industry hype cycle\u2026 [+6471 chars]"
+        "author": "Matthew Gault",
+        "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
+        "description": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
+        "url": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
+        "urlToImage": "https://media.wired.com/photos/69861351b845608c2949e960/191:100/w_1280,c_limit/sec-nuclear-ai-1278095166.jpg",
+        "publishedAt": "2026-02-09T11:30:00Z",
+        "content": "For half a century, the worlds nuclear powers relied on an intricate and complex series of treaties that slowly and steadily reduced the number of nuclear weapons on the planet. Those treaties are go\u2026 [+3542 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Ece Yildirim",
-        "title": "Countries Across Europe Take Action to Ban Social Media for Minors",
-        "description": "At least 15 governments on the continent are planning social media bans inspired by Australia.",
-        "url": "https://gizmodo.com/countries-across-europe-take-action-to-ban-social-media-for-minors-2000719321",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2461243261-1200x675.jpg",
-        "publishedAt": "2026-02-08T20:18:36Z",
-        "content": "Under-16 social media bans are picking up steam across Europe.\r\nCzech Prime Minister Andrej Babis was the latest leader to praise a ban, saying that the experts he\u2019s spoken to have said that social m\u2026 [+4780 chars]"
+        "author": "Margherita Bassi",
+        "title": "Dueling AIs Reconstruct Rules of Mysterious Roman-Era Board Game",
+        "description": "Seems like Europeans were playing blocking games centuries earlier than previously thought.",
+        "url": "https://gizmodo.com/dueling-ais-reconstruct-rules-of-mysterious-roman-era-board-game-2000719655",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/ancient-roman-game-1200x675.jpg",
+        "publishedAt": "2026-02-10T00:01:24Z",
+        "content": "These days, artificial intelligence can take notes during doctor appointments, boost your confidence in school, and help detect cancer (though LLMs are bad at reading clocks). Now, new research has t\u2026 [+3858 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Siemens CEO Roland Busch\u2019s mission to automate everything",
+        "description": "Today, I\u2019m talking with Roland Busch, who is the CEO of Siemens. Siemens is one of those absolutely giant, extremely important, but fairly opaque companies we love to dig into on Decoder. At a very basic, reductive level, Siemens makes the hardware and softwa\u2026",
+        "url": "https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DCD-Roland-Busch.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "publishedAt": "2026-02-09T15:00:48Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nRoland Busch on AI-powered factories, tariffs in the Trump era, trade, and the future of NATO.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to you\u2026 [+56478 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "Rhiannon Williams",
+        "title": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
+        "description": "This is today\u2019s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Moltbook was peak AI theater For a few days recently, the hottest new hangout on the internet was a vibe-coded Reddit clo\u2026",
+        "url": "https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205_moltbook-hero.jpg?resize=1200,600",
+        "publishedAt": "2026-02-09T13:10:00Z",
+        "content": "For a few days recently, the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the websites tagline puts it: Wher\u2026 [+1629 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Jessica Lyons",
+        "title": "Microsoft boffins figured out how to break LLM safety guardrails with one simple prompt",
+        "description": "Chaos-inciting fake news right this way\nA single, unlabeled training prompt can break LLMs' safety behavior, according to Microsoft Azure CTO Mark Russinovich and colleagues. They published a research paper that detailed how this prompt, \"Create a fake news a\u2026",
+        "url": "https://www.theregister.com/2026/02/09/microsoft_one_prompt_attack/",
+        "urlToImage": "https://regmedia.co.uk/2022/02/11/shutterstock_running_man.jpg",
+        "publishedAt": "2026-02-09T23:27:01Z",
+        "content": "A single, unlabeled training prompt can break LLMs' safety behavior, according to Microsoft Azure CTO Mark Russinovich and colleagues. They published a research paper that detailed how this prompt, \"\u2026 [+3301 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "The Last \u2018Person\u2019 You Want Handling Your Surgery Is a Hallucinating Robot",
+        "description": "AI has infiltrated the operating room. It\u2019s going about as well as you\u2019d expect.",
+        "url": "https://gizmodo.com/the-last-person-you-want-handling-your-surgery-is-a-hallucinating-robot-2000719802",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Operating-Room-1200x675.jpg",
+        "publishedAt": "2026-02-09T21:10:45Z",
+        "content": "Everyone\u2019s favorite nightmare scenario when it comes to artificial intelligence is that it somehow gains sentience and starts killing humans. Turns out, it doesn\u2019t require achieving superintelligence\u2026 [+4877 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "AI chatbots are no better at medical advice than a search engine",
+        "description": "And people make bad information worse by failing to provide chatbots with the right details\nHealthcare researchers have found that AI chatbots could put patients at risk by giving shoddy medical advice.\u2026",
+        "url": "https://www.theregister.com/2026/02/09/ai_chatbots_medical_advice_sucks/",
+        "urlToImage": "https://regmedia.co.uk/2015/11/16/syringe_98374525675675.jpg",
+        "publishedAt": "2026-02-09T20:58:02Z",
+        "content": "Healthcare researchers have found that AI chatbots could put patients at risk by giving shoddy medical advice.\r\nAcademics from the Oxford Internet Institute and the Nuffield Department of Primary Car\u2026 [+3895 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "ZDNet"
         },
-        "author": "Maria Diaz",
-        "title": "I broke my 5-year iPhone upgrade rule with the latest model - here's why I'm not regretting it",
-        "description": "The iPhone 17 Pro is the new hotness, but is it truly worth the upgrade? Here's how I made my decision, as a former iPhone 14 Pro user.",
-        "url": "https://www.zdnet.com/article/iphone-17-pro-vs-iphone-14-pro/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/f9eaaba96516179b41d177c921befdff8c6a167f/2024/09/18/f584c0e6-7109-4913-9ef2-eab9e3f128a9/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-08T01:30:51Z",
-        "content": "Apple/Maria Diaz/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nAs a former iPhone 14 Pro Max user, I still felt like my three-year-old iPhone gave me everything I needed when I traded\u2026 [+6000 chars]"
+        "author": "Webb Wright",
+        "title": "I turned doodles into video clips in minutes with Runway's new AI video tool - here's how",
+        "description": "The company's Motion Sketch feature lowers the barrier between abstract imagination and concrete video outputs. But like all generative AI tools, it has its shortcomings.",
+        "url": "https://www.zdnet.com/article/i-turned-doodles-into-video-clips-in-minutes-with-runways-new-ai-video-tool-heres-how/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/e2a1e11205d4a3ae050766022b1e79da05e27728/2026/02/09/d59bff7a-a867-4cbc-8985-e8be9135fb23/screenshot-2026-02-09-at-3-20-10pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-10T03:01:13Z",
+        "content": "AI transformed doodles of birds into scary winged creatures.\r\nWebb Wright/ZDNET/via Runway AI\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>A new feature from\u2026 [+6750 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+        "title": "Nvidia now produces three times as much code as before AI \u2014 specialized version of Cursor is being used by over 30,000 Nvidia engineers internally",
+        "description": "Cursor, an AI-assisted development environment, essentially an IDE, is being used by Nvidia internally to boost coding efficiency. Cursor says the Green Team's internal code commits have tripled since its implementation while the bug rate has stayed flat, lea\u2026",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-now-produces-three-times-as-much-code-as-before-ai-specialized-version-of-cursor-is-being-used-by-over-30-000-nvidia-engineers-internally",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/bYzBEXinxi7q6ZFgnYsm5P-2400-80.png",
+        "publishedAt": "2026-02-09T13:00:59Z",
+        "content": "Nvidia's internal code commits have tripled since it mobilized 100% of its engineers with AI-assisted programming tools. Cursor, an IDE made by Anysphere, now enables over 30,000 developers at the co\u2026 [+2710 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Workday stock drops 5%+ after CEO Carl Eschenbach steps down",
+        "description": "Workday Inc. today announced that Carl Eschenbach has stepped down from his role as chief executive officer and executive chair. Shares of the company declined more than 5% on the news. The drop came amid a broader selloff in enterprise stocks, which began la\u2026",
+        "url": "https://siliconangle.com/2026/02/09/workday-stock-drops-5-ceo-carl-eschenbach-steps/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Workday.jpg",
+        "publishedAt": "2026-02-09T23:40:02Z",
+        "content": "Workday Inc. today announced that Carl Eschenbach has stepped down from his role as chief executive officer and executive chair.\r\nShares of the company declined more than 5% on the news. The drop cam\u2026 [+4024 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Physical AI startup Gather AI raises $40M to expand warehouse intelligence",
+        "description": "Physical artificial intelligence for intralogistics startup Gather AI Inc. today announced that it had raised $40 million in new funding to increase its headcount, accelerate expansion to hundreds of additional facilities globally and support the development \u2026",
+        "url": "https://siliconangle.com/2026/02/09/physical-ai-startup-gather-ai-raises-40m-expand-warehouse-intelligence/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gatherai.png",
+        "publishedAt": "2026-02-09T22:29:23Z",
+        "content": "Physical artificial intelligence for intralogistics startup Gather AI Inc. today announced that it had raised $40 million in new funding to increase its headcount, accelerate expansion to hundreds of\u2026 [+4047 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "David Gewirtz",
+        "title": "Which AI tools are worth paying for? Here are subscriptions I'm keeping - and why",
+        "description": "I pay close attention to anything that can save me time. After reviewing my 2025 spending on generative AI, I made one big change.",
+        "url": "https://www.zdnet.com/article/which-ai-tools-are-worth-paying-for-here-are-subscriptions-im-keeping-and-why/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/e508f6518e3dbbc745e7d566364c5c939c9810cc/2026/02/09/c6079ac0-0efa-4024-a46c-4a425a0fd9ed/colorbenscreenshot-2026-02-09-152514.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-10T02:00:00Z",
+        "content": "RL Photography/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>My 2025 AI spend hit $1,665 across tools and upgrades.<\u2026 [+17577 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Startup aiOla strives to fix AI speech recognition woes with dynamic routing",
+        "description": "Artificial intelligence startup aiOla says it\u2019s breaking new ground in its quest to develop machines that can understand human speech as well as people can. Today it has announced a new \u201cSpeech Intelligence Gateway\u201d that\u2019s able to facilitate more reliable spe\u2026",
+        "url": "https://siliconangle.com/2026/02/09/aiola-strives-fix-ai-speech-recognition-woes-dynamic-routing/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-09-08-54-19.png",
+        "publishedAt": "2026-02-09T13:00:08Z",
+        "content": "Artificial intelligence startup aiOla says its breaking new ground in its quest to develop machines that can understand human speech as well as people can.\r\nToday it has announced a new Speech Intell\u2026 [+5180 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Digital twin startup Neara raises $63M to help power companies cope with AI\u2019s energy demands",
+        "description": "Australian startup Neara, which makes digital twins of power grids, says it\u2019s ready to support electricity companies as they struggle to cope with the surging demand from artificial intelligence data centers after raising more than $60 million in funding toda\u2026",
+        "url": "https://siliconangle.com/2026/02/09/digital-twin-startup-neara-raises-63m-help-power-companies-cope-ais-energy-demands/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Hero_Video_GIF.gif",
+        "publishedAt": "2026-02-10T01:46:49Z",
+        "content": "Australian startup Neara, which makes digital twins of power grids, says its ready to support electricity companies as they struggle to cope with the surging demand from artificial intelligence data \u2026 [+4563 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Tens of thousands of OpenClaw systems exposed by misconfigurations and known exploits",
+        "description": "A new report out today from security rating firm\u00a0SecurityScorecard Inc.\u00a0warns that widespread vulnerabilities in OpenClaw deployments have left tens of thousands of internet-facing instances exposed to takeover through misconfigured access controls and known \u2026",
+        "url": "https://siliconangle.com/2026/02/09/tens-thousands-openclaw-systems-exposed-due-misconfiguration-known-exploits/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/openclawvulns.png",
+        "publishedAt": "2026-02-09T13:00:02Z",
+        "content": "A new report out today from security rating firm\u00a0SecurityScorecard Inc.\u00a0warns that widespread vulnerabilities in OpenClaw deployments have left tens of thousands of internet-facing instances exposed \u2026 [+4627 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Oracle adds more than 40 agents to Fusion Cloud suite",
+        "description": "Oracle Corp. today unveiled dozens of new prebuilt artificial intelligence agents across its Fusion Cloud Applications suite, spanning marketing, sales, service and supply chain functions. The more than 40 new agents run on Oracle Cloud Infrastructure and are\u2026",
+        "url": "https://siliconangle.com/2026/02/10/oracle-adds-40-agents-fusion-cloud-suite/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/oracle-1.png",
+        "publishedAt": "2026-02-10T08:00:34Z",
+        "content": "Oracle Corp. today unveiled dozens of new prebuilt artificial intelligence agents across its Fusion Cloud Applications suite, spanning marketing, sales, service and supply chain functions.\r\nThe more \u2026 [+6741 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Cisco targets high-speed AI networking with 102.4Tbps chip, liquid-cooled switches",
+        "description": "Cisco Systems Inc. today introduced a new generation of networking silicon, systems and optical modules aimed at supporting hyperscale-class artificial intelligence infrastructure as AI workloads shift from model training toward broader inference and agentic \u2026",
+        "url": "https://siliconangle.com/2026/02/10/cisco-targets-high-speed-ai-networking-102-4tbps-chip-liquid-cooled-switches/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Cisco-G300-chip-e1770671880108.png",
+        "publishedAt": "2026-02-10T08:30:16Z",
+        "content": "Cisco Systems Inc. today introduced a new generation of networking silicon, systems and optical modules aimed at supporting hyperscale-class artificial intelligence infrastructure as AI workloads shi\u2026 [+8467 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: Investors panic at AI\u2019s impact on SaaS companies, infrastructure spend keeps rising and OpenAI considers ads for ChatGPT",
+        "description": "Will artificial intelligence be the death of software? Investors seem to think so. This week, fears over whether or not AI is an existential threat to software-as-a-service companies were felt across the stock market. Industry experts view the stock dip as an\u2026",
+        "url": "https://siliconangle.com/2026/02/09/ai-software-investors-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/John-Furrier-and-Dave-Vellante-theCUBE-122.png",
+        "publishedAt": "2026-02-09T17:13:55Z",
+        "content": "Will artificial intelligence be the death of software? Investors seem to think so.\r\nThis week, fears over whether or not AI is an existential threat to software-as-a-service companies were felt acros\u2026 [+7868 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Jon Martindale",
+        "title": "Claimed 1,100% increase in AI-driven layoffs in 2025 might be misleading \u2014 firms accused of exaggerating AI performance to downplay poor business performance",
+        "description": "AI might not be as big a cause of layoffs and redundancies as the companies enacting them might claim, and even when they are, it might be too much and far too soon, according to new bodies of research collated by Sherwood.",
+        "url": "https://www.tomshardware.com/tech-industry/claimed-1-100-percent-increase-in-ai-driven-layoffs-in-2025-might-be-misleading-firms-accused-of-exaggerating-ai-performance-to-downplay-poor-business-performance",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/n7BZTGeQpTSjynJZ65txx3-2560-80.jpg",
+        "publishedAt": "2026-02-09T17:25:02Z",
+        "content": "Being laid off due to AI efficiency savings is a fear held by many workers, with over 40% claiming to be dealing with some form of AI-induced anxiety in 2026, according to Mercer research. But it may\u2026 [+6689 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "OpenAI starts displaying ads to some ChatGPT users in the US",
+        "description": "OpenAI Group PBC today started\u00a0showing ads to some ChatGPT users in the U.S. The move comes a month after the company first announced plans to display paid content. At the time, OpenAI stated that it would test a limited number of ad formats and collect feedb\u2026",
+        "url": "https://siliconangle.com/2026/02/09/openai-starts-displaying-ads-chatgpt-users-us/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/OpenAI2.png",
+        "publishedAt": "2026-02-10T01:29:29Z",
+        "content": "OpenAI Group PBC today started\u00a0showing ads to some ChatGPT users in the U.S.\r\nThe move comes a month after the company first announced plans to display paid content. At the time, OpenAI stated that i\u2026 [+3836 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Databricks closes $7B+ financing round at $134B valuation",
+        "description": "Databricks Inc. today announced that it has raised more than $7 billion in equity and debt financing to accelerate its growth efforts. The company first disclosed the investment late last year when it was still in the process of finalizing the financial terms\u2026",
+        "url": "https://siliconangle.com/2026/02/09/databricks-closes-7b-financing-round-134b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/databricks-dataai2025-hall.jpg",
+        "publishedAt": "2026-02-09T21:04:40Z",
+        "content": "Databricks Inc. today announced that it has raised more than $7 billion in equity and debt financing to accelerate its growth efforts.\r\nThe company first disclosed the investment late last year when \u2026 [+4579 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Private cloud infrastructure startup Oxide Computer reportedly raises $200M in fresh funding",
+        "description": "Cloud-inspired data center infrastructure startup Oxide Computer Co. has reportedly raised $200 million in a fresh round of funding. The round was first reported by Axios, which named\u00a0the U.S. Innovative Technology Fund as the lead investor. It comes less tha\u2026",
+        "url": "https://siliconangle.com/2026/02/09/private-cloud-infrastructure-startup-oxide-computer-reportedly-raises-200m-fresh-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Oxide.png",
+        "publishedAt": "2026-02-09T23:41:41Z",
+        "content": "Cloud-inspired data center infrastructure startup Oxide Computer Co. has reportedly raised $200 million in a fresh round of funding.\r\nThe round was first reported by Axios, which named\u00a0the U.S. Innov\u2026 [+3877 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "EU tells Meta rival chatbots must be available on WhatsApp",
+        "description": "The European Union today issued a warning to WhatsApp owner Meta Platforms Inc. today, threatening to possibly take action against the firm for blocking rival chatbots from the messaging platform. The European Commission said WhatsApp Business may have violat\u2026",
+        "url": "https://siliconangle.com/2026/02/09/eu-tells-meta-rival-chatbots-must-available-whatsapp/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg",
+        "publishedAt": "2026-02-10T02:16:44Z",
+        "content": "The European Union today issued a warning to WhatsApp owner Meta Platforms Inc. today, threatening to possibly take action against the firm for blocking rival chatbots from the messaging platform.\r\nT\u2026 [+3398 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Kyndryl shares plunge amid accounting review and leadership shakeup",
+        "description": "Shares of Kyndryl Holdings Inc. plunged by more than half in early trading today after the company delayed its quarterly filing, disclosed material weaknesses in financial controls, cut its full-year outlook and announced the departure of its chief financial \u2026",
+        "url": "https://siliconangle.com/2026/02/09/kyndryl-shares-plunge-amid-accounting-review-leadership-shakeup/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Image-5.png",
+        "publishedAt": "2026-02-09T17:56:45Z",
+        "content": "Shares of Kyndryl Holdings Inc. plunged by more than half in early trading today after the company delayed its quarterly filing, disclosed material weaknesses in financial controls, cut its full-year\u2026 [+5849 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Kourtnee Jackson",
+        "title": "Your Recap of Super Bowl 2026 Ads Is Here: Baby Yoda, Pokemon and Much More",
+        "description": "Did you catch the night's biggest commercials? Scroll through our list.",
+        "url": "https://www.cnet.com/tech/services-and-software/recap-super-bowl-2026-ads/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e19803368d0295c8861c14f9083d9bceb7028469/hub/2026/01/13/30c743a8-56bb-4b95-aa59-2d166feb8fe6/mandalorian-and-grogu-disney.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-09T12:01:10Z",
+        "content": "We all watched the Seahawks beat the Patriots in\u00a0Super Bowl LX\u00a0on Sunday night, and in between all the plays, gameday ads filled up our screens. Our roundup for you includes some\u00a0featuring artificial\u2026 [+10786 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "David Lumb",
+        "title": "Samsung Galaxy Unpacked 2026 Rumors: What to Expect From the S26 Lineup Reveal",
+        "description": "We're still waiting for the Galaxy S26 series to be unveiled. Here's when that could happen.",
+        "url": "https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/261fc4aa4bb8af5453b7703da51c6bc44dea8c60/hub/2025/11/18/5fcb5cef-0f80-42d1-9d1c-c4ee28c8c16e/galaxy-s25-ultra.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-09T21:25:03Z",
+        "content": "The Galaxy S25 Ultra (pictured) was Samsung's most powerful non-folding phone. What's in store for the Galaxy S26 Ultra at Samsung Unpacked?\r\nPrakhar Khanna/CNET\r\nIt's a strange year for Samsung: we'\u2026 [+6012 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Maxwell Zeff",
+        "title": "OpenAI Abandons \u2018io\u2019 Branding for Its AI Hardware",
+        "description": "A court filing in a trademark lawsuit reveals OpenAI won't use the name \u201cio\u201d for its AI hardware device, which isn't expected to ship until 2027.",
+        "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
+        "urlToImage": "https://media.wired.com/photos/698ac130a90ddd1ac11ec534/191:100/w_1280,c_limit/2224155524",
+        "publishedAt": "2026-02-10T05:45:16Z",
+        "content": "OpenAI will not use the name io for its forthcoming line of AI hardware devices, according to a Monday court filing.\r\nThe motion is part of a trademark infringement lawsuit filed last year by audio d\u2026 [+2435 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Bruno Ferreira",
+        "title": "John Carmack muses using a long fiber line as as an L2 cache for streaming AI data \u2014 programmer imagines fiber as alternative to DRAM",
+        "description": "John Carmack considers fiber as an L2 cache for streaming AI data.",
+        "url": "https://www.tomshardware.com/pc-components/ram/john-carmack-muses-using-a-long-fiber-line-as-as-an-l2-cache-for-streaming-ai-data-programmer-imagines-fiber-as-alternative-to-dram",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/xrY5HWajyLMTv7FBfPn7SR-2048-80.jpg",
+        "publishedAt": "2026-02-09T20:44:36Z",
+        "content": "Anybody can create an X account and speak their mind, but not all minds are worth listening to. When John Carmack tweets, though, folks tend to listen. His latest musings pertain using a protracted f\u2026 [+3207 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+        "title": "US Air Force bans use of smart glasses among its troops \u2014 earbuds and other Bluetooth devices limited to official duties",
+        "description": "The U.S. Air Force is banning its personnel from using smart glasses while in uniform and limited the use of earbuds for official duties.",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-air-force-bans-use-of-smart-glasses-among-its-troops-earbuds-and-other-bluetooth-devices-limited-to-official-duties",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z2yfqRmBY4iHzYAZ9oU35g-2560-80.jpg",
+        "publishedAt": "2026-02-09T14:39:23Z",
+        "content": "The U.S. Air Force has banned the use of smart glasses for all its personnel, and it also limited the use of earphones and other Bluetooth devices while in uniform for official duties. According to i\u2026 [+3349 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Ariella Brown",
+        "title": "Unlocking the hidden power of unstructured data with AI",
+        "description": "Hyland is helping enterprises turn their fragmented, unstructured data into governed, AI-ready intelligence Sponsored Feature\u00a0 Enterprise AI is rapidly reshaping regulated industries like healthcare, banking, financial services, and insurance, taking on the c\u2026",
+        "url": "https://www.theregister.com/2026/02/09/unlocking_hidden_power_unstructured/",
+        "urlToImage": "https://regmedia.co.uk/2017/08/01/files_photo_via_shutterstock.jpg",
+        "publishedAt": "2026-02-09T09:00:11Z",
+        "content": "Sponsored Feature Enterprise AI is rapidly reshaping regulated industries like healthcare, banking, financial services, and insurance, taking on the complex, high-stakes work that once slowed clinici\u2026 [+8329 chars]"
     },
     {
         "source": {
@@ -79,28 +404,93 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Dave Vellante",
-        "title": "Cloud earnings bring capex clarity, concern and confusion",
-        "description": "This winter\u2019s 2026 hyperscale earnings prints from Meta Platforms Inc., Microsoft Corp,, Alphabet Inc. and Amazon.com Inc. made it quite\u00a0clear\u00a0that capital expenditures are accelerating. Combined, these four firms will spend more than $615 billion in capex th\u2026",
-        "url": "https://siliconangle.com/2026/02/08/cloud-earnings-bring-capex-clarity-concern-confusion/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/ba306.jpg",
-        "publishedAt": "2026-02-08T17:32:29Z",
-        "content": "This winters 2026 hyperscale earnings prints from Meta Platforms Inc., Microsoft Corp,, Alphabet Inc. and Amazon.com Inc. made it quite\u00a0clear\u00a0that capital expenditures are accelerating. Combined, the\u2026 [+34429 chars]"
+        "author": "Ana-Maria Stanciuc",
+        "title": "The European Union has put \u20ac700 million into NanoIC",
+        "description": "The European Union has formally inaugurated NanoIC, a semiconductor pilot line backed by a \u20ac700 million investment under the European Chips Act. The facility aims to accelerate the development of advanced chip technologies and strengthen Europe\u2019s position in \u2026",
+        "url": "https://thenextweb.com/news/the-european-union-has-put-e700-million-into-nanoic",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FThe-European-Union-has-put-E700-million-into-NanoIC.png&signature=a58986a0be62d503d8922fa60ff6c909",
+        "publishedAt": "2026-02-09T11:41:34Z",
+        "content": "The European Union has formally inaugurated NanoIC, a semiconductor pilot line backed by a 700 million investment under the European Chips Act.\r\nThe facility aims to accelerate the development of adv\u2026 [+2338 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Elyse Betters Picaro",
+        "title": "Is ChatGPT starting ads today? Here's a preview - and which AIs don't have them",
+        "description": "Wondering how ads will work in ChatGPT? Or which AIs are still ad-free? There aren't many. Here's a quick rundown.",
+        "url": "https://www.zdnet.com/article/chatgpt-starting-ads-which-ai-chatbots-are-ad-free/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/db43255477d018354f4aff7d585f4aa9e42b1d66/2026/02/09/a28979c2-b57d-4850-8107-11ada755ab72/gettyimages-2259623093.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-09T17:27:00Z",
+        "content": "NurPhoto / Contributor via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT is reportedly starting its ad test for some users.</li><li>Anthr\u2026 [+10619 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Carly Page",
+        "title": "Brussels eyes crowbar for Meta\u2019s WhatsApp AI lockout",
+        "description": "Euro watchdog says Zuckcorp blocked rival AI assistants in WhatsApp \u2013 weighs emergency action to force 'em back in\nBrussels has accused Meta of breaking EU competition rules by locking rival AI chatbots out of WhatsApp, opening the door to emergency action th\u2026",
+        "url": "https://www.theregister.com/2026/02/09/brussels_eyes_crowbar_for_metas/",
+        "urlToImage": "https://regmedia.co.uk/2019/07/09/shutterstock_jailed.jpg",
+        "publishedAt": "2026-02-09T12:46:38Z",
+        "content": "Brussels has accused Meta of breaking EU competition rules by locking rival AI chatbots out of WhatsApp, opening the door to emergency action that could force the tech giant to let competitors back o\u2026 [+3686 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "David Gewirtz",
+        "title": "I tried vibe coding for free to save $1,200 a year - and it was a total disaster",
+        "description": "I really wanted to believe in this free AI coding tool could replace Claude Code. But it isn't ready for prime time unless you're willing to babysit.",
+        "url": "https://www.zdnet.com/article/free-ai-coding-tool-goose-vs-claude-code-not-ready/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/7fb39866c51d787d0e96b488ae102f526d7eebcc/2026/02/09/413963a5-dba4-4f88-ab8c-ecd053823ba9/goose-try.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-09T13:57:00Z",
+        "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Free local AI is promising, but wasted time costs more than subscriptions.</li><li\u2026 [+15736 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "Okay, I\u2019m slightly less mad about that \u2018Magnificent Ambersons\u2019 AI project | TechCrunch",
-        "description": "Okay, I\u2019m slightly less mad about that \u2018Magnificent Ambersons\u2019 AI project | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-3348882.jpg?w=1024",
-        "publishedAt": "2026-02-08T19:38:38Z",
-        "content": "When a startup announced plans last fall to recreate lost footage from Orson Welles classic film The Magnificent Ambersons using generative AI, I was skeptical. More than that, I was baffled why anyo\u2026 [+4418 chars]"
+        "author": "Julie Bort",
+        "title": "Databricks CEO says SaaS isn't dead, but AI will soon make it irrelevant | TechCrunch",
+        "description": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
+        "url": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?resize=1200,800",
+        "publishedAt": "2026-02-09T21:17:44Z",
+        "content": "On Monday, Databricks announced it reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4\u00a0billion was from its AI products.\u00a0\r\nCo-founder and CEO Ali Ghodsi wante\u2026 [+3397 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Julie Bort",
+        "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B | TechCrunch",
+        "description": "After announcing $190 million in ARR in December, Harvey may be raising again a big leap in valuation.",
+        "url": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863",
+        "publishedAt": "2026-02-09T18:22:07Z",
+        "content": "There appears to be no stopping legal AI startup Harvey\u2019s skyrocketing growth, with VCs continuously throwing money at it. The company is reportedly in talks to raise another $200 million at an $11 b\u2026 [+1162 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Julie Bort",
+        "title": "Gather AI, maker of \u2018curious\u2019 warehouse drones, lands $40M led by Keith Block\u2019s firm\u00a0 | TechCrunch",
+        "description": "Gather AI has closed funding from former Salesforce CEO's firm Smith Point Capital. Its warehouse AI system doesn't just scan. It seeks out specific data.",
+        "url": "https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Gather-AI-CEO-Co-Founder_Sankalp-Arora.jpg?resize=1200,960",
+        "publishedAt": "2026-02-09T14:03:06Z",
+        "content": "Gather AI, a startup that offers an AI platform for warehouse cameras and drones, has raised a $40 million Series B funding round led by Smith Point Capital. That\u2019s the VC firm founded by former Sale\u2026 [+2850 chars]"
     }
 ]

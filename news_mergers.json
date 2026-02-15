@@ -1,106 +1,80 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Emma Burleigh",
-        "title": "The CEO of Google DeepMind juggles another job as the founder of a multibillion-dollar startup by starting a second work day at 10 p.m.",
-        "description": "While many CEOs may set their alarm clocks for a 5 a.m. wake-up time, Google DeepMind CEO Demis Hassabis has just hit the pillow\u2014oftentimes working until 4 a.m.",
-        "url": "https://fortune.com/2026/02/12/google-gemini-boss-demis-hassabis-starts-second-workday-10pm-hits-true-peak-1am/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2217672868-1-e1770913669300.jpg?resize=1200,600",
-        "publishedAt": "2026-02-12T17:06:07Z",
-        "content": "While many CEOs set their alarm clocks for a 5 a.m. wake-up time, GoogleDeepMind CEO Demis Hassabis has just hit the pillow after his second work shift of the day.I dont sleep very much, Hassabis rec\u2026 [+3305 chars]"
+        "author": "Jack Newsham",
+        "title": "If you assumed your AI chats couldn't be used against you in court, think again",
+        "description": "A federal judge ruled on Tuesday that prosecutors could access the Claude chat transcripts of a finance startup founder accused of fraud.",
+        "url": "https://www.businessinsider.com/claude-chat-transcripts-lawsuit-privileged-ruling-2026-2",
+        "urlToImage": "https://i.insider.com/698f4e52a645d11881894e58?width=1200&format=jpeg",
+        "publishedAt": "2026-02-13T17:53:57Z",
+        "content": "Jakub Porzycki/NurPhoto via Getty Images\r\n<ul><li>Bradley Heppner got subpoenaed, talked to his lawyers, then talked to AI. The government wants to read it.</li><li>Lawyers for Heppner, a finance sta\u2026 [+4178 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Nick Lichtenberg",
-        "title": "Google Gemini boss describes working with founders Larry Page and Sergey Brin to win the AI future",
-        "description": "Demis Hassabis told Fortune it's a return to the \"shipping culture\" from \"the golden era of Google.\"",
-        "url": "https://fortune.com/2026/02/12/google-gemini-boss-founders-larry-page-sergey-brin-to-win-ai-future/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Titans_GoogleMind_021026_Final_v2-1920mp400_04_31_18Still003-1.jpg?resize=1200,600",
-        "publishedAt": "2026-02-12T14:54:34Z",
-        "content": "Not so long ago, Google risked being seen as a sleeping giant, coasting on its super-sized status while agile competitors raced ahead in the artificial intelligence arms race. But according to Demis \u2026 [+4869 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Allie Garfinkle",
-        "title": "Exclusive: Seligman Ventures debuts with $500 million and a new model for the blurring line between public and private markets",
-        "description": "Seligman, today, is launching venture arm Seligman Ventures, a $500 million fund emphasizing early-stage AI investing.",
-        "url": "https://fortune.com/2026/02/12/exclusive-seligman-ventures-500-million-new-model-blurring-line-public-private-markets/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Umesh-Padval-HiRes-2-1.jpg?resize=1200,600",
-        "publishedAt": "2026-02-12T12:09:41Z",
-        "content": "The public markets are thinning, the private markets are exploding, and AI is wholly destabilizing both.Consider the past weeks software meltdown: AI fears and stalled market dynamics vaporized $1 tr\u2026 [+7269 chars]"
+        "author": "bbergman@insider.com (Ben Bergman,Charles Rollet)",
+        "title": "Anthropic tried to crack down on 'nightmare' investment deals. They're still everywhere.",
+        "description": "Even as Anthropic has tried to clamp down, Business Insider found multiple examples of SPVs being used to market Anthropic shares.",
+        "url": "https://www.businessinsider.com/anthropic-spvs-shares-investor-interest-grows-2026-2",
+        "urlToImage": "https://i.insider.com/698cc029a645d1188189249a?width=1200&format=jpeg",
+        "publishedAt": "2026-02-13T10:00:01Z",
+        "content": "Even as Anthropic has tried to clamp down on a popular investment vehicle, Business Insider found multiple examples of SPVs, or special purpose vehicles, being used to market Anthropic shares.\r\nSPVs,\u2026 [+4485 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Quartz India"
         },
-        "author": "Ari Levy, Jordan Novet",
-        "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
-        "description": "SpaceX's potential IPO has generated plenty of investor buzz, but all of the real action in tech capital markets is currently on the debt side.",
-        "url": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108180551-1754063406053-IMG_8895.jpg?v=1770839922&w=1920&h=1080",
-        "publishedAt": "2026-02-12T13:00:01Z",
-        "content": "Magnificent 7 tech stocks on display at the Nasdaq.\r\nWhile the prospect of a SpaceX initial public offering and the hopeful listings from OpenAI and Anthropic have juiced IPO excitement on Wall Stree\u2026 [+8156 chars]"
+        "author": "Niamh Rowe",
+        "title": "Anthropic's funding round: Eye-popping numbers for AI startup behind Claude",
+        "description": "A record-setting $30 billion funding round. A $380\u2009billion valuation. And annual revenue up a whopping 1,300% for the AI startup behind Claude",
+        "url": "https://qz.com/anthropic-claude-ai-round-revenue-dario-amodei",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xu6UbjTy5NtBhOZrCXJipA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/5ae3c25dba5c20ca69c3b4b154647ba6",
+        "publishedAt": "2026-02-13T14:56:30Z",
+        "content": "Anthropic, the maker of artificial intelligence model Claude, closed a record-setting $30 billion funding round, the start-up announced Thursday.\r\nThe raise, the largest in private tech history, lift\u2026 [+3084 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sharon Goldman",
-        "title": "OpenClaw is the bad boy of AI agents. Here\u2019s why security experts say you should beware",
-        "description": "Open-source AI agent system OpenClaw pushes autonomy to the edge \u2014 thrilling hobbyists and unnerving security experts",
-        "url": "https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2259515289-e1770916900864.jpg?resize=1200,600",
-        "publishedAt": "2026-02-12T17:31:04Z",
-        "content": "Welcome to Eye on AI, with AI reporter Sharon Goldman. In this edition: The wild side of OpenClawAnthropics new $20 million super PAC counters OpenAIOpenAI releases its first model designed for super\u2026 [+11433 chars]"
+        "author": "Matt O'Brien, The Associated Press",
+        "title": "Anthropic\u2019s $380 billion valuation vaults it next to OpenAI, SpaceX among largest IPO candidates",
+        "description": "Anthropic, maker of the chatbot Claude, said Thursday its valuation grew after it raised $30 billion in its latest round of funding.",
+        "url": "https://fortune.com/2026/02/13/anthropics-380-billion-valuation-vaults-it-next-to-openai-spacex-among-largest-ipo-candidates/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26035615816169-e1770988377760.jpg?resize=1200,600",
+        "publishedAt": "2026-02-13T13:16:03Z",
+        "content": "Artificial intelligence company Anthropic says it is now valued at $380 billion, cementing its position\u00a0alongside rival OpenAI\u00a0and Elon Musks SpaceX in a trio of the worlds most valuable startups tha\u2026 [+3003 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Ryan Gould, Edward Ludlow, Bloomberg",
+        "title": "SpaceX said to weigh dual-class IPO shares to empower Musk",
+        "description": "A two-tier structure would give select shareholders stock with extra voting power that would allow them to dominate decision making.",
+        "url": "https://fortune.com/2026/02/13/spacex-ipo-dual-class-shares-elon-musk-control-minority-holders/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2204600170-e1771019204236.jpg?resize=1200,600",
+        "publishedAt": "2026-02-13T21:52:25Z",
+        "content": "SpaceX is considering a dual-class share structure in its planned IPO this year, according to people familiar with the matter, mirroring a strategy its billionaire founder Elon Musk floated for Tesla\u2026 [+2790 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Samantha Subin",
-        "title": "NASA spacesuit maker backed by Donald Trump Jr.'s venture firm raises $350 million",
-        "description": "The space company is creating lunar suits for NASA's upcoming Artemis missions and a successor to the International Space Station.",
-        "url": "https://www.cnbc.com/2026/02/12/space-axiom-donald-trump-jr-qatar.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108265130-1770919279170-AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg?v=1770919361&w=1920&h=1080",
-        "publishedAt": "2026-02-12T21:00:32Z",
-        "content": "Axiom, a space firm providing suits for NASA's moon missions and building a successor to the International Space Station, has raised $350 million, the company said Thursday.\r\nBoth the Qatar sovereign\u2026 [+2454 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Josephine Rozzelle",
-        "title": "Canada tariffs, McDonald's value push, El Paso airport and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/02/12/5-things-to-know-before-the-stock-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108264399-1770818806095-gettyimages-2260406596-house_gop_028_021026.jpeg?v=1770818839&w=1920&h=1080",
-        "publishedAt": "2026-02-12T13:18:58Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Thursday. For nearly a week last year, McDonald's was the number-one global seller of one thi\u2026 [+6107 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Amitoj Singh",
-        "title": "There's an India-U.S.-Russia love-hate triangle \u2014 and it's complicated",
-        "description": "An audacity of opacity has seen observers suggest that India is being \"strategically ambiguous\" when it comes to the U.S. trade deal.",
-        "url": "https://www.cnbc.com/2026/02/12/inside-india-newsletter-india-us-russia-oil-purchases-trade-deal.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215135-1761112940127-gettyimages-2198733043-AFP_36XU2T3.jpeg?v=1770073340&w=1920&h=1080",
-        "publishedAt": "2026-02-12T09:10:50Z",
-        "content": "U.S. President Donald Trump meets with Indian Prime Minister Narendra Modi in the Oval Office of the White House in Washington, DC, on Feb. 13, 2025.\r\nThis report is from this week's CNBC's \"Inside I\u2026 [+8250 chars]"
+        "author": "Ashley Capoot",
+        "title": "Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo",
+        "description": "Cohere's competitors OpenAI and Anthropic are also weighing potential IPOs and competition for enterprise customers is heating up.",
+        "url": "https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108265533-1770989585789-gettyimages-2241974945-UK_TECH_SUMMIT.jpeg?v=1770989608&w=1920&h=1080",
+        "publishedAt": "2026-02-13T14:00:01Z",
+        "content": "Artificial intelligence startup Cohere has told investors that it's seeing momentum with enterprise customers, even as rivals like Google, Anthropic and OpenAI claw for market share.\u00a0\r\nCohere hit rou\u2026 [+2461 chars]"
     }
 ]

@@ -1,80 +1,15 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Jack Newsham",
-        "title": "If you assumed your AI chats couldn't be used against you in court, think again",
-        "description": "A federal judge ruled on Tuesday that prosecutors could access the Claude chat transcripts of a finance startup founder accused of fraud.",
-        "url": "https://www.businessinsider.com/claude-chat-transcripts-lawsuit-privileged-ruling-2026-2",
-        "urlToImage": "https://i.insider.com/698f4e52a645d11881894e58?width=1200&format=jpeg",
-        "publishedAt": "2026-02-13T17:53:57Z",
-        "content": "Jakub Porzycki/NurPhoto via Getty Images\r\n<ul><li>Bradley Heppner got subpoenaed, talked to his lawyers, then talked to AI. The government wants to read it.</li><li>Lawyers for Heppner, a finance sta\u2026 [+4178 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "bbergman@insider.com (Ben Bergman,Charles Rollet)",
-        "title": "Anthropic tried to crack down on 'nightmare' investment deals. They're still everywhere.",
-        "description": "Even as Anthropic has tried to clamp down, Business Insider found multiple examples of SPVs being used to market Anthropic shares.",
-        "url": "https://www.businessinsider.com/anthropic-spvs-shares-investor-interest-grows-2026-2",
-        "urlToImage": "https://i.insider.com/698cc029a645d1188189249a?width=1200&format=jpeg",
-        "publishedAt": "2026-02-13T10:00:01Z",
-        "content": "Even as Anthropic has tried to clamp down on a popular investment vehicle, Business Insider found multiple examples of SPVs, or special purpose vehicles, being used to market Anthropic shares.\r\nSPVs,\u2026 [+4485 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Quartz India"
-        },
-        "author": "Niamh Rowe",
-        "title": "Anthropic's funding round: Eye-popping numbers for AI startup behind Claude",
-        "description": "A record-setting $30 billion funding round. A $380\u2009billion valuation. And annual revenue up a whopping 1,300% for the AI startup behind Claude",
-        "url": "https://qz.com/anthropic-claude-ai-round-revenue-dario-amodei",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xu6UbjTy5NtBhOZrCXJipA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/5ae3c25dba5c20ca69c3b4b154647ba6",
-        "publishedAt": "2026-02-13T14:56:30Z",
-        "content": "Anthropic, the maker of artificial intelligence model Claude, closed a record-setting $30 billion funding round, the start-up announced Thursday.\r\nThe raise, the largest in private tech history, lift\u2026 [+3084 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Matt O'Brien, The Associated Press",
-        "title": "Anthropic\u2019s $380 billion valuation vaults it next to OpenAI, SpaceX among largest IPO candidates",
-        "description": "Anthropic, maker of the chatbot Claude, said Thursday its valuation grew after it raised $30 billion in its latest round of funding.",
-        "url": "https://fortune.com/2026/02/13/anthropics-380-billion-valuation-vaults-it-next-to-openai-spacex-among-largest-ipo-candidates/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26035615816169-e1770988377760.jpg?resize=1200,600",
-        "publishedAt": "2026-02-13T13:16:03Z",
-        "content": "Artificial intelligence company Anthropic says it is now valued at $380 billion, cementing its position\u00a0alongside rival OpenAI\u00a0and Elon Musks SpaceX in a trio of the worlds most valuable startups tha\u2026 [+3003 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Ryan Gould, Edward Ludlow, Bloomberg",
-        "title": "SpaceX said to weigh dual-class IPO shares to empower Musk",
-        "description": "A two-tier structure would give select shareholders stock with extra voting power that would allow them to dominate decision making.",
-        "url": "https://fortune.com/2026/02/13/spacex-ipo-dual-class-shares-elon-musk-control-minority-holders/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2204600170-e1771019204236.jpg?resize=1200,600",
-        "publishedAt": "2026-02-13T21:52:25Z",
-        "content": "SpaceX is considering a dual-class share structure in its planned IPO this year, according to people familiar with the matter, mirroring a strategy its billionaire founder Elon Musk floated for Tesla\u2026 [+2790 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Ashley Capoot",
-        "title": "Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo",
-        "description": "Cohere's competitors OpenAI and Anthropic are also weighing potential IPOs and competition for enterprise customers is heating up.",
-        "url": "https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108265533-1770989585789-gettyimages-2241974945-UK_TECH_SUMMIT.jpeg?v=1770989608&w=1920&h=1080",
-        "publishedAt": "2026-02-13T14:00:01Z",
-        "content": "Artificial intelligence startup Cohere has told investors that it's seeing momentum with enterprise customers, even as rivals like Google, Anthropic and OpenAI claw for market share.\u00a0\r\nCohere hit rou\u2026 [+2461 chars]"
+        "author": "Jordan Blum",
+        "title": "Forgent\u2019s IPO is \u2018bringing sexy back\u2019 to the electrical equipment helping power the AI boom, CEO says",
+        "description": "Forgent is riding the data center and power grid boom with a nationwide manufacturing expansion.",
+        "url": "https://fortune.com/2026/02/14/forgent-ipo-bring-sexy-back-electrical-equipment-power-ai-boom/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/351-Forgent-Electrical-Manufacturing-Champlin-Dayton-MN-branding-wwwjustincoxphotographycom-September-15-2025-1-e1771018947974.jpg?resize=1200,600",
+        "publishedAt": "2026-02-14T11:02:00Z",
+        "content": "The data center and power sectors are booming because of the global AI race but, quietly, so too is the electrical distribution equipment industry that connects the electricity to the Big Tech campus\u2026 [+3618 chars]"
     }
 ]

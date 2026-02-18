@@ -1,93 +1,158 @@
 [
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "MIT Technology Review"
         },
-        "author": "Jay Peters",
-        "title": "AI can\u2019t make good video game worlds yet, and it might never be able to",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in fo\u2026",
-        "url": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&strip=all&crop=0%2C10.704835894838%2C100%2C78.590328210325&w=1200",
-        "publishedAt": "2026-02-15T02:13:38Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Genie is an underwhelming glimpse into what may come.\r\nProject Genie is an underwhelming glimpse into what may come.\r\nby\r\nJay PetersClose\r\nPosts from thi\u2026 [+8731 chars]"
+        "author": "Stephen Ornes",
+        "title": "The scientist using AI to hunt for antibiotics just about everywhere",
+        "description": "When he was just a teenager trying to decide what to do with his life, C\u00e9sar de la Fuente compiled a list of the world\u2019s biggest problems. He ranked them inversely by how much money governments were spending to solve them. Antimicrobial resistance topped the \u2026",
+        "url": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/02/DSC9306_social.jpg?resize=1200,600",
+        "publishedAt": "2026-02-16T11:00:00Z",
+        "content": "But de la Fuente is using artificial intelligence to bring about a different future. His team at the University of Pennsylvania is training AI tools to search genomes far and deep for peptides with a\u2026 [+3998 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Mike Pearl",
+        "title": "OpenAI Just Hired the OpenClaw Guy, and Now You Have to Learn Who He Is",
+        "description": "Austrian developer and former entrepreneur Peter Steinberger is largely responsible for the recent frenzy over AI agents.",
+        "url": "https://gizmodo.com/openai-just-hired-the-openclaw-guy-and-now-you-have-to-learn-who-he-is-2000722579",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/openai-logo-1200x675.jpg",
+        "publishedAt": "2026-02-16T19:24:10Z",
+        "content": "Setting aside whatever your values and opinions may be around AI, you should probably pay attention to the fact that OpenAI just hired a guy named Peter Steinberger. I dont make the rules, sorry.\r\nPe\u2026 [+6498 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "OpenAI hires OpenClaw founder Peter Steinberger in push toward autonomous agents",
-        "description": "Peter Steinberger, the creator of the fast-growing open-source agent framework OpenClaw, is joining OpenAI Group PBC after weeks of being courted by multiple major artificial intelligence players, marking a notable coup for the company as the battle over agen\u2026",
-        "url": "https://siliconangle.com/2026/02/15/openai-hires-openclaw-founder-peter-steinberger-push-toward-autonomous-agents/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/PeterSteinberger.png",
-        "publishedAt": "2026-02-15T22:43:07Z",
-        "content": "Peter Steinberger, the creator of the fast-growing open-source agent framework OpenClaw, is joining OpenAI Group PBC after weeks of being courted by multiple major artificial intelligence players, ma\u2026 [+4798 chars]"
+        "author": "Maria Deutscher",
+        "title": "Alibaba releases multimodal Qwen3.5 mixture of experts model",
+        "description": "Alibaba Group Holding Ltd. today released an artificial intelligence model that it says can outperform GPT-5.2 and Claude 4.5 Opus at some tasks. The new algorithm, Qwen3.5, is available on Hugging Face under an open-source license. By default, Qwen3.5 is cap\u2026",
+        "url": "https://siliconangle.com/2026/02/16/alibaba-releases-multimodal-qwen3-5-mixture-experts-model/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/alibaba2.png",
+        "publishedAt": "2026-02-16T21:33:25Z",
+        "content": "Alibaba Group Holding Ltd. today released an artificial intelligence model that it says can outperform GPT-5.2 and Claude 4.5 Opus at some tasks.\r\nThe new algorithm, Qwen3.5, is available on Hugging \u2026 [+3783 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "David Vellante, Paul Nashawaty, Bob Laliberte, Sam Weston, Scott Hebner and Christophe Bertrand",
-        "title": "TheCUBE Research 2026 predictions: The year of enterprise ROI",
-        "description": "Observers commonly say that artificial intelligence is still in the \u201cearly innings.\u201d The reality is AI is much further along than many acknowledge. In 2012,\u00a0AlexNet\u00a0was a watershed deep learning moment when massive and freely available internet datasets met N\u2026",
-        "url": "https://siliconangle.com/2026/02/15/thecube-research-2026-predictions-year-enterprise-roi/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/analystscrystalball-reve.png",
-        "publishedAt": "2026-02-15T18:49:10Z",
-        "content": "Observers commonly say that artificial intelligence is still in the early innings. The reality is AI is much further along than many acknowledge.\r\nIn 2012,\u00a0AlexNet\u00a0was a watershed deep learning momen\u2026 [+36596 chars]"
+        "author": "Mike Wheatley",
+        "title": "Manus launches personal AI agents in Telegram, with more messaging apps to come",
+        "description": "Meta Platforms Inc.\u2019s agentic artificial intelligence tool Manus said today it\u2019s going to integrate its platform with popular messaging applications including Telegram, WhatsApp, LINE and Slack. To kick things off, it\u2019s launching Manus Agents in Telegram firs\u2026",
+        "url": "https://siliconangle.com/2026/02/16/manus-launches-personal-ai-agents-telegram-messaging-apps-come/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-17-09-04-26.png",
+        "publishedAt": "2026-02-17T02:05:38Z",
+        "content": "Meta Platforms Inc.s agentic artificial intelligence tool Manus said today its going to integrate its platform with popular messaging applications including Telegram, WhatsApp, LINE and Slack.\r\nTo ki\u2026 [+3975 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Pentagon officials threaten to blacklist Anthropic over its military chatbot policies",
+        "description": "The U.S. Department of War is reportedly considering cutting all business ties with the artificial intelligence startup Anthropic PBC and designating it as a \u201csupply chain risk\u201d amid disagreements over how it intends to use its chatbot tool Claude. If the War\u2026",
+        "url": "https://siliconangle.com/2026/02/16/pentagon-officials-threaten-blacklist-anthropic-military-chatbot-policies/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-17-06-36-59.png",
+        "publishedAt": "2026-02-16T23:37:32Z",
+        "content": "The U.S. Department of War is reportedly considering cutting all business ties with the artificial intelligence startup Anthropic PBC and designating it as a supply chain risk amid disagreements over\u2026 [+5348 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Construction robotics startup Sitegeist raises \u20ac4M to automate arduous concrete repair jobs",
+        "description": "German startup Sitegeist GmbH said today it has raised \u20ac4 million (around $4.75 million) in pre-seed funding to help accelerate the renovation of Europe\u2019s infrastructure with robotic automation. Today\u2019s round was led by b2venture and OpenOcean and saw partici\u2026",
+        "url": "https://siliconangle.com/2026/02/16/construction-robotics-startup-sitegeist-raises-e4m-automate-concrete-repair/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-17-08-26-55.png",
+        "publishedAt": "2026-02-17T01:28:38Z",
+        "content": "German startup Sitegeist GmbH said today it has raised 4 million (around $4.75 million) in pre-seed funding to help accelerate the renovation of Europes infrastructure with robotic automation.\r\nToday\u2026 [+5881 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "India\u2019s Neysa raises $1.2B to expand its AI-optimized cloud platform",
+        "description": "Cloud startup Neysa Networks Pvt. Ltd. today announced that it will raise up to $1.2 billion in financing to build data center infrastructure. A consortium led by Blackstone will provide up to half the sum in the form of equity funding. According to TechCrunc\u2026",
+        "url": "https://siliconangle.com/2026/02/16/indias-neysa-raises-1-2b-expand-ai-optimized-cloud-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/unsplash-1-1.png",
+        "publishedAt": "2026-02-16T23:38:35Z",
+        "content": "Cloud startup Neysa Networks Pvt. Ltd. today announced that it will raise up to $1.2 billion in financing to build data center infrastructure.\r\nA consortium led by Blackstone will provide up to half \u2026 [+4387 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "IT budgets may be rising, but inflation is killing value, tech economist warns",
+        "description": "Howard Rubin\u2019s core message to information technology leaders is blunt: The problem is not that enterprises spend too much on technology; it\u2019s that they measure it wrong and manage it poorly. Rubin, founder of The Technology Economists and a leading expert on\u2026",
+        "url": "https://siliconangle.com/2026/02/16/budgets-may-rising-inflation-killing-value-tech-economist-warns/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Budget-line-on-a-computer-screen.jpeg",
+        "publishedAt": "2026-02-16T16:45:29Z",
+        "content": "Howard Rubins core message to information technology leaders is blunt: The problem is not that enterprises spend too much on technology; its that they measure it wrong and manage it poorly.\r\nRubin, f\u2026 [+8151 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Joe McKendrick",
+        "title": "6 reasons why autonomous enterprises are still more a vision than reality",
+        "description": "We're not ready to hand the company keys to AI anytime soon.",
+        "url": "https://www.zdnet.com/article/autonomous-enterprises-vision-reality/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/785622734e37526a7870055c7281d0c4593bbe2e/2026/02/16/f2f43ed4-befa-4f63-8aba-4ad2cab7e6e3/gettyimages-2210282176.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-16T12:54:28Z",
+        "content": "J Studios/DigitalVision/Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>True AI autonomy is still only seen in a minority of companies.\u00a0</li><li>Te\u2026 [+7821 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "Microsoft\u2019s AI boss says AI can replace every white-collar job in 18 months \u2014 \u2018We\u2019re going to have a human-level performance on most, if not all, professional tasks\u2019",
-        "description": "Microsoft AI CEO Mustafa Suleyman claims that AI models will become powerful enough in the next 12 to 18 months that they would start replacing humans in white-collar jobs like lawyers, accountants, project managers, and marketers.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsofts-ai-boss-says-ai-can-replace-every-white-collar-job-in-18-months-were-going-to-have-a-human-level-performance-on-most-if-not-all-professional-tasks",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/SUtETCBj5Tqxw9kwimNkbU-1920-80.jpg",
-        "publishedAt": "2026-02-15T13:40:00Z",
-        "content": "Microsoft AI chief executive Mustafa Suleyman said that artificial intelligence can replace most white-collar work in the 12 to 18 months. The Microsoft head said this during a YouTube interview with\u2026 [+2441 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "Mark Tyson",
-        "title": "Living neurons integrated into modern AI processing, claims SF startup \u2014 biological computing power used to boost computer vision, generative video, and more",
-        "description": "The Biological Computing Company (TBC) has just raised $25m, despite its admitted decades-long plans for real-time compute implementation.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/living-neurons-integrated-into-modern-ai-processing-claims-sf-startup-biological-computing-power-used-to-boost-computer-vision-generative-video-and-more",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/NcGxttazXXyikXzdvbDqCR-1920-80.jpg",
-        "publishedAt": "2026-02-15T12:20:00Z",
-        "content": "A San Francisco-based startup claims to be the first to have created a biological computing platform built from living neurons, purposed to accelerate artificial intelligence-based tasks. The Biologi\u2026 [+3088 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "GPT-5 bests human judges in legal smack down",
-        "description": "But that doesn't mean AI is ready to dispense justice ai-pocalypse\u00a0 Legal scholars have found that OpenAI's GPT-5 follows the law better than human judges, but they leave open the question of whether AI is right for the job.\u2026",
-        "url": "https://www.theregister.com/2026/02/15/gpt5_bests_human_judges_in/",
-        "urlToImage": "https://regmedia.co.uk/2021/02/09/lawyer.jpg",
-        "publishedAt": "2026-02-15T14:32:11Z",
-        "content": "ai-pocalypse Legal scholars have found that OpenAI's GPT-5 follows the law better than human judges, but they leave open the question of whether AI is right for the job.\r\nUniversity of Chicago law pr\u2026 [+4398 chars]"
+        "author": "Jeffrey Kampman",
+        "title": "Corsair AI Workstation 300 review: Strix Halo sets sail in a compact and classy (but pricey) package",
+        "description": "Corsair\u2019s AI Workstation 300 wraps up AMD\u2019s popular Strix Halo platform in a compact and classy chassis that delivers all of that chip\u2019s performance potential, along with plenty of connectivity options for general PC use. But a recent price hike and stiff com\u2026",
+        "url": "https://www.tomshardware.com/pc-components/gpus/corsair-ai-workstation-300-review",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/7y8Z8fecaKiKXiXkCg4Ud6-2560-80.jpg",
+        "publishedAt": "2026-02-16T13:46:10Z",
+        "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.AMD's Ryzen AI Max+ \u2026 [+15974 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Rebecca Bellan",
-        "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface. | TechCrunch",
-        "description": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-        "url": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183688.jpg?w=1024",
-        "publishedAt": "2026-02-15T17:31:36Z",
-        "content": "The battle for enterprise AI is heating up. Microsoft is bundling Copilot into Office. Google is pushing Gemini into Workspace. OpenAI and Anthropic are selling directly to enterprises. Every SaaS ve\u2026 [+3826 chars]"
+        "author": "Ivan Mehta",
+        "title": "All the important news from the ongoing India AI Summit | TechCrunch",
+        "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+        "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+        "publishedAt": "2026-02-16T11:22:04Z",
+        "content": "With an eye towards luring more AI investment to the country, India is hosting a four-day AI Impact Summit this week that will be attended by executives from major AI labs and Big Tech, including Ope\u2026 [+2235 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Julie Bort",
+        "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months | TechCrunch",
+        "description": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
+        "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
+        "publishedAt": "2026-02-16T17:04:59Z",
+        "content": "The co-founders of startup Ricursive Intelligence seemed destined to be co-founders.\r\nAnna Goldie, CEO, and Azalia Mirhoseini, CTO, are so well-known in the AI community that they were among those AI\u2026 [+5381 chars]"
     }
 ]

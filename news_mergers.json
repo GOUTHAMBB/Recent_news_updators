@@ -1,15 +1,93 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Joshua Nelken-Zitser",
+        "title": "I got laid off and used my severance money to launch a startup. Here's why it felt like less of a gamble than pursuing an MBA.",
+        "description": "Sam Perry, 40, used his severance money to launch a startup instead of pursuing a costly MBA. He said it helped him stand out in the job market.",
+        "url": "https://www.businessinsider.com/laid-off-severance-money-pay-launch-startup-or-mba-2026-2",
+        "urlToImage": "https://i.insider.com/69821515a645d11881888ba6?width=851&format=jpeg",
+        "publishedAt": "2026-02-17T09:17:01Z",
+        "content": "Sam Perry, 40, was laid off in 2022.Courtesy of Sam Perry\r\n<ul><li>Sam Perry thought an MBA was like a cheat code for success in the corporate world.</li><li>When he got laid off, he decided to spend\u2026 [+4235 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jim Edwards",
+        "title": "D-Wave CEO shrugs off short attacks with \u2018revolutionary\u2019 $550 million quantum computing acquisition",
+        "description": "Less than 10% of D-Wave's clients are government research contracts, Alan Baratz says, proof it is offering commercially viable services.",
+        "url": "https://fortune.com/2026/02/17/d-wave-ceo-short-revolutionary-550-million-quantum-circuits-acquisition/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/D-Wave-Qubits-2026-Alan-Baratz-Keynote-03700-1.jpg?resize=1200,600",
+        "publishedAt": "2026-02-17T13:37:59Z",
+        "content": "There are four main publicly-traded quantum computing companies, and they all have one thing in common: In the last 14 months, all of them have been the target of activist investors shorting their st\u2026 [+6011 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jacqueline Munis",
+        "title": "Klarna\u2019s CEO agrees with Dario Amodei. He thinks his white-collar workforce will shrink by a third by 2030",
+        "description": "CEO Sebastian Siemiatkowski says attrition, not layoffs, is the reason behind the company\u2019s smaller workforce.",
+        "url": "https://fortune.com/2026/02/17/klarnas-ceo-dario-amodei-ai-white-collar-workforce-shrink-2030/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2234051419-e1771346370330.jpg?resize=1200,600",
+        "publishedAt": "2026-02-17T16:46:19Z",
+        "content": "As AI spells doom for white-collar jobs, Klarna CEO Sebastian Siemiatkowski is providing a transparent look at how his company is shrinking its workforce in real time.\u00a0While about 40% of employers ex\u2026 [+3064 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Macron courts Modi as India nears $40 billion Rafale fighter jet deal",
+        "description": "Macron visits India to deepen defence ties as New Delhi advances a $40 billion deal for 114 Rafale jets and expands AI and technology cooperation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-17/macron-pushes-for-fighter-jet-deal-on-high-profile-india-trip",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/ea2uf1/article70642686.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000246B.jpg",
+        "publishedAt": "2026-02-17T10:45:05Z",
+        "content": "French President Emmanuel Macron is pulling out all the stops to court Indian Prime Minister Narendra Modi and persuade him to buy French fighter jets, beginning his fourth visit to India since his e\u2026 [+2571 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Diane Brady",
+        "title": "New U.S. legislation could upend credit card loyalty programs. The Points Guy founder calls the reckoning un-American",
+        "description": "Also: All the news and watercooler chat from Fortune.",
+        "url": "https://fortune.com/2026/02/17/airline-credit-card-loyalty-programs-legislation-the-points-guy-unamerican/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2255970302-e1771321311133.jpg?resize=1200,600",
+        "publishedAt": "2026-02-17T10:08:27Z",
+        "content": "Good morning. Americans love their loyalty points. Almost three-quarters of them use a credit card that lets them earn rewards. And the income generated from issuing those points is critically import\u2026 [+5226 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Zach Vallese",
-        "title": "Apple takes on YouTube and Spotify with new video podcasting push",
-        "description": "Apple on Monday announced that it will bring a new integrated video podcast experience to Apple Podcasts this spring.",
-        "url": "https://www.cnbc.com/2026/02/16/apple-takes-on-youtube-and-spotify-with-new-video-podcasting-push.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108266087-1771261356449-gettyimages-2155600665-porzycki-appsonap240605_np3cr.jpeg?v=1771261382&w=1920&h=1080",
-        "publishedAt": "2026-02-16T18:21:09Z",
-        "content": "Apple on Monday announced that it will bring a new integrated video podcast experience to Apple Podcasts this spring.\r\nThe move comes as video viewership continues to reshape podcasting. About 37% of\u2026 [+2875 chars]"
+        "author": "Samantha Subin",
+        "title": "Palo Alto Networks slumps 6% as third quarter profit guidance falls short",
+        "description": "The cybersecurity company also said on Tuesday that it's buying Israeli startup Koi",
+        "url": "https://www.cnbc.com/2026/02/17/palo-alto-networks-panw-q2-2026-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137406-17458547422025-03-25t214442z_1404614266_rc2jkda1kvqf_rtrmadp_0_paloalto-stocks.jpeg?v=1753825094&w=1920&h=1080",
+        "publishedAt": "2026-02-17T22:24:14Z",
+        "content": "Palo Alto Networks beat Wall Street's fiscal second-quarter estimates after the bell on Tuesday but shares fell 6% on disappointing guidance.\r\nHere's how the company did versus LSEG estimates:\r\n<ul><\u2026 [+1900 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ian King",
+        "title": "CNBC's UK Exchange newsletter: The billion-dollar takeover of one of London's oldest asset managers won't be forgotten",
+        "description": "The loss of one of the Square Mile's bastions of banking marks the start of a new era for the City.",
+        "url": "https://www.cnbc.com/2026/02/18/cnbcs-uk-exchange-newsletterschroders-asset-manager-takeover.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/104224855-GettyImages-94903371.jpg?v=1770886793&w=1920&h=1080",
+        "publishedAt": "2026-02-18T06:30:01Z",
+        "content": "This report is from this week's CNBC's UK Exchange newsletter. Like what you see? You can subscribe\u00a0here.\r\nThe dispatch\r\nSome takeovers of U.K. companies arouse little attention. Others, like the \u00a311\u2026 [+8144 chars]"
     }
 ]

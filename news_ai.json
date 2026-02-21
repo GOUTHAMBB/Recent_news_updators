@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Molly Taft",
-        "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn't Offer Much Proof",
-        "description": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-        "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-        "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
-        "publishedAt": "2026-02-18T15:17:31Z",
-        "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]"
+        "author": "AJ Dellinger",
+        "title": "AI-Generated Passwords Are Apparently Quite Easy to Crack",
+        "description": "LLMs like to repeat themselves, which isn't great for password creation.",
+        "url": "https://gizmodo.com/ai-generated-passwords-are-apparently-quite-easy-to-crack-2000723660",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/11/password-art-getty.jpg",
+        "publishedAt": "2026-02-19T12:00:23Z",
+        "content": "The era of AI has not been particularly great for cybersecurity. We know that vibe-coded websites and apps have been a hotbed of security flaws that leave the platforms vulnerable to attacks. It turn\u2026 [+4810 chars]"
     },
     {
         "source": {
@@ -18,64 +18,77 @@
             "name": "Gizmodo.com"
         },
         "author": "AJ Dellinger",
-        "title": "Google Launches Music Generation Model to Make Songs 30-Seconds at a Time",
-        "description": "Because actually making art is for suckers.",
-        "url": "https://gizmodo.com/google-launches-music-generation-model-to-make-songs-30-seconds-at-a-time-2000723549",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Screenshot-2026-02-18-at-11.45.37\u202fAM-1200x675.jpg",
-        "publishedAt": "2026-02-18T18:45:38Z",
-        "content": "Need an AI-generated soundtrack to go with your AI-generated video that you\u2019re planning to send to your AI-generated friends? Google has you covered. The company announced today that Lyria 3, its mus\u2026 [+2532 chars]"
+        "title": "New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place",
+        "description": "And this research was conducted before OpenClaw unleashed a monster.",
+        "url": "https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181",
+        "urlToImage": "https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907.jpg",
+        "publishedAt": "2026-02-20T01:00:50Z",
+        "content": "In the last year, AI agents have become all the rage. OpenAI, Google, and Anthropic all launched public-facing agents designed to take on multi-step tasks handed to them by humans. In the last month,\u2026 [+5537 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Theregister.com"
         },
-        "author": "Ece Yildirim",
-        "title": "AI Is Starting to Show an Impact in Early-Career Jobs, Irish Government Says",
-        "description": "The data from Ireland could be an early warning for the U.S.",
-        "url": "https://gizmodo.com/ai-is-starting-to-show-an-impact-in-early-career-jobs-irish-government-says-2000723436",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2682506945-1200x675.jpg",
-        "publishedAt": "2026-02-18T21:05:43Z",
-        "content": "Artificial intelligence is hitting some parts of the job market, the Irish government shared in a report on Wednesday, with a particularly large impact on young workers.\r\nAccording to the Irish Depar\u2026 [+5162 chars]"
+        "author": "SA Mathieson",
+        "title": "AI chatbots waffle on GOV.UK queries, then get facts wrong when told to zip it",
+        "description": "Study of 11 LLMs shows they rarely refuse to answer, even when they probably should\nArtificial intelligence chatbots can be too chatty when answering questions on government services, swamping accurate information and making mistakes if told to be more concis\u2026",
+        "url": "https://www.theregister.com/2026/02/19/chatbots_too_chatty_government/",
+        "urlToImage": "https://regmedia.co.uk/2015/09/17/shutterstock_blah_blah.jpg",
+        "publishedAt": "2026-02-19T10:16:27Z",
+        "content": "Artificial intelligence chatbots can be too chatty when answering questions on government services, swamping accurate information and making mistakes if told to be more concise, according to research\u2026 [+3052 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Theregister.com"
         },
-        "author": "Mike Pearl",
-        "title": "SaaS Companies Take Unusual Step to Prove AI Has Not Mortally Wounded Them",
-        "description": "Please remember that the SaaSpocalypse is a narrative, not a material fact.",
-        "url": "https://gizmodo.com/saas-companies-take-unusual-step-to-prove-ai-has-not-mortally-wounded-them-2000722626",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/perforce-1200x675.jpg",
-        "publishedAt": "2026-02-18T01:51:48Z",
-        "content": "As a sort of proof-of-life exercise, a collection of private software-as-a-service (SaaS) companies recently posted their earnings despite it not being strictly necessary, according to Bloomberg. Thi\u2026 [+2645 chars]"
+        "author": "Connor Jones",
+        "title": "Android malware taps Gemini to navigate infected devices",
+        "description": "The real deal or another research project overblown?\nCybersecurity researchers say they've spotted the first Android malware strain that uses generative AI to improve performance once installed. But it may be only a proof of concept.\u2026",
+        "url": "https://www.theregister.com/2026/02/19/genai_malware_android/",
+        "urlToImage": "https://regmedia.co.uk/2020/11/06/android.jpg",
+        "publishedAt": "2026-02-19T16:04:52Z",
+        "content": "Cybersecurity researchers say they've spotted the first Android malware strain that uses generative AI to improve performance once installed. But it may be only a proof of concept.\r\nESET calls it Pro\u2026 [+4850 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Tina Nguyen",
+        "title": "It\u2019s MAGA v Broligarch in the battle over prediction markets",
+        "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the love-hate (but mostly hate) relationship between Silicon Valley and Washington. I hope everyone got to celebrate George Washington's birthday in their preferred manner: skiing, stayc\u2026",
+        "url": "https://www.theverge.com/policy/881139/broligarch-prediction-markets",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2254306861.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "publishedAt": "2026-02-19T13:47:42Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nIts MAGA v Broligarch in the battle over prediction markets\r\nPrediction: This is going to be a mess for the Trump right.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, \u2026 [+9612 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Theregister.com"
         },
-        "author": "Matt Novak",
-        "title": "Does \u2018Sorry\u2019 Count When AI Writes It for You?",
-        "description": "She burned down a house and bit a cop. A judge wasn't impressed with her AI apology.",
-        "url": "https://gizmodo.com/does-sorry-count-when-ai-writes-it-for-you-2000723176",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/sorry-post-it-note-1200x675.jpg",
-        "publishedAt": "2026-02-18T00:28:19Z",
-        "content": "A woman in New Zealand has been sentenced to over three years in prison for burning down a house she rented and assaulting a police officer. Normally that wouldn\u2019t be the kind of thing that makes int\u2026 [+3132 chars]"
+        "author": "Brandon Vigliarolo",
+        "title": "Don't believe the hyperscalers! AI can't cure the climate crisis",
+        "description": "From AI conflation to thin evidence, a new report calls many climate claims greenwashing\nSome AI advocates claim that bots hold the secret to mitigating climate change. But research shows that the reality is far different, as new datacenters cause power utili\u2026",
+        "url": "https://www.theregister.com/2026/02/19/ai_climate_crisis_claims/",
+        "urlToImage": "https://regmedia.co.uk/2022/08/31/shutterstock_greenwashing_cloudwashing.jpg",
+        "publishedAt": "2026-02-19T18:23:34Z",
+        "content": "Some AI advocates claim that bots hold the secret to mitigating climate change. But research shows that the reality is far different, as new datacenters cause power utilities to burn even more fossil\u2026 [+6788 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Theregister.com"
         },
-        "author": "Bruce Gil",
-        "title": "Apple\u2019s Lack of Interest in AI Hype Is Suddenly Making It Attractive to Wall Street",
-        "description": "Apple has positioned itself as an alternative to tech stocks dependent on the AI boom to grow.",
-        "url": "https://gizmodo.com/apples-lack-of-interest-in-ai-hype-is-suddenly-making-it-attractive-to-wall-street-2000723397",
-        "urlToImage": "https://gizmodo.com/app/uploads/2023/06/9a693a8751707f9ccb45df74a675c504.jpg",
-        "publishedAt": "2026-02-18T16:40:43Z",
-        "content": "For quite some time, the narrative has been that Apple has fallen behind in the AI arms race, but that very quality is now making it appealing to investors looking for an AI-safe play.\r\nBloomberg fir\u2026 [+2651 chars]"
+        "author": "Richard Speed",
+        "title": "Agile Manifesto turns 25 \u2013 just in time for vibe coding to test it",
+        "description": "Co-author Jon Kern says AI coding tools amplify strengths and expose weaknesses\nInterview Twenty-five years after 17 software developers gathered at a Utah ski resort to draft the the Agile Manifesto, artificial intelligence is once again reshaping how code g\u2026",
+        "url": "https://www.theregister.com/2026/02/19/jon_kern_vibe_coding/",
+        "urlToImage": "https://regmedia.co.uk/2026/02/12/jon_kern.jpg",
+        "publishedAt": "2026-02-19T09:30:15Z",
+        "content": "Interview Twenty-five years after 17 software developers gathered at a Utah ski resort to draft the the Agile Manifesto, artificial intelligence is once again reshaping how code gets written.\r\nOne of\u2026 [+4052 chars]"
     },
     {
         "source": {
@@ -93,119 +106,67 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "MIT Technology Review"
         },
-        "author": "James Whitbrook",
-        "title": "The Future of \u2018Star Trek\u2019 Comics Is Ready for a New Next Generation (Exclusive)",
-        "description": "Welcome Captain Seven of Nine aboard the 'Enterprise' with IDW's new 'Star Trek' comic.",
-        "url": "https://gizmodo.com/star-trek-idw-comics-2026-seven-of-nine-legacy-2000723368",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/star-trek-idw-comics-relaunch-2026-seven-of-nine-1200x675.jpg",
-        "publishedAt": "2026-02-18T15:00:25Z",
-        "content": "It\u2019s been a while since IDW\u2019s ongoing\u00a0Star Trek comic wrapped up a blockbuster run, and in the meantime the publisher has been delivering a plethora of other series set across the\u00a0Trek timeline. But \u2026 [+4964 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Katelyn Chedraoui",
-        "title": "AI Slop Is Destroying the Internet. These Are the People Fighting to Save It",
-        "description": "AI slop is an oil spill in our digital oceans. The cleanup depends on all of us doing our part.",
-        "url": "https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/b06190df97f0f7a9ff79f580b1914ea42714215b/hub/2026/02/17/df5f8ae7-c9f2-43e0-b880-031830092afb/cs-hero-ai.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-18T13:01:01Z",
-        "content": "Rosanna Pansino has been sharing her baking creations with the internet for over 15 years, hoping to delight and inspire with fun creations that include a Star Wars Death Star cake and holographic ch\u2026 [+29326 chars]"
+        "author": "Rhiannon Williams",
+        "title": "The Download: autonomous narco submarines, and virtue signaling chatbots",
+        "description": "This is today\u2019s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How uncrewed narco subs could transform the Colombian drug trade For decades, handmade narco subs have been some of the c\u2026",
+        "url": "https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/02/COLOMBIA-6.edit_.jpg?resize=1200,600",
+        "publishedAt": "2026-02-19T13:10:00Z",
+        "content": "Too often, those victims have been left to fight aloneThat is not justice. It is failure.\r\nKeir Starmer, the UKs prime minister, outlines plans to force technology firms to remove deepfake nudes and \u2026 [+1601 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Connor Jones",
-        "title": "Your AI-generated password isn't random, it just looks that way",
-        "description": "Seemingly complex strings are actually highly predictable, crackable within hours Generative AI tools are surprisingly poor at suggesting strong passwords, experts say.\u2026",
-        "url": "https://www.theregister.com/2026/02/18/generating_passwords_with_llms/",
-        "urlToImage": "https://regmedia.co.uk/2017/07/26/random_numbers.png",
-        "publishedAt": "2026-02-18T14:06:36Z",
-        "content": "Generative AI tools are surprisingly poor at suggesting strong passwords, experts say.\r\nAI security company Irregular looked at Claude, ChatGPT, and Gemini, and found all three GenAI tools put forwar\u2026 [+4416 chars]"
+        "author": "Joe Fay",
+        "title": "Spending watchdog tells National Science Foundation CIO to up game on tech procurement",
+        "description": "Wants SLAs, revamped contracts for cloud ops\nThe US Congress\u2019 spending watchdog, the Government Accountability Office, has pressed the National Science Foundation\u2019s CIO to improve how the agency plans, manages, and procures technology.\u2026",
+        "url": "https://www.theregister.com/2026/02/19/gao_nsf_cio/",
+        "urlToImage": "https://regmedia.co.uk/2025/11/05/unhappy_scientist.jpg",
+        "publishedAt": "2026-02-19T19:07:14Z",
+        "content": "The US Congress spending watchdog, the Government Accountability Office, has pressed the National Science Foundations CIO to improve how the agency plans, manages, and procures technology.\r\nThe open \u2026 [+3009 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "AI agents abound, unbound by rules or safety disclosures",
+        "description": "MIT CSAIL's 2025 AI Agent Index puts opaque automated systems under the microscope\nAI agents are becoming more common and more capable, without consensus or standards on how they should behave, say academic researchers.\u2026",
+        "url": "https://www.theregister.com/2026/02/20/ai_agents_abound_unbound_by/",
+        "urlToImage": "https://regmedia.co.uk/2024/01/16/shutterstock_sleeper_agent.jpg",
+        "publishedAt": "2026-02-20T01:01:15Z",
+        "content": "AI agents are becoming more common and more capable, without consensus or standards on how they should behave, say academic researchers.\r\nSo says MITs Computer Science &amp; Artificial Intelligence L\u2026 [+5192 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Meta agrees to buy millions more AI chips for Nvidia, raising doubts over its in-house hardware",
-        "description": "Meta Platforms Inc. has agreed a new deal with Nvidia Corp. to buy millions of its next-generation Vera Rubin graphics processing units and a similar number of Grace central processing units to fuel its artificial intelligence ambitions. The deal, announced t\u2026",
-        "url": "https://siliconangle.com/2026/02/17/meta-agrees-buy-millions-ai-chips-nvidia-raising-doubts-house-hardware/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-18-09-20-04.png",
-        "publishedAt": "2026-02-18T02:22:16Z",
-        "content": "Meta Platforms Inc. has agreed a new deal with Nvidia Corp. to buy millions of its next-generation Vera Rubin graphics processing units and a similar number of Grace central processing units to fuel \u2026 [+6216 chars]"
+        "author": "Kyt Dotson",
+        "title": "WaveMaker bets on markup-first AI to tame enterprise app generation costs",
+        "description": "WaveMaker Inc., an enterprise web and mobile application platform provider, today announced the launch of a new agentic artificial intelligence application generation system aimed at standardizing AI development. The company said it focused on the ongoing tre\u2026",
+        "url": "https://siliconangle.com/2026/02/19/wavemaker-bets-markup-first-ai-tame-enterprise-app-generation-costs/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/home-banner-gr.png",
+        "publishedAt": "2026-02-19T13:00:59Z",
+        "content": "WaveMaker Inc., an enterprise web and mobile application platform provider, today announced the launch of a new agentic artificial intelligence application generation system aimed at standardizing AI\u2026 [+5191 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "James Farrell",
-        "title": "Spain launches probe into social media giants as European regulation starts to boil",
-        "description": "Spanish authorities will investigate the social media companies Meta Platforms Inc., X Corp., and TikTok to determine if the companies have spread child sexual abuse material generated by artificial intelligence. The investigation follows a broader push by Eu\u2026",
-        "url": "https://siliconangle.com/2026/02/17/spain-launches-probe-social-media-giants-european-regulation-starts-boil/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/camilo-jimenez-qZenO_gQ7QA-unsplash.jpg",
-        "publishedAt": "2026-02-18T02:36:11Z",
-        "content": "Spanish authorities will investigate the social media companies Meta Platforms Inc., X Corp., and TikTok to determine if the companies have spread child sexual abuse material generated by artificial \u2026 [+4141 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Opkey launches Design Studio to automate enterprise cloud application discovery and design",
-        "description": "Agentic enterprise app lifecycle optimization platform company\u00a0Opkey\u00a0today announced the launch of Opkey Design Studio, a suite of agentic artificial intelligence capabilities that extends its platform to automate and standardize cloud application discovery a\u2026",
-        "url": "https://siliconangle.com/2026/02/18/opkey-launches-design-studio-automate-enterprise-cloud-application-discovery-design/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/opkeydesignstudio.png",
-        "publishedAt": "2026-02-18T14:00:48Z",
-        "content": "Agentic enterprise app lifecycle optimization platform company\u00a0Opkey\u00a0today announced the launch of Opkey Design Studio, a suite of agentic artificial intelligence capabilities that extends its platfo\u2026 [+4425 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Solink introduces AI Agents designed to act on video and business data in real time",
-        "description": "Artificial intelligence-driven video intelligence company Solink Corp. today announced the launch of Solink AI Agents, context-aware agents that understand, reason and act on video and business data across physical locations to increase protection of assets a\u2026",
-        "url": "https://siliconangle.com/2026/02/18/solink-introduces-ai-agents-designed-act-video-business-data-real-time/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/solink.png",
-        "publishedAt": "2026-02-18T14:00:29Z",
-        "content": "Artificial intelligence-driven video intelligence company Solink Corp. today announced the launch of Solink AI Agents, context-aware agents that understand, reason and act on video and business data \u2026 [+3665 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Heron Power raises $140M to build 40GW US solid-state transformer manufacturing facility",
-        "description": "Energy infrastructure company Heron Power Inc. announced today that it has raised $140 million in new funding to build a 40-gigawatt, highly automated U.S. manufacturing facility for Heron Link, the company\u2019s solid-state transformer solution for critical ener\u2026",
-        "url": "https://siliconangle.com/2026/02/18/heron-power-raises-140m-build-40gw-us-solid-state-transformer-manufacturing-facility/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/heronpower.png",
-        "publishedAt": "2026-02-18T23:33:57Z",
-        "content": "Energy infrastructure company Heron Power Inc. announced today that it has raised $140 million in new funding to build a 40-gigawatt, highly automated U.S. manufacturing facility for Heron Link, the \u2026 [+4390 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Modern PDF platforms are becoming high-risk attack surfaces",
-        "description": "Modern PDF platforms can now function as full attack gateways rather than passive document viewers. That\u2019s according to a new\u00a0report out today from\u00a0artificial intelligence offensive security startup\u00a0Novee Cyber Security Ltd., which\u00a0identifies 16 exploitable v\u2026",
-        "url": "https://siliconangle.com/2026/02/18/novee-report-warns-modern-pdf-platforms-becoming-high-risk-attack-surfaces/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/pdfvulns.png",
-        "publishedAt": "2026-02-18T13:00:12Z",
-        "content": "Modern PDF platforms can now function as full attack gateways rather than passive document viewers.\r\nThat\u2019s according to a new\u00a0report out today from\u00a0artificial intelligence offensive security startup\u2026 [+4075 chars]"
+        "author": "Kyt Dotson",
+        "title": "AI-powered software intelligence platform Adronite raises $5M",
+        "description": "Adronite Inc., the developer of an artificial intelligence codebase intelligence platform for software engineering, today announced it raised $5 million in Series A funding led by Gatemore Capital Management to scale its product. At its core, Adronite promise\u2026",
+        "url": "https://siliconangle.com/2026/02/19/ai-powered-software-intelligence-platform-adronite-raises-5m/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/A-programming-sitting-in-front-of-a-keyboard-in-a-dark-office-as-an-AI-agent-appears-on-a-screen-ass.jpeg",
+        "publishedAt": "2026-02-19T17:15:53Z",
+        "content": "Adronite Inc., the developer of an artificial intelligence codebase intelligence platform for software engineering, today announced it has raised $5 million in Series A funding led by Gatemore Capita\u2026 [+4306 chars]"
     },
     {
         "source": {
@@ -213,12 +174,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
-        "title": "World Labs closes $1B investment backed by Nvidia, AMD and Autodesk",
-        "description": "Artificial intelligence model developer World Labs Inc. today announced that it has raised $1 billion in funding. The capital was provided by a consortium that included Nvidia Corp., Advanced Micro Devices Inc., Autodesk Inc. and several others. The engineeri\u2026",
-        "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/World-Labs.png",
-        "publishedAt": "2026-02-18T23:09:34Z",
-        "content": "Artificial intelligence model developer World Labs Inc. today announced that it has raised $1 billion in funding.\r\nThe capital was provided by a consortium that included Nvidia Corp., Advanced Micro \u2026 [+4059 chars]"
+        "title": "Taalas raises $169M in funding to develop model-specific AI chips",
+        "description": "Taalas Inc., a startup that develops chips optimized to run specific artificial intelligence models, has raised $169 million in funding. Reuters reported today that the company\u2019s backers include Quiet Capital, Fidelity and prominent semiconductor investor Pie\u2026",
+        "url": "https://siliconangle.com/2026/02/19/taalas-raises-169m-funding-develop-model-specific-ai-chips/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Taalas.png",
+        "publishedAt": "2026-02-20T01:22:59Z",
+        "content": "Taalas Inc., a startup that develops chips optimized to run specific artificial intelligence models, has raised $169 million in funding.\r\nReuters reported today that the companys backers include Quie\u2026 [+3721 chars]"
     },
     {
         "source": {
@@ -226,12 +187,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Cogent Security raises $42M to scale AI agents for enterprise vulnerability remediation",
-        "description": "Agentic artificial intelligence for vulnerability management startup Cogent Security Inc. revealed today that it had raised $42 million in new funding to accelerate product development, expand enterprise deployments and continue building governed AI agent sys\u2026",
-        "url": "https://siliconangle.com/2026/02/18/cogent-security-raises-42m-scale-ai-agents-enterprise-vulnerability-remediation/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/cogent.png",
-        "publishedAt": "2026-02-18T23:06:34Z",
-        "content": "Agentic artificial intelligence for vulnerability management startup Cogent Security Inc. revealed today that it had raised $42 million in new funding to accelerate product development, expand enterp\u2026 [+4318 chars]"
+        "title": "Abstract Security launches AI-Gen Composable SIEM for streaming-first security operations",
+        "description": "Security data operations company\u00a0Abstract Security Inc.\u00a0today announced the launch of AI-Gen Composable SIEM, a new architectural standard for modern security operations that it says is built natively for artificial intelligence, streaming data and modular co\u2026",
+        "url": "https://siliconangle.com/2026/02/19/abstract-security-launches-ai-gen-composable-siem-streaming-first-security-operations/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/abstractsiem.png",
+        "publishedAt": "2026-02-19T14:00:31Z",
+        "content": "Security data operations company\u00a0Abstract Security Inc.\u00a0today announced the launch of AI-Gen Composable SIEM, a new architectural standard for modern security operations that it says is built nativel\u2026 [+3596 chars]"
     },
     {
         "source": {
@@ -249,54 +210,28 @@
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "SiliconANGLE News"
         },
-        "author": "Barbara Pazur",
-        "title": "ChatGPT Health: What You're Meant to Use the AI for, and Everything You Should Avoid",
-        "description": "A \"health-focused experience\" inside ChatGPT is designed to help you understand medical information and prepare for appointments with human clinicians.",
-        "url": "https://www.cnet.com/tech/services-and-software/what-is-chatgpt-health/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/d71b17f294ece4ff03c668b85632f60046ba8700/hub/2026/01/07/efd4ca7e-144f-4a51-b3b1-5fc94969e01c/open-ai-chat-gpt-health-tab.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-18T21:23:03Z",
-        "content": "At this point, it's safe to assume you've used a chatbot like ChatGPT or Gemini. Besides asking general questions or getting long texts summarized, you might have asked a health question, too. Maybe \u2026 [+11195 chars]"
+        "author": "Duncan Riley",
+        "title": "NIST launches AI Agent Standards Initiative as autonomous AI moves into production",
+        "description": "The U.S. National Institute of Standards and Technology has launched the AI Agent Standards Initiative, a new program that is aimed at developing technical standards and guidance for autonomous artificial intelligence agents as their use accelerates across en\u2026",
+        "url": "https://siliconangle.com/2026/02/19/nist-launches-ai-agent-standards-initiative-autonomous-ai-moves-production/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/nist.png",
+        "publishedAt": "2026-02-19T23:41:35Z",
+        "content": "The U.S. National Institute of Standards and Technology has launched the AI Agent Standards Initiative, a new program that is aimed at developing technical standards and guidance for autonomous artif\u2026 [+4321 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Efficient Computer raises $60M to keep AI devices running for months on end",
-        "description": "Efficient Computer Co. says it\u2019s going to make the dream of low-energy artificial intelligence computing a reality after raising $60 million in early-stage funding today. The Series A round was led by Triatomic Capital and saw participation from Eclipse, Over\u2026",
-        "url": "https://siliconangle.com/2026/02/18/efficient-computer-raises-60m-keep-ai-devices-running-months-end/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-16-08-01-29.png",
-        "publishedAt": "2026-02-18T16:00:19Z",
-        "content": "Efficient Computer Co. says its going to make the dream of low-energy artificial intelligence computing a reality after raising $60 million in early-stage funding today.\r\nThe Series A round was led b\u2026 [+5670 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Swimlane debuts AI SOC with agentic back end to tackle cybersecurity operations",
-        "description": "Swimlane Inc., which provides agentic artificial intelligence automation for cybersecurity, today announced a new role in its security analyst playbook with an AI security operations center operated by proactive agents instead of reactive assistants. The comp\u2026",
-        "url": "https://siliconangle.com/2026/02/18/swimlane-debuts-ai-soc-agentic-backend-tackle-cybersecurity-operations/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/pimesecurity.png",
-        "publishedAt": "2026-02-18T16:25:45Z",
-        "content": "Swimlane Inc., which provides agentic artificial intelligence automation for cybersecurity, today announced a new role in its security analyst playbook with an AI security operations center operated \u2026 [+5020 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Joe Fay",
-        "title": "HackerOne 'updating' Ts&Cs after bug hunters question if they're training AI",
-        "description": "CEO lauds security researchers, insists they're not 'inputs' HackerOne has clarified its stance on GenAI after researchers fretted their submissions were being used to train its models.\u2026",
-        "url": "https://www.theregister.com/2026/02/18/hackerone_ai_policy/",
-        "urlToImage": "https://regmedia.co.uk/2023/03/26/aitraining.jpg",
-        "publishedAt": "2026-02-18T11:00:07Z",
-        "content": "HackerOne has clarified its stance on GenAI after researchers fretted their submissions were being used to train its models.\r\nA storm erupted on X after the bug bounty platform launched its Agentic P\u2026 [+2626 chars]"
+        "author": "Duncan Riley",
+        "title": "DHS awards Palantir up to $1B to deploy AI and data analytics platforms",
+        "description": "The U.S. Department of Homeland Security has awarded Palantir Technologies Inc. a five-year blanket purchase to expand the department\u2019s use of artificial intelligence and large-scale data analytics platforms across its agencies. The agreement, which is valued\u2026",
+        "url": "https://siliconangle.com/2026/02/19/dhs-awards-palantir-1b-deploy-ai-data-analytics-platforms/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/palantir.png",
+        "publishedAt": "2026-02-19T22:45:08Z",
+        "content": "The U.S. Department of Homeland Security has awarded Palantir Technologies Inc. a five-year blanket purchase to expand the departments use of artificial intelligence and large-scale data analytics pl\u2026 [+3803 chars]"
     },
     {
         "source": {
@@ -304,25 +239,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Paul Gillin",
-        "title": "ThoughtSpot attacks cloud costs with integrated caching feature",
-        "description": "ThoughtSpot Inc. today launched a new version of its Analyst Studio data analytics platform, introducing capabilities intended to help organizations prepare data for artificial intelligence workloads at lower cost while maintaining governance controls. A new \u2026",
-        "url": "https://siliconangle.com/2026/02/18/thoughtspot-attacks-cloud-costs-integrated-caching-feature/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/ThoughtSpot-Analyst_Studio.png",
-        "publishedAt": "2026-02-18T14:00:44Z",
-        "content": "ThoughtSpot Inc. today launched a new version of its Analyst Studio data analytics platform, introducing capabilities intended to help organizations prepare data for artificial intelligence workloads\u2026 [+4305 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "ChipAgents secures $50M in funding to accelerate agentic chip design",
-        "description": "Agentic artificial intelligence startup ChipAgents said today it\u2019s ready to bring automation to one of the toughest challenges of all after raising $50 million in an early-stage funding today, bringing its total amount raised to date to $74 million. The Serie\u2026",
-        "url": "https://siliconangle.com/2026/02/18/chipagents-secures-50m-funding-accelerate-agentic-chip-design/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-19-06-27-20.png",
-        "publishedAt": "2026-02-18T23:32:08Z",
-        "content": "Agentic artificial intelligence startup ChipAgents said today it\u2019s ready to bring automation to one of the toughest challenges of all after raising $50 million in an early-stage funding today, bringi\u2026 [+5479 chars]"
+        "title": "SAP rebrands Emarsys as Engagement Cloud with plans to expand into enterprise-wide orchestration",
+        "description": "SAP SE today is rebranding its Emarsys marketing platform as SAP Engagement Cloud and positioning it as a broader enterprise-wide orchestration layer designed to connect customer-facing interactions with operational execution across the business. The company \u2026",
+        "url": "https://siliconangle.com/2026/02/19/sap-rebrands-emarsys-engagement-cloud-plans-expand-enterprise-wide-orchestration/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-from-2025-09-29-09-17-57.png",
+        "publishedAt": "2026-02-19T14:00:52Z",
+        "content": "SAP SE today is rebranding its Emarsys marketing platform asSAP Engagement Cloud and positioning it as a broader enterprise-wide orchestration layer designed to connect customer-facing interactions w\u2026 [+4017 chars]"
     },
     {
         "source": {
@@ -340,119 +262,28 @@
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
+            "name": "SiliconANGLE News"
         },
-        "author": "Vala Afshar",
-        "title": "What Aristotle and Socrates can teach us about using generative AI",
-        "description": "A senior Google engineer reminds us that AI models should help us learn how to think, not what to think.",
-        "url": "https://www.zdnet.com/article/what-aristotle-and-socrates-can-teach-us-about-using-generative-ai/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/639b1ed10d159ff8a4f63754189e1b47eb81d827/2026/02/18/bbf93b6d-3be7-40c3-8460-d26f761aa31d/gettyimages-801468274.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-18T01:12:22Z",
-        "content": "araelf/iStock/Getty Images Plus\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI language models can erode our ability to create new ideas. \u00a0</li><li>Other ty\u2026 [+12942 chars]"
+        "author": "John Furrier",
+        "title": "The memory supercycle is here \u2014 and the AI funding frenzy is pouring fuel on it",
+        "description": "It\u2019s another week in which the funding frenzy in artificial intelligence continues unabated, as World Labs Inc. and Ineffable Intelligence Inc. each raised $1 billion \u2014 the latter even before it has a product. OpenAI Group PBC is reportedly raising $100 billi\u2026",
+        "url": "https://siliconangle.com/2026/02/19/memory-supercycle-ai-funding-frenzy-pouring-fuel/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/502designs-ram-pixabay.jpg",
+        "publishedAt": "2026-02-19T20:46:41Z",
+        "content": "It\u2019s another week in which the funding frenzy in artificial intelligence continues unabated, as World Labs Inc. and Ineffable Intelligence Inc. each raised $1 billion \u2014 the latter even before it has \u2026 [+7995 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "With $20M in funding, Solid Data has a solid plan to improve the reliability of AI agents",
-        "description": "Solid Data Inc. is trying to help enterprises get around the problem of error-prone artificial intelligence agents after raising $20 million in seed funding today. The round, led by Team8 and SignalFire, will help Solid to accelerate the deployment of its AI-\u2026",
-        "url": "https://siliconangle.com/2026/02/18/20m-funding-solid-solid-foundation-tackle-ais-reliability-challenge/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-10-10-00-28.png",
-        "publishedAt": "2026-02-18T14:00:43Z",
-        "content": "Solid Data Inc. is trying to help enterprises get around the problem of error-prone artificial intelligence agents after raising $20 million in seed funding today.\r\nThe round, led by Team8 and Signal\u2026 [+6547 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MIT Technology Review"
-        },
-        "author": "Will Douglas Heaven",
-        "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-        "description": "Google DeepMind is calling for the moral behavior of large language models\u2014such as what they do when called on to act as companions, therapists, medical advisors, and so on\u2014to be scrutinized with the same kind of rigor as their ability to code or do math. As \u2026",
-        "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/02/decision-tree2.jpg?resize=1200,600",
-        "publishedAt": "2026-02-18T16:00:22Z",
-        "content": "With coding and math, you have clear-cut, correct answers that you can check, William Isaac, a research scientist at Google DeepMind, told me when I met him and Julia Haas, a fellow research scientis\u2026 [+2528 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Network observability startup Selector reels in $32M",
-        "description": "Network observability provider Selector Software Inc. today announced that it has raised a $32 million funding round at a $375 million valuation. AVP led the investment. It was joined by Ansa Capital, Two Bear Capital, Sinewave Ventures, Singtel Innov8 and se\u2026",
-        "url": "https://siliconangle.com/2026/02/18/network-observability-startup-selector-reels-32m/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Selector.png",
-        "publishedAt": "2026-02-18T13:05:01Z",
-        "content": "Network observability provider Selector Software Inc. today announced that it has raised a $32 million funding round at a $375 million valuation.\r\nAVP led the investment. It was joined by Ansa Capita\u2026 [+4055 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Katelyn Chedraoui",
-        "title": "AI Is Indistinguishable From Reality. How Do We Spot Fake Videos? video",
-        "description": "Generative AI has made it harder than ever to decipher real photos and images from fake ones. This is how you can start to fight back against AI slop.",
-        "url": "https://www.cnet.com/videos/ai-is-indistinguishable-from-reality-how-do-we-spot-fake-videos/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/86ae898c47476ba54a908054845cd56e7c3e8f64/hub/2026/02/17/295b0256-0234-4d17-aa98-034af4ca7f30/260217-clean-future-of-ai-slop-tech-today-thumbnail-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-18T13:00:46Z",
-        "content": ""
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "New AI startup Ineffable Intelligence reportedly raising $1B funding round",
-        "description": "Ineffable Intelligence Ltd., a startup led by former Google DeepMind principal research scientist David Silver, is reportedly raising $1 billion in funding. The Financial Times on Tuesday cited sources as saying that Sequoia Capital is leading the round. Deep\u2026",
-        "url": "https://siliconangle.com/2026/02/18/new-ai-startup-ineffable-intelligence-reportedly-raising-1b-funding-round/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI.png",
-        "publishedAt": "2026-02-18T21:13:58Z",
-        "content": "Ineffable Intelligence Ltd., a startup led by former Google DeepMind principal research scientist David Silver, is reportedly raising $1 billion in funding.\r\nThe Financial Times on Tuesday cited sour\u2026 [+4322 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Render raises $100M more for its AI-optimized cloud platform",
-        "description": "Cloud startup Render Services Inc. today announced that it has raised $100 million from investors at a $1.5 billion valuation. The capital was provided as an extension to a Series C round the company closed last January. Both deals were led by Georgian. Rende\u2026",
-        "url": "https://siliconangle.com/2026/02/17/render-raises-100m-more-ai-optimized-cloud-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/cloud.jpg",
-        "publishedAt": "2026-02-18T01:01:28Z",
-        "content": "Cloud startup Render Services Inc. today announced that it has raised $100 million from investors at a $1.5 billion valuation.\r\nThe capital was provided as an extension to a Series C round the compan\u2026 [+4464 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Mesh Optical Technologies raises $50M to mass produce American-made data center links",
-        "description": "Three SpaceX Corp. alumni who helped the rocket company develop optical communications for its Starlink satellite Wi-Fi service have raised millions of dollars to commercialize that technology for data centers. Mesh Optical Technologies, co-founded by its Chi\u2026",
-        "url": "https://siliconangle.com/2026/02/17/mesh-optical-technologies-raises-50m-mass-produce-american-made-data-center-links/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-18-08-26-23.png",
-        "publishedAt": "2026-02-18T01:27:02Z",
-        "content": "Three SpaceX Corp. alumni who helped the rocket company develop optical communications for its Starlink satellite Wi-Fi service have raised millions of dollars to commercialize that technology for da\u2026 [+5618 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Figma stock climbs on 40% revenue growth and surging Figma Make adoption",
-        "description": "Shares in Figma Inc. were up more than 14% in after-hours trading today after the graphic design software provider impressed investors with earnings and revenue beats in its fiscal 2025 fourth quarter and provided forward guidance ahead of expectations. For t\u2026",
-        "url": "https://siliconangle.com/2026/02/18/figma-stock-climbs-40-revenue-growth-surging-figma-make-adoption/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/figma1.png",
-        "publishedAt": "2026-02-18T22:40:58Z",
-        "content": "Shares in Figma Inc. shot up more than 14% in after-hours trading today after the graphic design software provider impressed investors with earnings and revenue beats in its fiscal 2025 fourth quarte\u2026 [+4049 chars]"
+        "author": "Kyt Dotson",
+        "title": "Venice Security launches with $33M to bring access management to the enterprise",
+        "description": "Venice Security Ltd., formerly Valkyrie, announced its launch on Wednesday with $33 million in total funding, including $25 million in Series A funding. The latest funding was led by IVP with participation from Index Ventures, Vine Ventures, Holly Ventures an\u2026",
+        "url": "https://siliconangle.com/2026/02/19/venice-security-launches-33m-bring-access-management-enterprise/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/security-2168233_1920-Jan-Alexander-Pixabay.jpeg",
+        "publishedAt": "2026-02-19T16:10:59Z",
+        "content": "Venice Security Ltd., formerly Valkyrie, announced its launch on Wednesday with $33 million in total funding, including $25 million in early-stage funding.\r\nThe Series A funding was led by IVP with p\u2026 [+4008 chars]"
     },
     {
         "source": {
@@ -472,13 +303,26 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "Dataminr warns cyber \u2018mega-loss\u2019 era has arrived as threat actor alerts jump 225%",
-        "description": "A new report out today from\u00a0real-time event and risk detection company\u00a0Dataminr Inc.\u00a0has found that 2025 marked a structural shift in cyber risk, as threat actor activity surged, identity-based intrusions accelerated and \u201cmega-loss\u201d events became more common.\u2026",
-        "url": "https://siliconangle.com/2026/02/18/dataminr-warns-cyber-mega-loss-era-arrived-threat-actor-alerts-jump-225/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/megalossera.png",
-        "publishedAt": "2026-02-18T05:01:32Z",
-        "content": "A new report out today from\u00a0real-time event and risk detection company\u00a0Dataminr Inc.\u00a0has found that 2025 marked a structural shift in cyber risk, as threat actor activity surged, identity-based intru\u2026 [+4353 chars]"
+        "author": "Maria Deutscher",
+        "title": "Google introduces Gemini 3.1 Pro model for advanced reasoning tasks",
+        "description": "Google LLC today introduced Gemini 3.1 Pro, a new reasoning model that outperforms Claude 4.6 Opus and GPT-5.2 across several benchmarks. The algorithm is available via more than a half dozen of the search giant\u2019s products. Gemini 3.1 Pro is a Transformer mod\u2026",
+        "url": "https://siliconangle.com/2026/02/19/google-introduces-gemini-3-1-pro-model-advanced-reasoning-tasks/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Gemini.png",
+        "publishedAt": "2026-02-19T23:21:34Z",
+        "content": "Google LLC today introduced Gemini 3.1 Pro, a new reasoning model that outperforms Claude 4.6 Opus and GPT-5.2 across several benchmarks.\r\nThe algorithm is available via more than a half dozen of the\u2026 [+3980 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Agentic finance automation startup Stacks raises $23M in funding",
+        "description": "London-based startup Stacks Technologies B.V. says enterprise financial operations are in due of a much-needed injection of \u201cagentic\u201d automation after raising $23 million in Series A funding today. Today\u2019s round was led by the high-profile venture capital fir\u2026",
+        "url": "https://siliconangle.com/2026/02/19/agentic-finance-automation-startup-stacks-raises-23m-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-20-06-46-11.png",
+        "publishedAt": "2026-02-19T23:46:37Z",
+        "content": "London-based startup Stacks Technologies B.V. says enterprise financial operations are in due of a much-needed injection of agentic automation after raising $23 million in Series A funding today.\r\nTo\u2026 [+4874 chars]"
     },
     {
         "source": {
@@ -486,25 +330,129 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "TitanX acquires FrontSpin in eight-figure deal to expand phone-led sales platform",
-        "description": "Phone intent company TitanX Inc. today announced that it has acquired FrontSpin Inc., a cloud-based sales communication and power dialer platform provider, in an eight-figure transaction. Founded in 2015, FrontSpin offers cloud-based sales communication softw\u2026",
-        "url": "https://siliconangle.com/2026/02/18/titanx-acquires-frontspin-eight-figure-deal-expand-phone-led-sales-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/frontspin.png",
-        "publishedAt": "2026-02-18T14:00:23Z",
-        "content": "Phone intent company TitanX Inc. today announced that it has acquired FrontSpin Inc., a cloud-based sales communication and power dialer platform provider, in an eight-figure transaction.\r\nFounded in\u2026 [+3979 chars]"
+        "title": "Kyndryl launches Cyber Defense Operations Center to unify network and security operations",
+        "description": "Information technology infrastructure services provider Kyndryl Holdings Inc. today launched its Cyber Defense Operations Center, a next-generation command hub that unifies network operations and security operations into a single, integrated operating model. \u2026",
+        "url": "https://siliconangle.com/2026/02/19/kyndryl-launches-cyber-defense-operations-center-unify-network-security-operations/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/Kyndryl_NYSE.jpg",
+        "publishedAt": "2026-02-19T23:13:42Z",
+        "content": "Information technology infrastructure services provider Kyndryl Holdings Inc. today launched its Cyber Defense Operations Center, a next-generation command hub that unifies network operations and sec\u2026 [+4731 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "AI agents can't teach themselves new tricks \u2013 only people can",
+        "description": "Self-generated skills don't do much for AI agents, study finds, but human-curated skills do Teach an AI agent how to fish for information and it can feed itself with data. Tell an AI agent to figure things out on its own and it may make things worse.\u2026",
+        "url": "https://www.theregister.com/2026/02/19/ai_agents_cant_teach_themselves/",
+        "urlToImage": "https://regmedia.co.uk/2023/05/02/teacher_shutterstock.jpg",
+        "publishedAt": "2026-02-19T12:07:05Z",
+        "content": "Teach an AI agent how to fish for information and it can feed itself with data. Tell an AI agent to figure things out on its own and it may make things worse.\r\nAI agents are machine learning models (\u2026 [+5058 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Jim O'Dorisio, senior vice president and general manager, HPE Storage",
+        "title": "How AI Is forcing storage back into the enterprise conversation",
+        "description": "HPE designs storage with AI realities in mind Partner Content\u00a0 Artificial intelligence has a habit of simplifying narratives. Models get bigger. GPUs get faster. Everything else fades into the background.\u2026",
+        "url": "https://www.theregister.com/2026/02/19/hpe-forcing-storage-enterprise/",
+        "urlToImage": "https://regmedia.co.uk/2024/06/18/hpe_shutterstock.jpg",
+        "publishedAt": "2026-02-19T17:53:50Z",
+        "content": "Partner Content Artificial intelligence has a habit of simplifying narratives. Models get bigger. GPUs get faster. Everything else fades into the background.\r\nFor a long time, enterprise AI budgets r\u2026 [+7988 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Tiernan Ray",
+        "title": "AI agents are fast, loose and out of control, MIT study finds",
+        "description": "The vast majority of agentic AI systems disclose nothing about what safety testing, if any, has been conducted, and many systems have no documented way to shut down a rogue bot, a study by MIT and collaborators found.",
+        "url": "https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-20T01:00:38Z",
+        "content": "JulPo/E+ via Getty\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>Agentic AI technology is marked by a lack of disclosure about risks.\u00a0</li><li>Some systems a\u2026 [+9880 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Victoria Gayton",
-        "title": "What to expect during the AI Trust & Cyber Resiliency Summit: Join theCUBE Mar. 10",
-        "description": "AI trust increasingly determines whether enterprise AI scales. As organizations move beyond pilots and into operational systems, the question is no longer whether models perform well in isolation, but whether the infrastructure beneath them can withstand cybe\u2026",
-        "url": "https://siliconangle.com/2026/02/18/ai-trust-strengthens-cyber-resilience-digital-age-aitrustcyberresilience/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-Trust-and-Cyber-Resiliency-Summit-March-2026-ChatGPT-Date-Update.png",
-        "publishedAt": "2026-02-18T20:05:20Z",
-        "content": "AI trust increasingly determines whether enterprise AI scales. As organizations move beyond pilots and into operational systems, the question is no longer whether models perform well in isolation, bu\u2026 [+10056 chars]"
+        "author": "James Farrell",
+        "title": "New York reverses on plans to allow robotaxis in major blow to Waymo",
+        "description": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robotaxis. The proposal, which would have allowed driverless taxis in cities other than New York City, was dropped after not receiving support from state legisl\u2026",
+        "url": "https://siliconangle.com/2026/02/19/new-york-reverses-plans-allow-robotaxis-major-blow-waymo/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg",
+        "publishedAt": "2026-02-20T01:49:47Z",
+        "content": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robotaxis.\r\nThe proposal, which would have allowed driverless taxis in cities other than New York Ci\u2026 [+3149 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "New York reverses on plans to allow robottaxis in major blow to Waymo",
+        "description": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robottaxis. The proposal, which would have allowed driverless taxis in cities other than New York City, was dropped after not receiving support from state legis\u2026",
+        "url": "https://siliconangle.com/2026/02/19/new-york-reverses-plans-allow-robottaxis-major-blow-waymo/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg",
+        "publishedAt": "2026-02-20T01:49:47Z",
+        "content": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robottaxis.\r\nThe proposal, which would have allowed driverless taxis in cities other than New York C\u2026 [+3151 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "David Gewirtz",
+        "title": "Is free AI enough? How to choose the right chatbot for you - and when to upgrade",
+        "description": "You can do a lot with free AI. But you can do even more if you upgrade. Here's how to decide between all your options.",
+        "url": "https://www.zdnet.com/article/how-to-choose-ai-chatbot-when-to-upgrade-from-free/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/5b2acdcceaa135864f42352e7660feff52936feb/2026/02/19/297962e3-7120-4521-adbf-ced0713d7d62/gettyimages-1347773196.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-19T14:58:00Z",
+        "content": "Jorg Greuel via Photodisc / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Free chatbot tiers are strong, so test before paying.</li><li>Pick one \u2026 [+10616 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Charlie Osborne",
+        "title": "Half of all cyberattacks start in your browser: 10 essential tips for staying safe",
+        "description": "New research finds that 48% of cyberattacks involve your web browser - and AI is only making matters worse. Follow these best practices to protect yourself.",
+        "url": "https://www.zdnet.com/article/browser-security-tips-stay-safe/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/920099f7604df12cf27326a7e563e85ada658ce8/2026/02/19/306ca4f3-3197-43ae-957d-f681ee560ca9/skully-gettyimages-1752829124.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-19T18:56:35Z",
+        "content": "gonin/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Browser activity is involved in nearly half of all cybersecurity\u2026 [+8641 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Freeform reels in $67M for its 3D metal printing system",
+        "description": "Freeform Future Corp., a startup using custom 3D printers to make metal parts, has raised $67 million in funding. The company stated in its announcement of the deal today that Nvidia Corp.\u2019s NVentures and Boeing Co.\u2019s AE Ventures were among the participants. \u2026",
+        "url": "https://siliconangle.com/2026/02/19/freeform-reels-67m-3d-metal-printing-system/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Freeform.png",
+        "publishedAt": "2026-02-19T21:15:55Z",
+        "content": "Freeform Future Corp., a startup using custom 3D printers to make metal parts, has raised $67 million in funding.\r\nThe company stated in its announcement of the deal today that Nvidia Corp.s NVenture\u2026 [+4487 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Reece Rogers",
+        "title": "Inside the Rolling Layoffs at Jack Dorsey\u2019s Block",
+        "description": "Workers describe a deteriorating culture at Block, the company behind Square and Cash App, where layoffs continue and employees are expected to use AI tools daily.",
+        "url": "https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/",
+        "urlToImage": "https://media.wired.com/photos/698d1d449536f5a1f6e94f7b/191:100/w_1280,c_limit/Block-Workers-Call-Performance-Driven-Layoffs-a-Smokescreen-Business-1470988103.jpg",
+        "publishedAt": "2026-02-19T19:53:11Z",
+        "content": "After hundreds of workers were laid off in early February from Jack Dorseys Block, some of the people remaining at the company say the internal culture has devolved to a point where performance anxie\u2026 [+3022 chars]"
     },
     {
         "source": {
@@ -521,94 +469,55 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "David Gewirtz",
-        "title": "Inside Google's AI plan to end Android developer toil - and speed up innovation",
-        "description": "I spoke with Sam Bright, VP and GM of Google Play and Developer Ecosystem, about Gemini's expansion in Android Studio. The real story is the way AI cuts toil across the lifecycle.",
-        "url": "https://www.zdnet.com/article/googles-ai-plan-to-end-android-developer-toil-and-speed-up-innovation/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/e6e5dab6022586b67ef998380243dc5c7c672fbf/2026/02/18/051214dd-aebb-4e80-a104-e8b011996ef8/inside-googles-bid-to-make-ai-the-backbone-of-android-development.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-18T15:34:38Z",
-        "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google is expanding AI across the Android Studio workflow.</li><li>Google intends \u2026 [+10008 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Mark Samuels",
-        "title": "90% of AI projects fail - here are 3 ways to ensure yours doesn't",
-        "description": "With AI spending forecast to reach $2.52 trillion in 2026, Gartner recommends focusing on building capacity, creating partnerships and avoiding random exploration.",
-        "url": "https://www.zdnet.com/article/how-to-target-your-ai-investments-gartner/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/d96cef142e3a7d335890434cbab0917f5b3c23b0/2026/02/17/b2b50cbb-7cb4-4688-9188-b5dd99a197c5/gettyimages-2161773498.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-18T08:00:45Z",
-        "content": "georgeclerk/E+/Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Boards are starting to ask tougher questions about money sunk into AI.</li><li>Inter\u2026 [+6817 chars]"
-    },
-    {
-        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Robert Hart",
-        "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
-        "description": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bank\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-02-18T11:02:22Z",
-        "content": "<ul><li></li><li></li></ul>\r\nExecutives said ads could have users doubting everything.\r\nExecutives said ads could have users doubting everything.\r\nby\r\nRobert HartClose\r\nPosts from this author will be\u2026 [+2627 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Lauren Goode",
-        "title": "Nvidia\u2019s Deal With Meta Signals a New Era in Computing Power",
-        "description": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
-        "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
-        "urlToImage": "https://media.wired.com/photos/6995c9dbe2d77b4473bee16f/191:100/w_1280,c_limit/GettyImages-2261773850.jpg",
-        "publishedAt": "2026-02-18T19:24:55Z",
-        "content": "Ask anyone what Nvidia makes, and theyre likely to first say GPUs. For decades, the chipmaker has been defined by advanced parallel computing, and the emergence of generative AI and the resulting sur\u2026 [+3489 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Kyle MacNeill",
-        "title": "How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans",
-        "description": "\u201cWe would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.\u201d",
-        "url": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
-        "urlToImage": "https://media.wired.com/photos/698d01968e167d36db00b1f9/191:100/w_1280,c_limit/RentAHuman-Culture-948646328.jpg",
-        "publishedAt": "2026-02-18T11:00:00Z",
-        "content": "The grifters, according to RentAHuman, are fading. We're taking safety extremely seriously, Liteplo says. But the duo also acknowledge that there are footguns (features that often lead to pesky bugs)\u2026 [+3060 chars]"
+        "author": "Charles Pulliam-Moore",
+        "title": "The Pitt has a sharp take on AI",
+        "description": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them \u2026",
+        "url": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/sepideh-moafi-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-02-19T23:09:26Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pitt has a sharp take on AI\r\nHBOs medical drama has been teasing out a smart story about what makes gen AI so tempting and concerning.\r\nby\r\nCharles Pulliam-M\u2026 [+6903 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "CNET"
         },
-        "author": "Simon Sharwood",
-        "title": "Palo Alto CEO says AI isn\u2019t great for business, yet",
-        "description": "Sees little enterprise AI adoption other than coding assistants, buys Koi for what comes next If enterprises are implementing AI, they\u2019re not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer ta\u2026",
-        "url": "https://www.theregister.com/2026/02/18/palo_alto_q2_26/",
-        "urlToImage": "https://regmedia.co.uk/2026/02/18/shutterstock_editorial_only_palo_alto_networks.jpg",
-        "publishedAt": "2026-02-18T04:52:07Z",
-        "content": "If enterprises are implementing AI, theyre not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer take-up by at least a couple of years\u2026 [+2941 chars]"
+        "author": "Omar Gallaga",
+        "title": "Zuckerberg's Trial Testimony Pushes Back on Social Media Addiction Claims",
+        "description": "Mark Zuckerberg defended Meta's social media platforms and addressed his public persona in a Los Angeles courtroom.",
+        "url": "https://www.cnet.com/news/social-media/zuckerberg-pushes-back-on-addiction-claims-in-trial-testimony/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/a0f3af79621d8c303ae900bb2d22158936e3c739/hub/2026/02/19/2ff124b0-ee81-489c-b25d-386e69c76e6c/gettyimages-2261841633.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-19T20:21:31Z",
+        "content": "The founder and CEO of Meta, Mark Zuckerberg, defended the social media platforms his company owns in testimony before a Los Angeles County court jury this week. Zuckerberg said that Instagram, the p\u2026 [+3791 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Plato closes $14.5M to bring AI automation to wholesale trade",
+        "description": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a significant share of the world\u2019s goods. The round was led by At\u2026",
+        "url": "https://thenextweb.com/news/plato-closes-14-5m-to-bring-ai-automation-to-wholesale-trade",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FPlato-closes-14.5M-to-bring-AI-automation-to-wholesale-trade.png&signature=020563c1bc8000e26d7173d2d2e9e358",
+        "publishedAt": "2026-02-19T09:41:45Z",
+        "content": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a sig\u2026 [+2018 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "ZDNet"
         },
-        "author": "Jack Wallen",
-        "title": "This local AI quickly replaced Ollama on my Mac - here's why",
-        "description": "If you're going to use AI, running it locally is the way to go, and GPT4All makes is surprisingly easy.",
-        "url": "https://www.zdnet.com/article/local-ai-gpt4all-replaced-ollama-mac-why/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/a8e550f946682f43cdacc85e03cbcf85792ee316/2026/02/18/f30c0473-6c23-41df-a0e9-44e6ab5f1c1d/gpt4all-brings-the-power-of-ai-to-your-local-computer.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-18T17:30:35Z",
-        "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Using local AI is responsible and private.</li><li>GPT4All is a cros\u2026 [+5870 chars]"
+        "author": "Steven Vaughan-Nichols",
+        "title": "How digitally sovereign are you? Red Hat can help measure that",
+        "description": "Red Hat's toolkit offers governments and enterprises a way to measure the control they actually have over their data, infrastructure, and operations in this era of geopolitical cloud anxiety.",
+        "url": "https://www.zdnet.com/article/red-hat-digital-sovereignty-toolkit/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/93d766585cac76b66cd324da4d0e3c012ced1181/2026/02/19/cb6b8d8f-c2fe-4677-a746-911c58590ea3/shipping-containersgettyimages-2233402323.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-19T20:46:42Z",
+        "content": "Studios/DigitalVision via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>As trust in US tech companies wanes, the importance of digital sovereignt\u2026 [+4220 chars]"
     },
     {
         "source": {
@@ -625,28 +534,106 @@
     },
     {
         "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Google\u2019s new music tool, Lyria 3 is here",
+        "description": "Google\u2019s announcement that its Gemini app now writes music for you isn\u2019t just one of those \u201cblowing my mind\u201d product updates. It feels like a symbolic surrender to a long-standing refrain from Big Tech: creative work is now just another checkbox for a machine\u2026",
+        "url": "https://thenextweb.com/news/googles-new-music-tool-lyria-3-is-here",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FGoogles-new-music-tool-Lyria-3.png&signature=8ceecb26f4c8d5a8913b031bd825030c",
+        "publishedAt": "2026-02-19T13:24:42Z",
+        "content": "Googles announcement that its Gemini app now writes music for you isnt just one of those blowing my mind product updates. It feels like a symbolic surrender to a long-standing refrain from Big Tech: \u2026 [+7077 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Sarah Perez",
+        "title": "Google says its AI systems helped deter Play Store malware in 2025 | TechCrunch",
+        "description": "Google said it prevented 1.75 million bad apps from going live on Google Play during 2025, a figure that's down from previous years.",
+        "url": "https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/google-play-getty.jpg?w=1200",
+        "publishedAt": "2026-02-19T21:28:39Z",
+        "content": "Fewer bad actors are targeting Google Play with malicious apps, the company says, a shift that the tech giant credits with its increased investments in proactive security systems and AI technology.\r\n\u2026 [+2312 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Jagmeet Singh",
+        "title": "General Catalyst commits $5B to India over five years | TechCrunch",
+        "description": "The pledge marks a sharp jump from General Catalyst's earlier $500 million\u2013$1 billion India earmark.",
+        "url": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-605683074-e1729770670902.jpg?resize=1200,800",
+        "publishedAt": "2026-02-20T06:44:02Z",
+        "content": "General Catalyst, a Silicon Valley-based venture firm with more than $43 billion in assets under management, has announced it plans to invest $5 billion in India over the next five years, sharply exp\u2026 [+2770 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Lucas Ropek",
+        "title": "Google's new Gemini Pro model has record benchmark scores\u2014again | TechCrunch",
+        "description": "Google's new Gemini Pro model has record benchmark scores\u2014again | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+        "publishedAt": "2026-02-20T00:56:08Z",
+        "content": "On Thursday, Google released the newest version of Gemini Pro, its powerful LLM. The model, 3.1, is currently available as a preview and will be generally released soon, the company said.\r\nGoogle\u2019s n\u2026 [+1084 chars]"
+    },
+    {
+        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
         "author": "Ivan Mehta",
-        "title": "Canva gets to $4B in revenue as LLM referral traffic rises | TechCrunch",
-        "description": "The creative company's monthly active users increased 20%, growth that was partially propelled by adoption of its AI tools.",
-        "url": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1258807457.jpg?w=1024",
-        "publishedAt": "2026-02-18T14:00:00Z",
-        "content": "Creative company Canva ended 2025 on a high note with a 20% increase in monthly active users, growth that was partially propelled by adoption of its AI tools. \r\nCanva had more than 265 million monthl\u2026 [+2632 chars]"
+        "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai | TechCrunch",
+        "description": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/mirai-logo2.png?resize=1200,675",
+        "publishedAt": "2026-02-19T14:44:29Z",
+        "content": "Much of the conversation around AI today is focused on building cloud capacity and massive data centers to run models. Companies like Apple and Qualcomm are in the early stages of making on-device AI\u2026 [+4222 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Theregister.com"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Tim Anderson",
-        "title": "Godot maintainers struggle with 'draining and demoralizing' AI slop submissions",
-        "description": "GitHub itself to blame for AI slop pull requests, say devs\nR\u00e9mi Verschelde, a maintainer of the open source Godot game engine, is the latest to complain about the impact of \"AI slop PRs [pull requests]\", which he\u00a0says\u00a0\"are becoming increasingly draining and d\u2026",
-        "url": "https://www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/",
-        "urlToImage": "https://regmedia.co.uk/2021/06/29/github_shutterstock.jpg",
-        "publishedAt": "2026-02-18T13:10:45Z",
-        "content": "R\u00e9mi Verschelde, a maintainer of the open source Godot game engine, is the latest to complain about the impact of \"AI slop PRs [pull requests]\", which he\u00a0says\u00a0\"are becoming increasingly draining and \u2026 [+3093 chars]"
+        "author": "Ivan Mehta",
+        "title": "All the important news from the ongoing India AI Impact Summit | TechCrunch",
+        "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+        "url": "https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+        "publishedAt": "2026-02-19T18:20:00Z",
+        "content": "With an eye toward luring more AI investment to the country, India is hosting a four-day AI Impact Summit this week that will be attended by executives from major AI labs and Big Tech, including Open\u2026 [+4982 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Jagmeet Singh",
+        "title": "Nvidia deepens early-stage push into India's AI startup ecosystem | TechCrunch",
+        "description": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+        "url": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+        "publishedAt": "2026-02-20T00:44:01Z",
+        "content": "Nvidia is stepping up efforts to court India\u2019s artificial intelligence startups earlier in their lifecycle, unveiling a string of partnerships this week aimed at reaching founders even before their c\u2026 [+4141 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Jagmeet Singh",
+        "title": "OpenAI deepens India push with Pine Labs fintech partnership | TechCrunch",
+        "description": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
+        "url": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+        "publishedAt": "2026-02-19T03:31:01Z",
+        "content": "As India pitches itself as a global hub for applied artificial intelligence, OpenAI has partnered with Pine Labs to integrate AI-driven reasoning into the fintech firm\u2019s payments stack, automating se\u2026 [+5190 chars]"
     }
 ]

@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Quartz India"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Chris Morris",
-        "title": "OpenAI said to be finalizing $100 billion funding round",
-        "description": "It's the largest raise in history, but it's still just a drop in the bucket for what the company is spending these days",
-        "url": "https://qz.com/openai-100-billion-funding-round",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1dlyOSGiji75qexo7t3hgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/30cb2918f68b735e12ebef3d5d476bf2",
-        "publishedAt": "2026-02-19T13:05:03Z",
-        "content": "Less than a year after it closed the largest fundraising round by a private tech company in history, OpenAI is closing in on a new record. Bloomberg reports the AI giant is close to finalizing a roun\u2026 [+1398 chars]"
+        "author": "Ashley Stewart",
+        "title": "Microsoft just named Asha Sharma as its new Xbox CEO. Read the memos.",
+        "description": "Microsoft named Asha Sharma, an executive in its CoreAI group, as Phil Spencer's replacement as the CEO of Microsoft Gaming.",
+        "url": "https://www.businessinsider.com/microsoft-named-asha-sharma-as-its-new-xbox-ceo-memos-2026-2",
+        "urlToImage": "https://i.insider.com/6998ce46efb52c8bd0de997b?width=1200&format=jpeg",
+        "publishedAt": "2026-02-20T21:24:45Z",
+        "content": "Microsoft's Asha Sharma and Matt Booty.Microsoft\r\n<ul><li>Phil Spencer, the longtime head of Microsoft's gaming business, is retiring.</li><li>Microsoft named Asha Sharma, an executive in its CoreAI \u2026 [+12528 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "gkay@businessinsider.com (Grace Kay)",
+        "title": "War rooms, group chats, and video games: Inside Elon Musk's AI startup",
+        "description": "In the wake of cofounder exits, Elon Musk's hands-on management is reshaping the startup.",
+        "url": "https://www.businessinsider.com/elon-musk-xai-leadership-style-big-year-grok-ipo-spacex-2026-2",
+        "urlToImage": "https://i.insider.com/6997254da645d118818994e9?width=1200&format=jpeg",
+        "publishedAt": "2026-02-20T10:08:01Z",
+        "content": "At xAI's Palo Alto headquarters, engineers cheered.\r\nIt was February 2, and they'd just received a memo from Elon Musk, informing them the AI startup would be acquired by his rocket company, SpaceX. \u2026 [+10149 chars]"
     },
     {
         "source": {
@@ -18,76 +31,50 @@
             "name": "Fortune"
         },
         "author": "Sheryl Estrada",
-        "title": "More CFOs are getting the top job\u2014but can they keep it?",
-        "description": "AI is now the wildcard for both reaching the CEO role and staying there.",
-        "url": "https://fortune.com/2026/02/19/more-cfos-are-getting-top-job-can-they-keep-it/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-183132173.jpg?resize=1200,600",
-        "publishedAt": "2026-02-19T13:12:46Z",
-        "content": "Good morning. CFOs are increasingly stepping into CEO roles. But in the AI age, the bigger question may be how long theyll be able to stay there.AI is changing the CEOs roleand could lead to a changi\u2026 [+5322 chars]"
+        "title": "Amazon surpasses Walmart as the largest company by revenue in the U.S. as retail\u2019s tech era takes hold",
+        "description": "Amazon\u2019s revenue lead over Walmart caps a broader shift as both giants lean on AI.",
+        "url": "https://fortune.com/2026/02/20/amazon-surpasses-walmart-largest-company-revenue-u-s-retail-tech-era-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2003716788.jpg?resize=1200,600",
+        "publishedAt": "2026-02-20T12:42:58Z",
+        "content": "Good morning. Amazon is poised to take Walmarts top spot in what has become a contest between two tech-enabled giants.After Walmart reported a record $713.2 billion in fiscal-year revenue on Thursday\u2026 [+6703 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Allie Garfinkle",
-        "title": "Exclusive: Badge raises $17 million to chase the next era of digital wallets",
-        "description": "Badge has raised $17.1 million in funding, Fortune has exclusively learned. The company\u2019s backers include Stripe.",
-        "url": "https://fortune.com/2026/02/19/exclusive-badge-raises-17-million-chase-next-era-digital-wallets/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Unknown-2.png?resize=1200,600",
-        "publishedAt": "2026-02-19T11:24:04Z",
-        "content": "Wallets have always been wherever money is.\u00a0In antiquity, it was leather pouches for coins. In the Renaissance, it was folding pocketbooks that developed alongside the rise of paper currency. And now\u2026 [+6879 chars]"
+        "author": "Nick Lichtenberg",
+        "title": "\u2018Doubts around the AI revolution are emerging,\u2019 BofA says, as the market sees a \u2018double-edged sword\u2019 that could \u2018cannibalize\u2019 you",
+        "description": "Instead of boosting corporate revenue, AI might actually destroy them, as AI infrastructure projects look dangerously stretched.",
+        "url": "https://fortune.com/2026/02/20/doubts-ai-revolution-emerging-bank-of-america-double-edged-sword-cannibalize/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2262656352.jpg?resize=1200,600",
+        "publishedAt": "2026-02-20T17:05:49Z",
+        "content": "For over a year, financial markets have enthusiastically priced the artificial intelligence (AI) boom as an unmitigated, upside-only event for asset prices, with the typically bullish analysts at Ban\u2026 [+5842 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Jacqueline Munis",
-        "title": "From mom-and-pops to Goldman Sachs, Jesse Jackson\u2019s vision for American business sparked a revolution",
-        "description": "The civil rights leader, whose dealmaking skills pushed Wall Street to invest in minority-owned businesses, died on Tuesday.",
-        "url": "https://fortune.com/2026/02/19/jesse-jackson-diversity-leadership-goldman-sachs-business/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1714845-e1771452447309.jpg?resize=1200,600",
-        "publishedAt": "2026-02-19T14:22:39Z",
-        "content": "Civil rights activist Rev. Jesse Jackson, who died at 84 on Tuesday, may be best known as a political organizing powerhouse, but he began his career by increasing workplace diversity in the business \u2026 [+6963 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Amitoj Singh",
-        "title": "CNBC's Inside India newsletter: India is throwing its weight behind AI \u2014 but is there substance behind the headlines?",
-        "description": "Some of these obstacles include the lack of regulation clear enough to encourage the best AI businesses to come to India and the need for capital infusion.",
-        "url": "https://www.cnbc.com/2026/02/19/cnbcs-inside-india-newsletter-india-is-throwing-its-weight-behind-ai-but-is-there-substance-behind-the-headlines.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267159-1771485255410-gettyimages-2261852646-AFP_984Y6XU.jpeg?v=1771485264&w=1920&h=1080",
-        "publishedAt": "2026-02-19T07:44:44Z",
-        "content": "This report is from this week's CNBC's \"Inside India\" newsletter which brings you timely, insightful news and market commentary on the emerging powerhouse. Subscribe\u00a0here.\r\nThe big story\r\nThree years\u2026 [+6810 chars]"
+        "author": "nbuchanan@insider.com (Naomi Buchanan)",
+        "title": "Here's what an analyst says could end the AI panic that's gripped Wall Street",
+        "description": "Wall Street has grown nervous about the disruptive power of AI. Wedbush's Dan Ives lists several things that could reinvigorate the bulls.",
+        "url": "https://www.businessinsider.com/ai-stocks-sell-off-openai-nvidia-earnings-apple-siri-wedbush-2026-2",
+        "urlToImage": "https://i.insider.com/69986aa7f8731049f3af769b?width=418&format=jpeg",
+        "publishedAt": "2026-02-20T15:51:35Z",
+        "content": "Investor sentiment about is a powerful but fickle force in markets, illustrated most recently by the panic that's gripped Wall Street about the possibility that AI threatens certain stock sectors.\r\nE\u2026 [+3832 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Tessa McCann, April Roach",
-        "title": "Quantum's big leap puts data centers in the spotlight",
-        "description": "Quantum is advancing rapidly, sparking discussions about how the powerful computers will integrate with industries like the already booming data center sector.",
-        "url": "https://www.cnbc.com/2026/02/19/quantum-computing-data-centers-ai-tech-microsoft.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214040-1760962317394-gettyimages-2237193977-BIZ-CPT-QUANTUM-COMPUTER-OHARE-TB.jpeg?v=1771397726&w=1920&h=1080",
-        "publishedAt": "2026-02-19T06:02:01Z",
-        "content": "Microsoft's Majorana 1 quantum computing chip\r\nAfter decades confined\u00a0largely to\u00a0research labs,\u00a0Quantum computing may be closer to its breakout moment than many\u00a0on Wall Street\u00a0expect.\u00a0\r\nThe technolog\u2026 [+8145 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Cnbc",
-        "title": "Saudi's Humain invested $3 billion in xAI's Series E funding round",
-        "description": "The investment made Humain a \"significant\" minority shareholder, with its xAI holdings converted into SpaceX shares, it said.",
-        "url": "https://www.cnbc.com/2026/02/19/saudis-humain-invested-3-billion-in-xais-series-e-funding-round.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267126-1771470845798-gettyimages-2246899606-US_SAUDI.jpeg?v=1771470864&w=1920&h=1080",
-        "publishedAt": "2026-02-19T03:17:43Z",
-        "content": "Saudi Arabia's Humain, the kingdom's artificial intelligence company, said Wednesday it had invested $3 billion in Elon Musk's xAI as a part of its Series E funding round just prior to its acquisitio\u2026 [+932 chars]"
+        "author": "Jordan Novet",
+        "title": "Microsoft gaming chief Phil Spencer retires, replaced by ex-Instacart exec Asha Sharma",
+        "description": "Phil Spencer is retiring from Microsoft after joining the software company 38 years ago, and will be replaced by Instacart's former COO.",
+        "url": "https://www.cnbc.com/2026/02/20/microsoft-gaming-chief-phil-spencer-retires-asha-sharma-replacing.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107296467-1694015054996-gettyimages-1620733310-_x2a0230.jpeg?v=1771618375&w=1920&h=1080",
+        "publishedAt": "2026-02-20T20:32:46Z",
+        "content": "Microsoft's head of gaming, Phil Spencer, is leaving the software maker following a 38-year tenure, as the company faces increased challenges in its Xbox business.\r\n\"Last year, Phil Spencer made the \u2026 [+2922 chars]"
     }
 ]

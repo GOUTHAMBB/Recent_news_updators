@@ -2,97 +2,6 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "AJ Dellinger",
-        "title": "New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place",
-        "description": "And this research was conducted before OpenClaw unleashed a monster.",
-        "url": "https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181",
-        "urlToImage": "https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907.jpg",
-        "publishedAt": "2026-02-20T01:00:50Z",
-        "content": "In the last year, AI agents have become all the rage. OpenAI, Google, and Anthropic all launched public-facing agents designed to take on multi-step tasks handed to them by humans. In the last month,\u2026 [+5537 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Joe Fay",
-        "title": "LLM wrote it? Fine, but show us human documentation, demands EFF",
-        "description": "'Just trust us' \u2013 Big Tech's hackneyed catchphrase makes an unwelcome return\nThe Electronic Frontier Foundation says it will accept LLM generated code from contributors to its open source projects but will draw the line at non-human generated comments and doc\u2026",
-        "url": "https://www.theregister.com/2026/02/20/eff_demands_human_documentation_as/",
-        "urlToImage": "https://regmedia.co.uk/2024/06/28/coder_shutterstock.jpg",
-        "publishedAt": "2026-02-20T12:55:56Z",
-        "content": "The Electronic Frontier Foundation says it will accept LLM generated code from contributors to its open source projects but will draw the line at non-human generated comments and documentation.\r\nThe \u2026 [+2338 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "AI agents abound, unbound by rules or safety disclosures",
-        "description": "MIT CSAIL's 2025 AI Agent Index puts opaque automated systems under the microscope\nAI agents are becoming more common and more capable, without consensus or standards on how they should behave, say academic researchers.\u2026",
-        "url": "https://www.theregister.com/2026/02/20/ai_agents_abound_unbound_by/",
-        "urlToImage": "https://regmedia.co.uk/2024/01/16/shutterstock_sleeper_agent.jpg",
-        "publishedAt": "2026-02-20T01:01:15Z",
-        "content": "AI agents are becoming more common and more capable, without consensus or standards on how they should behave, say academic researchers.\r\nSo says MITs Computer Science &amp; Artificial Intelligence L\u2026 [+5192 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Tobias Mann",
-        "title": "The idea of using a Raspberry Pi to run OpenClaw makes no sense",
-        "description": "The micro-computer maker\u2019s shares surged this week after an X post tied the AI agent to Pi demand\nopinion Beloved British single-board computer maker Raspberry Pi has achieved meme stock stardom, as its share price surged 90 percent over the course of a coupl\u2026",
-        "url": "https://www.theregister.com/2026/02/20/raspberry_pi_meme_stock_disorder/",
-        "urlToImage": "https://regmedia.co.uk/2016/06/23/raspberry_image_via_shutterstock.jpg",
-        "publishedAt": "2026-02-20T23:31:20Z",
-        "content": "opinion Beloved British single-board computer maker Raspberry Pi has achieved meme stock stardom, as its share price surged 90 percent over the course of a couple of days earlier this week. It's sett\u2026 [+3136 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "Multiple AWS outages caused by AI coding bot blunder, report claims \u2014 Amazon says both incidents were 'user error'",
-        "description": "Amazon suffered from a couple of small outages driven by actions of AI agents. The company insists that these are user errors because it accidentally gave the AI permission to execute actions without approval from another user.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/multiple-aws-outages-caused-by-ai-coding-bot-blunder-report-claims-amazon-says-both-incidents-were-user-error",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/AennARX3Z54KiofM52uyLB-2000-80.jpg",
-        "publishedAt": "2026-02-20T15:29:14Z",
-        "content": "Amazon Web Services (AWS) has reportedly suffered from a couple of outages due to misbehaving AI agents. According to the Financial Times, the most recent interruption happened in December last year,\u2026 [+2626 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "Ben Stockton",
-        "title": "OpenAI's Sam Altman warns that firms are using 'AI washing' to mask layoffs across the globe \u2014 AI boss calls out corporate excuses while warning of 'palpable' job disruption ahead",
-        "description": "In an interview at the India AI Impact Summit, OpenAI CEO Sam Altman mentioned his belief that AI is being used by businesses to explain unrelated layoffs, but that the technology will cause an impact in the near future.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-sam-altman-warns-that-firms-are-using-ai-washing-to-mask-layoffs-across-the-globe-ai-boss-calls-out-corporate-excuses-while-warning-of-palpable-job-disruption-ahead",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/euK8PxXzy4VebyHtfg9FzR-1920-80.jpg",
-        "publishedAt": "2026-02-20T15:18:53Z",
-        "content": "Artificial intelligence is already proving to be a disruption to the workplace, with the scope depending on your industry, but OpenAI CEO Sam Altman believes that some of the damage isn\u2019t entirely th\u2026 [+2489 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Taalas raises $169M in funding to develop model-specific AI chips",
-        "description": "Taalas Inc., a startup that develops chips optimized to run specific artificial intelligence models, has raised $169 million in funding. Reuters reported today that the company\u2019s backers include Quiet Capital, Fidelity and prominent semiconductor investor Pie\u2026",
-        "url": "https://siliconangle.com/2026/02/19/taalas-raises-169m-funding-develop-model-specific-ai-chips/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Taalas.png",
-        "publishedAt": "2026-02-20T01:22:59Z",
-        "content": "Taalas Inc., a startup that develops chips optimized to run specific artificial intelligence models, has raised $169 million in funding.\r\nReuters reported today that the companys backers include Quie\u2026 [+3721 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
@@ -108,130 +17,39 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Paul Gillin",
-        "title": "Why real-time voice AI is harder than it sounds",
-        "description": "Real-time voice recognition has become so common that many of us now take it for granted. But that convenience is the product of years of deep learning research and products that yielded more frustration than results. It turns out that simultaneous voice tran\u2026",
-        "url": "https://siliconangle.com/2026/02/20/real-time-voice-ai-harder-sounds/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Screenshot-from-2025-11-27-06-35-50.png",
-        "publishedAt": "2026-02-20T16:47:52Z",
-        "content": "Real-time voice recognition has become so common that many of us now take it for granted. But that convenience is the product of years of deep learning research and products that yielded more frustra\u2026 [+5361 chars]"
+        "author": "Mark Albertson",
+        "title": "The AI trust gap: Developers grapple with issues around security, memory, cost and interoperability",
+        "description": "There\u2019s a paradox among developers surrounding their use of artificial intelligence today: They\u2019re willing to use AI, but trust in AI tools has dropped sharply. That was among the findings contained in the annual developer survey commissioned by Stack Overflo\u2026",
+        "url": "https://siliconangle.com/2026/02/21/ai-trust-gap-developers-grapple-issues-around-security-memory-cost-interoperability/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Developer-Week-2.jpg",
+        "publishedAt": "2026-02-22T03:24:58Z",
+        "content": "There\u2019s a paradox among developers surrounding their use of artificial intelligence today: They\u2019re willing to use AI, but trust in AI tools has dropped sharply.\r\nThat was among the findings contained\u2026 [+8622 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Cybersecurity stocks drop after Anthropic debuts Claude Code Security",
-        "description": "Shares of several major cybersecurity providers dropped today after Anthropic PBC introduced a tool for finding software vulnerabilities. The offering is called Claude Code Security. It\u2019s available as a limited research preview in the Enterprise and Teams edi\u2026",
-        "url": "https://siliconangle.com/2026/02/20/cybersecurity-stocks-drop-anthropic-debuts-claude-code-security/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Anthropic.png",
-        "publishedAt": "2026-02-20T23:45:14Z",
-        "content": "Shares of several major cybersecurity providers dropped today after Anthropic PBC introduced a tool for finding software vulnerabilities.\r\nThe offering is called Claude Code Security. Its available a\u2026 [+4522 chars]"
+        "author": "Jason English",
+        "title": "Hitting stride with AppOS, AI and low-code automation at ZohoDay 2026",
+        "description": "Joining colleagues of all specialties at my fifth ZohoDay analyst event over the years, I knew what to expect: Direct interaction with customers and executives, evidence of continued growth and innovation, and another strategy to unify everything. I wasn\u2019t wr\u2026",
+        "url": "https://siliconangle.com/2026/02/21/hitting-stride-appos-ai-low-code-automation-zohoday-2026/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/zohoceo-manivembu-jasonenglish.jpeg",
+        "publishedAt": "2026-02-22T01:39:47Z",
+        "content": "Joining colleagues of all specialties at my fifth ZohoDay analyst event over the years, I knew what to expect: Direct interaction with customers and executives, evidence of continued growth and innov\u2026 [+10346 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Maria Deutscher",
-        "title": "AI code translation startup Code Metal reels in $125M at $1.25B valuation",
-        "description": "Code Metal Inc., a startup with a platform that translates code between programming languages, has closed a $125 million investment. The company disclosed in its Thursday funding announcement that it\u2019s now valued at $1.25 billion. That\u2019s up from $250 million \u2026",
-        "url": "https://siliconangle.com/2026/02/20/ai-code-translation-startup-code-metal-reels-125m-1-25b-valuation/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/code.png",
-        "publishedAt": "2026-02-20T21:29:13Z",
-        "content": "Code Metal Inc., a startup with a platform that translates code between programming languages, has closed a $125 million investment.\r\nThe company disclosed in its Thursday funding announcement that i\u2026 [+4597 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Tiernan Ray",
-        "title": "AI agents are fast, loose and out of control, MIT study finds",
-        "description": "The vast majority of agentic AI systems disclose nothing about what safety testing, if any, has been conducted, and many systems have no documented way to shut down a rogue bot, a study by MIT and collaborators found.",
-        "url": "https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-20T01:00:38Z",
-        "content": "JulPo/E+ via Getty\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>Agentic AI technology is marked by a lack of disclosure about risks.\u00a0</li><li>Some systems a\u2026 [+9880 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "James Farrell",
-        "title": "New York reverses on plans to allow robotaxis in major blow to Waymo",
-        "description": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robotaxis. The proposal, which would have allowed driverless taxis in cities other than New York City, was dropped after not receiving support from state legisl\u2026",
-        "url": "https://siliconangle.com/2026/02/19/new-york-reverses-plans-allow-robotaxis-major-blow-waymo/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg",
-        "publishedAt": "2026-02-20T01:49:47Z",
-        "content": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robotaxis.\r\nThe proposal, which would have allowed driverless taxis in cities other than New York Ci\u2026 [+3149 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "James Farrell",
-        "title": "New York reverses on plans to allow robottaxis in major blow to Waymo",
-        "description": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robottaxis. The proposal, which would have allowed driverless taxis in cities other than New York City, was dropped after not receiving support from state legis\u2026",
-        "url": "https://siliconangle.com/2026/02/19/new-york-reverses-plans-allow-robottaxis-major-blow-waymo/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg",
-        "publishedAt": "2026-02-20T01:49:47Z",
-        "content": "New York Governor Kathy Hochul today pulled a proposal that could have seen the state flooded with robottaxis.\r\nThe proposal, which would have allowed driverless taxis in cities other than New York C\u2026 [+3151 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "It\u2019s still frothy in AI, but memory chips are now the bottleneck",
-        "description": "You know AI is still pretty frothy when a company with no product or even publicly stated plans for one gets a billion dollars from the likes of Sequoia and maybe Nvidia, Alphabet and Microsoft. But that\u2019s what Ineffable Intelligence just did. Fei-Fei Li also\u2026",
-        "url": "https://siliconangle.com/2026/02/20/still-frothy-ai-memory-chips-now-bottleneck/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-Funding-Frenzy-4.png",
-        "publishedAt": "2026-02-20T15:30:31Z",
-        "content": "You know AI is still pretty frothy when a company with no product or even publicly stated plans for one gets a billion dollars from the likes of Sequoia and maybe Nvidia, Alphabet and Microsoft. But \u2026 [+10364 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Justine Calma",
-        "title": "Trump is making coal plants even dirtier as AI demands more energy",
-        "description": "The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data cent\u2026",
-        "url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1140674387.jpg?quality=90&strip=all&crop=0%2C8.6662992559934%2C100%2C82.667401488013&w=1200",
-        "publishedAt": "2026-02-20T20:18:34Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe US is lowering its standards for power plant pollution while generative AI and the Trump administration revive old coal plants. \r\nThe US is lowering its stan\u2026 [+4169 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Victoria Gayton",
-        "title": "The platform that ate the pipeline: Vast Data\u2019s rethink of AI Infrastructure",
-        "description": "The enterprise data stack wasn\u2019t designed for continuous, autonomous agentic AI. For years, the challenge was storing and organizing information. Now the challenge is delivering that data \u2014 consistently, globally and in real time \u2014 to systems that reason and \u2026",
-        "url": "https://siliconangle.com/2026/02/20/vast-reshaes-data-infrastructure-agentic-ai-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/ChatGPT-Image-Feb-19-2026-08_10_42-PM.png",
-        "publishedAt": "2026-02-20T18:40:08Z",
-        "content": "The enterprise data stack wasnt designed for continuous, autonomous agentic AI. For years, the challenge was storing and organizing information. Now the challenge is delivering that data consistently\u2026 [+12548 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-        "title": "Microsoft's Project Silica write-once storage could store terabytes of data for over 10,000 years \u2014 company explores two physical glass storage methods, so the glass-clad future of storage isn't coming anytime soon",
-        "description": "Microsoft's Project Silica now explores two different methods to store data on glass medium, but neither is close enough for commercialization.",
-        "url": "https://www.tomshardware.com/pc-components/storage/project-silica",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Tmca9WRQzWgDyTSkBCDhe6-1280-80.jpg",
-        "publishedAt": "2026-02-20T17:12:19Z",
-        "content": "Microsoft Research has been working on Project Silica \u2014 a glass-like write-once storage device that can store terabytes of data for 10,000 years \u2014 for well over five years now, without making any pro\u2026 [+8667 chars]"
+        "author": "Rebecca Bellan",
+        "title": "Google VP warns that two types of AI startups may not survive | TechCrunch",
+        "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+        "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
+        "publishedAt": "2026-02-21T16:02:51Z",
+        "content": "The generative AI boom minted a startup a minute. But as the dust starts to settle, two once-hot business models are looking more like cautionary tales: LLM wrappers and AI aggregators.\u00a0\r\nDarren Mowr\u2026 [+3815 chars]"
     },
     {
         "source": {
@@ -248,106 +66,15 @@
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Rhett Allain",
-        "title": "Could AI Data Centers Be Moved to Outer Space?",
-        "description": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-        "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
-        "urlToImage": "https://media.wired.com/photos/69977b3aacabb32f3cbd37c7/191:100/w_1280,c_limit/sci-space-data-1648725322.jpg",
-        "publishedAt": "2026-02-20T12:00:00Z",
-        "content": "Here is the emissivity of the objecthow effective it is as a radiator (0 &lt; &lt; 1), is the Stefan-Boltzmann constant, A is the surface area, and T is the temperature (in Kelvin). Since we have tem\u2026 [+3010 chars]"
-    },
-    {
-        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Jagmeet Singh",
-        "title": "General Catalyst commits $5B to India over five years | TechCrunch",
-        "description": "The pledge marks a sharp jump from General Catalyst's earlier $500 million\u2013$1 billion India earmark.",
-        "url": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-605683074-e1729770670902.jpg?resize=1200,800",
-        "publishedAt": "2026-02-20T06:44:02Z",
-        "content": "General Catalyst, a Silicon Valley-based venture firm with more than $43 billion in assets under management, has announced it plans to invest $5 billion in India over the next five years, sharply exp\u2026 [+2770 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Ivan Mehta",
-        "title": "UAE's G42 teams up with Cerebras to deploy 8 exaflops of compute in India | TechCrunch",
-        "description": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy eight exaflops of compute through a new system in India",
-        "url": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Super-computer-G42.jpg?resize=1200,676",
-        "publishedAt": "2026-02-20T12:00:56Z",
-        "content": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy 8 exaflops of computing power via a new supercomputer system in India, the companies said on the sidelines \u2026 [+2283 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Rebecca Bellan",
-        "title": "AI\u2019s promise to indie filmmakers: faster, cheaper, lonelier | TechCrunch",
-        "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry\u2019s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
-        "url": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Murmuray_FinalCut_04.2.00_01_09_13.Still028.png?resize=1200,675",
-        "publishedAt": "2026-02-20T15:34:37Z",
-        "content": "A Filipino man walks through the backyard of his childhood home in rural Hawaii, his footsteps swooshing through the grass. Birds chirp, contributing to the tropical din, as he approaches a shrine at\u2026 [+12113 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Lucas Ropek",
-        "title": "Google's new Gemini Pro model has record benchmark scores\u2014again | TechCrunch",
-        "description": "Google's new Gemini Pro model has record benchmark scores\u2014again | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-        "publishedAt": "2026-02-20T00:56:08Z",
-        "content": "On Thursday, Google released the newest version of Gemini Pro, its powerful LLM. The model, 3.1, is currently available as a preview and will be generally released soon, the company said.\r\nGoogle\u2019s n\u2026 [+1084 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Jagmeet Singh",
-        "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up | TechCrunch",
-        "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
-        "url": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1244449349.jpg?resize=1200,800",
-        "publishedAt": "2026-02-20T15:12:38Z",
-        "content": "Peak XV announced on Friday that it has raised $1.3 billion across new India and Asia-focused funds. The firm, which now manages more than $10 billion in assets, is sharpening its focus on artificial\u2026 [+3142 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Jagmeet Singh",
-        "title": "Nvidia deepens early-stage push into India's AI startup ecosystem | TechCrunch",
-        "description": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
-        "url": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-        "publishedAt": "2026-02-20T00:44:01Z",
-        "content": "Nvidia is stepping up efforts to court India\u2019s artificial intelligence startups earlier in their lifecycle, unveiling a string of partnerships this week aimed at reaching founders even before their c\u2026 [+4141 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Charles Rollet",
-        "title": "The OpenAI mafia: 18 startups founded by alumni | TechCrunch",
-        "description": "The OpenAI mafia: 18 startups founded by alumni | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024",
-        "publishedAt": "2026-02-20T12:48:56Z",
-        "content": "Move over, PayPal mafia:\u00a0Theres\u00a0a new tech mafia in Silicon Valley. As the startup behind ChatGPT, OpenAI is\u00a0arguably the\u00a0biggest AI player in town. The company is\u00a0reportedly now\u00a0in talks to\u00a0finalize\u2026 [+9372 chars]"
+        "author": "Tim Fernholz",
+        "title": "OpenAI debated calling police about suspected Canadian shooter's chats | TechCrunch",
+        "description": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+        "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+        "publishedAt": "2026-02-21T15:27:40Z",
+        "content": "An 18-year-old who allegedly killed eight people in a mass shooting in Tumbler Ridge, Canada, reportedly used OpenAI\u2019s ChatGPT in ways that alarmed the company\u2019s staff.\r\nJesse Van Rootselaar\u2019s chats \u2026 [+1328 chars]"
     }
 ]

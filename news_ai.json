@@ -1,16 +1,68 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Reece Rogers",
+        "title": "How to Hide Google\u2019s AI Overviews From Your Search Results",
+        "description": "You can avoid Google\u2019s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+        "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+        "urlToImage": "https://media.wired.com/photos/699879d490ce1a01f1ba1ac0/191:100/w_1280,c_limit/GettyImages-2250413446.jpg",
+        "publishedAt": "2026-02-22T11:00:00Z",
+        "content": "Going online in 2026 means subjecting yourself to a relentless bombardment of generative AI tools. How about a few AI agents to get you started? Do you want to use this chatbot sidebar? Would you lik\u2026 [+3590 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Justin Caffier",
+        "title": "Sam Altman: Know What Else Used a Lot of Energy? Human Civilization",
+        "description": "The OpenAI CEO, very smart, brushed away concerns about AI's environmental impact with one hell of a take.",
+        "url": "https://gizmodo.com/sam-altman-know-what-else-used-a-lot-of-energy-human-civilization-2000725167",
+        "urlToImage": "https://gizmodo.com/app/uploads/2023/12/4ff1b0f784c6143efba708457fe531b2.jpg",
+        "publishedAt": "2026-02-22T21:31:27Z",
+        "content": "At last weeks India AI Impact Summit in New Delhi, industry leaders convened to discuss the future of artificial intelligence and how best to squeeze it into parts of your life you havent even consid\u2026 [+3815 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Andrew Lanxon",
+        "title": "Give Your Phone Photos a Warm, Dreamy Analog Film Look With These 3 Tricks",
+        "description": "Whether you have the latest iPhone or Samsung phone, or even an older handset, you can take some beautiful nostalgic images with a bit of help. Here's how.",
+        "url": "https://www.cnet.com/tech/mobile/phone-photos-tips-filters-that-make-them-look-like-analog-film/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e85baa59966716b292a11b064ac2bbd11b688c9a/hub/2026/02/10/ba7e3e1e-eeb4-4529-8da6-c89f87369ac7/img-0915-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-22T13:01:09Z",
+        "content": "The nostalgic film look for photos has become wildly popular on social media in the past few years. Whether that's a response to generative AI fakes or simply that warm pastel tones and realistic fil\u2026 [+8742 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Infosys chair says AI will clean up legacy systems \u2013 then make more of them",
+        "description": "PLUS: China\u2019s sword-wielding humanoid robots; Australian court swamped by AI filings; Vietnam\u2019s 25km overwater drone delivery; And more!\nAsia In Brief Infosys chairman Nandan Nilekani has said the advent of AI means organizations no longer have any excuse to \u2026",
+        "url": "https://www.theregister.com/2026/02/23/asia_tech_news_roundup/",
+        "urlToImage": "https://regmedia.co.uk/2026/02/23/screenshot_china_swordbot.jpg",
+        "publishedAt": "2026-02-23T04:13:36Z",
+        "content": "Asia In Brief Infosys chairman Nandan Nilekani has said the advent of AI means organizations no longer have any excuse to retain their legacy systems.\r\nSpeaking at Infosys AI Day last week, Nilekani \u2026 [+5792 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Google could reportedly invest $100M in AI cloud operator Fluidstack",
-        "description": "Cloud startup Fluidstack Ltd. is reportedly in talks with Google LLC about a $100 million investment. The Wall Street Journal today cited sources as saying that the deal could value Fluidstack at $7.5 billion. According to Forbes, the low-profile startup prev\u2026",
-        "url": "https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/IMG_3819-800x533-1-2.jpg",
-        "publishedAt": "2026-02-21T01:34:02Z",
-        "content": "Cloud startup Fluidstack Ltd. is reportedly in talks with Google LLC about a $100 million investment.\r\nThe Wall Street Journal today cited sources as saying that the deal could value Fluidstack at $7\u2026 [+4009 chars]"
+        "author": "Mike Wheatley",
+        "title": "Sam Altman defends AI\u2019s resource consumption and ridicules Musk\u2019s plan to put data centers in space",
+        "description": "OpenAI Group PBC Sam Altman was in India this week, where he fielded questions about the environmental impact of artificial intelligence at a special event hosted by The Indian Express. While conceding that AI\u2019s total energy consumption is a legitimate concer\u2026",
+        "url": "https://siliconangle.com/2026/02/22/sam-altman-defends-ais-resource-consumption-ridicules-musks-plan-put-data-centers-space/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/21470472099_8e78d53ecf_k-1.jpg",
+        "publishedAt": "2026-02-23T01:24:47Z",
+        "content": "OpenAI Group PBC Sam Altman was in India this week, where he fielded questions about the environmental impact of artificial intelligence at a special event hosted by The Indian Express. But as conced\u2026 [+4399 chars]"
     },
     {
         "source": {
@@ -43,38 +95,25 @@
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Rebecca Bellan",
-        "title": "Google VP warns that two types of AI startups may not survive | TechCrunch",
-        "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-        "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
-        "publishedAt": "2026-02-21T16:02:51Z",
-        "content": "The generative AI boom minted a startup a minute. But as the dust starts to settle, two once-hot business models are looking more like cautionary tales: LLM wrappers and AI aggregators.\u00a0\r\nDarren Mowr\u2026 [+3815 chars]"
+        "author": "Ivan Mehta",
+        "title": "All the important news from the ongoing India AI Impact Summit | TechCrunch",
+        "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+        "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+        "publishedAt": "2026-02-22T17:00:00Z",
+        "content": "With an eye toward luring more AI investment to the country, India is hosting a four-day AI Impact Summit this week that will be attended by executives from major AI labs and Big Tech, including Open\u2026 [+6680 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Jagmeet Singh",
-        "title": "India's Sarvam launches Indus AI chat app as competition heats up | TechCrunch",
-        "description": "India's Sarvam launches Indus AI chat app as competition heats up | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-indus-chat-app-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-        "publishedAt": "2026-02-21T01:01:38Z",
-        "content": "Sarvam, an Indian AI startup focused on building models for local languages and users, on Friday launched its Indus chat app for web and mobile users, entering a fast-growing market dominated by glob\u2026 [+2143 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Tim Fernholz",
-        "title": "OpenAI debated calling police about suspected Canadian shooter's chats | TechCrunch",
-        "description": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
-        "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-        "publishedAt": "2026-02-21T15:27:40Z",
-        "content": "An 18-year-old who allegedly killed eight people in a mass shooting in Tumbler Ridge, Canada, reportedly used OpenAI\u2019s ChatGPT in ways that alarmed the company\u2019s staff.\r\nJesse Van Rootselaar\u2019s chats \u2026 [+1328 chars]"
+        "author": "Anthony Ha",
+        "title": "Can the creator economy stay afloat in a flood of AI slop? | TechCrunch",
+        "description": "On the latest episode of Equity, we debated what\u2019s next for the creator economy, and whether there will be any room for the next generation of creators to stand out.",
+        "url": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-941290532.jpg?resize=1200,800",
+        "publishedAt": "2026-02-22T22:18:01Z",
+        "content": "Online creators and their business models were on our mind this week after mega-popular YouTuber MrBeast announced that his company is buying fintech startup Step, followed by Hollywood studios sendi\u2026 [+7242 chars]"
     }
 ]

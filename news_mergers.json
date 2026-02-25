@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Reed Alexander,Alex Morrell,Alice Tecotzky",
+        "title": "Wall Street's Rainmakers: The 20 bankers who hammered out 2025's biggest deals",
+        "description": "The top US merger banker last year hails from Wells Fargo. Meet him and 19 other dealmakers who  who shaped the $4.6 trillion M&A comeback.",
+        "url": "https://www.businessinsider.com/rainmakers-top-mergers-acquisitions-bankers-2025-goldman-jpmorgan-wells-2026-2",
+        "urlToImage": "https://i.insider.com/6994c685a645d118818976a2?width=1200&format=jpeg",
+        "publishedAt": "2026-02-23T10:53:01Z",
+        "content": "Meet 20 investment bankers who drove Wall Street's dealmaking resurgence in 2025.Sam Britton; Blair Effron; Gary Posternack; Lily Mahdavi; Getty Images; Tyler Le/BI\r\n<ul><li>Business Insider partnere\u2026 [+22698 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lara O'Reilly",
+        "title": "These 16 rising stars are helping brands like Disney and Nestl\u00e9 navigate major changes in marketing",
+        "description": "Discover the up-and-coming marketing power players boosting brands with bold campaigns and visionary leadership.",
+        "url": "https://www.businessinsider.com/rising-stars-of-brand-marketing-2026-2",
+        "urlToImage": "https://i.insider.com/69973a2be1ba468a96ac4f8c?width=1200&format=jpeg",
+        "publishedAt": "2026-02-23T09:35:01Z",
+        "content": "Alyssa Powell/BI\r\n<ul><li>Meet the up-and-coming marketing power players of 2026.</li><li>These rising leaders are driving growth for brands like Meta and Coca-Cola.</li><li>They're mastering tech li\u2026 [+22279 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -14,15 +40,54 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "sneedleman@businessinsider.com (Sarah E. Needleman)",
-        "title": "I work in recruiting tech. Here's how the smartest candidates use AI differently in their job search.",
-        "description": "A longtime HR pro says AI is making everyone's r\u00e9sum\u00e9 look the same, when it can provide job seekers with so much more value.",
-        "url": "https://www.businessinsider.com/icims-expert-shares-how-smartest-job-seekers-use-ai-2026-2",
-        "urlToImage": "https://i.insider.com/6998b6fd2237a6a8f0cd8fb3?width=1200&format=jpeg",
-        "publishedAt": "2026-02-22T10:43:01Z",
-        "content": "This as-told-to essay is based on a conversation with Trent Cotton, an HR industry veteran who is head of talent-acquisition insights at recruiting-software company iCIMS. This story has been edited \u2026 [+2724 chars]"
+        "author": "Leo Schwartz",
+        "title": "The 29-year old investor who went from selling fake IDs to backing Poppi raises a $75 million fund to invest in brands with a \u2018cultural edge\u2019",
+        "description": "Inside Second Sight Ventures, the New York-based firm run by Patrick Finnegan and Chris Hollod.",
+        "url": "https://fortune.com/2026/02/23/patrick-finnegan-chris-hollod-second-sight-ventures-poppi-post-malone-lemme-loyalist/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/SecondSight.jpeg?resize=1200,600",
+        "publishedAt": "2026-02-23T12:01:59Z",
+        "content": "Patrick Finnegan began his career as an entrepreneur while struggling to fit in at a Delaware boarding school. He started businesses as a way to cope (some above board, like building websites, and so\u2026 [+4228 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Preston Fore",
+        "title": "While Nvidia CEO Jensen Huang enjoys an over $150 billion net worth, his fellow cofounder Curtis Priem sold out in 2006\u2014and missed out on $600 billion",
+        "description": "Nvidia cofounder Curtis Priem sold his 13% stake by 2006\u2014but if he hadn\u2019t, today it\u2019d be worth up to $600 billion, and he\u2019d be the second richest man alive",
+        "url": "https://fortune.com/2026/02/23/nvidia-cofounder-curtis-priem-sold-13-percent-stake-early-could-be-worth-600-billion-missed-opportunity/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2244290743-e1771862810709.jpg?resize=1200,600",
+        "publishedAt": "2026-02-23T16:14:50Z",
+        "content": "In 1993, Jensen Huang met two of his engineering friends at a Dennys in Silicon Valley. Over pancakes and coffee, Huang, Chris Malachowsky and Curtis Priem kicked around an idea that sounded ambitiou\u2026 [+4320 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Kai Nicol-Schwarz",
+        "title": "Finland's IQM to become one of Europe's first listed quantum companies at $1.8 billion valuation",
+        "description": "The transaction will see the company hit a $1.8 billion valuation.",
+        "url": "https://www.cnbc.com/2026/02/23/finlands-iqm-listing-quantum-computing.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183656-1754669527774-gettyimages-2218892091-AFP_49Q43G8.jpeg?v=1764750717&w=1920&h=1080",
+        "publishedAt": "2026-02-23T12:07:23Z",
+        "content": "European startup IQM is aiming to build powerful quantum computers to rival the likes of Google and IBM.\r\nFinland-based quantum computing startup IQM announced plans Monday to become one of Europe's \u2026 [+2911 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Alex Harring",
+        "title": "Tariffs, flight cancellations, OpenAI's spending reset and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/02/23/5-things-to-know-before-the-stock-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108268071-1771615291089-gettyimages-2262692691-aw1a1345_0sevv3qb.jpeg?v=1771795671&w=1920&h=1080",
+        "publishedAt": "2026-02-23T13:35:01Z",
+        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Monday. With the Winter Olympics officially wrapped up, many athletes are leaving Italy with \u2026 [+5794 chars]"
     }
 ]

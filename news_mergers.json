@@ -1,42 +1,55 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Dakin Campbell",
-        "title": "A buzzy data center startup calls itself a utility. That could be a problem.",
-        "description": "Fermi American has pitched itself as cutting-edge utility. But its corporate structure puts strict limits on its income sources.",
-        "url": "https://www.businessinsider.com/fermi-america-reit-utility-irs-rules-corporate-structure-2026-2",
-        "urlToImage": "https://i.insider.com/6997817de1ba468a96ac596c?width=1200&format=jpeg",
-        "publishedAt": "2026-02-24T10:24:01Z",
-        "content": "Bloomberg/Getty Images\r\n<ul><li>Fermi, a data center startup, has pitched itself as a utility built to power the AI boom.</li><li>But the company is a REIT, a corporate structure that limits how much\u2026 [+10144 chars]"
+        "author": "Jeremy Kahn",
+        "title": "A startup buying up U.K. real estate brokers and streamlining their processes with AI gets $93 million in funding to fuel expansion",
+        "description": "Dwelly, cofounded by former Uber and Gett employees, is backed by General Catalyst, Trinity Capital",
+        "url": "https://fortune.com/2026/02/25/dwelly-ai-roll-up-uk-lettings-agencies-real-estate-brokerages-93-million-new-venture-captial-funding-to-fuel-expansion/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Dwelly-Founders-2F-e1771970244189.jpg?resize=1200,600",
+        "publishedAt": "2026-02-25T12:00:00Z",
+        "content": "A startup founded by former Uber and Gett executives that is aiming to roll-up independent real estate agencies across the U.K. and modernize their operations using AI and other digital technology ha\u2026 [+5811 chars]"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Grace Kay",
-        "title": "Inside OpenAI's org chart: Here are the executives in charge at the ChatGPT creator",
-        "description": "As of February, CEO Sam Altman had 10 direct reports, while CEO of applications Fidji Simo had 13.",
-        "url": "https://www.businessinsider.com/openai-org-chart-sam-altman-fidji-simo-ipo-2026-2",
-        "urlToImage": "https://i.insider.com/699cc362efb52c8bd0deb649?width=1200&format=jpeg",
-        "publishedAt": "2026-02-24T15:19:41Z",
-        "content": "Andrew Harnik/Getty Images\r\n<ul><li>OpenAI is racing toward an expected IPO amid pressure to justify its valuation and compete with Big Tech.</li><li>Business Insider looked at the company's internal\u2026 [+4548 chars]"
+        "author": "Sharon Goldman",
+        "title": "With markets jittery after weeks of tech selloffs, Nvidia\u2019s earnings are the next big test for AI sentiment",
+        "description": "As tech stocks slide and AI spending comes under scrutiny, investors are looking to Nvidia\u2019s results for clues about whether the AI boom still has room to run.",
+        "url": "https://fortune.com/2026/02/25/nvidia-earnings-big-test-for-ai-sentiment/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2254352060-e1770223069132.jpg?resize=1200,600",
+        "publishedAt": "2026-02-25T16:56:59Z",
+        "content": "Nvidias quarterly earnings have been must-watch events ever since its stock began a dramatic ascent in 2023, following OpenAIs launch of ChatGPT and the start of the generative AI boom. Now that its \u2026 [+3406 chars]"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "aaltchek@insider.com (Ana Altchek)",
-        "title": "These 7 companies are increasing hiring of entry-level engineers",
-        "description": "Tech giants like IBM and LinkedIn are expanding entry-level programs for engineers amid an evolving job landscape for junior workers.",
-        "url": "https://www.businessinsider.com/companies-boosting-hiring-entry-level-engineers-2026-2",
-        "urlToImage": "https://i.insider.com/699c832f2237a6a8f0cda69b?width=1200&format=jpeg",
-        "publishedAt": "2026-02-24T10:33:01Z",
-        "content": "Being new to the job market is never easy. But in a field like software engineering, it can feel especially daunting as AI takes over many tasks that used to belong to entry-level workers.\r\nSome comp\u2026 [+6184 chars]"
+        "author": "Alex Harring",
+        "title": "Trump's State of the Union, Lowe's earnings, Panera Bread's value menu and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/02/25/5-things-to-know-before-the-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108269685-1771992452221-gettyimages-2262903685-TRUMP_SOTU_2026.jpeg?v=1771992506&w=1920&h=1080",
+        "publishedAt": "2026-02-25T13:21:11Z",
+        "content": "1. Trump's talk\r\nUS President Donald Trump, right, and US House Speaker Mike Johnson, a Republican from Louisiana, during a State of the Union address in the House Chamber of the US Capitol in Washin\u2026 [+4361 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Amelia Lucas, Ryan Baker",
+        "title": "Restaurant reservation wars heat up as DoorDash enters the arena with Resy, OpenTable",
+        "description": "The still-simmering reservation wars of the last decade could fully reignite this year, as a shifting tech landscape pits the biggest players against each other.",
+        "url": "https://www.cnbc.com/2026/02/25/doordash-resy-opentable-restaurant-reservation-wars.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267532-1771528940907-gettyimages-1464263513-g2223_1962.jpeg?v=1771529012&w=1920&h=1080",
+        "publishedAt": "2026-02-25T12:00:01Z",
+        "content": "Now available on your favorite food delivery app: restaurant reservations. \r\nThe still-simmering reservation wars of the last decade could fully reignite this year, as a shifting tech landscape pits \u2026 [+5002 chars]"
     },
     {
         "source": {
@@ -44,63 +57,11 @@
             "name": "CNBC"
         },
         "author": "Jordan Novet",
-        "title": "Intel partners with AI chip startup SambaNova after acquisition talks reportedly failed",
-        "description": "Intel CEO Lip-Bu Tan first invested in SambaNova in 2017. Now the chipmaker he runs is putting more capital behind the startup.",
-        "url": "https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108268714-1771874693602-Lip-Bu_Tan_and_Rodrigo_Liang.jpg?v=1771874765&w=1920&h=1080",
-        "publishedAt": "2026-02-24T11:00:02Z",
-        "content": "In addition to running Intel, Lip-Bu Tan is chairman of artificial intelligence chipmaker SambaNova, which he first invested in eight years ago. Now Intel is pumping money into the startup as it trie\u2026 [+3332 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Ari Levy",
-        "title": "Nvidia earnings report collides with Wall Street skepticism over AI spending",
-        "description": "Nvidia is the only megacap tech stock to notch gains this year as investors have turned cautious on the hefty amounts of spending on AI infrastructure.",
-        "url": "https://www.cnbc.com/2026/02/24/nvidia-earnings-collide-with-wall-street-skepticism-over-ai-spending.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256213-1769171467655-108256213-17691714072026-01-21t110421z_923549888_rc2m5jaurrtk_rtrmadp_0_davos-meeting.jpg?v=1770154317&w=1920&h=1080",
-        "publishedAt": "2026-02-24T13:00:02Z",
-        "content": "Jensen Huang, president and CEO of Nvidia, attends the 56th annual World Economic Forum meeting in Davos, Switzerland, Jan. 21, 2026.\r\nIt's been a tough start to the year for technology investors. Sh\u2026 [+4444 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Samantha Subin",
-        "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
-        "description": "PayPal's stock lost nearly a third of its value last year due to slowing growth and competition concerns.",
-        "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217464-1761596590822-gettyimages-2198545732-TFSPI_12022025-4478.jpeg?v=1771968050&w=1920&h=1080",
-        "publishedAt": "2026-02-24T21:45:09Z",
-        "content": "PayPal's stock surged nearly 7% on Tuesday following a report that fintech startup Stripe is weighing buying the payments platform. \r\nBloomberg reported the news, citing people familiar with the matt\u2026 [+1431 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Samantha Subin",
-        "title": "Cyber startup Cato Networks tops revenue milestone as CEO says AI is helping business",
-        "description": "Cato CEO Shlomo Kramer co-founded Israeli cybersecurity firm Check Point Software and was an early investor in Palo Alto Networks.",
-        "url": "https://www.cnbc.com/2026/02/24/cybersecurity-startup-cato-networks-revenue-ai.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108268740-1771875925787-gettyimages-2179388914-UK_TECH_SUMMIT.jpeg?v=1771875955&w=1920&h=1080",
-        "publishedAt": "2026-02-24T13:10:01Z",
-        "content": "Cato Networks surpassed $350 million in annual recurring revenue in 2025 as more businesses adopted its tools in the age of artificial intelligence, the cybersecurity startup announced Tuesday.\r\nCEO \u2026 [+1582 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sarah Jackson",
-        "title": "These are the fastest-growing skills in the U.S., according to LinkedIn: They're 'career currency'",
-        "description": "LinkedIn's 2026 Skills on the Rise list identifies the fastest-growing skills in the U.S.",
-        "url": "https://www.cnbc.com/2026/02/24/the-fastest-growing-skills-in-the-us-according-to-linkedin-theyre-career-currency.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193801-1756918142319-gettyimages-2187465701-2810of24.jpeg?v=1771946709&w=1920&h=1080",
-        "publishedAt": "2026-02-24T17:44:08Z",
-        "content": "What skills can help make you more attractive in the job market or workplace today?\r\nLinkedIn's 2026 Skills on the Rise list, published Tuesday, identifies the fastest-growing skills in the U.S.\r\n\"We\u2026 [+2983 chars]"
+        "title": "Salesforce (CRM) Q4 earnings report 2026",
+        "description": "Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition.",
+        "url": "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254407-1768928595999-gettyimages-2256697072-DAVOS_WEF_2026.jpeg?v=1772047239&w=1920&h=1080",
+        "publishedAt": "2026-02-25T21:09:01Z",
+        "content": "Salesforce shares slipped 3% in extended trading on Wednesday after the customer service software maker reported healthy results, although its fiscal 2027 revenue view trailed Wall Street projections\u2026 [+3226 chars]"
     }
 ]

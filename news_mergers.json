@@ -1,67 +1,119 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Brent D. Griffiths",
+        "title": "Nvidia CEO says the economics of space data centers are 'poor right now,' but will improve",
+        "description": "Nvidia CEO Jensen Huang is the latest big name in tech to weigh in on the possible future of orbital data centers.",
+        "url": "https://www.businessinsider.com/nvidia-jensen-huang-space-data-centers-ai-2026-2",
+        "urlToImage": "https://i.insider.com/69a06cd350f42603b0f8f374?width=1200&format=jpeg",
+        "publishedAt": "2026-02-26T16:45:12Z",
+        "content": "Nvidia CEO Jensen Huang has overseen a rocky month for the company.Lee Jin-man/AP\r\n<ul><li>Jensen Huang said it's difficult to put data centers in space right now.</li><li>But the Nvidia CEO said \"th\u2026 [+2892 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lara O'Reilly",
+        "title": "WPP's new CEO is shaking up the ad giant's business model. Here are 3 key takeaways on what her overhaul means for staff.",
+        "description": "There are big changes ahead at WPP. The British ad group is simplifying its structure and planning hundreds of millions of dollars in cost savings.",
+        "url": "https://www.businessinsider.com/wpp-turnaround-plan-3-key-takeaways-staff-cost-cutting-advertising-2026-2",
+        "urlToImage": "https://i.insider.com/699ff71b50f42603b0f8ef51?width=1200&format=jpeg",
+        "publishedAt": "2026-02-26T11:05:44Z",
+        "content": "Cindy Rose, the CEO of WPP. WPP/Jillian Edelstein\r\n<ul><li>WPP's new CEO, Cindy Rose, has set out her turnaround plan for the ailing ad giant.</li><li>She's simplifying WPP's structure and targeting \u2026 [+5404 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "David Bloom, Senior Contributor, \n David Bloom, Senior Contributor\n https://www.forbes.com/sites/dbloom/",
+        "title": "As AI Looms, Netflix Opts For Valor\u2019s Better Part, And Profits",
+        "description": "Netflix walks away from paying too much for Warner Bros. Discovery, and toward making money and more shows as AI competition looms over all of Hollywood.",
+        "url": "https://www.forbes.com/sites/dbloom/2026/02/26/as-ai-looms-netflix-opts-for-valors-better-part-and-profits/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697051f1498eb715e22d78d5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-02-27T00:48:28Z",
+        "content": "(Photo by Mario Tama/Getty Images)\r\nGetty Images\r\nNetflix today walked away from spending more than $83 billion for the prized assets of Warner Bros., leaving to Paramount Skydance the possibly poiso\u2026 [+7370 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeremy Kahn",
-        "title": "A startup buying up U.K. real estate brokers and streamlining their processes with AI gets $93 million in funding to fuel expansion",
-        "description": "Dwelly, cofounded by former Uber and Gett employees, is backed by General Catalyst, Trinity Capital",
-        "url": "https://fortune.com/2026/02/25/dwelly-ai-roll-up-uk-lettings-agencies-real-estate-brokerages-93-million-new-venture-captial-funding-to-fuel-expansion/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Dwelly-Founders-2F-e1771970244189.jpg?resize=1200,600",
-        "publishedAt": "2026-02-25T12:00:00Z",
-        "content": "A startup founded by former Uber and Gett executives that is aiming to roll-up independent real estate agencies across the U.K. and modernize their operations using AI and other digital technology ha\u2026 [+5811 chars]"
+        "author": "Sasha Rogelberg",
+        "title": "Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box",
+        "description": "Miso Robotics\u2019 Flippy slung chicken tenders and Tater Tots at Dodger Stadium, and CEO Rich Hull has bigger ambitions for the tech.",
+        "url": "https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/2-Flippy-Users-1-e1772061538853.jpg?resize=1200,600",
+        "publishedAt": "2026-02-26T13:20:44Z",
+        "content": "In 2017, about a year after its founding, Miso Robotics unveiled Flippy, an AI-powered robot arm that could flip burger patties before nestling them in buns. The machine would go on to work alongside\u2026 [+8957 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Lars Daniel, Contributor, \n Lars Daniel, Contributor\n https://www.forbes.com/sites/larsdaniel/",
+        "title": "Courts Were Already Getting Video Evidence Wrong. AI Will Make That Look Like A Warm-Up.",
+        "description": "A wrongful murder conviction exposed how unprepared courts are to evaluate video evidence. AI has made that crisis impossible to ignore.",
+        "url": "https://www.forbes.com/sites/larsdaniel/2026/02/26/courts-were-already-getting-video-evidence-wrong-ai-will-make-that-look-like-a-warm-up/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a0c373c49e5930bc3794c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-02-26T22:23:03Z",
+        "content": "video and photo evidence will never be the same again. \r\ngetty\r\nA man spent more than five years in prison for a double murder he didn't commit. Not because the evidence was planted. Not because witn\u2026 [+8153 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "ktl@businessinsider.com (Katherine Tangalakis-Lippert)",
+        "title": "Clawing back: Inside Red Lobster's high-stakes revival",
+        "description": "'Endless Shrimp' turned Red Lobster into a punchline. Now a star CEO is leading its high-stakes turnaround",
+        "url": "https://www.businessinsider.com/red-lobster-bankruptcy-rebound-endless-shrimp-private-equity-adamolekun-2026-2",
+        "urlToImage": "https://i.insider.com/699f73dd50f42603b0f8ec09?width=1200&format=jpeg",
+        "publishedAt": "2026-02-26T09:07:01Z",
+        "content": "On a recent Friday night in Times Square, a pair of 25-year-old tech-finance bros sat in a booth at Red Lobster, sharing a lobster tail and a plate of lobster and shrimp linguine. It was the first ti\u2026 [+15069 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sharon Goldman",
-        "title": "With markets jittery after weeks of tech selloffs, Nvidia\u2019s earnings are the next big test for AI sentiment",
-        "description": "As tech stocks slide and AI spending comes under scrutiny, investors are looking to Nvidia\u2019s results for clues about whether the AI boom still has room to run.",
-        "url": "https://fortune.com/2026/02/25/nvidia-earnings-big-test-for-ai-sentiment/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2254352060-e1770223069132.jpg?resize=1200,600",
-        "publishedAt": "2026-02-25T16:56:59Z",
-        "content": "Nvidias quarterly earnings have been must-watch events ever since its stock began a dramatic ascent in 2023, following OpenAIs launch of ChatGPT and the start of the generative AI boom. Now that its \u2026 [+3406 chars]"
+        "author": "Sydney Lake",
+        "title": "The remote work fight isn\u2019t over: Workers are willing to take a major pay cut, up to 25%, Harvard study shows",
+        "description": "Harvard, Brown, and UCLA researchers found workers would be willing to take a massive pay cut to work from home.",
+        "url": "https://fortune.com/article/why-are-workers-willing-to-take-25-percent-pay-cut-to-work-remote-harvard-study/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2175459930-e1760109935489.jpg?resize=1200,600",
+        "publishedAt": "2026-02-26T14:24:47Z",
+        "content": "Were nearly six years past the pandemic, but the remote work debate rages on.\u00a0Many large companies like Amazon, Walmart, JPMorgan, and Uber have mandated five days a week in the office, and others in\u2026 [+4123 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Alex Harring",
-        "title": "Trump's State of the Union, Lowe's earnings, Panera Bread's value menu and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/02/25/5-things-to-know-before-the-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108269685-1771992452221-gettyimages-2262903685-TRUMP_SOTU_2026.jpeg?v=1771992506&w=1920&h=1080",
-        "publishedAt": "2026-02-25T13:21:11Z",
-        "content": "1. Trump's talk\r\nUS President Donald Trump, right, and US House Speaker Mike Johnson, a Republican from Louisiana, during a State of the Union address in the House Chamber of the US Capitol in Washin\u2026 [+4361 chars]"
+        "author": "Priyanka Salve",
+        "title": "An Indian company is set to build a $2 billion AI hub with Nvidia\u2019s GPUs and go public. Here's what we know so far",
+        "description": "Yotta Data Services, which controls up to 70% of India\u2019s GPU capacity, said surging demand from local AI startups and global tech firms is tightening supply.",
+        "url": "https://www.cnbc.com/2026/02/27/india-yotta-nvidia-ai-gpu-demand-data-centers-investment.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108238981-1765286153900-gettyimages-2153607836-INDIA_YOTTA_NVIDIA.jpeg?v=1772137993&w=1920&h=1080",
+        "publishedAt": "2026-02-27T05:54:53Z",
+        "content": "India's Yotta Data Services, which is building a $2 billion artificial intelligence hub using Nvidia's chips, said demand for graphic processing units in the country is exceeding supply as domestic A\u2026 [+2641 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Amelia Lucas, Ryan Baker",
-        "title": "Restaurant reservation wars heat up as DoorDash enters the arena with Resy, OpenTable",
-        "description": "The still-simmering reservation wars of the last decade could fully reignite this year, as a shifting tech landscape pits the biggest players against each other.",
-        "url": "https://www.cnbc.com/2026/02/25/doordash-resy-opentable-restaurant-reservation-wars.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267532-1771528940907-gettyimages-1464263513-g2223_1962.jpeg?v=1771529012&w=1920&h=1080",
-        "publishedAt": "2026-02-25T12:00:01Z",
-        "content": "Now available on your favorite food delivery app: restaurant reservations. \r\nThe still-simmering reservation wars of the last decade could fully reignite this year, as a shifting tech landscape pits \u2026 [+5002 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jordan Novet",
-        "title": "Salesforce (CRM) Q4 earnings report 2026",
-        "description": "Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition.",
-        "url": "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254407-1768928595999-gettyimages-2256697072-DAVOS_WEF_2026.jpeg?v=1772047239&w=1920&h=1080",
-        "publishedAt": "2026-02-25T21:09:01Z",
-        "content": "Salesforce shares slipped 3% in extended trading on Wednesday after the customer service software maker reported healthy results, although its fiscal 2027 revenue view trailed Wall Street projections\u2026 [+3226 chars]"
+        "author": "Nur Hikmah Md Ali",
+        "title": "CNBC Daily Open: Netflix bows out from Warner Bros. Discovery bidding war",
+        "description": "Netflix on Thursday stateside said it declined to raise a counteroffer for Warner Bros. Discovery's studio and streaming assets.",
+        "url": "https://www.cnbc.com/2026/02/27/cnbc-daily-open-netflix-bows-out-from-warner-bros-discovery-bidding-war.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173537-1752777262089-gettyimages-2224894910-img_8596.jpeg?v=1772150962&w=1920&h=1080",
+        "publishedAt": "2026-02-27T01:44:45Z",
+        "content": "In the latest plot twist of the high-stakes bidding war for Warner Bros. Discovery, Netflix said Thursday it would not increase a counteroffer for the company's studio and streaming assets, effective\u2026 [+3788 chars]"
     }
 ]

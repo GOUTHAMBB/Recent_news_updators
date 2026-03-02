@@ -1,159 +1,29 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNET"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Ty Pendlebury",
-        "title": "ChatGPT Has Almost 1 Billion Weekly Users, OpenAI Says",
-        "description": "That's up from 700 million users in September last year and more than doubled from where it was last year.",
-        "url": "https://www.cnet.com/tech/services-and-software/chatgpt-has-almost-1-billion-weekly-users/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/1759475f58dc119fb387ecf1d9ee82caf02c3f6b/hub/2025/11/14/11c2c657-73fc-4853-a5da-c9fff75c1dde/chatgpt.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-27T21:21:57Z",
-        "content": "Artificial intelligence company OpenAI reports that ChatGPT, its AI chatbot, has more than 900 million weekly active users, up from 700 million in September. The company also says the service now has\u2026 [+1509 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Steven Levy",
-        "title": "Wall Street Has AI Psychosis",
-        "description": "A \u201cthought experiment\u201d about the impacts of AI sent stocks tumbling earlier this week. It\u2019s probably going to keep happening.",
-        "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-        "urlToImage": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/191:100/w_1280,c_limit/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
-        "publishedAt": "2026-02-27T16:00:00Z",
-        "content": "Before last week the name Alap Shah didnt ring a bell for many people. The 45-year-old financial analyst and tech entrepreneur had spent the past two decades working in relative obscurity. Then last \u2026 [+3859 chars]"
+        "author": "Sheena Vasani, Brandon Widder",
+        "title": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
+        "description": "Welcome to the weekend, friends! While the rest of our team was checking out Samsung\u2019s forthcoming Galaxy S26 lineup and prepping for Apple\u2019s \u201cspecial experience\u201d next week, we\u2019ve been sifting through Woot\u2019s \u201cVideo Games for All\u201d sale and a truly weird slate \u2026",
+        "url": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Bose-QuietComfort-Headphones-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-02-28T16:07:14Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon is also throwing in a $200 gift card when you preorder the upcoming Galaxy S26 Ultra.\r\nAmazon is also throwing in a $200 gift card when you preorder the u\u2026 [+7470 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "Jeff Carlson",
-        "title": "Smartphone Sales to Plummet 13% in 2026 Due to RAM Crisis, Says IDC",
-        "description": "AI-fueled memory scarcity is hitting the phone market hard this year, particularly for inexpensive, low-end devices.",
-        "url": "https://www.cnet.com/tech/mobile/smartphone-sales-to-plummet-13-pct-2026-idc/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/75ff1f7a91e1cc58bcb3553435feb81d86b28227/hub/2026/02/26/985a3a97-50c2-4f36-b6a4-813b1008e772/idc-smartphone-forecast-feb-2026.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-27T01:18:27Z",
-        "content": "The projected shortage of memory chips worldwide will have a more serious impact on smartphone sales in 2026 than previously projected, according to new data from International Data Corporation World\u2026 [+2303 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Kyle Torpey",
-        "title": "Bitcoin Crashed 50% in 4 Months. Fidelity Says That\u2019s a Good Thing",
-        "description": "Fidelity Digital Assets analysts do see one ray of hope for bitcoin maxis.",
-        "url": "https://gizmodo.com/bitcoin-crashed-50-in-4-months-fidelity-says-thats-a-good-thing-2000727284",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/10/bitcoin-explosion-1200x675.jpg",
-        "publishedAt": "2026-02-27T15:30:11Z",
-        "content": "Bitcoin\u2019s price has taken a beating recently. After reaching a new all-time high above $126,000 in October, the crypto asset fell below $60,000 earlier this month before recovering to trade around $6\u2026 [+5115 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Jon Reed",
-        "title": "Trump Tells Feds to Stop Using Claude AI After Anthropic Stood by Surveillance Restrictions",
-        "description": "The Trump administration wanted the Department of Defense to be able to use Claude for \"any lawful purpose.\"",
-        "url": "https://www.cnet.com/tech/services-and-software/anthropic-claude-pentagon-surveillance-weapons-concerns-trump-order/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/7076f9f5ee61a774451c7e817c38e3193fae0268/hub/2026/02/27/9488e413-0b86-45cd-839b-da165fb71b1f/gettyimages-2256654239.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-27T21:22:00Z",
-        "content": "President Donald Trump on Friday called for US federal agencies to stop using Anthropic's Claude AI after the company refused to grant the Department of Defense permission to use it for mass domestic\u2026 [+4270 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Dan Robinson",
-        "title": "Oak Ridge spawns institute to curb AI datacenter power surge",
-        "description": "Lab aims to link power, cooling, and workload management to ease strain on the US grid\nOak Ridge National Laboratory (ORNL) is hoping to turn its technical expertise to the problem of growing electricity demand from AI datacenters.\u2026",
-        "url": "https://www.theregister.com/2026/02/27/oak_ridge_datacenter_power/",
-        "urlToImage": "https://regmedia.co.uk/2025/07/25/shutterstock_ornl.jpg",
-        "publishedAt": "2026-02-27T18:56:06Z",
-        "content": "Oak Ridge National Laboratory (ORNL) is hoping to turn its technical expertise to the problem of growing electricity demand from AI datacenters.\r\nThe US federal research center in Tennessee is launch\u2026 [+3641 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MIT Technology Review"
-        },
-        "author": "Michelle Kim",
-        "title": "AI is rewiring how the world\u2019s best Go players think",
-        "description": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. The game is an ancient one, with sacred stature in South Kore\u2026",
-        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
-        "publishedAt": "2026-02-27T10:00:00Z",
-        "content": "Ten years ago AlphaGo, Google DeepMinds AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the years since, AI has upended the game. Its overturned centuries-old \u2026 [+3078 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-        "title": "Claude won't be allowed to engage in mass surveillance or power fully autonomous weapons \u2014 Anthropic refuses to lower AI guardrails for the Pentagon",
-        "description": "Anthropic CEO has pushed back strongly against the Pentagon's requests to remove AI guardrails from Claude. Anthropic takes a concrete stance against mass surveillance and autonomous killing machines, arguing that the former is undemocratic, while frontier AI\u2026",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-wont-be-allowed-to-engage-in-mass-surveillance-or-power-fully-autonomous-weapons-anthropic-refuses-to-lower-ai-guardrails-for-the-pentagon",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/rjt34fJZ3AbWvC4dfyTu2H-2560-80.jpg",
-        "publishedAt": "2026-02-27T17:06:04Z",
-        "content": "Anthropic has issued a statement refusing to lower guardrails for Claude at the request of the Department of Justice. The Pentagon gave Anthropic until Friday to comply or have its $200m contract can\u2026 [+3571 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "John Furrier",
-        "title": "Figma\u2019s orchestration bet: Why MCP network effects redefine software defensibility",
-        "description": "Wall Street just repriced software-as-a-service. Again. Security stocks sold off after Anthropic PBC launched Claude Code Security. Investors reacted the way they\u2019ve reacted all year: assuming artificial intelligence collapses categories, compresses multiples\u2026",
-        "url": "https://siliconangle.com/2026/02/26/figmas-orchestration-bet-mcp-network-effects-redefine-software-defensibility/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/figmancodetocanvas.png",
-        "publishedAt": "2026-02-27T03:58:44Z",
-        "content": "Wall Street just repriced software-as-a-service. Again.\r\nSecurity stocks sold off after Anthropic PBC launched Claude Code Security. Investors reacted the way theyve reacted all year: assuming artifi\u2026 [+7371 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "AI at scale is demanding a fundamentally different data architecture",
-        "description": "Organizations adopting artificial intelligence soon discover the twin challenges of AI-scale data performance and global data orchestration. At that level, only a unified data platform can control capacity and policy across distributed environments. Lack of c\u2026",
-        "url": "https://siliconangle.com/2026/02/27/unified-data-platform-essential-ai-scale-says-vast-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Jonsi-Stefansson-Clean.jpg",
-        "publishedAt": "2026-02-27T20:00:24Z",
-        "content": "Organizations adopting artificial intelligence soon discover the twin challenges of AI-scale data performance and global data orchestration. At that level, only a unified data platform can control ca\u2026 [+4049 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Google and Meta reportedly strike new, multibillion-dollar AI chip deal",
-        "description": "Meta Platforms Inc. has reportedly agreed a multibillion-dollar deal to rent Google Cloud\u2019s custom artificial intelligence chips, according to a report in The Information today. The report cited anonymous sources as saying that the chips, known as tensor proc\u2026",
-        "url": "https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-27-09-08-12.png",
-        "publishedAt": "2026-02-27T02:08:48Z",
-        "content": "Meta Platforms Inc. has reportedly agreed a multibillion-dollar deal to rent Google Clouds custom artificial intelligence chips, according to a report in The Information today.\r\nThe report cited anon\u2026 [+5786 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "CoreWeave\u2019s stock drops on mixed results and plans to scale up AI spending",
-        "description": "Shares of the cloud infrastructure company CoreWeave Inc. fell more than 9% in late trading today after it posted a bigger-than-expected loss per share and offered a weak revenue forecast for the current quarter. The company, which is laser-focused on the art\u2026",
-        "url": "https://siliconangle.com/2026/02/26/coreweaves-stock-drops-mixed-results-plans-scale-ai-spending/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2025-11-11-06-32-30-768x465.png",
-        "publishedAt": "2026-02-27T00:28:12Z",
-        "content": "Shares of the cloud infrastructure company CoreWeave Inc. fell more than 9% in late trading today after it posted a bigger-than-expected loss per share and offered a weak revenue forecast for the cur\u2026 [+5312 chars]"
+        "author": "Tyler Lacoma",
+        "title": "The Most Useless Security Cam Features and Why You Don't Need Them",
+        "description": "Security cameras come packed with capabilities. But not all of them are helpful for your home, especially if you'd like to save money.",
+        "url": "https://www.cnet.com/home/security/the-most-useless-security-cam-features-and-why-you-dont-need-them/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/592e38d8eefe6f3421ba5d15988f333a453d5b1a/hub/2025/09/30/2145318d-4c8d-473c-bc86-9cb768e2bb4a/amazon-devices-2025-13.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-28T11:00:00Z",
+        "content": "I could go on for hours about all the latest high-tech features in security cameras, including AI summaries, magnetic mounts and privacy zones. But all those extras can get overwhelming, especially i\u2026 [+7750 chars]"
     },
     {
         "source": {
@@ -161,77 +31,25 @@
             "name": "SiliconANGLE News"
         },
         "author": "Kyt Dotson",
-        "title": "Multitude Insights raises $10M to modernize intelligence sharing for law enforcement",
-        "description": "Public safety technology company Multitude Insights Inc. today announced it has raised $10 million in an early-stage funding to scale up its artificial intelligence sharing platform that helps analyze and distribute information across jurisdictions. The compa\u2026",
-        "url": "https://siliconangle.com/2026/02/27/multitude-insights-raises-10m-modernize-intelligence-sharing-law-enforcement/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/bruceemmerling-police-224426_1280.jpg",
-        "publishedAt": "2026-02-27T14:00:36Z",
-        "content": "Public safety technology company Multitude Insights Inc. today announced it has raised $10 million in an early-stage funding to scale up its artificial intelligence sharing platform that helps analyz\u2026 [+4795 chars]"
+        "title": "Ahead of MWC Barcelona, Nvidia bets AI-native platforms will carry telecom into 6G",
+        "description": "Nvidia Corp. early Sunday announced ahead of the MWC Barcelona conference that its joining global telecom leaders in a commitment to build 6G on open and secure artificial intelligence-native platforms, bringing software-defined networking to the future of te\u2026",
+        "url": "https://siliconangle.com/2026/03/01/ahead-mwc-barcelona-nvidia-bets-ai-native-platforms-will-carry-telecom-6g/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/weale.png",
+        "publishedAt": "2026-03-01T07:00:07Z",
+        "content": "Nvidia Corp. early Sunday announced ahead of the MWC Barcelona conference that its joining global telecom leaders in a commitment to build 6G on open and secure artificial intelligence-native platfor\u2026 [+5683 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Emile Louw",
-        "title": "AI workloads are exposing the limits of the cloud, demanding a total stack overhaul",
-        "description": "Artificial intelligence deployments aren\u2019t just adding load to the cloud \u2014 they\u2019re reshaping it from the inside out. As graphics processing unit clusters scale and inference workloads multiply, the abstraction layers that once made cloud computing feel seamle\u2026",
-        "url": "https://siliconangle.com/2026/02/27/without-ai-observability-new-demands-break-cloud-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Chen-Goldberg-Clean.jpg",
-        "publishedAt": "2026-02-27T18:30:08Z",
-        "content": "Artificial intelligence deployments arent just adding load to the cloud theyre reshaping it from the inside out. As graphics processing unit clusters scale and inference workloads multiply, the abstr\u2026 [+5152 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Thomas Godwin",
-        "title": "Vast Data bets big on unified AI and cybersecurity with expanding partner ecosystem",
-        "description": "Enterprises pushing artificial intelligence from trial to production are learning that infrastructure and cybersecurity are no longer distinct, isolated disciplines. Now, Vast Data Inc., a provider of disaggregated, high-performance data solutions, is address\u2026",
-        "url": "https://siliconangle.com/2026/02/27/vast-ai-operating-system-expands-strategic-partners-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/John-Mao-Clean.jpg",
-        "publishedAt": "2026-02-27T16:20:41Z",
-        "content": "Enterprises pushing artificial intelligence from trial to production are learning that infrastructure and cybersecurity are no longer distinct, isolated disciplines. Now, Vast Data Inc., a provider o\u2026 [+4974 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "Inside Cisco and Vast\u2019s play to simplify \u2014 and secure \u2014 production-ready AI infrastructure",
-        "description": "As enterprises race to deploy artificial intelligence, the focus is shifting from isolated tools to production-ready AI infrastructure that can deliver results at scale. In the process, companies are rethinking not just their technology architecture, but also\u2026",
-        "url": "https://siliconangle.com/2026/02/27/production-ready-ai-infrastructure-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Danny-McGinniss-vice-president-of-product-management-Compute-business-unit-at-Cisco-Systems-Inc-and-John-Mao-vice-president-of-business-development-and-alliances-at-Vast-Data-Inc-Vast-Forward-2026-e1772198355578.jpg",
-        "publishedAt": "2026-02-27T16:00:33Z",
-        "content": "As enterprises race to deploy artificial intelligence, the focus is shifting from isolated tools to production-ready AI infrastructure that can deliver results at scale. In the process, companies are\u2026 [+5335 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Blake Stimac",
-        "title": "Nvidia's Jensen Huang Says Agentic AI Has Arrived at an 'Inflection Point'",
-        "description": "Agentic AI is all about software acting independently. It's a prelude to physical AI finding a home in robots.",
-        "url": "https://www.cnet.com/tech/services-and-software/nvidias-jensen-huang-agentic-ai-inflection-point/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/bde56242a8124a08d14cb3cba0a0a16f32349247/hub/2024/09/26/a58ffc83-935f-43ac-9560-559dd1679788/nvidia-gettyimages-2172185102.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-27T00:23:15Z",
-        "content": "During Nvidia's\u00a0quarterly earnings call\u00a0on Wednesday, CEO Jensen Huang said that agentic AI has reached \"an inflection point\" and that AI agents are \"solving real problems.\"\u00a0\r\nThe company's powerful \u2026 [+1672 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "OpenAI raises $110B at $730B valuation, expands AWS and Nvidia partnerships",
-        "description": "OpenAI Group PBC today announced that it has raised $110 billion in funding at a pre-money valuation of $730 billion. Nvidia Corp. and SoftBank Group PBC provided $30 billion each. The remaining $50 billion came from Amazon Web Services Inc., which has also e\u2026",
-        "url": "https://siliconangle.com/2026/02/27/openai-raises-110b-730b-valuation-expands-aws-nvidia-partnerships/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/52660764045_a9fd79f194_c-1-1-1-1-1.jpg",
-        "publishedAt": "2026-02-27T21:07:04Z",
-        "content": "OpenAI Group PBC today announced that it has raised $110 billion in funding at a pre-money valuation of $730 billion.\r\nNvidia Corp. and SoftBank Group PBC provided $30 billion each. The remaining $50\u2026 [+4755 chars]"
+        "author": "Dave Vellante and George Gilbert",
+        "title": "Satya\u2019s sacrifice: Why agents threaten Office and how Microsoft responds",
+        "description": "Last year, Microsoft Corp. Chief Executive Satya Nadella made the claim that\u00a0\u201cSaaS will dissolve into a bunch of agents\u201d sitting on top of CRUD databases.\u00a0In describing how software-as-a-service applications will become artificial intelligence agents atop sta\u2026",
+        "url": "https://siliconangle.com/2026/02/28/satyas-sacrifice-agents-threaten-office-microsoft-responds/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/308-_-Breaking-Analysis-_-Nadellas-sacrifice_-Why-agents-threaten-Office-how-Microsoft-responds.jpg",
+        "publishedAt": "2026-02-28T20:42:17Z",
+        "content": "Last year, Microsoft Corp. Chief Executive Satya Nadella made the claim that\u00a0SaaS will dissolve into a bunch of agents sitting on top of CRUD databases.\u00a0In describing how software-as-a-service applic\u2026 [+24187 chars]"
     },
     {
         "source": {
@@ -245,84 +63,6 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Flux.png",
         "publishedAt": "2026-02-28T01:31:04Z",
         "content": "Flux, a startup with a platform that speeds up the development of printed circuit boards, has raised $37 million across two funding rounds.\r\nThe company disclosed the investments today. Flux, officia\u2026 [+4397 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kelly Knight",
-        "title": "For imagination-speed animation, Pixar depends on lightning-fast storage infrastructure",
-        "description": "Pixar Animation Studios\u2019 storage infrastructure has taken them from animation house to something of a data factory. But to maintain the artistic standard set by films such as \u201cToy Story\u201d, the studio must now process billions of pixels and textures at a speed \u2026",
-        "url": "https://siliconangle.com/2026/02/27/pixars-storage-infrastructure-imagination-speed-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/image-3.png",
-        "publishedAt": "2026-02-27T20:14:49Z",
-        "content": "Pixar Animation Studios\u2019 storage infrastructure has taken them from animation house to something of a data factory. But to maintain the artistic standard set by films such as \u201cToy Story\u201d, the studio \u2026 [+5529 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "Internet under fire: Will Section 230 live to see another birthday?",
-        "description": "It\u2019s only 26 words in a 60,000-word act, but Section 230 has proven to be one of the most significant, and controversial, pieces of law ever passed in the United States. Contained in the Communications Decency Act of 1996, Section 230 was originally designed \u2026",
-        "url": "https://siliconangle.com/2026/02/27/internet-fire-will-section-230-live-see-another-birthday/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/ChatGPT-Image-Feb-27-2026-12_25_31-PM.png",
-        "publishedAt": "2026-02-27T23:56:39Z",
-        "content": "Its only 26 words in a 60,000-word act, but Section 230 has proven to be one of the most significant, and controversial, pieces of law ever passed in the United States.\r\nContained in the Communicatio\u2026 [+8184 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Trump orders federal agencies to stop using Anthropic products",
-        "description": "U.S. President Donald Trump today ordered federal agencies to stop using technology from Anthropic PBC. The ban will also have to be upheld by military suppliers, U.S. Defense Secretary Pete Hegseth announced separately on X. Both moves are related to disagre\u2026",
-        "url": "https://siliconangle.com/2026/02/27/trump-orders-federal-agencies-stop-using-anthropic-products/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/White-House.jpg",
-        "publishedAt": "2026-02-27T23:47:18Z",
-        "content": "U.S. President Donald Trump today ordered federal agencies to stop using technology from Anthropic PBC.\r\nThe ban will also have to be upheld by military suppliers, U.S. Defense Secretary Pete Hegseth\u2026 [+4124 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Revel raises $150M to help engineers test complex physical systems faster",
-        "description": "Revel Software Corp., a startup that develops software for complex physical systems such as jet engines, has raised $150 million in funding. The company announced the investment today. It stated that Index Ventures led the Series B round with contributions fr\u2026",
-        "url": "https://siliconangle.com/2026/02/26/revel-raises-150m-help-engineers-test-complex-physical-systems-faster/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Revel.png",
-        "publishedAt": "2026-02-27T01:19:01Z",
-        "content": "Revel Software Corp., a startup that develops software for complex physical systems such as jet engines, has raised $150 million in funding.\r\nThe company announced the investment today. It stated tha\u2026 [+4558 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Adam Benjamin",
-        "title": "Galaxy AI's New Photo Editing Features Will Amplify Social Media's Inauthenticity Problem",
-        "description": "Commentary: The features unveiled at Samsung's Unpacked event could make social media even more treacherous, especially for young adults.",
-        "url": "https://www.cnet.com/tech/services-and-software/galaxy-ais-new-photo-editing-features-social-media-inauthenticity/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/3435f44b1ea9cc38a917a5fe385206fd2a6ff6f5/hub/2026/02/25/eddc682b-245f-410f-bbf0-8ee905390d33/screenshot-2026-02-25-at-1-45-30pm.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-27T19:31:11Z",
-        "content": "At Samsung's Feb. 25 Galaxy Unpacked Event, the company showed off new Galaxy AI features, including\u00a0call screening\u00a0and\u00a0camera upgrades. But what stood out to me most were the generative AI photo edi\u2026 [+5952 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "As OpenAI raises its megaround, Anthropic\u2019s battles multiply, and the SaaSpocalypse widens \u2014 but Dell cashes in",
-        "description": "Investors continue to get pickier as what otherwise look like really good earnings results elicit skepticism and worry \u2014 and even tech gods such as Nvidia are getting hit. Some companies such as Snowflake appear to holding up. Others, such as Workday, not so \u2026",
-        "url": "https://siliconangle.com/2026/02/27/openai-raises-megaround-anthropics-battles-multiply-saaspocalypse-widens/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/amodei-hegseth.png",
-        "publishedAt": "2026-02-27T16:00:21Z",
-        "content": "Investors continue to get pickier as what otherwise look like really good earnings results elicit skepticism and worry \u2014 and even tech gods such as Nvidia are getting hit.\r\nSome companies such as Sno\u2026 [+13150 chars]"
     },
     {
         "source": {
@@ -340,118 +80,53 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Tom's Hardware UK"
         },
-        "author": "James Farrell",
-        "title": "Netflix backs out of Warner Bros. bidding war after Paramount raises offer",
-        "description": "Video streaming giant Netflix Inc. today said it won\u2019t be raising its offer to take over Warner Bros Discovery Inc. after Paramount Skydance Corp. stepped in with a larger bid. Netflix agreed in December to purchase a stake in Warner Bros. Discovery at $27.75\u2026",
-        "url": "https://siliconangle.com/2026/02/26/netflix-backs-warner-bros-bidding-war-paramount-raises-offer/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/silas-lundquist-O1Q1vxkLKQM-unsplash.jpg",
-        "publishedAt": "2026-02-27T02:05:01Z",
-        "content": "Video streaming giant Netflix Inc. today said it wont be raising its offer to take over Warner Bros Discovery Inc. after Paramount Skydance Corp. stepped in with a larger bid.\r\nNetflix agreed in Dece\u2026 [+3146 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Chad Wilson",
-        "title": "Inside GlobalAI\u2019s bet on next-generation data centers",
-        "description": "AI isn\u2019t just adding horsepower to data centers \u2014 it\u2019s redefining what they are built to do. The shift is structural, not incremental. Traditional racks and retrofit upgrades can\u2019t keep pace with large-scale AI workloads, forcing a redesign of power, cooling \u2026",
-        "url": "https://siliconangle.com/2026/02/27/global-ai-nvidia-data-centers-aifactoriesdatacenters/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Sami-Issa-director-and-CEO-of-GlobalAI-Cloud-AI-Factories-2026.png",
-        "publishedAt": "2026-02-27T21:40:58Z",
-        "content": "AI isnt just adding horsepower to data centers its redefining what they are built to do.\r\nThe shift is structural, not incremental. Traditional racks and retrofit upgrades cant keep pace with large-s\u2026 [+5357 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "The AI boom is turning flash storage into a criticial infrastructure battleground",
-        "description": "An AI-driven flash shortage is emerging as one of the defining infrastructure challenges of the machine learning boom. More than a problem solved by waiting out the typical hardware cycle, the shortage is forcing a larger rethink on how enterprises can get mo\u2026",
-        "url": "https://siliconangle.com/2026/02/27/ai-driven-flash-shortage-forces-storage-rethink-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Ace-Stryker-director-of-AI-and-ecosystem-marketing-at-Solidigm-and-Phil-Manez-vice-president-of-go-to-market-execution-at-Vast-Data-Inc-Vast-Forward-2026-e1772194622467.jpg",
-        "publishedAt": "2026-02-27T16:40:58Z",
-        "content": "An AI-driven flash shortage is emerging as one of the defining infrastructure challenges of the machine learning boom. More than a problem solved by waiting out the typical hardware cycle, the shorta\u2026 [+4411 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Will Knight",
-        "title": "Trump Moves to Ban Anthropic From the US Government",
-        "description": "President Donald Trump\u2019s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-        "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-        "urlToImage": "https://media.wired.com/photos/69a0a09c6c9d7076f06f28c6/191:100/w_1280,c_limit/Pentagon-Goes-Nuclear-on-Anthropic-Business-2261852583.jpg",
-        "publishedAt": "2026-02-27T21:36:31Z",
-        "content": "US President Donald Trump announced Friday that he was instructing every federal agency to halt the use of Anthropics AI tools effective immediately. The move comes after Anthropic and top officials \u2026 [+2300 chars]"
+        "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
+        "title": "AMD Ryzen 7 9850X3D vs Intel Core i9-14900K faceoff \u2014 Intel\u2019s Raptor Lake platform continues to be relevant in 2026",
+        "description": "The Ryzen 7 9850X3D now leads AMD\u2019s gaming lineup, but Intel\u2019s Core i9-14900K remains a powerful choice for productivity-focused users. We tested both in a head-to-head battle to see which CPU comes out on top.",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-intel-core-i9-14900k-faceoff",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/BUjCMEGfMzzht4gp3FfEHF-1920-80.jpg",
+        "publishedAt": "2026-02-28T12:00:00Z",
+        "content": "AMD once again reset the bar for gaming CPUs by introducing the Ryzen 7 9850X3D. It replaces the Ryzen 7 9800X3D as AMD\u2019s fastest gaming CPU, thanks to its 3D V-cache design and slight increase in bo\u2026 [+21353 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "ZDNet"
         },
-        "author": "Tiernan Ray",
-        "title": "Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact",
-        "description": "By testing agent-to-agent interactions, researchers observed catastrophic system failures. Here's why that's bad news for everyone.",
-        "url": "https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/a596b388167dfa6225da7a265375ef9a05a7522a/2026/02/26/b450fc7e-8dc6-4889-bba0-7dfaab4b0488/gettyimages-1440807427.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-27T15:16:10Z",
-        "content": "Baac3nes/Moment via Getty\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>Novel AI risks emerge when agents interact.</li><li>Risks reflect fundamental flaws i\u2026 [+11900 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "David Nield",
-        "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
-        "description": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
-        "url": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
-        "urlToImage": "",
-        "publishedAt": "2026-02-27T12:00:00Z",
-        "content": "The new wave of AI-powered technologies have almost entirely taken over the apps and digital services we use every day, from photo editors to fitness trackers. There's even a notable AI app available\u2026 [+4049 chars]"
+        "author": "Joe McKendrick",
+        "title": "Meet your AI auditor: How this new job role monitors model behavior",
+        "description": "AI auditors resemble financial auditors, except they observe and report on the behavior of AI transactions rather than monetary transactions.",
+        "url": "https://www.zdnet.com/article/ai-auditor-new-job-role-monitors-model-behavior/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/1e6a409f2b1660e0e41ffd33c7e723447b2bdf0c/2026/02/27/f4d75e1a-0784-46b5-9c19-16dd6450d0bc/aieyegettyimages-2186604642.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-28T10:00:58Z",
+        "content": "Yuichiro Chino/Moment via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI auditors perform the same functions as financial auditors, but for AI \u2026 [+5227 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "Theregister.com"
         },
-        "author": "Luke James",
-        "title": "Amazon invests $50 billion in OpenAI, comitting to 2 gigawatts of Trainium silicon \u2014 AWS to become exclusive cloud distributor for Frontier enterprise platform",
-        "description": "The investment is part of a $110 billion funding round that values OpenAI at $730 billion pre-money, with Nvidia and SoftBank each contributing $30 billion.",
-        "url": "https://www.tomshardware.com/tech-industry/amazon-invests-50-billion-in-openai",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/F4LMLpFr3FBTaE2KzR78zf-1920-80.jpg",
-        "publishedAt": "2026-02-27T17:53:32Z",
-        "content": "Amazon and OpenAI have announced a sweeping multi-year strategic partnership, with Amazon committing $50 billion in investment, AWS securing exclusive third-party distribution rights for OpenAI's ent\u2026 [+6793 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "Bruno Ferreira",
-        "title": "Finance techie says they cloned Bloomberg's $30k-a-year Terminal with Perplexity's Computer \u2014 project draws both praise and sizable skepticism",
-        "description": "Finance techie tries cloning Bloomberg's $30k-a-year Terminal with AI",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/finance-techie-says-they-cloned-bloombergs-usd30k-a-year-terminal-with-perplexitys-computer-project-draws-both-praise-and-sizable-skepticism",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/jgiGPsXYi9i9jshFfZNw7G-2048-80.jpg",
-        "publishedAt": "2026-02-27T11:00:00Z",
-        "content": "The launch of Perplexity's Computer got quite a bit of attention from almost everyone with an interest in AI. The new product combines multi-model and multi-agent for both researching and autonomousl\u2026 [+3877 chars]"
+        "author": "Lindsay Clark",
+        "title": "SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again",
+        "description": "Lost among the investor froth, someone has to do all the boring stuff. And they'll probably be around for the next spin of the hype cycle\nOpinion Say goodbye to the SaaS-pocalypse theory, which posits that advances in AI will bring the software-as-a-service m\u2026",
+        "url": "https://www.theregister.com/2026/03/01/saaspocalypse_opinion/",
+        "urlToImage": "https://regmedia.co.uk/2026/02/27/shutterstock_1225883914.jpg",
+        "publishedAt": "2026-03-01T08:38:12Z",
+        "content": "Opinion Say goodbye to the SaaS-pocalypse theory, which posits that advances in AI will bring the software-as-a-service market to its knees. Say hello to \"a feedback loop with no natural brake.\" Or d\u2026 [+3808 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Tim Fernholz",
-        "title": "Perplexity's new Computer is another bet that users need many AI models | TechCrunch",
-        "description": "Perplexity Computer, in the company\u2019s words, \"unifies every current AI capability into a single system.\"",
-        "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
-        "publishedAt": "2026-02-27T17:03:57Z",
-        "content": "Starting this week, Perplexity subscribers will have a new agentic tool at their disposal. \r\nPerplexity Computer, in the companys words, \u201cunifies every current AI capability into a single system.\u201d\u00a0Mo\u2026 [+4915 chars]"
+        "author": "Connie Loizos",
+        "title": "The trap Anthropic built for itself | TechCrunch",
+        "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+        "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+        "publishedAt": "2026-03-01T00:08:58Z",
+        "content": "Friday afternoon, just as this interview was getting underway, a news alert flashed across my computer screen: the Trump administration was severing ties with Anthropic, the San Francisco AI company \u2026 [+11254 chars]"
     }
 ]

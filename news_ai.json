@@ -1,29 +1,55 @@
 [
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Sheena Vasani, Brandon Widder",
-        "title": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
-        "description": "Welcome to the weekend, friends! While the rest of our team was checking out Samsung\u2019s forthcoming Galaxy S26 lineup and prepping for Apple\u2019s \u201cspecial experience\u201d next week, we\u2019ve been sifting through Woot\u2019s \u201cVideo Games for All\u201d sale and a truly weird slate \u2026",
-        "url": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Bose-QuietComfort-Headphones-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-02-28T16:07:14Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon is also throwing in a $200 gift card when you preorder the upcoming Galaxy S26 Ultra.\r\nAmazon is also throwing in a $200 gift card when you preorder the u\u2026 [+7470 chars]"
+        "author": "Bruce Gil",
+        "title": "A New Study Links Living Near Nuclear Plants to Higher Cancer Death Rates",
+        "description": "A nationwide analysis found that counties closer to nuclear power plants have higher cancer mortality rates.",
+        "url": "https://gizmodo.com/a-new-study-links-living-near-nuclear-plants-to-higher-cancer-death-rates-2000727948",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/09/three-mile-microsoft-constellation-nuclear.jpg",
+        "publishedAt": "2026-03-01T16:35:35Z",
+        "content": "A massive new study suggests more research is needed to understand the potential health effects of living near nuclear power plants. The findings arrive as policymakers across the political spectrum \u2026 [+2822 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "Gizmodo.com"
         },
-        "author": "Tyler Lacoma",
-        "title": "The Most Useless Security Cam Features and Why You Don't Need Them",
-        "description": "Security cameras come packed with capabilities. But not all of them are helpful for your home, especially if you'd like to save money.",
-        "url": "https://www.cnet.com/home/security/the-most-useless-security-cam-features-and-why-you-dont-need-them/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/592e38d8eefe6f3421ba5d15988f333a453d5b1a/hub/2025/09/30/2145318d-4c8d-473c-bc86-9cb768e2bb4a/amazon-devices-2025-13.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-28T11:00:00Z",
-        "content": "I could go on for hours about all the latest high-tech features in security cameras, including AI summaries, magnetic mounts and privacy zones. But all those extras can get overwhelming, especially i\u2026 [+7750 chars]"
+        "author": "Gayoung Lee",
+        "title": "From Quantum Spam to Quantum Minds: Why the \u2018Best\u2019 Revolution in Physics Is Only Getting Started",
+        "description": "Physicist Paul Davies looks back at the past century of quantum mechanics\u2014the most disruptive theory in the history of modern science.",
+        "url": "https://gizmodo.com/from-quantum-spam-to-quantum-minds-why-the-best-revolution-in-physics-is-only-getting-started-2000727266",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/paul-davies-quantum-revolution-top-image-1200x675.jpg",
+        "publishedAt": "2026-03-01T11:00:52Z",
+        "content": "The use of the word quantum has become rather hackneyed. There are quantum computers, quantum sensors, and even quantum refrigerators; the list is endless. I mean, whats nextquantum washing machines?\u2026 [+9137 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Report: Nvidia is working on a top secret AI inference chip that could debut next month",
+        "description": "Nvidia Corp. is reportedly working on a dedicated inference processor that will be used by OpenAI and other artificial intelligence companies to develop faster and more efficient models, according to a Friday report in the Wall Street Journal. The new inferen\u2026",
+        "url": "https://siliconangle.com/2026/03/01/report-nvidia-working-top-secret-ai-inference-chip-debut-next-month/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-02-07-02-07.png",
+        "publishedAt": "2026-03-02T00:03:43Z",
+        "content": "Nvidia Corp. is reportedly working on a dedicated inference processor that will be used by OpenAI Group PBC and other artificial intelligence companies to develop faster and more efficient models, ac\u2026 [+4825 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Google\u2019s newest AI agents bring telcos a step closer to autonomous network operations",
+        "description": "Google LLC is getting closer to fulfilling its vision of enabling truly autonomous network operations with the launch of its latest artificial intelligence agents. They\u2019ll help telecommunications providers to build and maintain digital twins of their networks\u2026",
+        "url": "https://siliconangle.com/2026/03/02/googles-newest-ai-agents-bring-telcos-step-closer-autonomous-network-operations/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-02-08-03-32.png",
+        "publishedAt": "2026-03-02T08:00:12Z",
+        "content": "Google LLC is getting closer to fulfilling its vision of enabling truly autonomous network operations with the launch of its latest artificial intelligence agents.\r\nTheyll help telecommunications pro\u2026 [+3959 chars]"
     },
     {
         "source": {
@@ -41,67 +67,15 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "CNET"
         },
-        "author": "Dave Vellante and George Gilbert",
-        "title": "Satya\u2019s sacrifice: Why agents threaten Office and how Microsoft responds",
-        "description": "Last year, Microsoft Corp. Chief Executive Satya Nadella made the claim that\u00a0\u201cSaaS will dissolve into a bunch of agents\u201d sitting on top of CRUD databases.\u00a0In describing how software-as-a-service applications will become artificial intelligence agents atop sta\u2026",
-        "url": "https://siliconangle.com/2026/02/28/satyas-sacrifice-agents-threaten-office-microsoft-responds/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/308-_-Breaking-Analysis-_-Nadellas-sacrifice_-Why-agents-threaten-Office-how-Microsoft-responds.jpg",
-        "publishedAt": "2026-02-28T20:42:17Z",
-        "content": "Last year, Microsoft Corp. Chief Executive Satya Nadella made the claim that\u00a0SaaS will dissolve into a bunch of agents sitting on top of CRUD databases.\u00a0In describing how software-as-a-service applic\u2026 [+24187 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Flux nabs $37M to automate printed circuit board development with AI",
-        "description": "Flux, a startup with a platform that speeds up the development of printed circuit boards, has raised $37 million across two funding rounds. The company disclosed the investments today. Flux, officially Defy Gravity Inc., raised about two thirds of the capital\u2026",
-        "url": "https://siliconangle.com/2026/02/27/flux-nabs-37m-automate-printed-circuit-board-development-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Flux.png",
-        "publishedAt": "2026-02-28T01:31:04Z",
-        "content": "Flux, a startup with a platform that speeds up the development of printed circuit boards, has raised $37 million across two funding rounds.\r\nThe company disclosed the investments today. Flux, officia\u2026 [+4397 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Maxwell Zeff, Will Knight, Lauren Goode, Paresh Dave",
-        "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
-        "description": "Anthropic says it would be \u201clegally unsound\u201d for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-        "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-        "urlToImage": "https://media.wired.com/photos/69a23b028618f79c55732aa9/191:100/w_1280,c_limit/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg",
-        "publishedAt": "2026-02-28T03:30:41Z",
-        "content": "United States Secretary of Defense Pete Hegseth directed the Pentagon to designate Anthropic as a supply-chain risk on Friday, sending shockwaves through Silicon Valley and leaving many companies scr\u2026 [+3805 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-        "title": "AMD Ryzen 7 9850X3D vs Intel Core i9-14900K faceoff \u2014 Intel\u2019s Raptor Lake platform continues to be relevant in 2026",
-        "description": "The Ryzen 7 9850X3D now leads AMD\u2019s gaming lineup, but Intel\u2019s Core i9-14900K remains a powerful choice for productivity-focused users. We tested both in a head-to-head battle to see which CPU comes out on top.",
-        "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-intel-core-i9-14900k-faceoff",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/BUjCMEGfMzzht4gp3FfEHF-1920-80.jpg",
-        "publishedAt": "2026-02-28T12:00:00Z",
-        "content": "AMD once again reset the bar for gaming CPUs by introducing the Ryzen 7 9850X3D. It replaces the Ryzen 7 9800X3D as AMD\u2019s fastest gaming CPU, thanks to its 3D V-cache design and slight increase in bo\u2026 [+21353 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Joe McKendrick",
-        "title": "Meet your AI auditor: How this new job role monitors model behavior",
-        "description": "AI auditors resemble financial auditors, except they observe and report on the behavior of AI transactions rather than monetary transactions.",
-        "url": "https://www.zdnet.com/article/ai-auditor-new-job-role-monitors-model-behavior/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/1e6a409f2b1660e0e41ffd33c7e723447b2bdf0c/2026/02/27/f4d75e1a-0784-46b5-9c19-16dd6450d0bc/aieyegettyimages-2186604642.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-02-28T10:00:58Z",
-        "content": "Yuichiro Chino/Moment via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI auditors perform the same functions as financial auditors, but for AI \u2026 [+5227 chars]"
+        "author": "Scott Stein",
+        "title": "Qualcomm's Latest Chip Could Lead a New Wave of Camera-Equipped AI Watches and Wearables",
+        "description": "Snapdragon Wear Elite is built to be on camera-enabled watches, pins, pendants and even glasses, according to Qualcomm. And it could mean a wave of devices that can also work as car keys and more.",
+        "url": "https://www.cnet.com/tech/services-and-software/qualcomms-latest-chip-could-lead-a-new-wave-of-camera-equipped-ai-watches-and-wearables/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/3a428d55d242e84dd7b5743efb3958e156ccfcf9/hub/2026/02/27/e5a6b80f-9d14-4d45-b0e9-9381872ac043/qualcomm-snapdragon-elite-watch.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-02T07:01:14Z",
+        "content": "I've been steeling myself for a coming wave of AI-infused wearables that could be worn all over the place, based on reports on gadget plans at\u00a0Meta, Google\u00a0and Apple\u00a0-- a halo of connected tech with \u2026 [+7309 chars]"
     },
     {
         "source": {

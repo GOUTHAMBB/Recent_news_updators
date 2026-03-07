@@ -14,29 +14,16 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Bryan Metzger",
-        "title": "Tech leaders pledge to power their own data centers during meeting with Trump",
-        "description": "Leaders from Google, Microsoft, Meta, Oracle, xAI, OpenAI, and Amazon signed the pledge at the White House on Wednesday.",
-        "url": "https://www.businessinsider.com/tech-companies-data-centers-electricity-donald-trump-ratepayer-protection-pledge-2026-3",
-        "urlToImage": "https://i.insider.com/69a894efd3e2f1aef369feb9?width=1200&format=jpeg",
-        "publishedAt": "2026-03-04T21:19:06Z",
-        "content": "Executives from eight tech companies joined Trump at the White House on Wednesday.Win McNamee/Getty Images\r\n<ul><li>A group of tech leaders signed the \"Ratepayer Protection Pledge\" at the White House\u2026 [+3300 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Lily Mae Lazarus",
-        "title": "The French AI startup gunning for Workday, Oracle, and SAP",
-        "description": "Fortune has exclusively learned that El\u00e9onore Crespo\u2019s Pigment is approaching $100 million in ARR, having doubled ARR for a third consecutive year.",
-        "url": "https://fortune.com/2026/03/04/french-ai-startup-workday-oracle-sap-pigment/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-23127-PM.jpg?resize=1200,600",
-        "publishedAt": "2026-03-04T11:22:28Z",
-        "content": "For El\u00e9onore Crespo, the French attitude of jamais content,or never happy, is a business strategy, not a stereotype. The Paris-trained fundamental physicist turned co-founder and CEO has built Pigmen\u2026 [+11386 chars]"
+        "author": "Shlomo Kramer",
+        "title": "Tech billionaire Shlomo Kramer: the cyber selloff proved that Wall Street can\u2019t price tech anymore",
+        "description": "The market reaction to Claude Code Security only makes sense if you assume that \"AI\" and \"cybersecurity\" are interchangeable labels.",
+        "url": "https://fortune.com/2026/03/05/tech-billionaire-shlomo-kramer-why-wall-street-cant-price-tech-cyber-ai-claude/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/shlomo-kramer.png?resize=1200,600",
+        "publishedAt": "2026-03-05T17:07:27Z",
+        "content": "On February 20, Anthropic released Claude Code Security, a new AI-powered code-scanning tool. By the end of the trading day, billions had disappeared from cybersecurity stocks. CrowdStrike dropped 10\u2026 [+5947 chars]"
     },
     {
         "source": {
@@ -56,6 +43,19 @@
             "id": "fortune",
             "name": "Fortune"
         },
+        "author": "Sheryl Estrada",
+        "title": "Can Anthropic\u2019s CFO sell Wall Street on an AI firm Washington calls a \u2018risk\u2019?",
+        "description": "Anthropic\u2019s clash with the Pentagon and its \u201csupply chain risk\u201d designation may create headwinds for the company, Wedbush\u2019s Dan Ives says.",
+        "url": "https://fortune.com/2026/03/05/anthropic-cfo-ipo-risk/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2264080846.jpg?resize=1200,600",
+        "publishedAt": "2026-03-05T13:09:23Z",
+        "content": "Good morning. AI startup Anthropic is at odds with the U.S. Department of Defense, and the dispute could complicate the companys path toward a blockbuster IPO and large enterprise deals.Anthropic dev\u2026 [+5477 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
         "author": "Shawn Tully",
         "title": "SpaceX is poised to raise more money in its IPO than was raised in last year\u2019s 90 IPOs, combined",
         "description": "And that means Wall Street will make more money, too.",
@@ -66,41 +66,28 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Lola Murti",
-        "title": "Tech industry group expresses 'concern' to Pete Hegseth over supply chain risk label",
-        "description": "The Information Technology Industry Council's letter doesn't name Anthropic, but lands days after the AI company was designated a supply chain risk.",
-        "url": "https://www.cnbc.com/2026/03/04/big-tech-industry-group-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108272100-1772470587498-gettyimages-2263888023-TRUMP_MEDAL_HONOR.jpeg?v=1772470654&w=1920&h=1080",
-        "publishedAt": "2026-03-04T20:49:17Z",
-        "content": "A tech industry group, whose members include Nvidia, Google and Anthropic, sent a letter to Defense Secretary Pete Hegseth Wednesday expressing concern over his designating a U.S. company a supply ch\u2026 [+2479 chars]"
+        "author": "Jim Edwards",
+        "title": "In the Iran war, it\u2019s not the oil that\u2019s important\u2014it\u2019s the water",
+        "description": "Today\u2019s Fortune 500 Digest.",
+        "url": "https://fortune.com/2026/03/05/iran-war-its-not-the-oil-its-the-water/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2264279165.jpg?resize=1200,600",
+        "publishedAt": "2026-03-05T12:50:22Z",
+        "content": "S&amp;P 500 futures are flat this morning before the opening in New York. The index rose 0.78% yesterday. Asia and Europe are strongly up and tech stocks are going gangbusters today. Coinbase was up \u2026 [+7088 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Amanda Gerut",
-        "title": "Warren Buffett complained for decades that boosting profits by excluding exec stock comp was \u2018cynical\u2019\u2014Nvidia just surprised Wall Street and agreed",
-        "description": "The AI chipmaker will score brownie points with Wall Street by making the change, without incurring much downside. Nvidia's competitors won't be so lucky.",
-        "url": "https://fortune.com/2026/03/04/berkshire-hathaway-nvidia-warren-buffett-jensen-huang-changes-employee-stock-compensation-costs-gaap-earnings/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2254215764-e1772490430187.jpg?resize=1200,600",
-        "publishedAt": "2026-03-04T08:00:00Z",
-        "content": "Tucked neatly inside the investor materialsNvidia produced last week to show its record full fiscal year 2026 revenues of $215.9 billion and a fourth quarter revenue beat of $68.1 billion, were a few\u2026 [+6590 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lora Kolodny",
-        "title": "Remember Twitter? Elon Musk expected to testify over flip-flop in $44 billion buyout",
-        "description": "Musk is on trial for a case filed by Twitter investors in 2022, the year he purchased the social media company for $44 billion.",
-        "url": "https://www.cnbc.com/2026/03/04/elon-musk-to-testify-securities-fraud-trial-over-twitter-deal-in-sf.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249952-1767884969362-gettyimages-2246892016-AFP_84JG4JH.jpeg?v=1769818787&w=1920&h=1080",
-        "publishedAt": "2026-03-04T13:00:01Z",
-        "content": "Since buying Twitter for around $44 billion in late 2022, Elon Musk has changed the name to X, merged the social media platform with artificial intelligence startup xAI and then combined that company\u2026 [+2350 chars]"
+        "author": "Jeffrey Sonnenfeld, Steven Tian",
+        "title": "Time on his side: Michael Dell the real business icon as Icahn the activist recedes from view",
+        "description": "In retrospect, the titanic battle between Dell and Icahn likely marked a turning point in activist investing.",
+        "url": "https://fortune.com/2026/03/05/michael-dell-versus-carl-icahn-battle-turned-tide-on-activist-investing/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-181792553.jpg?resize=1200,600",
+        "publishedAt": "2026-03-05T13:30:00Z",
+        "content": "Time will tell. The vacuous clich\u00e9 is a common if pointlessly used idiom of journalists and business executives, traced back to the Greek playwright Euripides, who is usually translated as having sai\u2026 [+9308 chars]"
     }
 ]

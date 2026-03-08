@@ -1,93 +1,41 @@
 [
     {
         "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Lin Cherry",
+        "title": "What Netflix\u2019s acquisition of Ben Affleck\u2019s AI filmmaking company really shows",
+        "description": "Connection wins in the world of infinite content.",
+        "url": "https://fortune.com/2026/03/06/what-netflixs-acquisition-of-ben-afflecks-ai-filmmaking-company-really-shows/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256194515-e1772816032155.jpg?resize=1200,600",
+        "publishedAt": "2026-03-06T16:55:00Z",
+        "content": "Media companies today are in a war for attention. But winning it isnt the hardest part keeping it is. The old playbook of competing on content alone more shows, more rights, bigger libraries no longe\u2026 [+6406 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Lee Chong Ming",
-        "title": "Jensen Huang says a $100 billion investment in OpenAI is 'probably not in the cards'",
-        "description": "Nvidia CEO Jensen Huang said a $100 billion investment in OpenAI is unlikely as the AI startup prepares for a potential IPO.",
-        "url": "https://www.businessinsider.com/jensen-huang-openai-investment-not-in-the-cards-100-billion-2026-3",
-        "urlToImage": "https://i.insider.com/69a8ef271fb3fcb42648f29f?width=1200&format=jpeg",
-        "publishedAt": "2026-03-05T05:43:17Z",
-        "content": "Jensen Huang says a $100 billion OpenAI investment is \"probably not in the cards,\" citing the AI startup's move toward an IPO.Harun Ozalp/Anadolu via Getty Images\r\n<ul><li>A $100 billion investment i\u2026 [+3080 chars]"
+        "author": "nbuchanan@insider.com (Naomi Buchanan)",
+        "title": "7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic",
+        "description": "Stocks have been hit this year by concerns about the impact of AI. Jefferies says a handful names are a buy after getting caught in the sell-off.",
+        "url": "https://www.businessinsider.com/top-stock-picks-to-buy-ai-disruption-software-meta-msft-2026-3",
+        "urlToImage": "https://i.insider.com/69aafaf01fb3fcb426490e2c?width=1200&format=jpeg",
+        "publishedAt": "2026-03-06T17:58:50Z",
+        "content": "Jefferies says the AI fear trade has pushed a handful of solid stock picks into the \"discount bin.\"\r\nStocks in a range of industries have been hit by worries about tech-fueled disruptions to business\u2026 [+4696 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Shlomo Kramer",
-        "title": "Tech billionaire Shlomo Kramer: the cyber selloff proved that Wall Street can\u2019t price tech anymore",
-        "description": "The market reaction to Claude Code Security only makes sense if you assume that \"AI\" and \"cybersecurity\" are interchangeable labels.",
-        "url": "https://fortune.com/2026/03/05/tech-billionaire-shlomo-kramer-why-wall-street-cant-price-tech-cyber-ai-claude/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/shlomo-kramer.png?resize=1200,600",
-        "publishedAt": "2026-03-05T17:07:27Z",
-        "content": "On February 20, Anthropic released Claude Code Security, a new AI-powered code-scanning tool. By the end of the trading day, billions had disappeared from cybersecurity stocks. CrowdStrike dropped 10\u2026 [+5947 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Nicholas Gordon",
-        "title": "Korean startup wrtn is on track to pass $100M in annual recurring revenue, riding a loneliness epidemic-fueled boom in AI entertainment",
-        "description": "Chief product officer Dong-jae Lee uses the analogy of a dungeon master for a tabletop RPG: the AI constructs a narrative in response to user choices.",
-        "url": "https://fortune.com/2026/03/05/korea-startup-wrtn-arr-antler-loneliness-epidemic-ai-entertainment/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/DJ-Wrtn.jpeg?resize=1200,600",
-        "publishedAt": "2026-03-05T08:00:00Z",
-        "content": "Backed by a record chip boom and a state-run AI Squid Game to build sovereign models, South Korea is also nurturing a new generation of AI startupslike wrtn, an interactive storytelling platform now \u2026 [+2865 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sheryl Estrada",
-        "title": "Can Anthropic\u2019s CFO sell Wall Street on an AI firm Washington calls a \u2018risk\u2019?",
-        "description": "Anthropic\u2019s clash with the Pentagon and its \u201csupply chain risk\u201d designation may create headwinds for the company, Wedbush\u2019s Dan Ives says.",
-        "url": "https://fortune.com/2026/03/05/anthropic-cfo-ipo-risk/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2264080846.jpg?resize=1200,600",
-        "publishedAt": "2026-03-05T13:09:23Z",
-        "content": "Good morning. AI startup Anthropic is at odds with the U.S. Department of Defense, and the dispute could complicate the companys path toward a blockbuster IPO and large enterprise deals.Anthropic dev\u2026 [+5477 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Shawn Tully",
-        "title": "SpaceX is poised to raise more money in its IPO than was raised in last year\u2019s 90 IPOs, combined",
-        "description": "And that means Wall Street will make more money, too.",
-        "url": "https://fortune.com/2026/03/05/spacex-ipo-stock-price-launch-elon-musk/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2202898259.jpg?resize=1200,600",
-        "publishedAt": "2026-03-05T08:00:00Z",
-        "content": "It will be the mother of all IPOs. Last year notched a comeback for initial public offerings, and the resurgence greatly boosted capital markets profits at the big name financial institutions, and he\u2026 [+7457 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jim Edwards",
-        "title": "In the Iran war, it\u2019s not the oil that\u2019s important\u2014it\u2019s the water",
-        "description": "Today\u2019s Fortune 500 Digest.",
-        "url": "https://fortune.com/2026/03/05/iran-war-its-not-the-oil-its-the-water/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2264279165.jpg?resize=1200,600",
-        "publishedAt": "2026-03-05T12:50:22Z",
-        "content": "S&amp;P 500 futures are flat this morning before the opening in New York. The index rose 0.78% yesterday. Asia and Europe are strongly up and tech stocks are going gangbusters today. Coinbase was up \u2026 [+7088 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jeffrey Sonnenfeld, Steven Tian",
-        "title": "Time on his side: Michael Dell the real business icon as Icahn the activist recedes from view",
-        "description": "In retrospect, the titanic battle between Dell and Icahn likely marked a turning point in activist investing.",
-        "url": "https://fortune.com/2026/03/05/michael-dell-versus-carl-icahn-battle-turned-tide-on-activist-investing/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-181792553.jpg?resize=1200,600",
-        "publishedAt": "2026-03-05T13:30:00Z",
-        "content": "Time will tell. The vacuous clich\u00e9 is a common if pointlessly used idiom of journalists and business executives, traced back to the Greek playwright Euripides, who is usually translated as having sai\u2026 [+9308 chars]"
+        "author": "jfaris@businessinsider.com (James Faris)",
+        "title": "David Ellison won Warner Bros. Now he has to prove Paramount can beat Netflix at its own game.",
+        "description": "Paramount Skydance CEO David Ellison is looking to battle Netflix by bringing on short-form video and hiring key executives away from Amazon.",
+        "url": "https://www.businessinsider.com/david-ellison-paramount-reorg-tech-new-streaming-features-execs-wbd-2026-3",
+        "urlToImage": "https://i.insider.com/69aa051efd4fbd083f299ff7?width=1200&format=jpeg",
+        "publishedAt": "2026-03-06T10:04:01Z",
+        "content": "David Ellison is tackling the mountain-sized challenge of transforming Paramount Skydance from a shrinking legacy media company into a Hollywood powerhouse.\r\nThe Paramount CEO is starting to unveil h\u2026 [+7913 chars]"
     }
 ]

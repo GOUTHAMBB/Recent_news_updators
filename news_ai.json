@@ -2,6 +2,84 @@
     {
         "source": {
             "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "People Hate AI Even More Than They Hate ICE, Poll Finds",
+        "description": "The only things less popular than AI in the poll were Iran and the Democratic Party.",
+        "url": "https://gizmodo.com/people-hate-ai-even-more-than-they-hate-ice-poll-finds-2000731438",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-1469884525-1200x675.jpg",
+        "publishedAt": "2026-03-09T18:35:34Z",
+        "content": "People really hate artificial intelligence, according to the latest NBC poll.\u00a0\r\nNBC surveyed a group of registered voters and found that the concept of artificial intelligence was so unpopular that 4\u2026 [+3630 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Lori Grunin",
+        "title": "MacBook Pro 16 M5 Pro, M5 Max Review: Go, Speed Racer, Go",
+        "description": "The GPUs in Apple's latest chips bring its flagship creative laptop to new heights, especially for generative AI.",
+        "url": "https://www.cnet.com/tech/computing/apple-macbook-pro-16-m5-max-pro-review/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/f24369c4e88e03622c9cd9752678dcffbf3c7e3b/hub/2026/03/09/8c375ada-2dbe-4702-b74e-b970319f5539/m5-macbook-pro-16-2026-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-09T17:00:00Z",
+        "content": "The past few generations of MacBook Pro have been physically identical, regardless of configuration. The new 16-inch line for 2026 has the same design, so looks won't be a factor when you're deciding\u2026 [+10517 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Macy Meyer",
+        "title": "AI Is One of the Least-Liked Things in America, According to New NBC Poll",
+        "description": "The poll finds that AI is viewed less positively than ICE and President Donald Trump, and only more positively than Iran and the Democratic Party.",
+        "url": "https://www.cnet.com/tech/services-and-software/ai-unpopular-in-america-new-nbc-poll/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/ca824cb961445392204fb9c368123833f535b0ed/hub/2026/03/09/981f998b-3bb6-4c19-ba05-956d05f99097/gettyimages-2227030141.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-09T19:09:39Z",
+        "content": "Artificial intelligence has rapidly become embedded in everything from phones to schoolwork to war plans. And that means everyone is likely to have an opinion about the technology.\u00a0\r\nA new national s\u2026 [+1774 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Paresh Dave",
+        "title": "Anthropic Sues Department of Defense Over Supply-Chain Risk Designation",
+        "description": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company\u2019s technology.",
+        "url": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+        "urlToImage": "https://media.wired.com/photos/69a77e0879e62d2329a1659f/191:100/w_1280,c_limit/Anthropic-Sues-DOD-Business-2261514586.jpg",
+        "publishedAt": "2026-03-09T15:29:57Z",
+        "content": "Anthropic filed a federal lawsuit against the US Department of Defense and other federal agencies on Monday, challenging its designation of the AI company as a supply-chain risk.\r\nThe Pentagon formal\u2026 [+3765 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "Most Self-Respecting X Users Are Probably Going to Want to Change This New Setting",
+        "description": "If you don't like being deepfaked, this honestly won't do much to help. But it will at least fix the lowest-hanging fruit.",
+        "url": "https://gizmodo.com/most-self-respecting-x-users-are-probably-going-to-want-to-change-this-new-setting-2000731564",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/01/grok_interface_phone-1200x675.jpg",
+        "publishedAt": "2026-03-09T21:17:06Z",
+        "content": "Earlier this year, a bunch of freaks on Twitter figured out that they could prompt Grok, the \u201cnon-woke\u201d chatbot from Elon Musk\u2019s xAI, to generate sexualized images of people on X, even without their \u2026 [+2380 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Maxwell Zeff",
+        "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+        "description": "Meta\u2019s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, plans to prove it.",
+        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "urlToImage": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg",
+        "publishedAt": "2026-03-10T05:00:00Z",
+        "content": "Advanced Machine Intelligence (AMI), a new Paris-based startup cofounded by Metas former chief AI scientist Yann LeCun, announced Monday it has raised more than $1 billion to develop AI world models.\u2026 [+4159 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Theregister.com"
         },
         "author": "Simon Sharwood",
@@ -17,26 +95,299 @@
             "id": null,
             "name": "CNET"
         },
-        "author": "David Lumb",
-        "title": "How War in the Middle East Impacted the World's Largest Mobile Phone Show",
-        "description": "Hundreds of companies planned to gather in Barcelona to talk business, but as the conflict disrupted travel, not all of them arrived.",
-        "url": "https://www.cnet.com/tech/mobile/how-war-in-the-middle-east-impacted-the-worlds-largest-mobile-phone-show/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/5ff3e7a55b91a371dc69a2083a360cb18e55aea4/hub/2026/03/06/4c140170-0cd1-4cae-b1e4-ba17bc51acff/how-the-war-in-the-middle-east-affected-mwc.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-08T15:01:09Z",
-        "content": "On a Tuesday in the middle of Mobile World Congress 2026, three industry experts gathered for a panel to chat about smart glasses and extended reality tech. But a fourth member of the panel, who was \u2026 [+9727 chars]"
+        "author": "Jon Reed",
+        "title": "The Pentagon's Anthropic Feud 'Should Be a Wake-Up Call for Congress'",
+        "description": "Serious technology issues like privacy need to be dealt with clearly, not fought over in social media posts, analysts say.",
+        "url": "https://www.cnet.com/tech/services-and-software/pentagon-anthropic-ai-feud-wake-up-call-for-congress-analysis/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/7ce951bab170094d40f74696a50b12538f54e9ef/hub/2026/03/09/57267363-ae1d-4219-add2-80d6d047e865/gettyimages-2249797033.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-09T16:51:46Z",
+        "content": "The contract dispute between the US Department of Defense and the AI developer Anthropic that boiled over at the end of February exposed in stark terms how laws and regulations have failed to keep up\u2026 [+8617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Raymond Wong",
+        "title": "iPhone 17e Review: So Much More Bang for Your Buck",
+        "description": "Apple addressed nearly every complaint about the iPhone 16e and kept the price the same. It's a good deal.",
+        "url": "https://gizmodo.com/iphone-17e-review-so-much-more-bang-for-your-buck-2000730716",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Apple-iPhone-17e-7-1200x675.jpg",
+        "publishedAt": "2026-03-09T14:20:51Z",
+        "content": "Not enough. That was the general consensus when Apple released the $600 iPhone 16e a year ago. Fast forward to today, and the new iPhone 17e is a far better value for the same price.\r\nApple could hav\u2026 [+7911 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "OpenAI to acquire Promptfoo to expand AI application testing capabilities",
+        "description": "OpenAI Group PBC announced today that it plans to acquire testing and security evaluation platform for artificial intelligence applications startup Promptfoo Inc. for an undisclosed price. Founded in 2024, Promptfoo began as an open-source framework for evalu\u2026",
+        "url": "https://siliconangle.com/2026/03/09/openai-acquire-promptfoo-expand-ai-application-testing-capabilities/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/promptfoo.png",
+        "publishedAt": "2026-03-09T22:57:25Z",
+        "content": "OpenAI Group PBC announced today that it plans to acquire testing and security evaluation platform for artificial intelligence applications startup Promptfoo Inc. for an undisclosed price.\r\nFounded i\u2026 [+4048 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "OneTrust expands platform with real-time AI governance and agent oversight capabilities",
+        "description": "Governance platform provider OneTrust LLC today announced new capabilities that expand its platform to support real-time artificial intelligence governance that moves beyond traditional compliance checks to continuous monitoring and enforcement of AI systems.\u2026",
+        "url": "https://siliconangle.com/2026/03/09/onetrust-expands-platform-real-time-ai-governance-agent-oversight-capabilities/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/onetrus.png",
+        "publishedAt": "2026-03-09T12:30:49Z",
+        "content": "Governance platform provider OneTrust LLC today announced new capabilities that expand its platform to support real-time artificial intelligence governance that moves beyond traditional compliance ch\u2026 [+3985 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Atlas rolls out multi-agent AI system to automate game asset production",
+        "description": "Atlas, an artificial intelligence-native video game content creation platform, announced today that it has launched a multi-agent system within its AI Studio for game asset production. Atlas AI Studio is now globally available on Google Cloud Marketplace, let\u2026",
+        "url": "https://siliconangle.com/2026/03/09/atlas-rolls-multi-agent-ai-system-automate-game-asset-production/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/69a821deb8448eb96e799faa_atlas-laptop-p-2600.jpg",
+        "publishedAt": "2026-03-09T13:00:38Z",
+        "content": "Atlas, an artificial intelligence-native video game content creation platform, announced today that it has launched a multi-agent system within its AI Studio for game asset production.\r\nAtlas AI Stud\u2026 [+3767 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "MariaDB buys in-memory computing pioneer GridGain to accelerate data processing for AI agents",
+        "description": "Database management company MariaDB Plc said today it\u2019s buying the Apache Ignite creator and in-memory computing technology developer GridGain Systems Inc. to build more robust infrastructure for artificial intelligence agents. The company said the combinatio\u2026",
+        "url": "https://siliconangle.com/2026/03/09/mariadb-buys-memory-computing-pioneer-gridgain-accelerate-data-processing-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-10-07-54-51.png",
+        "publishedAt": "2026-03-10T00:55:34Z",
+        "content": "Database management company MariaDB Plc said today its buying the Apache Ignite creator and in-memory computing technology developer GridGain Systems Inc. to build more robust infrastructure for arti\u2026 [+4113 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Texas Instruments launches two new microcontrollers to boost AI for edge devices",
+        "description": "Semiconductor and embedded processor maker Texas Instruments Inc.\u00a0today announced the launch of new microcontrollers with TinyEngine neural processors. The company said it\u2019s introducing two new microcontroller unit, or MCU, families with edge artificial intel\u2026",
+        "url": "https://siliconangle.com/2026/03/10/texas-instruments-launches-two-new-microcontrollers-boost-ai-edge-devices/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/geralt-digitization-6389398_1280.jpg",
+        "publishedAt": "2026-03-10T08:00:42Z",
+        "content": "Semiconductor and embedded processor maker Texas Instruments Inc.\u00a0today announced the launch of new microcontrollers with TinyEngine neural processors.\r\nThe company said its introducing two new micro\u2026 [+4007 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Escape raises $18M to expand AI agent platform for offensive security testing",
+        "description": "Offensive security engineering platform startup Escape Technologies SAS announced today that it has raised $18 million in new funding to expand its artificial intelligence-agent security platform, including developing agentic penetration testing capabilities \u2026",
+        "url": "https://siliconangle.com/2026/03/10/escape-raises-18m-expand-ai-agent-platform-offensive-security-testing/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/escape.png",
+        "publishedAt": "2026-03-10T04:00:59Z",
+        "content": "Offensive security engineering platform startup Escape Technologies SAS announced today that it has raised $18 million in new funding to expand its artificial intelligence-agent security platform, in\u2026 [+4224 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Anthropic sues to scrap Trump administration\u2019s Claude ban",
+        "description": "Anthropic PBC is challenging the Trump administration\u2019s recent decision to restrict the use of its software in the public sector. The artificial intelligence developer first announced its intent to litigate last month. Today, it filed two complaints with the \u2026",
+        "url": "https://siliconangle.com/2026/03/09/anthropic-sues-scrap-trump-administrations-claude-ban/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Photo1.png",
+        "publishedAt": "2026-03-09T21:33:18Z",
+        "content": "Anthropic PBC is challenging the Trump administrations recent decision to restrict the use of its software in the public sector.\r\nThe artificial intelligence developer first announced its intent to l\u2026 [+4284 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Microsoft introduces Microsoft 365 E7 subscription with expanded AI features",
+        "description": "Microsoft Corp. today introduced a new subscription that bundles its productivity applications with artificial intelligence and cybersecurity features. The Microsoft 365 E7 plan, as the offering is called, is priced at $99 per user per month. It\u2019s mainly gear\u2026",
+        "url": "https://siliconangle.com/2026/03/09/microsoft-introduces-microsoft-365-e7-subscription-expanded-ai-features/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Microsoft.png",
+        "publishedAt": "2026-03-10T01:25:58Z",
+        "content": "Microsoft Corp. today introduced a new subscription that bundles its productivity applications with artificial intelligence and cybersecurity features.\r\nThe Microsoft 365 E7 plan, as the offering is \u2026 [+4318 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Networking boost helps HPE beat the Street\u2019s earnings targets",
+        "description": "Hewlett-Packard Enterprise Co. delivered better-than-expected earnings and gave an outlook for the current quarter and full year that surpassed Wall Street\u2019s expectations, signaling it continues to benefit from strong demand for artificial intelligence hardwa\u2026",
+        "url": "https://siliconangle.com/2026/03/09/networking-boost-helps-hpe-beat-streets-earnings-targets/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Antonio-Neri-president-and-chief-executive-officer-of-Hewlett-Packard-Enterprise-Co.-\u2013-Nvidia-GTC-2025.png",
+        "publishedAt": "2026-03-09T23:44:27Z",
+        "content": "Hewlett-Packard Enterprise Co. delivered better-than-expected earnings and gave an outlook for the current quarter and full year that surpassed Wall Streets expectations, signaling it continues to be\u2026 [+4180 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Dataiku is evolving into the orchestration layer for enterprise-grade AI agents",
+        "description": "Artificial intelligence data analytics startup Dataiku Inc. is evolving its popular data science studio to focus more on the development of trusted and measurable autonomous AI agents. The startup today unveiled a new Platform for AI Success that merges its e\u2026",
+        "url": "https://siliconangle.com/2026/03/09/dataiku-evolving-orchestration-layer-enterprise-grade-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2025-10-07-13-40-08.png",
+        "publishedAt": "2026-03-09T13:00:53Z",
+        "content": "Artificial intelligence data analytics startup Dataiku Inc. is evolving its popular data science studio to focus more on the development of trusted and measurable autonomous AI agents.\r\nThe startup t\u2026 [+5520 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Fireworks AI bets on Hathora acquisition to power the next phase of real-time AI",
+        "description": "Artificial intelligence inference startup Fireworks AI Inc. has acquired Hathora Inc., a real-time compute and server orchestration platform focused on multiplayer games and AI inference. Chief Executive and co-founder of Fireworks AI Lin Qiao told SiliconANG\u2026",
+        "url": "https://siliconangle.com/2026/03/09/fireworks-ai-bets-hathora-acquisition-power-next-phase-real-time-ai/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/A-ghostly-hand-made-of-white-lines-with-palm-pointing-up-reaching-from-the-left-side-of-the-image-in.jpeg",
+        "publishedAt": "2026-03-09T16:15:03Z",
+        "content": "Artificial intelligence inference startup Fireworks AI Inc. has acquired Hathora Inc., a real-time compute and server orchestration platform focused on multiplayer games and AI inference.\r\nChief Exec\u2026 [+5260 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Anthropic debuts extremely efficient but pricey code checking tool for developers",
+        "description": "When it comes to writing software, getting feedback is a critical part of the process, ensuring that bugs in the newly written code can be caught early, before a pull request is submitted. But with the rise of artificial intelligence coding bots, developers a\u2026",
+        "url": "https://siliconangle.com/2026/03/09/anthropic-debuts-extremely-efficient-yet-pricey-code-checking-tool-developers/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-10-08-48-32.png",
+        "publishedAt": "2026-03-10T01:49:05Z",
+        "content": "When it comes to writing software, getting feedback is a critical part of the process, ensuring that bugs in the newly written code can be caught early, before a pull request is submitted. But with t\u2026 [+5445 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "CData expands Connect AI platform with agent-specific tooling and governance",
+        "description": "CData Software Inc. is expanding its Connect AI platform with new tooling and governance features designed to help enterprises move artificial intelligence systems from experimental pilots into production environments. The announcement at Gartner Data & Analy\u2026",
+        "url": "https://siliconangle.com/2026/03/09/cdata-expands-connect-ai-platform-agent-specific-tooling-governance/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/hand-data-globe.jpg",
+        "publishedAt": "2026-03-09T12:00:24Z",
+        "content": "CData Software Inc. is expanding its Connect AI platform with new tooling and governance features designed to help enterprises move artificial intelligence systems from experimental pilots into produ\u2026 [+5573 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Carly Page",
-        "title": "Bundle of human neurons hooked to silicon learns to stumble through Doom",
-        "description": "What hath science wrought?\nA clump of living human brain cells wired into a silicon chip has answered the internet's most important computing question: yes, it can run Doom.\u2026",
-        "url": "https://www.theregister.com/2026/03/08/neurons_doom/",
-        "urlToImage": "https://regmedia.co.uk/2020/04/09/doom1.jpg",
-        "publishedAt": "2026-03-08T09:30:06Z",
-        "content": "A clump of living human brain cells wired into a silicon chip has answered the internet's most important computing question: yes, it can run Doom.\r\nAustralian biotech outfit Cortical Labs has shown o\u2026 [+2830 chars]"
+        "author": "Jessica Lyons",
+        "title": "AI vs AI: Agent hacked McKinsey's chatbot and gained full read-write access in just two hours",
+        "description": "David and Goliath\u2026but with AI agents Researchers at red-team security startup CodeWall say their AI agent hacked McKinsey's internal AI platform and gained full read and write access to the chatbot in just two hours.\u2026",
+        "url": "https://www.theregister.com/2026/03/09/mckinsey_ai_chatbot_hacked/",
+        "urlToImage": "https://regmedia.co.uk/2026/03/09/shutterstock_robotic_arm_wrestling.jpg",
+        "publishedAt": "2026-03-09T22:22:07Z",
+        "content": "Researchers at red-team security startup CodeWall say their AI agent hacked McKinsey's internal AI platform and gained full read and write access to the chatbot in just two hours.\r\nIt's yet another i\u2026 [+4260 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "AI cloud startup Nscale raises $2B in funding at $14.6B valuation",
+        "description": "Nscale Global Holdings Ltd., a London-based data center startup, today announced that it has raised $2 billion in funding. The Series C round was jointly led by Norwegian energy company Aker ASA and 8090 Industries. They were joined by Nvidia Corp., Dell Tech\u2026",
+        "url": "https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Nscale1.png",
+        "publishedAt": "2026-03-09T23:37:32Z",
+        "content": "Nscale Global Holdings Ltd., a London-based data center startup, today announced that it has raised $2 billion in funding.\r\nThe Series C round was jointly led by Norwegian energy company Aker ASA and\u2026 [+4011 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Arielle Pardes",
+        "title": "Can AI Kill the Venture Capitalist?",
+        "description": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+        "url": "https://www.wired.com/story/ai-kill-venture-capital/",
+        "urlToImage": "https://media.wired.com/photos/69ab52106bb4a5ea9482a549/191:100/w_1280,c_limit/Can-AI-Kill-Venture-Capitalists-Business.jpg",
+        "publishedAt": "2026-03-09T09:00:00Z",
+        "content": "Last fall, as venture capitalists were sinking record sums into artificial intelligence, a group of investors gathered to appraise a new startup. The company, Infinity Artificial Intelligence Institu\u2026 [+3527 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Cath Everett",
+        "title": "How AI is boosting gender equality in high-performance racing",
+        "description": "A virtual Driver Agent is leveling the odds for female motorsport drivers Sponsored Post\u00a0 Formula E and Google Cloud are developing an AI-based Driver Agent to provide racers with the real-time performance feedback and personalized coaching support that was o\u2026",
+        "url": "https://www.theregister.com/2026/03/09/how_ai_boosting_gender/",
+        "urlToImage": "https://regmedia.co.uk/2026/03/09/f1-driver.jpg",
+        "publishedAt": "2026-03-09T15:28:46Z",
+        "content": "Sponsored Post Formula E and Google Cloud are developing an AI-based Driver Agent to provide racers with the real-time performance feedback and personalized coaching support that was once the sole do\u2026 [+2822 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Chad Wilson",
+        "title": "Diamond cooling emerges as a new lever for AI data center efficiency",
+        "description": "AI infrastructure is running into a hard physical barrier, and diamond cooling is emerging as a new way to push more compute through existing power limits. As AI systems grow larger and hotter, the challenge is no longer simply installing more GPUs but managi\u2026",
+        "url": "https://siliconangle.com/2026/03/09/diamond-cooling-ai-data-center-efficiency-aifactoriesdatacenters/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Felix-Ejeckam-co-founder-and-CEO-of-Akash-Systems-\u2013-AI-Factories-2026-jpeg.jpg",
+        "publishedAt": "2026-03-09T20:53:14Z",
+        "content": "AI infrastructure is running into a hard physical barrier, and diamond cooling is emerging as a new way to push more compute through existing power limits.\r\nAs AI systems grow larger and hotter, the \u2026 [+5327 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Maria Diaz",
+        "title": "Samsung Galaxy S24 vs. S26: Should you upgrade to the latest model after two years?",
+        "description": "If you have a Samsung Galaxy S24 or are upgrading from an older phone, you may wonder if the latest Galaxy S26 is worth the splurge.",
+        "url": "https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/fa586cc06be19e8823ed981f91ee37bcdbcdf9c2/2026/02/26/2a264210-d9d9-4ea5-b707-749e32d8a66b/galaxy-s26-vs-s24.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-09T13:55:00Z",
+        "content": "Prakhar Khanna/Kerry Wan/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nAnytime a new phone comes out, it can be hard to tell if it's actually worth upgrading, especially when it comes\u2026 [+5482 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Nina Raemont",
+        "title": "The good, bad, and ugly of AI healthcare, according to a doctor who uses AI",
+        "description": "There's a right way and a wrong way to use AI for health advice. Consider the technology a springboard for conversations with a medical professional.",
+        "url": "https://www.zdnet.com/article/good-bad-ugly-of-ai-healthcare-according-to-a-doctor-who-uses-ai/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/7cacc0a097513faed60247cc928f1e03de4bbd6f/2026/03/09/e2ece263-f251-4f90-bc28-3ecd09056cd6/drfemalegettyimages-2167549218.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-10T01:00:44Z",
+        "content": "Volha Rahalskaya/iStock / Getty Images Plus via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>People are turning to AI for health advice.\u00a0</li><\u2026 [+6035 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Maxwell Zeff",
+        "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+        "description": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+        "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+        "urlToImage": "https://media.wired.com/photos/69af06ccc120eecf3f401e44/191:100/w_1280,c_limit/OpenAI-Google-Employees-Support-Anthropic-Business-2185274983.jpg",
+        "publishedAt": "2026-03-09T20:38:12Z",
+        "content": "More than 30 employees from OpenAI and Google, including Google DeepMind chief scientist Jeff Dean, filed an amicus brief on Monday in support of Anthropic in its legal fight against the US governmen\u2026 [+2700 chars]"
     },
     {
         "source": {
@@ -53,28 +404,93 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Connie Loizos",
-        "title": "A roadmap for AI, if anyone will listen | TechCrunch",
-        "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn\u2019t lost on anyone involved.",
-        "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-871198558.jpg?resize=1200,772",
-        "publishedAt": "2026-03-08T06:07:27Z",
-        "content": "While Washington\u2019s breakup with Anthropic exposed the complete lack of any coherent rules governing artificial intelligence, a bipartisan coalition of thinkers has assembled something the government \u2026 [+4363 chars]"
+        "author": "Hayden Field, Tina Nguyen",
+        "title": "Employees across OpenAI and Google support Anthropic\u2019s lawsuit against the Pentagon",
+        "description": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus br\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-03-09T20:48:45Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe amicus brief was the latest barb in negotiations with the Department of Defense.\r\nThe amicus brief was the latest barb in negotiations with the Department of\u2026 [+6269 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Joe Shields",
+        "title": "Save $484 on a Ryzen 7 9850X3D, 32GB of Kingston DDR5 RAM, and an Asus X870 motherboard \u2014 start your AM5 build on the right foot with this $949 bundle",
+        "description": "Get an awesome deal on this Newegg combo - $949.99 gets you the fastest gaming processor around, a Ryzen 7 9850X3D, 32GB of dual-channel DDR5 Kingston RAM, and a solid Asus X870 AYW Gaming Wifi motherboard",
+        "url": "https://www.tomshardware.com/pc-components/save-usd484-on-a-ryzen-7-9850x3d-32gb-of-kingston-ddr5-ram-and-an-asus-x870-motherboard-start-your-am5-build-on-the-right-foot-with-this-usd949-bundle",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/3zUJZx4UuwPyPLihb8K3P5-1796-80.png",
+        "publishedAt": "2026-03-09T12:13:09Z",
+        "content": "Over the past several months, bundle deals have been just about the only way to buy PC parts at what many would consider a reasonable price. Be it RAM, storage, or video cards, prices have been downr\u2026 [+3465 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "The open-source AI red-teaming tool used by Fortune 500 companies is now part of OpenAI",
+        "description": "The acquisition of Promptfoo, which counts more than 125,000 developers and 30-plus Fortune 500 companies among its users, is OpenAI\u2019s most direct move yet into AI application security. Its technology will go into Frontier, the company\u2019s enterprise agent plat\u2026",
+        "url": "https://thenextweb.com/news/openai-acquires-promptfoo-ai-security-frontier",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FIMG_1729.png&signature=d6971601b7b7f9e69cd7f8ac511659ce",
+        "publishedAt": "2026-03-09T17:39:38Z",
+        "content": "The acquisition of Promptfoo, which counts more than 125,000 developers and 30-plus Fortune 500 companies among its users, is OpenAIs most direct move yet into AI application security. Its technology\u2026 [+5311 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Jake Roach",
+        "title": "Intel keeps socket LGA 1700 alive with new P-core-only CPUs \u2014 'Bartlett Lake' is official, but targets embedded applications with up to 12 cores",
+        "description": "Intel\u2019s heavily-rumored Bartlett Lake 12P CPUs are finally official, with a P-core-only design that is compatible with LGA 1700 motherboards. However, they\u2019re targeting embedded and edge applications, not a broad consumer release.",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-keeps-socket-lga-1700-alive-with-new-p-core-only-cpus-bartlett-lake-is-official-but-targets-embedded-applications-with-up-to-12-cores",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/KHsdBt4RdXcTYtecpfu3EN-1423-80.png",
+        "publishedAt": "2026-03-09T16:30:00Z",
+        "content": "Intel has finally introduced its long-rumored Bartlett Lake CPUs\r\n, which use a P-core-only design with up to 12 cores and are compatible with the LGA 1700 socket used on 12th- to 14th-Gen Intel chip\u2026 [+6072 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "O'Ryan Johnson",
+        "title": "Palantir\u2019s lethal AI weaponry deployed to find chairs for US government staff",
+        "description": "As Department of Agriculture staff come back to the office, it needs \u2018real-time analytics to optimize employee seat assignments\u2019 The U.S. Department of Agriculture is using Palantir to figure out where its staff should sit, after deciding only the colorful AI\u2026",
+        "url": "https://www.theregister.com/2026/03/10/palantir_usda_seating_software/",
+        "urlToImage": "https://regmedia.co.uk/2015/07/09/computing_cubicles.jpg",
+        "publishedAt": "2026-03-10T01:25:12Z",
+        "content": "The U.S. Department of Agriculture is using Palantir to figure out where its staff should sit, after deciding only the colorful AI company can do the job.\r\nLike other US government agencies, the Depa\u2026 [+2666 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Kirsten Korosec",
-        "title": "TechCrunch Mobility: Rivian's R2 gambit | TechCrunch",
-        "description": "Welcome back to TechCrunch Mobility, your hub for all things \u201cfuture of transportation.\u201d",
-        "url": "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Getty.jpg?resize=1200,801",
-        "publishedAt": "2026-03-08T16:04:08Z",
-        "content": "Welcome back to TechCrunch Mobility, your hub for all things future of transportation.\u00a0To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nI was out for a few days last \u2026 [+6286 chars]"
+        "author": "Rebecca Bellan",
+        "title": "OpenAI and Google employees rush to Anthropic's defense in DOD lawsuit | TechCrunch",
+        "description": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+        "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+        "publishedAt": "2026-03-09T21:18:44Z",
+        "content": "More than 30 OpenAI and Google DeepMind employees filed a statement Monday supporting Anthropic\u2019s lawsuit against the U.S. Defense Department after the federal agency labeled the AI firm a supply-cha\u2026 [+2222 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anna Heim",
+        "title": "Yann LeCun's AMI Labs raises $1.03 billion to build world models | TechCrunch",
+        "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+        "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg?resize=1200,800",
+        "publishedAt": "2026-03-10T05:01:38Z",
+        "content": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation. AMI is working on world models, or AI that le\u2026 [+4498 chars]"
     }
 ]

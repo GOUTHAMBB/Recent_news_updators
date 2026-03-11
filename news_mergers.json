@@ -1,1 +1,54 @@
-[]
+[
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "gweiss@businessinsider.com (Geoff Weiss)",
+        "title": "Brazilian AI startup fund Shiva raised $10 million, and it's betting on tiny teams. Read its pitch deck.",
+        "description": "Brazilian fund Shiva has raised $10 million to invest in niche software startups, offering monthly grants to tiny teams.",
+        "url": "https://www.businessinsider.com/shiva-fund-10-m-small-ai-teams-impact-2026-3",
+        "urlToImage": "https://i.insider.com/69aee819fd4fbd083f29c274?width=1200&format=jpeg",
+        "publishedAt": "2026-03-09T18:40:45Z",
+        "content": "A Brazilian startup fund is betting that AI has made large headcounts and funding rounds unnecessary to compete on the global stage.\r\nShiva, named for the Hindu god of transformation, has raised $10 \u2026 [+2250 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Angelica Ang",
+        "title": "The \u2018Singapore-washing\u2019 strategy starts to unwind as both China and the U.S. closely scrutinize corporate roots",
+        "description": "\u201cSingapore-washing is only credible and effective for companies which fully cut off their operational ties to China,\" one expert said.",
+        "url": "https://fortune.com/2026/03/09/singapore-washing-us-china-shein-manus/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2262941633.jpg?resize=1200,600",
+        "publishedAt": "2026-03-09T15:00:00Z",
+        "content": "Guangdongs complete industrial ecosystem and first-class business environment have made Sheins fast growth possible, founder Chris Xu told the crowd on Feb. 24, at a forum hosted by the Guangdong pro\u2026 [+6840 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Diane Brady",
+        "title": "Economist Dambisa Moyo says CEOs must play a role in sustaining the consumer class as AI eliminates jobs",
+        "description": "Also: All the news and watercooler chat from Fortune.",
+        "url": "https://fortune.com/2026/03/09/economist-dambisa-moyo-ceos-sustain-consumer-class-ai-eliminates-jobs/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1489254674-e1773047201657.jpg?resize=1200,600",
+        "publishedAt": "2026-03-09T09:27:43Z",
+        "content": "Good morning. Today is the 250th anniversary of the publication of The Wealth of Nations by Scottish economist Adam Smith, a foundational text of modern economics that inspired the U.S.s founders to \u2026 [+5173 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lora Kolodny",
+        "title": "Elon Musk's xAI wants to build a power plant in Mississippi. Regulators plan a key meeting on Election Day",
+        "description": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven.",
+        "url": "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108255802-17690988712026-01-22t154643z_1661161031_rc2f6jamiok9_rtrmadp_0_davos-meeting.jpeg?v=1769098902&w=1920&h=1080",
+        "publishedAt": "2026-03-09T23:57:08Z",
+        "content": "With Elon Musk's xAI planning to build a massive, natural-gas burning power plant in Southaven, Mississippi, the state's environmental authority has scheduled a board meeting for Tuesday Election Day\u2026 [+4087 chars]"
+    }
+]

@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Dana Alomar",
+        "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+        "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+        "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+        "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
+        "publishedAt": "2026-03-11T18:38:21Z",
+        "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
@@ -15,80 +28,41 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "CNET"
         },
-        "author": "Mike Pearl",
-        "title": "Nvidia Is Reportedly Developing Its Own Answer to OpenClaw",
-        "description": "Nvidia is getting in on the fad for agentic AI assistant platforms.",
-        "url": "https://gizmodo.com/nvidia-is-reportedly-developing-its-own-answer-to-openclaw-2000731710",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/03/jensen-claw-1200x675.jpg",
-        "publishedAt": "2026-03-10T09:00:52Z",
-        "content": "Nvidia is on the verge of announcing its own Claw, according to Wired. Can you believe it? An Nvidia claw! \r\nWhich claw do you use for your agentic AI tasks? The lightweight Nanoclaw? The security-fo\u2026 [+3478 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Maxwell Zeff",
-        "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
-        "description": "Meta\u2019s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, plans to prove it.",
-        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-        "urlToImage": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg",
-        "publishedAt": "2026-03-10T05:00:00Z",
-        "content": "Advanced Machine Intelligence (AMI), a new Paris-based startup cofounded by Metas former chief AI scientist Yann LeCun, announced Monday it has raised more than $1 billion to develop AI world models.\u2026 [+4159 chars]"
+        "author": "Corin Cesaric",
+        "title": "AI Chatbots Miss More Than Half of Medical Diagnoses, Study Finds",
+        "description": "When used by humans, large language models often lack sufficient information to make a correct diagnosis, a new study in Nature Medicine shows.",
+        "url": "https://www.cnet.com/health/medical/chatbots-miss-medical-diagnoses/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/443e3fc84ec68832ddbe71c80ad84f44365b9932/hub/2026/02/12/349a1c7a-9d30-4a87-a5f8-3e85d06f99f2/chatgpt-logo-gettyimages-2242399885.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-11T22:52:28Z",
+        "content": "Although chatbots and large language models can answer a slew of everyday questions, they shouldn't be the first place you turn to for medical advice, a new study from the scientific journal\u00a0Nature M\u2026 [+2168 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "Katelyn Chedraoui",
-        "title": "Photoshop's AI Assistant Can Edit Photos for You, if You Want That",
-        "description": "The AI assistant can help you navigate Photoshop and make changes for you.",
-        "url": "https://www.cnet.com/tech/services-and-software/photoshop-ai-assistant-edit-photos/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/0f9c22e64960f859fa8c0094fbb0cf7235789681/hub/2025/10/28/e2b2ce4f-0ddd-4017-860c-6036ac9ab7aa/photoshopaiassistant.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-10T14:00:00Z",
-        "content": "Anyone who uses Photoshop regularly knows the photo editing app has gotten a big AI makeover over the past few years. Adobe is taking its next step on that journey now. Photoshop's AI assistant is pu\u2026 [+2789 chars]"
+        "author": "Tyler Lacoma",
+        "title": "Meta Launches AI Tools to Identify and Flag Messages From Scammers",
+        "description": "The company aims to combat growing fraud schemes, including impersonation accounts that lure users with fake celebrity endorsements.",
+        "url": "https://www.cnet.com/tech/services-and-software/meta-launches-new-ai-tools-flag-scammers/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e74ba3be52247a74f62688fd4f469acb47aab36d/hub/2026/03/11/09cb7f81-6dca-4625-9399-2fabdfcaa4ce/gettyimages-144248231.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-12T00:44:28Z",
+        "content": "Meta said Wednesday\u00a0that it's launching a new suite of tools to tackle today's social media scams on WhatsApp, Facebook and Messenger. These tools will be tackling fraud problems plaguing social plat\u2026 [+3663 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "Theregister.com"
         },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "Nvidia reportedly building its own AI agent to compete with OpenClaw, report claims \u2014 \u2018NemoClaw\u2019 will supposedly be open source and designed for enterprise use",
-        "description": "Nvidia is reportedly planning to launch its own open-source agentic AI with NemoClaw, and it has already been in talks with several enterprise partners like Adobe and CrowdStrike to get them on board with its deployment.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-building-its-own-ai-agent-to-compete-with-openclaw-report-claims-nemoclaw-will-supposedly-be-open-source-and-designed-for-enterprise-use",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/iLF22CSgwWBrrUiSkyqXub-1920-80.jpg",
-        "publishedAt": "2026-03-10T15:19:39Z",
-        "content": "Nvidia is reportedly planning to launch an AI agent that will compete with OpenClaw. According to Wired, the company calls it \u201cNemoClaw,\u201d and it\u2019s designed for use in enterprise environments, with th\u2026 [+2535 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Josh Dzieza",
-        "title": "You Could Be Next",
-        "description": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she\u2019d struggled to make a living as a freelance journalist, gone to grad school, then pivoted to what she hoped would be a more stable career in \u2026",
-        "url": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cover-mobile-version-glitch.png?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-        "publishedAt": "2026-03-10T09:00:01Z",
-        "content": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she\u2019d struggled to make a living as a freelance journalist, gone to grad school, then\u2026 [+38173 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Matt Elliott",
-        "title": "MacBook Neo Review: The Best Laptop for $600 Is Even Better at $700",
-        "description": "The MacBook Neo is an absolute banger of a budget laptop, but life's too short to live without Touch ID.",
-        "url": "https://www.cnet.com/tech/computing/apple-macbook-neo-review/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/fd699aa976a3f5f312f9778da3859de3a2ede518/hub/2026/03/09/6ac4a2e8-1fa3-4b46-88d5-e7dc40b1ed59/macbook-neo-display.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-10T13:01:04Z",
-        "content": "The \"Neo\" name is intentional. Apple is signaling that it's going after new users with the MacBook Neo. Namely, those who can't afford to spend more than $1,000 on a laptop. Plus, parents who, having\u2026 [+26573 chars]"
+        "author": "Tim Anderson",
+        "title": "Microsoft ships VS Code weekly, adds Autopilot mode so AI can wreak havoc without bothering you",
+        "description": "Google also enables auto-approval of AI agents while their documentation warns against it\nMicrosoft's Visual Studio Code (VS Code) is moving to a weekly release cycle, as well as joining Google in encouraging agentic AI development without manual approval wit\u2026",
+        "url": "https://www.theregister.com/2026/03/11/visual_studio_code_moves_to/",
+        "urlToImage": "https://regmedia.co.uk/2016/10/06/ai.jpg",
+        "publishedAt": "2026-03-11T12:38:57Z",
+        "content": "Microsoft's Visual Studio Code (VS Code) is moving to a weekly release cycle, as well as joining Google in encouraging agentic AI development without manual approval with a new Autopilot feature.\r\nVS\u2026 [+4281 chars]"
     },
     {
         "source": {
@@ -96,51 +70,51 @@
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
-        "title": "Nvidia makes \u2018significant\u2019 investment in Mira Murati\u2019s Thinking Machines",
-        "description": "Nvidia Corp. has made a \u201csignificant investment\u201d in artificial intelligence developer Thinking Machines Lab Inc. as part of a partnership that the companis\u00a0announced today. The size of the cash infusion was not disclosed. However, the companies did reveal tha\u2026",
-        "url": "https://siliconangle.com/2026/03/10/nvidia-makes-significant-investment-mira-muratis-thinking-machines/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Photo.png",
-        "publishedAt": "2026-03-10T23:21:36Z",
-        "content": "Nvidia Corp. has made a \u201csignificant investment in artificial intelligence developer Thinking Machines Lab Inc. as part of a partnership that the companis\u00a0announced today.\r\nThe size of the cash infus\u2026 [+4707 chars]"
+        "title": "Meta debuts internally developed AI chips for inference workloads",
+        "description": "Meta Platforms Inc. today revealed that it has designed foour custom chips to power its internal artificial intelligence workloads. The company last provided an update about its processor development efforts in 2024. In April of that year, it revealed a custo\u2026",
+        "url": "https://siliconangle.com/2026/03/11/meta-debuts-internally-developed-ai-chips-inference-workloads/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/meta-1.jpg",
+        "publishedAt": "2026-03-11T23:25:56Z",
+        "content": "Meta Platforms Inc. today revealed that it has designed foour custom chips to power its internal artificial intelligence workloads.\r\nThe company last provided an update about its processor developmen\u2026 [+4715 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Kyt Dotson",
-        "title": "Google enhances Docs, Sheets, Slides and Drive with deeper Gemini integration",
-        "description": "Google LLC announced today that it\u2019s making \u201cprep work\u201d for collaboration and creation easier for users of its cloud productivity tools in Workspace across Docs, Sheets, Slides and Drive through a deeper integration with Gemini as an artificial intelligence a\u2026",
-        "url": "https://siliconangle.com/2026/03/10/google-enhances-docs-sheets-slides-drive-deeper-gemini-integration/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/2026-03-08-1.png",
-        "publishedAt": "2026-03-10T13:00:29Z",
-        "content": "Google LLC announced today that it\u2019s making prep work for collaboration and creation easier for users of its cloud productivity tools in Workspace across Docs, Sheets, Slides and Drive through a deep\u2026 [+6482 chars]"
+        "author": "Mike Wheatley",
+        "title": "Nvidia\u2019s Nemotron Super 3 model for agentic systems launches with five-times higher throughput",
+        "description": "With so much talk about its upcoming Vera Rubin graphics processing units, it\u2019s easy to forget that Nvidia Corp. doesn\u2019t just supply the hardware for artificial intelligence. It also develops its own series of AI models, and today it announced the availabilit\u2026",
+        "url": "https://siliconangle.com/2026/03/11/nvidias-nemotron-super-3-model-agentic-systems-launches-five-times-higher-throughput/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/nemotron-3-release.jpg",
+        "publishedAt": "2026-03-12T01:04:27Z",
+        "content": "With so much talk about its upcoming Vera Rubin graphics processing units, its easy to forget that Nvidia Corp. doesnt just supply the hardware for artificial intelligence.\r\nIt also develops its own \u2026 [+4449 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "ColorTokens launches Xshield AI Agent to automate microsegmentation policy enforcement",
-        "description": "Enterprise microsegmentation company ColorTokens Inc. today introduced Xshield AI Agent, a new artificial intelligence-driven policy automation engine that eliminates the complexity of microsegmentation deployment. Xshield AI Agent is designed to accelerate p\u2026",
-        "url": "https://siliconangle.com/2026/03/10/colortokens-launches-xshield-ai-agent-automate-microsegmentation-policy-enforcement/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/xshield.png",
-        "publishedAt": "2026-03-10T13:00:52Z",
-        "content": "Enterprise microsegmentation company ColorTokens Inc. today introduced Xshield AI Agent, a new artificial intelligence-driven policy automation engine that eliminates the complexity of microsegmentat\u2026 [+4079 chars]"
+        "author": "Maria Deutscher",
+        "title": "Nvidia invests $2B in AI cloud operator Nebius",
+        "description": "Nvidia Corp. today announced plans to invest $2 billion in Nebius Group NV, a Dutch cloud provider that specializes in artificial intelligence workloads. The capital will help the company expand its data center infrastructure. Nebius plans to deploy servers e\u2026",
+        "url": "https://siliconangle.com/2026/03/11/nvidia-invests-2b-ai-cloud-operator-nebius/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Nebius.png",
+        "publishedAt": "2026-03-11T21:18:30Z",
+        "content": "Nvidia Corp. today announced plans to invest $2 billion in Nebius Group NV, a Dutch cloud provider that specializes in artificial intelligence workloads.\r\nThe capital will help the company expand its\u2026 [+4128 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "Secureframe unveils new platform to cut defense cyber certification timelines to weeks",
-        "description": "Compliance automation platform provider\u00a0Secureframe Inc.\u00a0today announced the launch of Secureframe Defense, an artificial intelligence-powered, end-to-end platform that helps defense industrial base contractors achieve and maintain Cybersecurity Maturity Mode\u2026",
-        "url": "https://siliconangle.com/2026/03/10/secureframe-unveils-secureframe-defense-cut-defense-cyber-certification-timelines-weeks/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/secureframe.png",
-        "publishedAt": "2026-03-10T13:00:06Z",
-        "content": "Compliance automation platform provider\u00a0Secureframe Inc.\u00a0today announced the launch of Secureframe Defense, an artificial intelligence-powered, end-to-end platform that helps defense industrial base \u2026 [+4214 chars]"
+        "author": "Paul Gillin",
+        "title": "Databricks launches data engineering copilot and acquires agent evaluation startup",
+        "description": "Databricks Inc. today introduced Genie Code, an artificial intelligence agent designed to automate complex data engineering and analytics tasks. The move extends the rapid evolution of agents from software engineering into enterprise data workflows. The data \u2026",
+        "url": "https://siliconangle.com/2026/03/11/databricks-launches-data-engineering-copilot-acquires-agent-evaluation-startup/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Databricks-Stack.jpeg",
+        "publishedAt": "2026-03-11T20:50:58Z",
+        "content": "Databricks Inc. today introduced Genie Code, an artificial intelligence agent designed to automate complex data engineering and analytics tasks. The move extends the rapid evolution of agents from so\u2026 [+5290 chars]"
     },
     {
         "source": {
@@ -160,13 +134,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "MariaDB buys in-memory computing pioneer GridGain to accelerate data processing for AI agents",
-        "description": "Database management company MariaDB Plc said today it\u2019s buying the Apache Ignite creator and in-memory computing technology developer GridGain Systems Inc. to build more robust infrastructure for artificial intelligence agents. The company said the combinatio\u2026",
-        "url": "https://siliconangle.com/2026/03/09/mariadb-buys-memory-computing-pioneer-gridgain-accelerate-data-processing-ai-agents/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-10-07-54-51.png",
-        "publishedAt": "2026-03-10T00:55:34Z",
-        "content": "Database management company MariaDB Plc said today its buying the Apache Ignite creator and in-memory computing technology developer GridGain Systems Inc. to build more robust infrastructure for arti\u2026 [+4113 chars]"
+        "author": "James Farrell",
+        "title": "Grammarly shuts down \u201cExpert Review\u201d after pushback from the real experts",
+        "description": "After lighting the ire of journalists, academics, and authors this week, Superhuman Platform Inc. this week pulled a feature from Grammarly that impersonated writers. The \u201cExpert Review\u201d let users of Grammarly improve their writing by selecting from a roster \u2026",
+        "url": "https://siliconangle.com/2026/03/11/grammarly-shuts-expert-review-pushback-real-experts/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/amador-loureiro-BVyNlchWqzs-unsplash.jpg",
+        "publishedAt": "2026-03-12T01:36:34Z",
+        "content": "After lighting the ire of journalists, academics, and authors this week, Superhuman Platform Inc. this week pulled a feature from Grammarly that impersonated writers.\r\nThe Expert Review let users of \u2026 [+3794 chars]"
     },
     {
         "source": {
@@ -174,12 +148,25 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Quantro Security launches with AI-powered VM.Analyst for enterprise vulnerability management",
-        "description": "Quantro Security Inc., an artificial intelligence-driven cybersecurity startup developing autonomous AI agents for vulnerability management and enterprise risk analysis, launched today with its first product, VM.Analyst. The company was built by architects wh\u2026",
-        "url": "https://siliconangle.com/2026/03/10/quantro-security-launches-ai-powered-vm-analyst-enterprise-vulnerability-management/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/quantro.png",
-        "publishedAt": "2026-03-10T13:00:25Z",
-        "content": "Quantro Security Inc., an artificial intelligence-driven cybersecurity startup developing autonomous AI agents for vulnerability management and enterprise risk analysis, launched today with its first\u2026 [+3985 chars]"
+        "title": "Zendesk announces deal to acquire customer support AI startup Forethought",
+        "description": "Customer service and sales software provider\u00a0Zendesk Inc.\u00a0today announced that it plans to acquire artificial intelligence software for customer support teams startup Forethought Technologies Inc. for an undisclosed price. Founded in 2017, Forethought offers \u2026",
+        "url": "https://siliconangle.com/2026/03/11/zendesk-announces-deal-acquire-customer-support-ai-startup-forethought/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/forethought.png",
+        "publishedAt": "2026-03-11T23:23:01Z",
+        "content": "Customer service and sales software provider\u00a0Zendesk Inc.\u00a0today announced that it plans to acquire artificial intelligence software for customer support teams startup Forethought Technologies Inc. fo\u2026 [+3841 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Netskope launches One AI Security suite to protect agentic AI and enterprise models",
+        "description": "Cloud security company\u00a0Netskope Inc.\u00a0today announced the launch of Netskope One AI Security, a new suite of artificial intelligence security capabilities that protect, make visible and accelerate the entire AI ecosystem. The new offering introduces new produc\u2026",
+        "url": "https://siliconangle.com/2026/03/11/netskope-launches-netskope-one-ai-security-suite-protect-agentic-ai-enterprise-models/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/netskope.png",
+        "publishedAt": "2026-03-11T13:00:27Z",
+        "content": "Cloud security company\u00a0Netskope Inc.\u00a0today announced the launch of Netskope One AI Security, a new suite of artificial intelligence security capabilities that protect, make visible and accelerate the\u2026 [+4018 chars]"
     },
     {
         "source": {
@@ -213,12 +200,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Escape raises $18M to expand AI agent platform for offensive security testing",
-        "description": "Offensive security engineering platform startup Escape Technologies SAS announced today that it has raised $18 million in new funding to expand its artificial intelligence-agent security platform, including developing agentic penetration testing capabilities \u2026",
-        "url": "https://siliconangle.com/2026/03/10/escape-raises-18m-expand-ai-agent-platform-offensive-security-testing/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/escape.png",
-        "publishedAt": "2026-03-10T04:00:59Z",
-        "content": "Offensive security engineering platform startup Escape Technologies SAS announced today that it has raised $18 million in new funding to expand its artificial intelligence-agent security platform, in\u2026 [+4224 chars]"
+        "title": "Cybersecurity startup Kai raises $125M to build agent-driven AI security platform",
+        "description": "Cybersecurity startup Kai Cyber Inc. today launched with an announcement that it has raised $125 million in new funding to develop and scale up its platform. Founded in 2025 by Galina Antova, a co-founder of industrial cybersecurity company Claroty Ltd., and \u2026",
+        "url": "https://siliconangle.com/2026/03/11/cybersecurity-startup-kai-raises-125m-build-agent-driven-ai-security-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/kai.png",
+        "publishedAt": "2026-03-11T22:51:24Z",
+        "content": "Cybersecurity startup Kai Cyber Inc. today launched with an announcement that it has raised $125 million in new funding to develop and scale up its platform.\r\nFounded in 2025 by Galina Antova, a co-f\u2026 [+4161 chars]"
     },
     {
         "source": {
@@ -226,38 +213,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Kyt Dotson",
-        "title": "Texas Instruments launches two new microcontrollers to boost AI for edge devices",
-        "description": "Semiconductor and embedded processor maker Texas Instruments Inc.\u00a0today announced the launch of new microcontrollers with TinyEngine neural processors. The company said it\u2019s introducing two new microcontroller unit, or MCU, families with edge artificial intel\u2026",
-        "url": "https://siliconangle.com/2026/03/10/texas-instruments-launches-two-new-microcontrollers-boost-ai-edge-devices/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/geralt-digitization-6389398_1280.jpg",
-        "publishedAt": "2026-03-10T08:00:42Z",
-        "content": "Semiconductor and embedded processor maker Texas Instruments Inc.\u00a0today announced the launch of new microcontrollers with TinyEngine neural processors.\r\nThe company said its introducing two new micro\u2026 [+4007 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "Amazon insists AI coding isn't source of outages",
-        "description": "E-souk disputes report linking 'Gen-AI assisted changes' to recent high-impact incidents Amazon's weekly operations meeting today reportedly focused on recent service outages and on the role that code changes attributed to generative AI may have played. Howev\u2026",
-        "url": "https://www.theregister.com/2026/03/10/amazon_ai_coding_outages/",
-        "urlToImage": "https://regmedia.co.uk/2026/03/10/shutterstock_1155126223.jpg",
-        "publishedAt": "2026-03-10T19:44:45Z",
-        "content": "Amazon's weekly operations meeting today reportedly focused on recent service outages and on the role that code changes attributed to generative AI may have played. However, the company is downplayin\u2026 [+3702 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Rhoda AI raises $450M to build foundational robotics models that learn from internet videos",
-        "description": "Palo Alto-based Rhoda AI, a developer of foundational artificial intelligence robotics models, said today it raid $450 million in Series A funding to train intelligent robots using publicly available internet videos. Premji Invest led the round, bringing the \u2026",
-        "url": "https://siliconangle.com/2026/03/10/rhoda-ai-raises-450m-build-foundational-robotics-models-learn-internet-videos/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/a958b114-4cce-464e-b0cb-6e1aaaee7fce.jpg",
-        "publishedAt": "2026-03-10T15:45:50Z",
-        "content": "Palo Alto-based Rhoda AI, a developer of foundational artificial intelligence robotics models, said today it raid $450 million in Series A funding to train intelligent robots using publicly available\u2026 [+4453 chars]"
+        "title": "Canva\u2019s Magic Layers breathes new life into flat and AI-generated images",
+        "description": "All-in-one visual communication platform Canva Inc. today introduced Magic Layers, an artificial intelligence tool that allows users to import flat images and transform them into fully editable designs. Canva described Magic Layers as a way to recover old, st\u2026",
+        "url": "https://siliconangle.com/2026/03/11/canvas-magic-layers-breathes-new-life-flat-ai-generated-images/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/canva-magic-layers.png",
+        "publishedAt": "2026-03-11T15:40:18Z",
+        "content": "All-in-one visual communication platform Canva Inc. today introduced Magic Layers, an artificial intelligence tool that allows users to import flat images and transform them into fully editable desig\u2026 [+3799 chars]"
     },
     {
         "source": {
@@ -265,12 +226,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
-        "title": "Microsoft introduces Microsoft 365 E7 subscription with expanded AI features",
-        "description": "Microsoft Corp. today introduced a new subscription that bundles its productivity applications with artificial intelligence and cybersecurity features. The Microsoft 365 E7 plan, as the offering is called, is priced at $99 per user per month. It\u2019s mainly gear\u2026",
-        "url": "https://siliconangle.com/2026/03/09/microsoft-introduces-microsoft-365-e7-subscription-expanded-ai-features/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Microsoft.png",
-        "publishedAt": "2026-03-10T01:25:58Z",
-        "content": "Microsoft Corp. today introduced a new subscription that bundles its productivity applications with artificial intelligence and cybersecurity features.\r\nThe Microsoft 365 E7 plan, as the offering is \u2026 [+4318 chars]"
+        "title": "Anthropic launches Anthropic Institute to tackle AI risks",
+        "description": "Anthropic PBC today announced the formation of the Anthropic Institute, a business unit tasked with studying the risks posed by artificial intelligence. The unit will bring three of the company\u2019s existing teams together under the leadership of co-founder Jack\u2026",
+        "url": "https://siliconangle.com/2026/03/11/anthropic-launches-anthropic-institute-tackle-ai-risks/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Anthropic-1.png",
+        "publishedAt": "2026-03-12T01:19:39Z",
+        "content": "Anthropic PBC today announced the formation of the Anthropic Institute, a business unit tasked with studying the risks posed by artificial intelligence.\r\nThe unit will bring three of the companys exi\u2026 [+3948 chars]"
     },
     {
         "source": {
@@ -290,13 +251,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Kyt Dotson",
-        "title": "Tricentis introduces agentic AI-driven software quality tool suite",
-        "description": "Automated software testing platform provider Tricentis GmbH\u00a0today launched the company\u2019s new AI Workspace, which orchestrates a team of intelligent agents to help developers and enterprise teams produce high-quality code. The company\u2019s Agentic Quality Enginee\u2026",
-        "url": "https://siliconangle.com/2026/03/10/tricentis-introduces-agentic-ai-driven-software-quality-tool-suite/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/A-pair-of-robot-hands-typing-on-a-keyboard-in-front-of-a-screen-that-is-filling-up-with-documents-ab.jpeg",
-        "publishedAt": "2026-03-10T12:00:13Z",
-        "content": "Automated software testing platform provider Tricentis GmbH\u00a0today launched the companys new AI Workspace, which orchestrates a team of intelligent agents to help developers and enterprise teams produ\u2026 [+5033 chars]"
+        "author": "Mike Wheatley",
+        "title": "Xscape debuts its first laser-based optical interconnect after raising $37M in fresh funding",
+        "description": "Optical interconnect startup Xscape Photonics has raised $37 million in funding in what it described as an extension round, bringing its total Series A investment to $81 million. The round doubles its valuation, and comes alongside the launch of a new device \u2026",
+        "url": "https://siliconangle.com/2026/03/11/xscape-debuts-first-laser-based-optical-interconnect-raising-37m-fresh-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-06-09-10-10.png",
+        "publishedAt": "2026-03-11T13:00:57Z",
+        "content": "Optical interconnect startup Xscape Photonics has raised $37 million in funding in what it described as an extension round, bringing its total Series A investment to $81 million.\r\nThe round doubles i\u2026 [+4991 chars]"
     },
     {
         "source": {
@@ -304,51 +265,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Mike Wheatley",
-        "title": "With $200M in funding, Eridu wants to break through the network wall holding back AI",
-        "description": "Eridu Corp. wants to break through the artificial intelligence networking \u201cwall\u201d after raising $200 million in early-stage funding today. The money from the Series A round will help it to commercialize an all-new network switch that promises to scale AI workl\u2026",
-        "url": "https://siliconangle.com/2026/03/10/200m-funding-eridu-wants-break-network-wall-holding-back-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-09-11-14-43.png",
-        "publishedAt": "2026-03-10T12:00:40Z",
-        "content": "Eridu Corp. wants to break through the artificial intelligence networking wall after raising $200 million in early-stage funding today.\r\nThe money from the Series A round will help it to commercializ\u2026 [+5685 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Nyad launches commercial solution for wastewater operators with $1.3M in funding",
-        "description": "Nyad AI, a software company focused on wastewater operations, today announced the launch of a tool that supports decision-making for treatment plant operators who work with complex systems using artificial intelligence. The company also announced it raised $1\u2026",
-        "url": "https://siliconangle.com/2026/03/10/nyad-launches-commercial-solution-wastewater-operators-1-3m-funding/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/An-AI-agent-scientist-woman-looking-into-a-microscope-with-a-background-of-ghostly-digital-bacterium.png",
-        "publishedAt": "2026-03-10T12:00:05Z",
-        "content": "Nyad AI, a software company focused on wastewater operations, today announced the launch of a tool that supports decision-making for treatment plant operators who work with complex systems using arti\u2026 [+5813 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Yann LeCun\u2019s new startup AMI Labs raises $1.03B to train world models",
-        "description": "AMI Labs, a new startup co-founded by artificial intelligence pioneer Yann LeCun, today announced that it has raised $1.03 billion in funding.\u00a0 The seed round was jointly led by Cathay Innovation, Greycroft, Hiro Capital, HV Capital, Jeff Bezos\u2019 Bezos Expedit\u2026",
-        "url": "https://siliconangle.com/2026/03/10/yann-lecuns-new-startup-ami-labs-raises-1-03b-train-world-models/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/unsplash2.png",
-        "publishedAt": "2026-03-10T21:10:05Z",
-        "content": "AMI Labs, a new startup co-founded by artificial intelligence pioneer Yann LeCun, today announced that it has raised $1.03 billion in funding.\u00a0\r\nThe seed round was jointly led by Cathay Innovation, G\u2026 [+4352 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Anthropic debuts extremely efficient but pricey code checking tool for developers",
-        "description": "When it comes to writing software, getting feedback is a critical part of the process, ensuring that bugs in the newly written code can be caught early, before a pull request is submitted. But with the rise of artificial intelligence coding bots, developers a\u2026",
-        "url": "https://siliconangle.com/2026/03/09/anthropic-debuts-extremely-efficient-yet-pricey-code-checking-tool-developers/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-10-08-48-32.png",
-        "publishedAt": "2026-03-10T01:49:05Z",
-        "content": "When it comes to writing software, getting feedback is a critical part of the process, ensuring that bugs in the newly written code can be caught early, before a pull request is submitted. But with t\u2026 [+5445 chars]"
+        "title": "Ctera collapses boundary between traditional files and object storage, so humans and AI can work with the same data",
+        "description": "Ctera Networks Ltd. says it\u2019s building a better data foundation for artificial intelligence systems, consisting of a new federated data architecture that eliminates the tradeoff between traditional file systems and object storage. The startup\u2019s new product is\u2026",
+        "url": "https://siliconangle.com/2026/03/11/ctera-collapses-boundary-traditional-files-object-storage-humans-ai-can-work-data/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-09-07-40-57.png",
+        "publishedAt": "2026-03-11T12:00:14Z",
+        "content": "Ctera Networks Ltd. says its building a better data foundation for artificial intelligence systems, consisting of a new federated data architecture that eliminates the tradeoff between traditional fi\u2026 [+4813 chars]"
     },
     {
         "source": {
@@ -356,25 +278,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Paul Gillin",
-        "title": "Exclusive: Virtana customizes its observability platform\u00a0for AI workloads",
-        "description": "Virtana today introduced a new application observability capability designed to track performance problems across the full technology stack from application code to infrastructure, networks, storage and artificial intelligence workloads, an approach the compa\u2026",
-        "url": "https://siliconangle.com/2026/03/10/exclusive-virtana-customizes-observability-platform-ai-workloads/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/window-4354467_1920-geralt-pixabay.jpeg",
-        "publishedAt": "2026-03-10T13:00:44Z",
-        "content": "Virtana today introduced a new application observability capability designed to track performance problems across the full technology stack from application code to infrastructure, networks, storage \u2026 [+5660 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Zoom introduces agentic AI capabilities to drive productivity and action at work",
-        "description": "Zoom Communications Inc. today announced an expansion to its enterprise agentic artificial intelligence platform through introducing new capabilities across Workplace, Phone and customer experience platforms. The company said it\u2019s working toward moving from p\u2026",
-        "url": "https://siliconangle.com/2026/03/10/zoom-introduces-agentic-ai-capabilities-drive-productivity-action-work/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Realistic-and-stylized-avatars-in-Zoom-Meetings.png",
-        "publishedAt": "2026-03-10T13:00:34Z",
-        "content": "Zoom Communications Inc. today announced an expansion to its enterprise agentic artificial intelligence platform through introducing new capabilities across Workplace, Phone and customer experience p\u2026 [+5561 chars]"
+        "title": "New memory architecture targets AI inference bottlenecks",
+        "description": "Lightbits Labs Ltd. today is introducing a new architecture aimed at addressing one of the most stubborn bottlenecks in large-scale artificial intelligence inference: the growing mismatch between the memory demands of large language models and the limited mem\u2026",
+        "url": "https://siliconangle.com/2026/03/11/new-memory-architecture-targets-ai-inference-bottlenecks/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/01/Nvidia-chip-1.jpg",
+        "publishedAt": "2026-03-11T15:00:05Z",
+        "content": "Lightbits Labs Ltd. today is introducing a new architecture aimed at addressing one of the most stubborn bottlenecks in large-scale artificial intelligence inference: the growing mismatch between the\u2026 [+5447 chars]"
     },
     {
         "source": {
@@ -382,25 +291,25 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Darwinium launches agent intent intelligence to tackle fraud in AI-driven commerce",
-        "description": "Artificial intelligence fraud prevention platform company Darwinium UK Ltd. today announced the launch of a new intent-based authentication and orchestration solution designed to secure the rapidly emerging world of agentic commerce. As AI agents increasingly\u2026",
-        "url": "https://siliconangle.com/2026/03/10/darwinium-launches-agent-intent-intelligence-tackle-fraud-ai-driven-commerce/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/agenticcommerce.png",
-        "publishedAt": "2026-03-10T13:00:43Z",
-        "content": "Artificial intelligence fraud prevention platform company Darwinium UK Ltd. today announced the launch of a new intent-based authentication and orchestration solution designed to secure the rapidly e\u2026 [+4629 chars]"
+        "title": "Zymtrace raises $12.2M to optimize AI workload performance across GPU infrastructure",
+        "description": "Artificial intelligence infrastructure optimization platform startup Zymtrace announced today that it has raised $12.2 million in funding, including a newly closed $8.5 million seed round, to develop its platform, expand enterprise deployments and grow its U.\u2026",
+        "url": "https://siliconangle.com/2026/03/11/zymtrace-raises-12-2m-optimize-ai-workload-performance-across-gpu-infrastructure/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/zymtrace.png",
+        "publishedAt": "2026-03-11T13:00:28Z",
+        "content": "Artificial intelligence infrastructure optimization platform startup Zymtrace announced today that it has raised $12.2 million in funding, including a newly closed $8.5 million seed round, to develop\u2026 [+4512 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Kyt Dotson",
-        "title": "Mend.io launches AI system prompt hardening solution to secure LLM instructions",
-        "description": "Application security solution provider White Source Ltd., also known as Mend.io, today launched System Prompt Hardening, a dedicated capability designed to detect issues within the hidden instructions given to large language models before they run to strength\u2026",
-        "url": "https://siliconangle.com/2026/03/10/mend-io-launches-ai-system-prompt-hardening-solution-secure-llm-instructions/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/09/Designer-15.jpeg",
-        "publishedAt": "2026-03-10T13:00:54Z",
-        "content": "Application security solution provider White Source Ltd., also known as Mend.io, today launched System Prompt Hardening, a dedicated capability designed to detect issues within the hidden instruction\u2026 [+4415 chars]"
+        "author": "Duncan Riley",
+        "title": "F5 announces platform-wide upgrades including Insight observability and AI security tools",
+        "description": "F5 Inc. today announced a series of updates to its Application Delivery and Security Platform aimed at helping enterprises secure modern applications, including artificial intelligence workloads and hybrid and multicloud environments. The announcements, made \u2026",
+        "url": "https://siliconangle.com/2026/03/11/f5-announces-platform-wide-upgrades-including-insight-observability-ai-security-tools/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/01/f5.jpg",
+        "publishedAt": "2026-03-11T16:00:38Z",
+        "content": "F5 Inc. today announced a series of updates to its Application Delivery and Security Platform aimed at helping enterprises secure modern applications, including artificial intelligence workloads and \u2026 [+4934 chars]"
     },
     {
         "source": {
@@ -420,26 +329,26 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Chad Wilson",
-        "title": "Three insights you might have missed from theCUBE\u2019s coverage of Vast Forward",
-        "description": "The rapid expansion of artificial intelligence is driving a convergence toward an AI operating system that governs how data, compute and intelligence move through enterprise infrastructure. The conversation has moved past experimentation and into the hard que\u2026",
-        "url": "https://siliconangle.com/2026/03/10/thecube-coverage-vast-forward-ai-operating-system-vastforward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Jeff-Denworth-co-founder-of-Vast-Data-Vast-Forward-2026-e1772664434943.jpg",
-        "publishedAt": "2026-03-10T16:14:26Z",
-        "content": "The rapid expansion of artificial intelligence is driving a convergence toward an AI operating system that governs how data, compute and intelligence move through enterprise infrastructure.\r\nThe conv\u2026 [+9741 chars]"
+        "author": "Zeus Kerravala",
+        "title": "The convergence crisis: Why AI adoption demands a new architectural blueprint",
+        "description": "Enterprises are currently fighting a two-front war. On one side, there is an aggressive push toward AI adoption; on the other, an infrastructure landscape so fractured across edge, cloud and on-premises sites that scaling becomes nearly impossible. This \u201ccomp\u2026",
+        "url": "https://siliconangle.com/2026/03/11/convergence-crisis-ai-adoption-demands-new-architectural-blueprint/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/f5signs.jpg",
+        "publishedAt": "2026-03-11T22:51:16Z",
+        "content": "Enterprises are currently fighting a two-front war. On one side, there is an aggressive push toward AI adoption; on the other, an infrastructure landscape so fractured across edge, cloud and on-premi\u2026 [+7410 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "CNET"
         },
-        "author": "Mark Albertson",
-        "title": "What to expect during the RSAC 2026 Conference: Join theCUBE March 23-26",
-        "description": "Artificial intelligence is expected to dominate discussion as the world\u2019s top cybersecurity experts gather later this month at the RSAC 2026 Conference in San Francisco. The technology is reshaping both sides of the cyber battlefield. Security teams are incre\u2026",
-        "url": "https://siliconangle.com/2026/03/10/rsac-event-join-thecube-march-rsac26/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/RSAC-Image.jpg",
-        "publishedAt": "2026-03-10T19:21:09Z",
-        "content": "Artificial intelligence is expected to dominate discussion as the worlds top cybersecurity experts gather later this month at the RSAC 2026 Conference in San Francisco.\r\nThe technology is reshaping b\u2026 [+9023 chars]"
+        "author": "Macy Meyer",
+        "title": "SXSW 2026 Updates: What We Expect on Tech and Culture From Austin",
+        "description": "Innovation. Music. Films. Artificial intelligence. Here's what we're looking forward to at this year's South by Southwest festival and conference.",
+        "url": "https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/68c819c8dc60346a3fb57af0d55baa3230f2868b/hub/2026/03/11/7787c3b5-a21a-4303-837f-a01af1701dbd/gettyimages-2203973741.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-11T18:45:11Z",
+        "content": "Austin is known for its barbecue, live music and vibrant, lively atmosphere. It's also known for its ideas, which are as tempting to me as the brisket I'm hoping to devour.\u00a0\r\nI'm heading to SXSW this\u2026 [+1474 chars]"
     },
     {
         "source": {
@@ -447,25 +356,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Domo shares rally 30% as earnings beat expectations despite modest revenue growth",
-        "description": "Shares in Domo Inc. surged more than 30% in late trading today after the business intelligence and data visualization software company beat expectations for its fiscal 2026 fourth quarter. For the quarter that ended on Jan. 31, Domo reported adjusted earnings\u2026",
-        "url": "https://siliconangle.com/2026/03/10/domo-shares-rally-30-earnings-beat-expectations-despite-modest-revenue-growth/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/domo.png",
-        "publishedAt": "2026-03-10T23:23:11Z",
-        "content": "Shares in Domo Inc. surged more than 30% in late trading today after the business intelligence and data visualization software company beat expectations for its fiscal 2026 fourth quarter.\r\nFor the q\u2026 [+4018 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Bob Laliberte",
-        "title": "Why network as a service is gaining momentum in the distributed enterprise",
-        "description": "Network as a service is emerging as a critical enabler for enterprises navigating distributed architectures, hybrid cloud environments and the growing demands of AI-driven workloads. As organizations move applications, data and analytics across cloud platform\u2026",
-        "url": "https://siliconangle.com/2026/03/10/network-as-a-service-gaining-traction-ai-era-thecube-cubeconversations/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Bill-Long-Zayo-CUBEConversation-December-2025.png",
-        "publishedAt": "2026-03-10T20:46:47Z",
-        "content": "Network as a service is emerging as a critical enabler for enterprises navigating distributed architectures, hybrid cloud environments and the growing demands of AI-driven workloads.\r\nAs organization\u2026 [+5580 chars]"
+        "title": "Fortanix expands Data Security Manager with quantum entropy from Qrypt and Quantum Dice",
+        "description": "Data security company\u00a0Fortanix Inc.\u00a0today announced a new multi-sourced quantum entropy capability within Fortanix Data Security Manager that allows enterprises to diversify encryption key generation at the origin of trust. The update combines quantum randomn\u2026",
+        "url": "https://siliconangle.com/2026/03/11/fortanix-expands-data-security-manager-quantum-entropy-qrypt-quantum-dice/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/fortanixquantum.png",
+        "publishedAt": "2026-03-11T13:00:24Z",
+        "content": "Data security company\u00a0Fortanix Inc.\u00a0today announced a new multi-sourced quantum entropy capability within Fortanix Data Security Manager that allows enterprises to diversify encryption key generation\u2026 [+4649 chars]"
     },
     {
         "source": {
@@ -483,80 +379,54 @@
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
+            "name": "SiliconANGLE News"
         },
-        "author": "Steven Vaughan-Nichols",
-        "title": "AI is getting scary good at finding hidden software bugs - even in decades-old code",
-        "description": "But AI also creates bugs - about 1.7 times as many as humans, including critical and major issues.",
-        "url": "https://www.zdnet.com/article/ai-finds-hidden-bugs-old-code/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/090921dde2702fa619296371e5c63a3c0486d590/2026/03/10/e6558900-8e21-415d-94c5-84d7ce994d3b/gettyimages-1311994794.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-10T15:28:41Z",
-        "content": "WhataWin via iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is proving better than expected at finding old, obscure bugs.</li><l\u2026 [+6205 chars]"
+        "author": "Mike Wheatley",
+        "title": "Despite beating expectations and posting solid guidance, UiPath\u2019s stock slides after hours",
+        "description": "UiPath Inc. beat expectations on earnings and revenue in its latest financial results, doubled its profitability and offered solid guidance for the current quarter and full year, but it still wasn\u2019t enough to satisfy investors. Despite the strong results, its\u2026",
+        "url": "https://siliconangle.com/2026/03/11/despite-beating-expectations-posting-solid-guidance-uipaths-stock-slides-hours/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/FI-Daniel-Dines.jpg",
+        "publishedAt": "2026-03-11T23:35:46Z",
+        "content": "UiPath Inc. beat expectations on earnings and revenue in its latest financial results, doubled its profitability and offered solid guidance for the current quarter and full year, but it still wasnt e\u2026 [+4574 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Zeus Kerravala",
-        "title": "Zoom at Enterprise Connect 2026: From meeting tool to agentic work orchestrator",
-        "description": "The communications industry is filled with vendors that once dominated one aspect of the \u201cstack\u201d but have been focused on building a unified platform that includes voice, video, meetings, contact center and much more. But the most interesting vendor in the ma\u2026",
-        "url": "https://siliconangle.com/2026/03/10/zoom-enterprise-connect-2026-meeting-tool-agentic-work-orchestrator/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/hand-gf2342ec59_1280.jpg",
-        "publishedAt": "2026-03-10T13:00:37Z",
-        "content": "The communications industry is filled with vendors that once dominated one aspect of the stack but have been focused on building a unified platform that includes voice, video, meetings, contact cente\u2026 [+11182 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Andrew J. Hawkins",
-        "title": "Ford is giving its commercial fleet business an AI makeover",
-        "description": "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI. The generative AI system analyzes data generated by commercial vehicles - including vehicle speed, seat belt activity, and engine health - a\u2026",
-        "url": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19881636/acastro_200406_1777_ford_0001.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-03-10T18:57:41Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe automaker is adding a chatbot to its telematics software for commercial fleet managers.\r\nThe automaker is adding a chatbot to its telematics software for com\u2026 [+4759 chars]"
+        "author": "Victoria Gayton",
+        "title": "What to expect at KubeCon + CloudNativeCon EU: Join theCUBE March 24\u201326",
+        "description": "The enterprise AI story of 2026 isn\u2019t about who\u2019s experimenting anymore. Across cloud-native AI environments, the infrastructure question has shifted from whether AI can run on Kubernetes to whether it can run repeatably and at scale, with proof of measurable\u2026",
+        "url": "https://siliconangle.com/2026/03/11/cloud-native-ai-kubernetes-take-shape-kubeconeu/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/KubeCon.png",
+        "publishedAt": "2026-03-11T20:03:23Z",
+        "content": "The enterprise AI story of 2026 isn\u2019t about who\u2019s experimenting anymore. Across cloud-native AI environments, the infrastructure question has shifted from whether AI can run on Kubernetes to whether \u2026 [+11813 chars]"
     },
     {
         "source": {
             "id": "wired",
             "name": "Wired"
         },
-        "author": "Reece Rogers",
-        "title": "I Used Google\u2019s New Gemini-Powered \u2018Help Me Create\u2019 Tool in Docs. It\u2019s Great at Corporate-Speak",
-        "description": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
-        "url": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
-        "urlToImage": "https://media.wired.com/photos/69af500ab7192b94664b216f/191:100/w_1280,c_limit/gear_geminitools_GettyImages-2169339854.jpg",
-        "publishedAt": "2026-03-10T13:00:00Z",
-        "content": "Google rolled out multiple new AI features today for its core Workspace products: Google Docs, Sheets, Slides, and Drive. These apps now include additional tools powered by Gemini, Googles AI assista\u2026 [+2498 chars]"
+        "author": "Will Knight",
+        "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+        "description": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+        "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+        "urlToImage": "https://media.wired.com/photos/69af3f3792d66aac27c0e361/191:100/w_1280,c_limit/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg",
+        "publishedAt": "2026-03-11T18:00:00Z",
+        "content": "Nvidia will spend $26 billion over the next five years to build open source artificial intelligence models, according to a 2025 financial filing. Executives confirmed the news, which has not been pre\u2026 [+3709 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "Amazon calls engineers to address issues caused by use of AI tools, report claims \u2014 company says recent incidents had \u2018high blast radius\u2019 and were allegedly related to \u2018Gen-AI assisted changes\u2019",
-        "description": "An Amazon executive called its engineers into a meeting to deal with the recent spate of incidents on its platform that had a \"high blast radius\" and were related to \"Gen-AI assisted changes.\"",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-calls-engineers-to-address-issues-caused-by-use-of-ai-tools-report-claims-company-says-recent-incidents-had-high-blast-radius-and-were-allegedly-related-to-gen-ai-assisted-changes",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/zLyc7imBc2AyZEN3DcJ6Hd-2560-80.jpg",
-        "publishedAt": "2026-03-10T14:00:07Z",
-        "content": "Amazon allegedly called its engineers to a meeting to discuss several recent incidents, with the briefing note saying that these had \u201chigh blast radius\u201d and were related to \u201cGen-AI assisted changes.\u201d\u2026 [+2876 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Anchr brings AI to America\u2019s food supply distribution chain with $5.8M raise",
-        "description": "Anchr Inc., an AI-native company focused on food distribution systems, today announced a $5.8 million seed round led by a16z Speedrun, Anterra Capital, Offline Ventures, Long Journey Ventures and OpenAI . Every time a person orders at a restaurant, reaches fo\u2026",
-        "url": "https://siliconangle.com/2026/03/10/anchr-brings-ai-americas-food-supply-distribution-chain-5-8m-raise/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Anchr-founders_-Tzar-Taraporvala-and-Smayan-Mehra-PHOTO-CREDIT-Alison-Schiebel.jpg",
-        "publishedAt": "2026-03-10T16:35:12Z",
-        "content": "Anchr Inc., an AI-native company focused on food distribution systems, today announced a $5.8 million seed round led by a16z Speedrun, Anterra Capital, Offline Ventures, Long Journey Ventures and Ope\u2026 [+4282 chars]"
+        "author": "Lauren Goode",
+        "title": "Meta Developed Four New Chips to Power Its AI and Recommendation Systems",
+        "description": "The MTIA processors are the tech giant\u2019s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+        "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+        "urlToImage": "https://media.wired.com/photos/69b089a6573bdab1742c68bb/191:100/w_1280,c_limit/MTIA-400_Blog_Hero.png",
+        "publishedAt": "2026-03-11T14:23:05Z",
+        "content": "Meta announced Wednesday that it has developed four new computer chips that will be used to power generative AI features and content ranking systems within the tech giant's own apps. The hardware wil\u2026 [+3345 chars]"
     },
     {
         "source": {
@@ -564,76 +434,206 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "AWS updates Security Hub to aggregate security findings across multicloud environments",
-        "description": "Amazon Web Services Inc. today announced an expansion of the AWS Security Hub that is designed to unify operations across multicloud environments and third-party security tools, with an update that positions the offering as a centralized platform for aggregat\u2026",
-        "url": "https://siliconangle.com/2026/03/10/aws-updates-security-hub-aggregate-security-findings-across-multicloud-environments/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/AWS-1.png",
-        "publishedAt": "2026-03-10T22:46:39Z",
-        "content": "Amazon Web Services Inc. today announced an expansion of the AWS Security Hub that is designed to unify operations across multicloud environments and third-party security tools, with an update that p\u2026 [+4347 chars]"
+        "title": "IO River introduces edge security platform running Check Point WAF across multiple CDNs",
+        "description": "Virtual edge solution startup\u00a0IO River Ltd.\u00a0today announced a new security solution designed to operate natively and consistently across multiple content delivery networks powered by Check Point Software Technologies Ltd.\u2019s Web Application Firewall. The new s\u2026",
+        "url": "https://siliconangle.com/2026/03/11/io-river-introduces-edge-security-platform-running-check-point-waf-across-multiple-cdns/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/cdnprotection.png",
+        "publishedAt": "2026-03-11T13:00:42Z",
+        "content": "Virtual edge solution startup\u00a0IO River Ltd.\u00a0today announced a new security solution designed to operate natively and consistently across multiple content delivery networks powered by Check Point Soft\u2026 [+4460 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Zeus Kerravala",
-        "title": "Beyond the fan experience: How Wi-Fi 7 is redefining the modern stadium",
-        "description": "For years, the industry conversation around stadium technology has been stuck on a single, albeit important, metric: How many thousands of fans can simultaneously post a selfie to Instagram? Though the \u201cconnected stadium\u201d was once a differentiator, it has rap\u2026",
-        "url": "https://siliconangle.com/2026/03/10/beyond-fan-experience-wi-fi-7-redefining-modern-stadium/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/LAFC_vs_Seattle_Sounders_BMO_Stadium_2024.jpg",
-        "publishedAt": "2026-03-10T23:26:41Z",
-        "content": "For years, the industry conversation around stadium technology has been stuck on a single, albeit important, metric: How many thousands of fans can simultaneously post a selfie to Instagram?\r\nThough \u2026 [+7235 chars]"
+        "author": "Chad Wilson",
+        "title": "Observability rises as AI factories push infrastructure limits",
+        "description": "Observability is becoming the control system for the complex infrastructure powering modern digital services and AI workloads. As enterprises move from AI experimentation to large-scale deployment, the operational challenge of keeping those systems reliable i\u2026",
+        "url": "https://siliconangle.com/2026/03/11/observability-ai-factories-push-infrastructure-limits-aifactoriesdatacenters/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Paul-Appleby-president-and-CEO-of-Virtana-AI-Factories.jpg",
+        "publishedAt": "2026-03-11T19:06:32Z",
+        "content": "Observability is becoming the control system for the complex infrastructure powering modern digital services and AI workloads.\r\nAs enterprises move from AI experimentation to large-scale deployment, \u2026 [+5053 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
+            "name": "SiliconANGLE News"
         },
-        "author": "Nina Raemont",
-        "title": "The good, bad, and ugly of AI healthcare, according to a doctor who uses AI",
-        "description": "There's a right way and a wrong way to use AI for health advice. Consider the technology a springboard for conversations with a medical professional.",
-        "url": "https://www.zdnet.com/article/good-bad-ugly-of-ai-healthcare-according-to-a-doctor-who-uses-ai/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/7cacc0a097513faed60247cc928f1e03de4bbd6f/2026/03/09/e2ece263-f251-4f90-bc28-3ecd09056cd6/drfemalegettyimages-2167549218.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-10T01:00:44Z",
-        "content": "Volha Rahalskaya/iStock / Getty Images Plus via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>People are turning to AI for health advice.\u00a0</li><\u2026 [+6035 chars]"
+        "author": "Chad Wilson",
+        "title": "What to expect during the AWS Pi Day 20th Year Celebration: Join theCUBE March 14",
+        "description": "Data lakes helped turn object storage into one of the most important layers in modern data infrastructure. As AWS approaches the 20th anniversary of Amazon S3 on March 14 \u2014 a date known as Pi Day because 3/14 corresponds to the mathematical constant \u03c0 \u2014 theCU\u2026",
+        "url": "https://siliconangle.com/2026/03/11/aws-pi-day-data-lakes-thecube-awspiday/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/AWS-Pi-Day-March-2026.png",
+        "publishedAt": "2026-03-11T16:03:04Z",
+        "content": "Data lakes helped turn object storage into one of the most important layers in modern data infrastructure.\r\nAs AWS approaches the 20th anniversary of Amazon S3 on March 14 a date known as Pi Day beca\u2026 [+5266 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
+            "name": "SiliconANGLE News"
         },
-        "author": "Steven Vaughan-Nichols",
-        "title": "Why AI is both a curse and a blessing to open-source software - according to developers",
-        "description": "AI has turned security triage into 'terror reporting,' draining time, attention, and the 'will to live.' But, used right, it can help. Here's how.",
-        "url": "https://www.zdnet.com/article/ai-curse-and-blessing-to-open-source-software-deveopers/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/0962aabac651217a59551ab52705a02830ed4bb3/2026/03/10/4d0ad330-6388-4420-be69-eee33ea2cd32/gettyimages-1135788474.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-10T12:51:04Z",
-        "content": "Matt Anderson Photography via Moment / Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Used correctly, AI, as with Anthropic and Mozilla, can help \u2026 [+9556 chars]"
+        "author": "Mike Wheatley",
+        "title": "Rivian\u2019s industrial automation startup Mind Robotics secures $500M in funding",
+        "description": "Rivian Automotive Inc. founder and Chief Executive RJ Scaringe\u2019s startup Mind Robotics said today it has raised $500 million in funding at a $2 billion valuation. The Series A round was co-led by Accel and Andreessen Horowitz. Mind Robotics is extremely ambit\u2026",
+        "url": "https://siliconangle.com/2026/03/11/rivians-industrial-automation-startup-mind-robotics-secures-500m-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-12-07-33-20.png",
+        "publishedAt": "2026-03-12T00:35:20Z",
+        "content": "Rivian Automotive Inc. founder and Chief Executive RJ Scaringes startup Mind Robotics said today it has raised $500 million in funding at a $2 billion valuation. The Series A round was co-led by Acce\u2026 [+5059 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
+            "name": "SiliconANGLE News"
         },
-        "author": "Joe McKendrick",
-        "title": "AI job paradox: Occupations seeing greatest losses also see greatest gains - here's why",
-        "description": "New Snowflake survey illustrates how demand for tech jobs is evolving away from basic skills to high-level AI oversight.",
-        "url": "https://www.zdnet.com/article/ai-job-paradox-same-roles-see-greatest-losses-and-greatest-gains/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/7964822341ded8ce3bdcb96ae6acac1cdf3ae57e/2026/03/09/7e69ea46-308f-449f-abc6-04f310550299/aipurple-gettyimages-2232813513.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-10T13:00:57Z",
-        "content": "akinbostanci/E+ via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Key IT roles are being scaled back and ramped up for the AI era.\u00a0</li><li>IT op\u2026 [+5397 chars]"
+        "author": "Mike Wheatley",
+        "title": "Rivian\u2019s industrial automation spinoff Mind Robotics secures $500M in funding",
+        "description": "Rivian Automotive Inc. founder and Chief Executive RJ Scaringe\u2019s startup Mind Robotics said today it has raised $500 million\u00a0at a $2 billion valuation in an early-stage round co-led by Accel and Andreessen Horowitz. Mind Robotics is extremely ambitious, inten\u2026",
+        "url": "https://siliconangle.com/2026/03/11/rivians-industrial-automation-spinoff-mind-robotics-secures-500m-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-12-07-33-20.png",
+        "publishedAt": "2026-03-12T00:35:20Z",
+        "content": "Rivian Automotive Inc. founder and Chief Executive RJ Scaringes startup Mind Robotics said today it has raised $500 million\u00a0at a $2 billion valuation in an early-stage round co-led by Accel and Andre\u2026 [+5044 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "Canva\u2019s new editing tool adds layers to AI-generated designs",
+        "description": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects\u2026",
+        "url": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NAMR26003_S003_GRP01_PrImageSplit_16x9_V01.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "publishedAt": "2026-03-11T15:02:02Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nMagic Layers lets you change specific parts of generated images without prompting.\r\nMagic Layers lets you change specific parts of generated images without promp\u2026 [+3094 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Boone Ashworth",
+        "title": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
+        "description": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
+        "url": "https://www.wired.com/story/looking-glass-musubi/",
+        "urlToImage": "https://media.wired.com/photos/69b06dc54c5dd30e33d9fe71/191:100/w_1280,c_limit/HLD-dog.jpg",
+        "publishedAt": "2026-03-11T13:00:00Z",
+        "content": "Holograms are a mainstay of science fiction, popping up across the great expanses of Star Wars, Star Trek, Halo, and The Expanse. If a story is set in the future, or in space, its probably got a holo\u2026 [+2139 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "ZTE",
+        "title": "ZTE Chief Strategy Officer Wang Xiang highlights embodied AI pathways at MWC Barcelona 2026",
+        "description": "Wang Xiang details ZTE\u2019s Point-Line-Plane approach to accelerate embodied AI from demonstration to productivity Partner Content\u00a0 ZTE Corporation (0763.HK / 000063.SZ), a global leading provider of integrated information and communication technology solutions,\u2026",
+        "url": "https://www.theregister.com/2026/03/11/zte-cso-highlights-embodied-ai-pathways-mwc-2026/",
+        "urlToImage": "https://regmedia.co.uk/2026/03/11/zte-cso.jpg",
+        "publishedAt": "2026-03-11T10:48:33Z",
+        "content": "Partner Content ZTE Corporation (0763.HK / 000063.SZ), a global leading provider of integrated information and communication technology solutions, announced that Wang Xiang, Senior Vice President and\u2026 [+6966 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Chad Wilson",
+        "title": "Scaling AI agents in production \u2014 how HCLTech and Google Cloud are driving enterprise adoption",
+        "description": "The agentic journey is entering a new phase \u2014 one focused on proving value at scale. Enterprises are shifting away from AI experiments that showcase potential without financial accountability. The focus now is stack maturity, integration depth and measurable \u2026",
+        "url": "https://siliconangle.com/2026/03/11/google-cloud-hcl-technologies-agentic-journey-googlecloudaiagentsinaction/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Piyush-Saxena-HCL-Technologies-Google-Cloud-AI-AGents-in-Action-2026.png",
+        "publishedAt": "2026-03-11T17:03:47Z",
+        "content": "The agentic journey is entering a new phase one focused on proving value at scale.\r\nEnterprises are shifting away from AI experiments that showcase potential without financial accountability. The foc\u2026 [+8234 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "Jeffrey Kampman",
-        "title": "Dynamic MFG comes to RTX 50-series GPUs to push monitor refresh rates to the max \u2014 more flexible mode with 5x and 6x multipliers arrives March 31",
-        "description": "Dynamic Multi Frame Generation, announced back at CES, will be arriving March 31, along with extended 5X and 6X modes.",
-        "url": "https://www.tomshardware.com/pc-components/gpus/dynamic-mfg-comes-to-rtx-50-series-gpus-to-push-monitor-refresh-rates-to-the-max-more-flexible-mode-with-5x-and-6x-multipliers-arrives-march-31",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/BpxH4zubLiwWfq3Y9Nj2HX-1920-80.jpg",
-        "publishedAt": "2026-03-10T16:39:05Z",
-        "content": "The annual Game Developers Conference (GDC) kicks off this week, and it\u2019s happening against the backdrop of considerable turmoil in both the games industry proper and the AI-driven hardware supply sh\u2026 [+4553 chars]"
+        "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+        "title": "Minisforum's new flagship NAS comes with OpenClaw pre-installed \u2014 Strix Halo-powered N5 Max can run a local AI LLM",
+        "description": "Minisforum has announced it is readying a new NAS that comes with OpenClaw pre-installed. The NAS will be powered by AMD's flagship Ryzen AI Max+ 395 to help accelerate AI workloads that users program OpenClaw to execute.",
+        "url": "https://www.tomshardware.com/pc-components/nas/minisforums-new-flagship-nas-comes-with-openclaw-pre-installed-strix-halo-powered-n5-max-can-run-a-local-ai-llm",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/UaQuHF8eb6ur2WmfFNzVPJ-1920-80.jpg",
+        "publishedAt": "2026-03-11T17:42:17Z",
+        "content": "Minisforum has announced an upcoming NAS that is built from the ground up to run large language models locally. The yet-to-be-released N5 Max AI NAS comes with a Ryzen AI Max+ 395 Strix Halo APU and \u2026 [+2746 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Julian Dossett",
+        "title": "AI Chatbots Are Making People All Think the Same, Study Says",
+        "description": "A new paper argues that humans are losing varied ways of thinking due to the use of chatbots, and that's concerning.",
+        "url": "https://www.cnet.com/science/ai-chatbots-are-making-people-all-think-the-same/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/acfbb0e75782b51435a946ba5057752a13ebb8bd/hub/2026/02/23/32bf9fbf-0005-4215-b91b-90ab2a4554db/gettyimages-1464906000.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-11T23:41:03Z",
+        "content": "Part of what makes us human is the unique ways we think and solve problems. But using large language models like ChatGPT might be eroding this uniqueness and leading humans to think and communicate t\u2026 [+2955 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Jack Wallen",
+        "title": "I tried Zenclora, a super-fast Linux distro with zero bloat - and one truly special feature",
+        "description": "This Debian-based distribution is an absolute delight to use and relatively easy, with some minor caveats.",
+        "url": "https://www.zdnet.com/article/zenclora-fast-linux-distro-zero-bloat-special-feature/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/9c1e30ef42ba6c95233c3c4f081165ff76959d51/2026/03/11/97d2ce58-1d9f-432e-8ac1-6ec52be5a131/zenclora-is-a-linux-distro-with-zero-bloat-and-unique-tools-for-efficiency.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-11T14:56:55Z",
+        "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Zenclora is a high-performing, beautiful OS.</li><li>Based on Debian,\u2026 [+5751 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Victoria Gayton",
+        "title": "Four insights you may have missed from theCUBE\u2019s coverage of MWC Barcelona",
+        "description": "Modern artificial intelligence\u2019s requirements highlight a significant gap between the locations where intelligence must be applied and the places where existing infrastructure was originally designed to support it. As inference workloads multiply and agentic \u2026",
+        "url": "https://siliconangle.com/2026/03/11/edge-ai-reshapes-telecom-infrastructure-mwc-barcelona-mwc26/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/IMG_0569.jpg",
+        "publishedAt": "2026-03-11T20:59:13Z",
+        "content": "Modern artificial intelligences requirements highlight a significant gap between the locations where intelligence must be applied and the places where existing infrastructure was originally designed \u2026 [+13332 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Allison Murray",
+        "title": "Whisker Litter-Robot 5 Pro review: This $900 litter box may be almost too high-tech for me",
+        "description": "The new Whisker Litter-Robot 5 Pro saves you from scooping while also giving you peace of mind on your cat's advanced health data.",
+        "url": "https://www.zdnet.com/home-and-office/whisker-litter-robot-5-pro-review/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/76f84ee32b57877917bbf5f99896911702c2513c/2026/03/10/a3306549-09f4-43b5-a63c-c09ccf3b6be9/img-0696.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-11T11:08:00Z",
+        "content": "Follow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nMy favorite tech products are the ones that make my life easier, and as an owner of two cats, pet-related devices have quickly become a staple o\u2026 [+4465 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Abhishek Jadhav",
+        "title": "Your datacenter's power architecture called. It's not happy",
+        "description": "AI factories demand 800 volts because physics doesn't care about your upgrade budget Feature\u00a0 Hyperscale computing was built on a foundation of certainty. For years, 12V and 48V rack architectures \u2013 implemented at a steady 50\u201354 VDC (Volts of Direct Current) \u2026",
+        "url": "https://www.theregister.com/2026/03/11/your_datacenters_power_architecture_called/",
+        "urlToImage": "https://regmedia.co.uk/2024/12/06/shutterstock_power_plant.jpg",
+        "publishedAt": "2026-03-11T11:00:08Z",
+        "content": "Feature Hyperscale computing was built on a foundation of certainty. For years, 12V and 48V rack architectures implemented at a steady 5054 VDC (Volts of Direct Current) - ruled the datacenter floor,\u2026 [+9267 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "David Lumb",
+        "title": "Samsung Galaxy S26 Review: Fun AI Tricks for a Steeper Price",
+        "description": "Samsung's baseline flagship is still a potent phone, but the extra $100 isn't going toward the right upgrades.",
+        "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-review/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/c2b68ad5e9257028643a84bf1528d44dd0bea670/hub/2026/03/10/22fd2185-fa87-40ef-8cb6-71194b0c7187/lede-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-11T12:02:01Z",
+        "content": "The Samsung Galaxy S26 is a mix of fantastic innovations and idleness, with ready evidence of Samsung's odd balance in picking which components to upgrade and which to let tread water. It's understan\u2026 [+16627 chars]"
     }
 ]

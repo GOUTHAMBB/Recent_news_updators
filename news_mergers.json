@@ -1,32 +1,6 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Dan DeFrancesco",
-        "title": "2 legal-tech rivals' biggest fight might not be against each other",
-        "description": "AI startups Harvey and Legora are duking it out over the future of corporate law. They have very different views on how AI will upend the legal word.",
-        "url": "https://www.businessinsider.com/harvey-legora-ai-law-legal-2026-3",
-        "urlToImage": "https://i.insider.com/69b27a75a7a4f9df67ba353e?width=1200&format=jpeg",
-        "publishedAt": "2026-03-12T10:49:57Z",
-        "content": "Max JunestrandLegora\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>I've got a brief o\u2026 [+2451 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Jack Newsham",
-        "title": "Watch out, prediction markets. The 'super apps' are coming.",
-        "description": "Did you think prediction markets were all the rage? Time to learn about \"super apps.\"",
-        "url": "https://www.businessinsider.com/next-summit-prediction-markets-super-apps-2026-3",
-        "urlToImage": "https://i.insider.com/69b1cf02a7a4f9df67ba3057?width=1200&format=jpeg",
-        "publishedAt": "2026-03-12T09:37:01Z",
-        "content": "Catherine Falls Commercial/Getty Images\r\n<ul><li>At a gambling industry conference, many people buzzed about the rise of Kalshi and Polymarket.</li><li>Others said \"super apps\" that combine different\u2026 [+5890 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -43,13 +17,52 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sheryl Estrada",
-        "title": "Why CFOs should pay attention to Elon Musk\u2019s SpaceX IPO\u2014and its rumored $1.5 trillion market cap",
-        "description": "Musk\u2019s record IPO pitch leans on massive capex, thin profits, and a very long runway.",
-        "url": "https://fortune.com/2026/03/12/why-cfo-pay-attention-elon-musk-spacex-ipo-rumored-1-5-trillion-market-cap/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2258948128.jpg?resize=1200,600",
-        "publishedAt": "2026-03-12T12:07:13Z",
-        "content": "Good morning. Elon Musk is reportedly teeing up a summer IPO for a newly bulkedup SpaceX that could reset the ceiling on what big looks like in public marketsand CFOs will want to pay attention.To ju\u2026 [+4779 chars]"
+        "author": "Fran\u00e7ois Candelon, Theodoros Evgeniou, Thomas Ramge",
+        "title": "Europe\u2019s second chance on AI: building an opportunity in factories, labs, and the real economy",
+        "description": "As the next AI wave unfolds, Europe\u2019s position as a commercial first-wave AI laggard may actually prove to be a strength.",
+        "url": "https://fortune.com/2026/03/13/europe-ai-next-wave-factories-talent-industrial-strength/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2211445196-e1772746176776.jpg?resize=1200,600",
+        "publishedAt": "2026-03-13T09:30:00Z",
+        "content": "For much of the last three decades, Europe has played a back-footed role in the digital economy: influential in regulation, strong in research, but rarely the place where globally dominant technology\u2026 [+12760 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hugh Son",
+        "title": "Inside JPMorgan Chase's push to become the startup world\u2019s new Silicon Valley Bank",
+        "description": "For JPMorgan Chase, winning the niche of startup banking from rivals is about more than just gaining deposits: It's a bet to future-proof the largest U.S. bank.",
+        "url": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107208229-1678796542731-gettyimages-1473390116-vcg111427121593.jpeg?v=1773407789&w=1920&h=1080",
+        "publishedAt": "2026-03-13T14:15:03Z",
+        "content": "People line up outside of the shuttered Silicon Valley Bank (SVB) headquarters on March 10, 2023 in Santa Clara, California.\r\nThree years ago, JPMorgan Chase executive Doug Petno was at a New York Ci\u2026 [+5874 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lora Kolodny, Ari Levy",
+        "title": "Elon Musk says xAI must be 'rebuilt' as co-founder exodus continues, SpaceX IPO awaits",
+        "description": "With xAI now in the hands of SpaceX, Elon Musk says he's rebuilding the artificial intelligence company following high-level departures.",
+        "url": "https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228375-1763570599577-108228375-1763570145468-gettyimages-2246882306-US_SAUDI.jpg?v=1770074276&w=1920&h=1080",
+        "publishedAt": "2026-03-13T18:32:31Z",
+        "content": "Less than six weeks after Elon Musk merged SpaceX and xAI in a deal he valued at $1.25 trillion, the world's richest person is acknowledging that his artificial intelligence startup \"was not built ri\u2026 [+3196 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Alex Sherman",
+        "title": "NFL discussing media deal with Paramount that could mean CBS pays an extra $1 billion or more",
+        "description": "The NFL is discussing getting rid of its 2029-30 opt-out clause in exchange for an increase on TV rights that could push CBS to pay more than $3 billion a year.",
+        "url": "https://www.cnbc.com/2026/03/13/nfl-media-deal-paramount.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108148105-1747763002538-108148105-1747758171199-NUP_207730_02334.JPG?v=1747763009&w=1920&h=1080",
+        "publishedAt": "2026-03-13T18:52:05Z",
+        "content": "Roger Goodell, NFL Commissioner with Anthony Capuano, Marriott International CEO, CNBC CEO Council Member, speaking at the CNBC CEO Council in Arizona on May 19th, 2025.\r\nThe NFL and Paramount Skydan\u2026 [+5237 chars]"
     },
     {
         "source": {

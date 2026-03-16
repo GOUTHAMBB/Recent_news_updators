@@ -1,80 +1,67 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Catherina Gioino",
-        "title": "Microsoft\u2019s IPO turns 40 today. If you invested $1,000 in Microsoft in 1986, you\u2019d have $5.5 million today",
-        "description": "Forty years after going public at $21 a share, Microsoft grew from a two-person software startup into a $3 trillion empire powering nearly every corner of the global economy.",
-        "url": "https://fortune.com/2026/03/13/microsofts-ipo-40-years-1000-investment-5-5-million/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2252760140-e1773349617221.jpg?resize=1200,600",
-        "publishedAt": "2026-03-13T07:08:00Z",
-        "content": "It began with a simple magazine cover, and then involved into one of the most valuable companies on the planet with technology that is used in virtually every part of daily life.\u00a0In January 1975, Bil\u2026 [+4660 chars]"
+        "author": "Geoff Weiss",
+        "title": "Nvidia's rivals are multiplying. These are the key competitors trying to break its grip.",
+        "description": "AI chip competition heats up as Nvidia faces pressure from Google, startups, and China amid evolving AI workloads and geopolitical issues.",
+        "url": "https://www.businessinsider.com/nvidia-ai-dominance-rising-competition-from-rivals-2026-3",
+        "urlToImage": "https://i.insider.com/69b1cd1ca7a4f9df67ba3002?width=1200&format=jpeg",
+        "publishedAt": "2026-03-14T09:00:01Z",
+        "content": "Cerebras CEO Andrew Feldman, Nvidia CEO Jensen Huang, and AMD CEO Lisa Su.Stefanie Keenan/Getty Images for Village Global; Tsai Hsin-Han/Reuters; Kimberly White/Getty Images for Wired\r\n<ul><li>Althou\u2026 [+4901 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Kelsey Baker",
+        "title": "US Marines are on the hunt for a cloak they can wear to hide themselves from thermal-imaging sensors",
+        "description": "Marines are on the hunt for a cloak to hide from thermal-imaging sensors",
+        "url": "https://www.businessinsider.com/marines-looking-for-a-cloak-to-hide-from-thermal-imaging-2026-3",
+        "urlToImage": "https://i.insider.com/69b3697c4d65ec517529f1c9?width=1200&format=jpeg",
+        "publishedAt": "2026-03-14T14:56:01Z",
+        "content": "Marines evacuate simulated casualties during an exercise at Marine Corps Base Hawaii, Nov. 5, 2025.U.S. Marine Corps photo by Lance Cpl. Tania Guerrero\r\n<ul><li>The Marine Corps is seeking a company \u2026 [+3612 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Fran\u00e7ois Candelon, Theodoros Evgeniou, Thomas Ramge",
-        "title": "Europe\u2019s second chance on AI: building an opportunity in factories, labs, and the real economy",
-        "description": "As the next AI wave unfolds, Europe\u2019s position as a commercial first-wave AI laggard may actually prove to be a strength.",
-        "url": "https://fortune.com/2026/03/13/europe-ai-next-wave-factories-talent-industrial-strength/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2211445196-e1772746176776.jpg?resize=1200,600",
-        "publishedAt": "2026-03-13T09:30:00Z",
-        "content": "For much of the last three decades, Europe has played a back-footed role in the digital economy: influential in regulation, strong in research, but rarely the place where globally dominant technology\u2026 [+12760 chars]"
+        "author": "Nicholas Gordon",
+        "title": "\u2018Raise a lobster\u2019: How OpenClaw is the latest craze transforming China\u2019s AI sector",
+        "description": "The OpenClaw craze aligns with China\u2019s embrace of open-source AI, a strategy that has helped build labs\u2019 reputation among the developer community.",
+        "url": "https://fortune.com/2026/03/14/openclaw-china-ai-agent-boom-open-source-lobster-craze-minimax-qwen/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265479525-e1773409501531.jpg?resize=1200,600",
+        "publishedAt": "2026-03-14T21:00:00Z",
+        "content": "On a Friday afternoon in March, nearly 1,000 people lined up outside Tencents headquarters in Shenzhen to get a piece of software installed on their laptops. Engineers from the companys cloud unit he\u2026 [+9288 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Hugh Son",
-        "title": "Inside JPMorgan Chase's push to become the startup world\u2019s new Silicon Valley Bank",
-        "description": "For JPMorgan Chase, winning the niche of startup banking from rivals is about more than just gaining deposits: It's a bet to future-proof the largest U.S. bank.",
-        "url": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107208229-1678796542731-gettyimages-1473390116-vcg111427121593.jpeg?v=1773407789&w=1920&h=1080",
-        "publishedAt": "2026-03-13T14:15:03Z",
-        "content": "People line up outside of the shuttered Silicon Valley Bank (SVB) headquarters on March 10, 2023 in Santa Clara, California.\r\nThree years ago, JPMorgan Chase executive Doug Petno was at a New York Ci\u2026 [+5874 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lora Kolodny, Ari Levy",
-        "title": "Elon Musk says xAI must be 'rebuilt' as co-founder exodus continues, SpaceX IPO awaits",
-        "description": "With xAI now in the hands of SpaceX, Elon Musk says he's rebuilding the artificial intelligence company following high-level departures.",
-        "url": "https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228375-1763570599577-108228375-1763570145468-gettyimages-2246882306-US_SAUDI.jpg?v=1770074276&w=1920&h=1080",
-        "publishedAt": "2026-03-13T18:32:31Z",
-        "content": "Less than six weeks after Elon Musk merged SpaceX and xAI in a deal he valued at $1.25 trillion, the world's richest person is acknowledging that his artificial intelligence startup \"was not built ri\u2026 [+3196 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Sherman",
-        "title": "NFL discussing media deal with Paramount that could mean CBS pays an extra $1 billion or more",
-        "description": "The NFL is discussing getting rid of its 2029-30 opt-out clause in exchange for an increase on TV rights that could push CBS to pay more than $3 billion a year.",
-        "url": "https://www.cnbc.com/2026/03/13/nfl-media-deal-paramount.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108148105-1747763002538-108148105-1747758171199-NUP_207730_02334.JPG?v=1747763009&w=1920&h=1080",
-        "publishedAt": "2026-03-13T18:52:05Z",
-        "content": "Roger Goodell, NFL Commissioner with Anthony Capuano, Marriott International CEO, CNBC CEO Council Member, speaking at the CNBC CEO Council in Arizona on May 19th, 2025.\r\nThe NFL and Paramount Skydan\u2026 [+5237 chars]"
+        "author": "Krysta Escobar",
+        "title": "Kalshi co-founder Luana Lopes Lara on the biggest prediction markets risks she has ever taken",
+        "description": "Luana Lopes Lara, co-founder of prediction markets startup Kalshi, tells CNBC about the biggest bets she ever made on the way to billionaire status.",
+        "url": "https://www.cnbc.com/2026/03/14/kalshi-prediction-markets-bet-luana-lopes-lara.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108265969-1771182194896-CHANGEMAKERS_2025_WEB_PROFILE_PORTRAIT_1920x1080_Luana_Lopes_Lara.jpg?v=1771182249&w=1920&h=1080",
+        "publishedAt": "2026-03-14T13:45:00Z",
+        "content": "Luana Lopes Lara, co-founder of Kalshi, spends all day thinking about probabilities. Coming out of an elite math degree background and positions at some of the most successful hedge funds in the worl\u2026 [+7028 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Geoff Colvin",
-        "title": "The Oscars\u2019 Best Picture category exposes a harsh new reality for Hollywood",
-        "description": "\"The sunny version of Detroit\": Inside the slow-motion disintegration of America\u2019s most famous industry cluster.",
-        "url": "https://fortune.com/2026/03/13/hollywood-netflix-paramount-wbd-jobs-industry-cluster/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/social-Fortune-Hollywood-0526.jpg?resize=1200,600",
-        "publishedAt": "2026-03-13T07:00:00Z",
-        "content": "This Sunday will be the biggest night of the year for Los Angeles: Tinseltowns stars will turn out en masse for the Academy Awards at the Dolby Theatre on Hollywood Boulevard, to celebrate the magic \u2026 [+20992 chars]"
+        "author": "Phil Wahba",
+        "title": "The Lululemon founder who invented athleisure is now the company\u2019s harshest gadfly",
+        "description": "Chip Wilson says the brand that ushered in the era of $100 yoga pants has lost its soul, and he\u2019s using a very public proxy campaign to make his point.",
+        "url": "https://fortune.com/2026/03/14/lululemon-chip-wilson-founder-athleisure-ceo-board/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2168086494-e1773444766181.jpg?resize=1200,600",
+        "publishedAt": "2026-03-14T11:00:00Z",
+        "content": "Lululemon Athletica founder Dennis Chip Wilson left the companys board in 2015, but he has been a thorn in the activewear giants side for months, resuming last autumn a years-long campaign in which h\u2026 [+12024 chars]"
     }
 ]

@@ -2,223 +2,28 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "James Pero",
-        "title": "Google\u2019s Smart Glasses Can Create Fake Photos on the Fly",
-        "description": "Who needs real memories anymore?",
-        "url": "https://gizmodo.com/googles-smart-glasses-can-create-fake-photos-on-the-fly-2000733254",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/03/google-android-xr-smart-glasses-1200x675.jpg",
-        "publishedAt": "2026-03-13T15:30:44Z",
-        "content": "As big tech companies ready their excursion into smart glasses, a similar playbook is cementing, and that playbook is looking a lot like the one already set out by Meta and its Ray-Ban-branded AI gla\u2026 [+3097 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Zeyi Yang",
-        "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-        "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
-        "publishedAt": "2026-03-13T12:00:00Z",
-        "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Julian Chokkattu",
-        "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
-        "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
-        "url": "https://www.wired.com/story/6g-is-coming/",
-        "urlToImage": "https://media.wired.com/photos/69a80d4351ceefbb4fe55330/191:100/w_1280,c_limit/GettyImages-2219660002.jpg",
-        "publishedAt": "2026-03-13T10:30:00Z",
-        "content": "5G came with many promises. Remote surgery, where surgeons operate thousands of miles away from patients; driverless cars talking to each other and autonomously navigating highways; new killer apps t\u2026 [+4181 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Katelyn Chedraoui",
-        "title": "Adobe Will Pay $75M in Free Services in DOJ Subscription Cancellation Case Settlement",
-        "description": "The 2024 lawsuit alleged that Adobe's confusing and costly cancellation process violated consumer protections.",
-        "url": "https://www.cnet.com/tech/services-and-software/adobe-department-of-justice-cancellation-fees-lawsuit-settlement-news/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/85afb60980effe2427ae32bf20da66bf8857e309/hub/2025/04/23/5a66e49b-70f8-4162-88df-5b13d6f7c126/adobe-logo-gettyimages-2031350240.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-13T20:29:14Z",
-        "content": "Adobe has reached a deal with the US Department of Justice to settle the government's case alleging the creative software giant made it purposefully difficult to cancel its services in violation of c\u2026 [+1843 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Katelyn Chedraoui",
-        "title": "Meta's New AI Model Is Reportedly Delayed Again. Is 'Avocado' Toast?",
-        "description": "Avocado, code name of Meta's next-generation foundational AI model, might not be released until May.",
-        "url": "https://www.cnet.com/tech/services-and-software/meta-ai-model-delay-avocado-news/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/75cafac80f045b6f3e2544cdc06a2cf73c1f6fe0/hub/2026/03/13/a2930fc1-4bcd-414c-80b1-3bcef159e563/meta-ai-logo-gettyimages-2257784061.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-13T17:00:28Z",
-        "content": "Meta's Avocado isn't ripe quite yet. The company has reportedly delayed the release of its next-generation foundational model until May, according to\u00a0The New York Times, citing unnamed sources. The m\u2026 [+2271 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Omar Gallaga",
-        "title": "Steven Spielberg Explains Why He Hasn't Used AI in Filmmaking",
-        "description": "In an interview at SXSW, the director of the upcoming sci-fi film Disclosure Day discussed aliens, social media, AI in film and more.",
-        "url": "https://www.cnet.com/tech/services-and-software/steven-spielberg-isnt-against-ai/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/a869d58e41cc5275346117dac44e4939ee6854d4/hub/2026/03/13/14aec00f-0ffd-4f5b-b903-b8804224a7b5/steven-spielberg-sxsw-2026-gettyimages-2266355687.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-13T21:13:53Z",
-        "content": "Filmmaker Steven Spielberg, who directed a 2001 film called AI, says he's never used artificial intelligence to make a film, but doesn't seem completely opposed to the idea.\r\n\"I am for AI in many dif\u2026 [+3020 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MIT Technology Review"
-        },
-        "author": "Thomas Macaulay",
-        "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
-        "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Defense\u00a0official reveals how AI chatbots could be used for targeting decisions\u00a0 The US military might use generative AI s\u2026",
-        "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/03/genai-mil2.jpg?resize=1200,600",
-        "publishedAt": "2026-03-13T12:16:56Z",
-        "content": "OpenAI CEO Sam Altman makes a new pitch to investors at a BlackRock event,\u00a0Gizmodo\u00a0reports.\u00a0\r\nOne More Thing\u00a0\r\nWhen Latvian startup Global Wolf Motors first pitched the idea of a military scooter, it\u2026 [+1090 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Sponsored by Mint Mobile",
-        "title": "Samsung Galaxy S26 Lineup Is Now Cheaper Than the Galaxy S25 at Mint Mobile With a 1-Year Unlimited Plan Included",
-        "description": "Switch now and get up to $600+ off the price of any of the new Samsung super-phones when you sign up for 12 months of Mint Mobile Unlimited for just $15 per month.",
-        "url": "https://gizmodo.com/samsung-galaxy-s26-lineup-is-now-cheaper-than-the-galaxy-s25-at-mint-mobile-with-a-1-year-unlimited-plan-included-2000732180",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/galaxy-s26-ultra-samsung-1200x675.jpg",
-        "publishedAt": "2026-03-13T10:55:39Z",
-        "content": "If you sat out the presale period for Samsungs new Galaxy S26 smartphones in the hopes that there would be yet another of Mint Mobiles amazing bundle deals waiting on the other side, then kudos and c\u2026 [+4172 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Theregister.com"
         },
-        "author": "O'Ryan Johnson",
-        "title": "Pentagon AI chief praises Palantir tech for speeding battlefield strikes",
-        "description": "Going from eight systems to one means fewer people make decisions to unleash Epic Fury\nAs the US continues its strikes on Iran as part of Operation Epic Fury, speakers at Palantir's AIPCON event on Thursday said the company\u2019s Maven Smart System product has sh\u2026",
-        "url": "https://www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/",
-        "urlToImage": "https://regmedia.co.uk/2023/06/02/shutterstock_drone.jpg",
-        "publishedAt": "2026-03-13T01:00:30Z",
-        "content": "As the US continues its strikes on Iran as part of Operation Epic Fury, speakers at Palantir's AIPCON event on Thursday said the companys Maven Smart System product has shortened the time it takes th\u2026 [+4545 chars]"
+        "author": "Simon Sharwood",
+        "title": "Inside the datacenter where the day starts with topping up cerebrospinal fluid",
+        "description": "Biological computing is messy and gassy \u2013 It\u2019s now cloudy, too\nAt the start of the working day at Cortical Labs\u2019 datacenter in Melbourne, Australia, technicians top up the resident computers with a liquid modelled on the cerebrospinal fluid that surrounds the\u2026",
+        "url": "https://www.theregister.com/2026/03/14/cortical_labs_biological_cloud/",
+        "urlToImage": "https://regmedia.co.uk/2026/03/12/supplied_cortical_labs.jpg",
+        "publishedAt": "2026-03-14T09:11:08Z",
+        "content": "At the start of the working day at Cortical Labs datacenter in Melbourne, Australia, technicians top up the resident computers with a liquid modelled on the cerebrospinal fluid that surrounds the hum\u2026 [+3950 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "AWS will bring Cerebras\u2019 wafer-size WSE-3 chip to its cloud platform",
-        "description": "Amazon Web Services Inc. will make Cerebras Systems Inc.\u2019s WSE-3 artificial intelligence chip available to its customers. The companies announced the initiative today. It\u2019s part of a multiyear partnership that will also see AWS and Cerebras develop a \u201cdisaggr\u2026",
-        "url": "https://siliconangle.com/2026/03/13/aws-will-bring-cerebras-wafer-size-wse-3-chip-cloud-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Cerebras.png",
-        "publishedAt": "2026-03-13T21:11:49Z",
-        "content": "Amazon Web Services Inc. will make Cerebras Systems Inc.s WSE-3 artificial intelligence chip available to its customers.\r\nThe companies announced the initiative today. Its part of a multiyear partner\u2026 [+5032 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Gumloop reels in $50M for its AI automation platform",
-        "description": "Gumloop Inc., the developer of a platform that enables non-technical workers to create artificial intelligence agents, has raised $50 million in funding. The startup announced the Series B round on Thursday. It stated that Benchmark led the deal with particip\u2026",
-        "url": "https://siliconangle.com/2026/03/13/gumloop-reels-50m-ai-automation-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Gumloop.png",
-        "publishedAt": "2026-03-13T23:52:21Z",
-        "content": "Gumloop Inc., the developer of a platform that enables non-technical workers to create artificial intelligence agents, has raised $50 million in funding.\r\nThe startup announced the Series B round on \u2026 [+4006 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "AI agent development startup Wonderful reels in $150M",
-        "description": "Artificial intelligence agent startup Wonderful AI Inc. today announced that it has closed a $150 million investment led by Insight Partners. The Series B deal also included contributions from Index Ventures, IVP, Bessemer Venture Partners and Vine Ventures. \u2026",
-        "url": "https://siliconangle.com/2026/03/12/ai-agent-development-startup-wonderful-reels-150m/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Wonderful.png",
-        "publishedAt": "2026-03-13T01:20:54Z",
-        "content": "Artificial intelligence agent startup Wonderful AI Inc. today announced that it has closed a $150 million investment led by Insight Partners.\r\nThe Series B deal also included contributions from Index\u2026 [+4278 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Verifiable AI startup Axiom raises $200M to prove AI-generated code is safe to use",
-        "description": "Axiom Quant Inc. said today it\u2019s ready to step up to the plate and make sure that the tsunami of artificial intelligence-generated code is safe, secure and accurate after raising $200 million in a Series A round of funding. The round, which brings Axiom\u2019s val\u2026",
-        "url": "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-13-08-19-02.png",
-        "publishedAt": "2026-03-13T01:22:40Z",
-        "content": "Axiom Quant Inc. said today its ready to step up to the plate and make sure that the tsunami of artificial intelligence-generated code is safe, secure and accurate after raising $200 million in early\u2026 [+5938 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "The 6G horizon: Can AI finally solve the telco monetization paradox?",
-        "description": "As one would expect, artificial intelligence was a top theme at the recent\u00a0MWC\u00a0conference in Barcelona, but 6G was certainly prominent as well. This year, the discussions has pivoted from the maturation of 5G wireless networks to the \u201cseamless path\u201d toward 6G\u2026",
-        "url": "https://siliconangle.com/2026/03/13/6g-horizon-can-ai-finally-solve-telco-monetization-paradox/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Intel.jpg",
-        "publishedAt": "2026-03-13T19:45:52Z",
-        "content": "As one would expect, artificial intelligence was a top theme at the recent\u00a0MWC\u00a0conference in Barcelona, but 6G was certainly prominent as well. This year, the discussions has pivoted from the maturat\u2026 [+7477 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Reece Rogers",
-        "title": "Google's AI Searches Love to Refer You Back to Google",
-        "description": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-        "urlToImage": "https://media.wired.com/photos/69b2ee5feadc91f592dc322f/191:100/w_1280,c_limit/shutterstock_2668436833.jpg",
-        "publishedAt": "2026-03-13T12:31:55Z",
-        "content": "Google seems to have a Google addiction. If you click on a hyperlink in Googles chatbot-style search tool, AI Mode, you are likely to be looped into another Google search, according to a new study fr\u2026 [+3617 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Rubrik shares slip after hours despite strong Q4 results and upbeat outlook",
-        "description": "Shares in Rubrik Inc. were down slightly in late trading today despite the cloud data management and security company reporting strong results in its fiscal 2026 fourth quarter and providing an outlook ahead of expectations. For the quarter that ended on Jan.\u2026",
-        "url": "https://siliconangle.com/2026/03/12/rubrik-shares-slip-hours-despite-strong-q4-results-upbeat-outlook/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/06/rubrik1.jpg",
-        "publishedAt": "2026-03-13T00:28:24Z",
-        "content": "Shares in Rubrik Inc. were down slightly in late trading today despite the cloud data management and security company reporting strong results in its fiscal 2026 fourth quarter and providing an outlo\u2026 [+4995 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Anthropic\u2019s Claude gets interactive visuals to enhance learning",
-        "description": "Last year, Anthropic PBC released a temporary experience called \u201cImagine with Claude\u201d that enabled its chatbot to create interactive visuals in real-time without any code, and now the same capability is coming to Claude\u2019s chat conversations. In a blog post\u00a0to\u2026",
-        "url": "https://siliconangle.com/2026/03/12/anthropics-claude-gets-interactive-visuals-enhance-learning/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/69b1048a4e146f048af72e00_Claude-Blog-Inline-Visualization.gif",
-        "publishedAt": "2026-03-13T00:23:32Z",
-        "content": "Last year, Anthropic PBC released a temporary experience called Imagine with Claude that enabled its chatbot to create interactive visuals in real-time without any code, and now the same capability i\u2026 [+3168 chars]"
+        "author": "John Furrier",
+        "title": "GTC preview: Inside the AI factory \u2014 The $1T infrastructure war under the hood of the AI economy",
+        "description": "Every year the artificial intelligence industry gathers at Nvidia Corp.\u2019s GPU Technology Conference expecting to see faster graphics processing units, bigger models and the next wave of AI software innovation. And yes, that will all be there. But if you\u2019ve be\u2026",
+        "url": "https://siliconangle.com/2026/03/14/gtc-preview-inside-ai-factory-1t-infrastructure-war-hood-ai-economy/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Gemini_Generated_Image_7udjct7udjct7udj.png",
+        "publishedAt": "2026-03-15T03:01:34Z",
+        "content": "Every year the artificial intelligence industry gathers at Nvidia Corp.\u2019s GPU Technology Conference expecting to see faster graphics processing units, bigger models and the next wave of AI software i\u2026 [+11007 chars]"
     },
     {
         "source": {
@@ -238,208 +43,26 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Robert Hof",
-        "title": "Twenty years after pioneering the cloud, Amazon Web Services chases the AI prize",
-        "description": "As soon as online photo storage startup SmugMug Inc. heard about Amazon.com Inc.\u2019s Simple Storage Service, an online data storage repository that debuted on March 14, 2006, \u201cmy eyes got all big,\u201d co-founder and Chief Executive Don MacAskill said at the time.\u00a0\u2026",
-        "url": "https://siliconangle.com/2026/03/13/twenty-years-pioneering-cloud-amazon-web-services-chases-ai-prize/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/aws-signpeople.jpg",
-        "publishedAt": "2026-03-13T15:27:02Z",
-        "content": "As soon as online photo storage startup SmugMug Inc. heard about Amazon.com Inc.s Simple Storage Service, an online data storage repository that debuted on March 14, 2006, my eyes got all big, co-fou\u2026 [+21024 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Simon Sharwood",
-        "title": "Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years",
-        "description": "Didn\u2019t say why, but for once AI may not be the reason for a lost job Adobe CEO Shantanu Narayen has announced he intends to depart the company after 18 years as the prince of PDFs.\u2026",
-        "url": "https://www.theregister.com/2026/03/13/adobe_q1_2026/",
-        "urlToImage": "https://regmedia.co.uk/2023/03/17/shantanu-narayen.jpg",
-        "publishedAt": "2026-03-13T04:22:47Z",
-        "content": "Adobe CEO Shantanu Narayen has announced he intends to depart the company after 18 years as the prince of PDFs.\r\nNarayen didnt say why hes moving on, but on the companys Q1 2026 earnings call said he\u2026 [+2713 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Victoria Gayton",
-        "title": "What to expect during Chainguard Assemble: Join theCUBE on March 19",
-        "description": "As enterprises accelerate development across cloud-native and AI-driven environments, software supply chain risk has moved from a background concern to a boardroom priority. The pressure to ship faster hasn\u2019t disappeared, but the tolerance for hidden vulnerab\u2026",
-        "url": "https://siliconangle.com/2026/03/13/thecube-chainguard-assemble-software-supply-chain-risk-chainguardassemble/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Chainguard-Assemble-March-2026.png",
-        "publishedAt": "2026-03-13T20:52:42Z",
-        "content": "As enterprises accelerate development across cloud-native and AI-driven environments, software supply chain risk has moved from a background concern to a boardroom priority. The pressure to ship fast\u2026 [+7281 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "AI startups\u2019 funding frenzy, where AWS goes next, and what\u2019s coming at Nvidia\u2019s GTC event",
-        "description": "The Anthropic-Pentagon pissing match continues. Anthropic got some backing from Google employees, Microsoft and others, but it\u2019s still likely losing business to OpenAI and yes, Google. Massive AI startup funding raged on this week with a couple of billion-dol\u2026",
-        "url": "https://siliconangle.com/2026/03/13/ai-startups-funding-frenzy-aws-goes-next-whats-coming-nvidias-gtc-event/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/aidollars.png",
-        "publishedAt": "2026-03-13T14:00:25Z",
-        "content": "The Anthropic-Pentagon pissing match continues. Anthropic got some backing from Google employees, Microsoft and others, but it\u2019s still likely losing business to OpenAI and yes, Google.\r\nMassive AI st\u2026 [+14619 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Helen Vogelsong-Donahue",
-        "title": "Gamers\u2019 Worst Nightmares About AI Are Coming True",
-        "description": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-        "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-        "urlToImage": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/191:100/w_1280,c_limit/AI-Swallowing-Gaming-Culture.jpg",
-        "publishedAt": "2026-03-13T11:00:00Z",
-        "content": "The gaming community freaked out last week when Seamus Blackley, the original creator of Xbox, claimed the console was sunsetting in an interview with Gamesbeat.\r\nHowever, if you read the interview o\u2026 [+3672 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Alex Valdes",
-        "title": "Bumble's AI Assistant Bee Wants to Replace Endless Swiping",
-        "description": "The dating app says it will launch \"chapter-based profiles\" and a personal dating assistant.",
-        "url": "https://www.cnet.com/tech/services-and-software/bumble-dating-app-adds-ai-assistant-bee/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/a8ae6748c8b05a6c4d8ed46ada95e91b50b22530/hub/2022/10/27/db680dad-d1fb-4556-8a84-b79f9a8480c4/bumbe-phone-logo.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-13T01:12:53Z",
-        "content": "Dating app Bumble is bringing artificial intelligence into the matchmaking process via a new AI assistant called Bee. The dating app unveiled the upcoming features during its 2025 fourth-quarter earn\u2026 [+4089 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Allison Johnson",
-        "title": "Samsung Galaxy S26 Ultra review: show off",
-        "description": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It's never bothered me too much, and I ge\u2026",
-        "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0006.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "publishedAt": "2026-03-13T19:30:43Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Ultra returns to form with an innovative display.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nby\r\nAl\u2026 [+13935 chars]"
+        "author": "Ryan Stevens",
+        "title": "Twenty years in, Amazon S3 finds itself at the center of AWS\u2019 push beyond storage",
+        "description": "For Amazon Web Services Inc., this year\u2019s Amazon S3 anniversary marks more than a milestone \u2014 it underscores S3\u2019s rise from an internal utility to a pillar of cloud infrastructure and beyond. Commemorating the 20th Amazon S3 anniversary on March 14, the compa\u2026",
+        "url": "https://siliconangle.com/2026/03/14/amazon-s3-anniversary-marks-20-years-evolution-awspiday/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Andy-Warfield-Amazon-AWS-Pi-Day-20th-Year-Celebration-2026-JPEG.jpg",
+        "publishedAt": "2026-03-14T15:00:53Z",
+        "content": "For Amazon Web Services Inc., this years Amazon S3 anniversary marks more than a milestone it underscores S3s rise from an internal utility to a pillar of cloud infrastructure and beyond.\r\nCommemorat\u2026 [+6422 chars]"
     },
     {
         "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Cristian Dina",
-        "title": "TechEx North America 2026 comes to San Jose for your annual enterprise technology intelligence briefing",
-        "description": "TechEx North America will take place on May 18\u201319, 2026, at the San Jose McEnery Convention Center, bringing together seven co-located enterprise technology events under one roof to tackle the real questions enterprise leaders are asking right now. This leadi\u2026",
-        "url": "https://thenextweb.com/news/techex-north-america-2026",
-        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FTechEx-North-America-2026-comes-to-San-Jose.png&signature=dc2c79c9b360b9bbaa8906b3ed9de7fa",
-        "publishedAt": "2026-03-13T10:32:15Z",
-        "content": "TechEx North America will take place on May 1819, 2026, at the San Jose McEnery Convention Center, bringing together seven co-located enterprise technology events under one roof to tackle the real qu\u2026 [+4746 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Tobias Mann",
-        "title": "AI Burning Man happens next week \u2013 here's what The Register expects at GTC 2026",
-        "description": "From Groq-ing about tokenomics to OpenClaw and the silicon that powers it, our predictions for the hottest ticket in town Nvidia has a bit of a problem. Popular generative AI workloads like code assistants and agentic systems generate massive quantities of to\u2026",
-        "url": "https://www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register/",
-        "urlToImage": "https://regmedia.co.uk/2020/09/01/jensen_huang.jpg",
-        "publishedAt": "2026-03-13T06:30:06Z",
-        "content": "Nvidia has a bit of a problem. Popular generative AI workloads like code assistants and agentic systems generate massive quantities of tokens and need to move them at speed. But the GPU giant's chips\u2026 [+7555 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Richard Speed",
-        "title": "Azure startup credits don't apply to Claude via Azure AI Foundry, reader finds \u2013 after $1,600 charge",
-        "description": "Gets bounced between Microsoft and Anthropic like a support ticket nobody wants to own\nCompanies using credits bundled with Microsoft for Startups have found some unwelcome surprises on their credit card statements after deploying Anthropic's Claude via Azure\u2026",
-        "url": "https://www.theregister.com/2026/03/13/a_cautionary_tale_azure_startup_credits/",
-        "urlToImage": "https://regmedia.co.uk/2024/03/04/shock_shutterstock.jpg",
-        "publishedAt": "2026-03-13T13:13:12Z",
-        "content": "Companies using credits bundled with Microsoft for Startups have found some unwelcome surprises on their credit card statements after deploying Anthropic's Claude via Azure AI Foundry.\r\nA Register re\u2026 [+3485 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "TNW Deals",
-        "title": "ESET PROTECT scored zero false alarms in independent testing. Now it\u2019s 20% off.",
-        "description": "Disclosure: This article contains affiliate links. If you click through and make a purchase, we may earn a commission at no additional cost to you. This helps support our content. All opinions expressed are our own. Here\u2019s a number worth sitting with: 43% of \u2026",
-        "url": "https://thenextweb.com/news/eset-protect-scored-zero-false-alarms-in-independent-testing-now-its-20-off",
-        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FESET-PROTECT.png&signature=b83f22e3258756d97439e8fc1c7ff636",
-        "publishedAt": "2026-03-13T05:31:58Z",
-        "content": "TL;DR\r\nESET PROTECT is a cloud-first endpoint protection platform built for small and mid-size businesses, with tiers that scale from basic endpoint security to full encryption, sandboxing, and email\u2026 [+7858 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana-Maria Stanciuc",
-        "title": "Uber relaunches Motional robotaxis in Las Vegas",
-        "description": "Two years after a brutal restructuring gutted Motional\u2019s workforce and halted its commercial operations, the Hyundai-backed AV company is back on the Strip, still with a safety operator for now, but promising to remove one by the end of 2026. Uber and Motiona\u2026",
-        "url": "https://thenextweb.com/news/uber-relaunches-motional-robotaxis-in-las-vegas",
-        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FUber-and-Motional-have-relaunched-robotaxi-rides-in-Las-Vegas.png&signature=075726fd466f3f72541a652abb84cba4",
-        "publishedAt": "2026-03-13T16:27:24Z",
-        "content": "Two years after a brutal restructuring gutted Motionals workforce and halted its commercial operations, the Hyundai-backed AV company is back on the Strip, still with a safety operator for now, but p\u2026 [+5972 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana-Maria Stanciuc",
-        "title": "Atlassian is cutting 1,600 jobs and replacing its CTO",
-        "description": "In October 2025, Atlassian co-founder and CEO Mike Cannon-Brookes appeared on the 20VC podcast and said something that now reads rather differently. Technology creation, he argued, is \u2018not output-bound.\u2019 Atlassian would employ more engineers in five years, no\u2026",
-        "url": "https://thenextweb.com/news/atlassian-is-cutting-1600-jobs-and-replacing-its-cto",
-        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FAtlassian-is-cutting-1600-jobs-and-replacing-its-CTO.png&signature=74a7c6fedaed943c812361f2c01d2829",
-        "publishedAt": "2026-03-13T10:48:43Z",
-        "content": "In October 2025, Atlassian co-founder and CEO Mike Cannon-Brookes appeared on the 20VC podcast and said something that now reads rather differently. Technology creation, he argued, is not output-boun\u2026 [+5339 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Sarah Perez",
-        "title": "Steven Spielberg says he's 'never used AI' in any of his films | TechCrunch",
-        "description": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
-        "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/steven-spielberg-GettyImages-2260428164.jpg?w=1024",
-        "publishedAt": "2026-03-13T19:49:01Z",
-        "content": "Legendary filmmaker Steven Spielberg spoke out against the use of AI technology when used in creative endeavors in an interview at the SXSW conference in Austin on Friday. Asked how he viewed AI\u2019s ut\u2026 [+1307 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Lauren Forristal",
-        "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming | TechCrunch",
-        "description": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
-        "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Peacock-newfeatures2026.png?w=1200",
-        "publishedAt": "2026-03-13T14:03:34Z",
-        "content": "Peacock is making a clear bet on two things: AI and mobile-first entertainment.\r\nBased on what the streamer previewed at a press event yesterday, Peacocks mobile app is about to look a whole lot more\u2026 [+4905 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Sarah Perez",
-        "title": "Bumble introduces an AI dating assistant, 'Bee' | TechCrunch",
-        "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-        "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Bumble-new-logo.jpg?resize=1200,810",
-        "publishedAt": "2026-03-13T02:02:57Z",
-        "content": "Dating app maker Bumble is venturing into generative AI. During the company\u2019s fourth-quarter earnings on Wednesday, Bumble introduced a new AI assistant it\u2019s calling \u201cBee,\u201d designed to become a perso\u2026 [+3420 chars]"
+        "author": "Kunal Nain",
+        "title": "Rise of model context protocol in the agentic era",
+        "description": "We have all heard about model context protocol (MCP) in the context of artificial intelligence. In this article, we will dive into what MCP is and why it is becoming more important by the day. When APIs are already available then why do we need MCP? Although \u2026",
+        "url": "https://thenextweb.com/news/rise-of-model-context-protocol-in-the-agentic-era",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FRise-of-model-context-protocol-in-the-agentic-era.png&signature=75ea8aa7854e6aa9a02cf2ff977b36cb",
+        "publishedAt": "2026-03-14T10:25:28Z",
+        "content": "We have all heard about model context protocol (MCP) in the context of artificial intelligence. In this article, we will dive into what MCP is and why it is becoming more important by the day. When A\u2026 [+5407 chars]"
     },
     {
         "source": {

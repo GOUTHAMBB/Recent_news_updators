@@ -1,54 +1,132 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "Harvard Business Review"
         },
-        "author": "Henry Chandonnet",
-        "title": "Moltbook updated its terms after the Meta acqusition \u2014 and you're officially responsible for your agent",
-        "description": "Moltbook made humans responsible for their AI agents in a new set of terms after the acquisition by Meta.",
-        "url": "https://www.businessinsider.com/moltbook-updates-terms-of-service-after-meta-acquisition-2026-3",
-        "urlToImage": "https://i.insider.com/69b82584a96e437d6eb85eaa?width=1200&format=jpeg",
-        "publishedAt": "2026-03-16T16:56:26Z",
-        "content": "Moltbook widely expanded its terms of service five days after Meta announced its acquisition.Illustration by Avishek Das/SOPA Images/LightRocket via Getty Images\r\n<ul><li>Moltbook updated its terms o\u2026 [+2254 chars]"
+        "author": null,
+        "title": "How Software Startup InsightSquared Wrestled with Creating an Optimal Sales and Marketing Strategy",
+        "description": "Even with strong product market fit, these founders disagreed on how to best focus their strategy to scale.",
+        "url": "https://hbr.org/podcast/2026/03/how-software-startup-insightsquared-wrestled-with-creating-an-optimal-sales-and-marketing-strategy",
+        "urlToImage": "https://hbr.org/resources/images/article_assets/2025/02/wide-cold-call-25.png",
+        "publishedAt": "2026-03-17T12:10:00Z",
+        "content": "BRIAN KENNY: Welcome to Cold Call, the podcast where we dive deep into groundbreaking ideas and Harvard Business School case studies. Today on Cold Call, we\u2019re talking about a company that looks like\u2026 [+36189 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "sobrient@insider.com (Samuel O'Brient)",
-        "title": "'Big Short' investor Michael Burry flags criticism of proposed rule change to fast-track SpaceX joining the Nasdaq",
-        "description": "Michael Burry said a post from veteran investor George Noble slamming a rule change floated by Nasdaq was a \"must read.\"",
-        "url": "https://www.businessinsider.com/michael-burry-nasdaq-spacex-ipo-listing-elon-musk-tesla-ndx-2026-3",
-        "urlToImage": "https://i.insider.com/69b81800a96e437d6eb85d44?width=1200&format=jpeg",
-        "publishedAt": "2026-03-16T21:42:09Z",
-        "content": "Michael Burry, who has gone from reclusive short-seller to prolific market commentator, spoke out over a proposal to allow big companies to quickly join the Nasdaq 100 shortly after going public.\r\nRe\u2026 [+2388 chars]"
+        "author": "Chris Panella",
+        "title": "The Army's $87 million deal with Anduril is about linking sensors and shooters to give operators a better shot at defeating drones",
+        "description": "The $87 million effort puts Anduril's AI-powered software at the core of the Army-led counter-drone task force.",
+        "url": "https://www.businessinsider.com/army-anduril-strike-deal-linking-systems-to-counter-drones-2026-3",
+        "urlToImage": "https://i.insider.com/69b99f7475bee4e0ee55d567?width=1200&format=jpeg",
+        "publishedAt": "2026-03-17T20:08:38Z",
+        "content": "Anduril's AI-powered software Lattice will be the command and control platform the US' joint counter-drone task force.John Keeble/Getty Images\r\n<ul><li>The Army and Anduril have struck a substantial \u2026 [+4119 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Marco Quiroz-Gutierrez",
-        "title": "Elon Musk admits xAI \u2018wasn\u2019t built right\u2019 as only 2 co-founders remain and its biggest AI bet stalls out",
-        "description": "Nine of xAI's 11 original co-founders, not including Musk, have left the company.",
-        "url": "https://fortune.com/2026/03/16/elon-musk-xai-rebuilding-cofounders-engineers-exodus-macrohard-project-spacex-acquisition/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256969963_0fab81-e1773677293752.jpg?resize=1200,600",
-        "publishedAt": "2026-03-16T16:49:15Z",
-        "content": "Elon Musk said he is rebuilding xAI from the ground up just a month after SpaceX acquired his AI startup in one of the biggest mergers of all time.Following a gradual exodus from xAI, the worlds rich\u2026 [+2415 chars]"
+        "author": "Ben Weiss",
+        "title": "Mastercard to acquire crypto startup BVNK for up to $1.8 billion in largest stablecoin deal to date",
+        "description": "BVNK was previously in talks with the U.S. crypto exchange Coinbase for an acquisition price of about $2 billion.",
+        "url": "https://fortune.com/2026/03/17/mastercard-bvnk-acquisition-stablecoins-1-8-billion/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2211655850.jpg?resize=1200,600",
+        "publishedAt": "2026-03-17T13:30:43Z",
+        "content": "Mastercard has finally pulled the trigger on a stablecoin acquisition. The payments giant on Tuesday morning announced a deal to acquire the London-based startup BVNK for up to $1.8 billion, with $30\u2026 [+2925 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeremy Kahn",
+        "title": "AI was supposed to kill off consultants. It\u2019s not happening, Capgemini\u2019s strategy chief says",
+        "description": "Boards are still more willing to listen to advice from McKinsey than ChatGPT and want Capgemini to implement AI agents",
+        "url": "https://fortune.com/2026/03/17/ai-death-of-management-consulting-not-happening-capgemini-fernando-alvarez-says/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1472630402-e1773765240286.jpg?resize=1200,600",
+        "publishedAt": "2026-03-17T17:23:29Z",
+        "content": "Hello and welcome to Eye on AI. In this editionNvidia sees $1 trillion in AI chip sales by the end of 2027Meta delays the debut of its latest AI model (again)Moonshot AI develops a new architecture f\u2026 [+14158 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "bbergman@insider.com (Ben Bergman)",
+        "title": "Eight ex-ServiceNow salespeople have been poached by upstart rival Serval as companies race to compete in the AI boom",
+        "description": "The exodus shows how difficult it can be for tech companies with falling valuations to retain talent when AI companies come calling.",
+        "url": "https://www.businessinsider.com/eight-ex-servicenow-salespeople-have-been-poached-by-serval-2026-3",
+        "urlToImage": "https://i.insider.com/69b49d11a96e437d6eb852f1?width=1200&format=jpeg",
+        "publishedAt": "2026-03-17T09:00:01Z",
+        "content": "Eight salespeople from ServiceNow and its newly acquired subsidiary, Moveworks, have jumped ship to rival startup Serval in recent months, Business Insider has learned.\r\nServiceNow is a cloud computi\u2026 [+2884 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Jennifer Elias",
-        "title": "Apple acquires video editing company MotionVFX to boost subscribers",
-        "description": "Apple is buying MotionVFX in part to help the iPhone maker attract more subscribers to its creator tools.",
-        "url": "https://www.cnbc.com/2026/03/16/apple-acquires-video-editing-company-motionvfx-to-boost-subscribers.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219609-1761852505734-gettyimages-2235709336-IPHONE_17_US.jpeg?v=1773682016&w=1920&h=1080",
-        "publishedAt": "2026-03-16T18:11:04Z",
-        "content": "Apple has acquired video editing company called MotionVFX, which offers plugins, templates and visual effects tools that work with Apple's Final Cut Pro. \r\n\"We are extremely excited to share that Mot\u2026 [+1364 chars]"
+        "author": "Dylan Butts",
+        "title": "Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze",
+        "description": "Manus has announced the launch of a new desktop application to bring its AI agent directly onto personal devices.",
+        "url": "https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279325-1773812817915-gettyimages-2255015559-img_4584.jpeg?v=1773812854&w=1920&h=1080",
+        "publishedAt": "2026-03-18T06:50:14Z",
+        "content": "Artificial intelligence start-up Manus, recently acquired by Meta, launched a new desktop application Monday that brings its AI agent directly onto personal laptops.\r\nThe company's general agent whic\u2026 [+2412 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot, Kate Rooney",
+        "title": "OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool'",
+        "description": "OpenAI has hired the former DocuSign CFO Cynthia Gaylor to run investor relations as the company gears up for a potential IPO.",
+        "url": "https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107291738-1692907530309-gettyimages-1239231900-INSTACART_SIMO.jpeg?v=1773771486&w=1920&h=1080",
+        "publishedAt": "2026-03-17T20:34:38Z",
+        "content": "OpenAI is focusing employee and investor attention on its enterprise business as the artificial intelligence startup gears up to go public, potentially by the end of the year, CNBC has learned. \r\nFid\u2026 [+2641 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hugh Son",
+        "title": "Mastercard says it's acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
+        "description": "Stablecoin startups have been a hot commodity since the reelection of President Donald Trump in late 2024 ushered in a new era of crypto-friendly regulation.",
+        "url": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107335423-1700186666155-gettyimages-647053464-_jcg2290.jpeg?v=1773753200&w=1920&h=1080",
+        "publishedAt": "2026-03-17T14:40:39Z",
+        "content": "Mastercard on Tuesday said it agreed to acquire BVNK, a London-based stablecoin infrastructure firm, for up to $1.8 billion. It's the payment network's biggest bet yet on the mainstreaming of digital\u2026 [+1255 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lola Murti",
+        "title": "Orlando Bravo says some software names hit by AI deserve a valuation cut",
+        "description": "The Thoma Bravo co-founder said that some of the software stocks getting hit by the AI wave deserve a lower valuation.",
+        "url": "https://www.cnbc.com/2026/03/17/orlando-bravo-software-ai-valuation-cut.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279070-1773768835947-gettyimages-2214589799-THOMA_BRAVO.jpeg?v=1773768920&w=1920&h=1080",
+        "publishedAt": "2026-03-17T19:36:48Z",
+        "content": "Thoma Bravo co-founder Orlando Bravo on Tuesday said that artificial intelligence will disrupt software companies faster, and some of the hits to valuation are \"very warranted.\"\r\n\"There are many, man\u2026 [+1482 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "insider@insider.com (Erin Greenawald)",
+        "title": "Founders of boutique PR agencies tap AI tools to write proposals and build a 'scrappy CRM'",
+        "description": "Boutique PR agency solopreneurs use AI to streamline tasks, allowing focus on client strategy and creative work.",
+        "url": "https://www.businessinsider.com/pr-agency-solopreneurs-using-ai-for-client-service",
+        "urlToImage": "https://i.insider.com/69b8487b4d65ec51752a14e5?width=1200&format=jpeg",
+        "publishedAt": "2026-03-17T15:02:54Z",
+        "content": "Many communications professionals start their own businesses out of a passion for helping clients polish their PR strategies, yet much of their time is spent on operational management.\r\nIn a larger a\u2026 [+5307 chars]"
     }
 ]

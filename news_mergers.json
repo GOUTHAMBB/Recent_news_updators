@@ -14,29 +14,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Ashley Capoot",
-        "title": "OpenAI to acquire developer tooling startup Astral in boost for Codex team",
-        "description": "OpenAI has made several recent acquisitions, including cybersecurity startup Promptfoo, and health-care technology startup\u00a0Torch.",
-        "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108276814-1773254522162-gettyimages-2265991644-0d6a8221_0m2z4cha.jpeg?v=1773254624&w=1920&h=1080",
-        "publishedAt": "2026-03-19T14:34:47Z",
-        "content": "OpenAI on Thursday announced it's acquiring Astral, a small startup that builds popular open source tools for software developers. \r\nAstral's team will join OpenAI and help build out its artificial i\u2026 [+1406 chars]"
+        "author": "Allie Garfinkle",
+        "title": "SpaceX, OpenAI and Anthropic could be 3 of the biggest venture-backed IPOs of all time",
+        "description": "If all three went public it could \u201cconceivably create more value than all VC-backed IPOs since 2000 have collectively.\u201d",
+        "url": "https://fortune.com/2026/03/20/spacex-openai-anthropic-could-be-3-of-the-biggest-venture-backed-ipos-of-all-time/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2184585949-e1773764693482.jpg?resize=1200,600",
+        "publishedAt": "2026-03-20T11:31:52Z",
+        "content": "The age of the mega-IPO is upon us and, for venture capital, it could create as many problems as it solves.As rumors swirl that SpaceX, OpenAI, and Anthropic may hit the public markets in 2026, this \u2026 [+5713 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sheryl Estrada",
-        "title": "Before Disney named a new CEO, it made sure the CFO was staying",
-        "description": "Josh D'Amaro officially succeeded Bob Iger as CEO on March 18.",
-        "url": "https://fortune.com/2026/03/19/before-disney-named-new-ceo-made-sure-cfo-staying/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2254745533.jpg?resize=1200,600",
-        "publishedAt": "2026-03-19T12:02:22Z",
-        "content": "Good morning. The Walt Disney Companys CEO transition is notable not just for who is ascending, but for how deliberately the company built financial stability around it by extending CFO Hugh Johnston\u2026 [+6681 chars]"
+        "author": "David Spreng",
+        "title": "Unicorns are flush with cash and stuck. A new kind of startup crisis is taking hold in 2026",
+        "description": "For a decade, the biggest challenge for high-growth startups was raising capital. Now, for many unicorns, the cap table itself has become the trap.",
+        "url": "https://fortune.com/2026/03/20/unicorn-cap-table-gridlock-startup-2026/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/download_6b6f23.jpg?resize=1200,600",
+        "publishedAt": "2026-03-20T13:10:00Z",
+        "content": "Some of the most valuable private companies in the world right now have a problem that has nothing to do with their product, their team, or their market. They have too many investors, too many compet\u2026 [+5688 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lillian Rizzo",
+        "title": "Nexstar, Tegna merger closes after winning regulatory approval",
+        "description": "Nexstar has closed its $6.2 billion acquisition of Tegna after winning approval from the Federal Communications Commission and Department of Justice.",
+        "url": "https://www.cnbc.com/2026/03/20/nexstar-tegna-merger-closes-after-winning-regulatory-approval-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108233565-1764349433841-gettyimages-1234736300-PGONCHAR_W6645.jpeg?v=1774009423&w=1920&h=1080",
+        "publishedAt": "2026-03-20T14:23:00Z",
+        "content": "Nexstar Media Group closed its acquisition of fellow broadcast station group owner Tegna after sealing regulatory approval, despite antitrust lawsuits filed against the deal in recent days.\r\nNexstar'\u2026 [+2745 chars]"
     },
     {
         "source": {
@@ -56,19 +69,6 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Annie Palmer",
-        "title": "Amazon acquires startup Rivr to test robots for 'doorstep delivery'",
-        "description": "The company expects to test ways it can use Rivr's robots to help with \"doorstep delivery\" and to \"improve safety outcomes\" for delivery drivers.",
-        "url": "https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055233-1730321738588-gettyimages-2180146013-AMAZON_EARNS.jpeg?v=1773955448&w=1920&h=1080",
-        "publishedAt": "2026-03-19T22:05:39Z",
-        "content": "Amazon has acquired Rivr, a Swiss robotics company developing machines for \"doorstep delivery,\" the company confirmed Thursday. Terms of the deal weren't disclosed. \r\nAmazon quietly purchased the com\u2026 [+2639 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
         "author": "Ashley Capoot",
         "title": "OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app",
         "description": "The new unified app aims to help OpenAI streamline the user experience.",
@@ -79,15 +79,28 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Morgan Chittum",
+        "title": "Jim Cramer says to prepare for further stock declines but be open to opportunities",
+        "description": "CNBC's Jim Cramer said on \"Mad Money\" on Friday that a tough market can also present an opportune time to selectively buy.",
+        "url": "https://www.cnbc.com/2026/03/20/jim-cramer-says-to-prepare-for-further-stock-declines-but-be-open-to-opportunities.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/staticcontent/img/versant/cnbc_share_versant.png?v=1524171804&w=1920&h=1080",
+        "publishedAt": "2026-03-20T23:44:30Z",
+        "content": "The stock market just closed out a rough week and according to CNBC's Jim Cramer, the pain is unlikely to end anytime soon.\r\nWith little on the calendar in terms of major corporate earnings or econom\u2026 [+3815 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "aaltchek@insider.com (Ana Altchek)",
-        "title": "Miro's CEO says the company is hiring entrepreneurs for an edge in the AI era",
-        "description": "Miro's Andrey Khusid said the company has brought on roughly 40 founders in the last two and a half years.",
-        "url": "https://www.businessinsider.com/miro-ceo-is-hiring-entrepreneurs-for-ai-era-2026-3",
-        "urlToImage": "https://i.insider.com/69b983dbd387710cb9e45896?width=1200&format=jpeg",
-        "publishedAt": "2026-03-19T09:24:01Z",
-        "content": "Are you an entrepreneur? Miro may want to hire you.\r\nIn the last two and a half years, CEO Andrey Khusid said that the company, which makes a visual collaboration tool, has made a \"big shift\" in its \u2026 [+2383 chars]"
+        "author": "insider@insider.com (Roopa Unnikrishnan)",
+        "title": "As a chief innovation officer, writing fiction helps me with my job. I'm now a better strategist.",
+        "description": "Writing fiction sharpened my strategic thinking in ways no workshop could \u2014 here's how I use a novelist's mindset to solve complex business problems.",
+        "url": "https://www.businessinsider.com/how-writing-fiction-made-me-a-better-business-strategist-2026-3",
+        "urlToImage": "https://i.insider.com/69aef09fd3e2f1aef36a3b16?width=1200&format=jpeg",
+        "publishedAt": "2026-03-20T16:09:01Z",
+        "content": "Earlier this year, I shook a strategy leader out of her deeply held convictions by asking three questions that made her stop and think. It shifted the tenor of the discussion, and after a more expans\u2026 [+6978 chars]"
     }
 ]

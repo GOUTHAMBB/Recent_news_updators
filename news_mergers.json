@@ -1,93 +1,54 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Arielle Pardes",
-        "title": "Superpower wants to make you hotter, smarter, and healthier",
-        "description": "'Do you think you're going to be the one dumb, ugly, tired person?' Inside a San Francisco startup's quest for peptide dominance.",
-        "url": "https://www.businessinsider.com/inside-superpower-peptide-startup-people-hotter-smarter-2026-3",
-        "urlToImage": "https://i.insider.com/69bcb745d387710cb9e46820?width=1200&format=jpeg",
-        "publishedAt": "2026-03-22T08:11:01Z",
-        "content": "For the techno-optimized, nearly everything in life can be improved with the help of engineering. Bots can auto-swipe on Tinder and flirt with matches on your behalf. AI avatars can attend Zoom meeti\u2026 [+20953 chars]"
+        "author": "Jeff John Roberts",
+        "title": "What a cringe photo shoot really tells about the state of the crypto industry",
+        "description": "The Vanity Fair piece showcased the crypto aristocracy\u2014for better and worse.",
+        "url": "https://fortune.com/crypto/2026/03/23/vanity-fair-crypto-photo-shoot/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2202914788-e1774266586116.jpg?resize=1200,600",
+        "publishedAt": "2026-03-23T12:00:10Z",
+        "content": "The crypto world feasts on gossip and last week it enjoyed an extra helping in the form of a Vanity Fair article. The piece, titled Cryptos True Believers Demand to Be Taken Seriously, featured lavis\u2026 [+4699 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jessica Mathews",
-        "title": "A turning point at the Pentagon: Anduril\u2019s new mega\u2011deal rewrites the rules for Silicon Valley\u2014and raises new risks",
-        "description": "The $20 billion ceiling contract with the Army shows a new pattern: that VC\u2011backed platforms can win prime\u2011like enterprise deals.",
-        "url": "https://fortune.com/2026/03/22/anduril-pentagon-contract-turning-point/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2239731297.jpg?resize=1200,600",
-        "publishedAt": "2026-03-22T12:00:00Z",
-        "content": "Tech defense startups doing business with the U.S. military could someday look back at March 2026 as the month their relationships moved into the serious phase. Instead of dabbling in limited pilot p\u2026 [+5650 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Kara Carlson, Loren Grush, Bloomberg",
-        "title": "Musk says Tesla, SpaceX, xAI chip project to kick off in Texas",
-        "description": "Musk said his Terafab project \u2014 a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers \u2014 will be built in Austin.",
-        "url": "https://fortune.com/2026/03/22/musk-terafab-chip-project-tesla-spacex-xai-space-data-center-satellite/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2246892016-e1774214918432.jpg?resize=1200,600",
-        "publishedAt": "2026-03-22T21:33:29Z",
-        "content": "Elon Musk said his Terafab project a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers will be built in Austin and jointly run by Tesla a\u2026 [+4767 chars]"
+        "author": "Aslesha Mehta",
+        "title": "The unspoken rule: is English really the key to success in Europe\u2019s boardrooms?",
+        "description": "From Airbus to Siemens, English has become the default language of Europe's most powerful boardrooms. The question is no longer how it got there\u2014but who it's leaving behind.",
+        "url": "https://fortune.com/2026/03/23/unspoken-rule-english-corporate-boardrooms-airbus-siemens-abb-sodexo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Fortune-500-Europe-CHRO.jpg?resize=1200,600",
+        "publishedAt": "2026-03-23T12:29:21Z",
+        "content": "Around the boardroom table, Carmen-Maja Rexs colleagues slip easily between French and English. When the Airbus CHRO takes her seat, the discussion naturally settles into English without anyone flagg\u2026 [+13132 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Ashley Capoot",
-        "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
-        "description": "As OpenAI gears up for a potential IPO, it's outlined a more tempered infrastructure strategy and has moved away from an ambitious agreement with Nvidia.",
-        "url": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108276787-1773253292188-gettyimages-2265445220-BLACKROCK_INFRASTRUCTURE_SUMMIT.jpeg?v=1773253343&w=1920&h=1080",
-        "publishedAt": "2026-03-22T12:00:01Z",
-        "content": "Sam Altman, chief executive officer of OpenAI Inc., speaks during BlackRock's 2026 Infrastructure Summit in Washington, DC, US, on Wednesday, March 11, 2026. \r\nWhen OpenAI CEO Sam Altman took the sta\u2026 [+9638 chars]"
+        "author": "Alex Harring",
+        "title": "U.S.-Iran talks, ICE in airports, gemstone investing and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/03/23/5-things-to-know-before-the-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108281280-1774266906901-108281280-1774143516528-gettyimages-2267127359-AA_21032026_2705031.jpg?v=1774266920&w=1920&h=1080",
+        "publishedAt": "2026-03-23T12:33:23Z",
+        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Monday. If you were watching CNBC earlier this morning, you might have caught the premier of \u2026 [+5760 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Tessa McCann",
-        "title": "From satellites to space data centers: Why low earth orbit is attracting billions in investment",
-        "description": "Big Tech companies including Nvidia and Elon Musk's SpaceX are making large bets on a new layer of critical infrastructure that's emerging above our heads.",
-        "url": "https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308097-1695903488434-gettyimages-1151073230-AFP_1HP34J.jpeg?v=1774021854&w=1920&h=1080",
-        "publishedAt": "2026-03-22T07:10:09Z",
-        "content": "Europe's Ariane 6 rocket takes off, in Kourou, French Guiana, July 9, 2024. European Space Agency\u00a0\r\nA new layer of critical infrastructure is\u00a0emerging\u00a0above our heads.\u00a0\r\nLow Earth Orbit (LEO) which N\u2026 [+6317 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "TipRanks.com Staff",
-        "title": "Top Wall Street analysts are confident about the long-term prospects of these 3 stocks",
-        "description": "Amid elevated tensions in the Middle East, top analysts say investors should hold these 3 names for a strong long-term return.",
-        "url": "https://www.cnbc.com/2026/03/22/top-street-analysts-confident-on-long-term-prospects-of-these-3-stocks.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108103875-1739907921224-JP3_9068.jpg?v=1754514591&w=1920&h=1080",
-        "publishedAt": "2026-03-22T11:29:04Z",
-        "content": "Escalating geopolitical tensions in the Middle East and elevated oil prices continue to weigh on global stock markets. \r\nInvestors aiming to invest in stocks for the long term, despite the ongoing vo\u2026 [+5237 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Trevor Laurence Jockims",
-        "title": "Why Spotify AI more than music will be the secret to keeping subscribers",
-        "description": "A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.",
-        "url": "https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107423879-1717509136009-gettyimages-2156022146-ms1_7683_prg7qxsh.jpeg?v=1773850072&w=1920&h=1080",
-        "publishedAt": "2026-03-22T14:18:58Z",
-        "content": "Streaming music apps have been nudging users into the artificial intelligence era with a limited track record of success. But AI-based recommendation tools from Apple, Amazon and pure-play streaming \u2026 [+10392 chars]"
+        "author": "Jennifer Liu, Anuz Thapa",
+        "title": "Why some job seekers are spending thousands on reverse recruiters: 'The old rules are gone,' says one recruiter",
+        "description": "Reverse recruiting flips traditional hiring on its head, and its growth may reveal deeper shifts in the labor market.",
+        "url": "https://www.cnbc.com/2026/03/23/why-some-job-seekers-are-spending-thousands-on-reverse-recruiters-to-find-work.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108280008-1773872726126-gettyimages-1430286027-pi-2645623.jpeg?v=1773872735&w=1920&h=1080",
+        "publishedAt": "2026-03-23T15:10:01Z",
+        "content": "How much would you pay to get a new job?\r\nAsk around, and job seekers will tell you it's harder to land an interview or offer today than it has been in years. It's not uncommon to hear from people wh\u2026 [+10524 chars]"
     }
 ]

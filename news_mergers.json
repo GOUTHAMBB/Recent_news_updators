@@ -1,54 +1,119 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "Fast Company"
         },
-        "author": "Jeff John Roberts",
-        "title": "What a cringe photo shoot really tells about the state of the crypto industry",
-        "description": "The Vanity Fair piece showcased the crypto aristocracy\u2014for better and worse.",
-        "url": "https://fortune.com/crypto/2026/03/23/vanity-fair-crypto-photo-shoot/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2202914788-e1774266586116.jpg?resize=1200,600",
-        "publishedAt": "2026-03-23T12:00:10Z",
-        "content": "The crypto world feasts on gossip and last week it enjoyed an extra helping in the form of a Vanity Fair article. The piece, titled Cryptos True Believers Demand to Be Taken Seriously, featured lavis\u2026 [+4699 chars]"
+        "author": "Thom Geier",
+        "title": "The most innovative companies in film and television for 2026",
+        "description": "As post-pandemic film and television audiences continue to watch their favorite content at home or even on their phones, Hollywood finds itself in panic mode. The more-is-more ethos in the early days of streaming has given way to an ominous contraction\u2014fewer \u2026",
+        "url": "https://www.fastcompany.com/91497209/film-television-most-innovative-companies-2026-imax-apple-tv-ryan-coogler-proximity-media-john-wells-productions-flawless-moonvalley-vix-sony-pictures-animation-breakwater-studios-taylor-swift",
+        "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-1b-2026-MIC-sectors-film-and-tv.jpg",
+        "publishedAt": "2026-03-24T11:00:00Z",
+        "content": "As post-pandemic film and television audiences continue to watch their favorite content at home or even on their phones, Hollywood finds itself in panic mode. The more-is-more ethos in the early days\u2026 [+2955 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "abarr@businessinsider.com (Alistair Barr)",
+        "title": "OpenAI's Sora decision is all about AI compute",
+        "description": "OpenAI's Fidji Simo focuses on profitability, shutting down Sora AI video app due to compute constraints in favor of ChatGPT's growth.",
+        "url": "https://www.businessinsider.com/openai-kills-sora-app-ai-compute-crunch-forces-hard-choices-2026-3",
+        "urlToImage": "https://i.insider.com/69c3207de98a37a4841f34b1?width=1200&format=jpeg",
+        "publishedAt": "2026-03-25T00:23:51Z",
+        "content": "Earlier this month, Fidji Simo laid out a sharper strategy for OpenAI: the startup's everything era is over. Now, it's about focus.\r\n\"We cannot miss this moment because we are distracted by side ques\u2026 [+3322 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fast Company"
+        },
+        "author": "Mark Wilson",
+        "title": "The most innovative design companies of 2026",
+        "description": "Following the rise of modern AI, design will never be the same. It\u2019s no wonder that a majority of our 2026 Most Innovative Companies in design stood out by either leveraging or enabling the technology in new ways.\n\n\n\nThat includes the Chinese company Unitree\u2019\u2026",
+        "url": "https://www.fastcompany.com/91497109/design-most-innovative-companies-2026",
+        "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-1b-2026-MIC-sectors-design.jpg",
+        "publishedAt": "2026-03-24T11:00:00Z",
+        "content": "Following the rise of modern AI, design will never be the same. Its no wonder that a majority of our 2026 Most Innovative Companies in design stood out by either leveraging or enabling the technology\u2026 [+1524 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Aslesha Mehta",
-        "title": "The unspoken rule: is English really the key to success in Europe\u2019s boardrooms?",
-        "description": "From Airbus to Siemens, English has become the default language of Europe's most powerful boardrooms. The question is no longer how it got there\u2014but who it's leaving behind.",
-        "url": "https://fortune.com/2026/03/23/unspoken-rule-english-corporate-boardrooms-airbus-siemens-abb-sodexo/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Fortune-500-Europe-CHRO.jpg?resize=1200,600",
-        "publishedAt": "2026-03-23T12:29:21Z",
-        "content": "Around the boardroom table, Carmen-Maja Rexs colleagues slip easily between French and English. When the Airbus CHRO takes her seat, the discussion naturally settles into English without anyone flagg\u2026 [+13132 chars]"
+        "author": "Jeremy Kahn",
+        "title": "Exclusive: AI-powered benefits platform Origin raises $30 million in fresh funding to bring CHROs visibility into benefits usage and spend",
+        "description": "Notion Capital is leading the round into the software startup that helps companies monitor their benefits offerings",
+        "url": "https://fortune.com/2026/03/25/exclusive-ai-powered-benefits-platform-origin-raises-30-million-in-fresh-funding-to-bring-chros-visibility-into-benefits-usage-and-spend/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Chris-and-Pete_Origin-co-founders-e1774351035179.jpg?resize=1200,600",
+        "publishedAt": "2026-03-25T07:00:00Z",
+        "content": "Origin, a London-based startup building an AI-powered platform to help multinational companies manage their employee benefits, has raised $30 million in new venture capital funding.The funding, which\u2026 [+5374 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Nicholas Gordon",
+        "title": "China could be the \u2018big winner\u2019 in the AI race, thanks to abundant power, cheap manufacturing, and an open-source craze",
+        "description": "Mohit Kumar, Jefferies's global macro strategist, cites valuations, cheap power, and \"wider adoption of AI\" for his bullishness on China's tech sector.",
+        "url": "https://fortune.com/2026/03/25/china-vs-us-ai-power-open-source-openclaw/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2266522628.jpg?resize=1200,600",
+        "publishedAt": "2026-03-25T07:00:00Z",
+        "content": "When Jensen Huang praised OpenClaw last week, the ripples reached Hong Kong within hours. Shares in MiniMax and Zhipu AI jumped more than 20% after the Nvidia CEO declared in a CNBC interview that th\u2026 [+5528 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeremy Kahn",
+        "title": "AI agents are getting more capable, but reliability is lagging\u2014and that\u2019s a problem",
+        "description": "Most AI vendors don't benchmark for reliability. A new battery of tests from Princeton researchers does.",
+        "url": "https://fortune.com/2026/03/24/ai-agents-are-getting-more-capable-but-reliability-is-lagging-narayanan-kapoor/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1815307952-e1774374184248.jpg?resize=1200,600",
+        "publishedAt": "2026-03-24T20:18:47Z",
+        "content": "Hello and welcome to Eye on AI. In this editionAIs reliability problemTrump sends an AI legislation blueprint to CongressOpenAI consolidates products into a super app and hires upAI agents that can i\u2026 [+17836 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Alex Harring",
-        "title": "U.S.-Iran talks, ICE in airports, gemstone investing and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/03/23/5-things-to-know-before-the-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108281280-1774266906901-108281280-1774143516528-gettyimages-2267127359-AA_21032026_2705031.jpg?v=1774266920&w=1920&h=1080",
-        "publishedAt": "2026-03-23T12:33:23Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Monday. If you were watching CNBC earlier this morning, you might have caught the premier of \u2026 [+5760 chars]"
+        "author": "Jordan Novet",
+        "title": "Databricks enters cybersecurity market with Lakewatch launch, bulking up ahead of IPO",
+        "description": "Databricks wants to draw on AI to help organizations respond to a higher speed of attacks, based on newly disclosed vulnerabilities.",
+        "url": "https://www.cnbc.com/2026/03/24/databricks-cybersecurity-lakewatch-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188185-1755629294370-ALI_GHODSI_4.png?v=1755629368&w=1920&h=1080",
+        "publishedAt": "2026-03-24T13:00:01Z",
+        "content": "Databricks has grown from startup into major software company, generating billions by processing data and running generative artificial intelligence models for clients. \r\nFor its next leg of growth, \u2026 [+3203 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Jennifer Liu, Anuz Thapa",
-        "title": "Why some job seekers are spending thousands on reverse recruiters: 'The old rules are gone,' says one recruiter",
-        "description": "Reverse recruiting flips traditional hiring on its head, and its growth may reveal deeper shifts in the labor market.",
-        "url": "https://www.cnbc.com/2026/03/23/why-some-job-seekers-are-spending-thousands-on-reverse-recruiters-to-find-work.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108280008-1773872726126-gettyimages-1430286027-pi-2645623.jpeg?v=1773872735&w=1920&h=1080",
-        "publishedAt": "2026-03-23T15:10:01Z",
-        "content": "How much would you pay to get a new job?\r\nAsk around, and job seekers will tell you it's harder to land an interview or offer today than it has been in years. It's not uncommon to hear from people wh\u2026 [+10524 chars]"
+        "author": "Annie Palmer",
+        "title": "Amazon acquires 'approachable' humanoid maker Fauna Robotics",
+        "description": "Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3.5 feet tall and designed to be \"approachable and human-friendly.\"",
+        "url": "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282426-1774380496314-Rob_and_Sprout.jpg?v=1774380637&w=1920&h=1080",
+        "publishedAt": "2026-03-24T21:05:47Z",
+        "content": "Amazon has acquired Fauna Robotics, a startup that builds \"approachable\" humanoid robots for consumers and businesses, the company confirmed Tuesday. Terms of the deal weren't disclosed. \r\n\"We are ex\u2026 [+2678 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lora Kolodny",
+        "title": "Baltimore is first U.S. city to sue over Grok deepfake porn as legal pressure mounts on Musk's xAI",
+        "description": "Following international regulatory probes, lawsuits are piling up in the U.S. against Elon Musk's xAI and its Grok chatbot.",
+        "url": "https://www.cnbc.com/2026/03/24/musk-xai-sued-baltimore-grok-deepfake-porn.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282366-1774375160320-gettyimages-2255985804-boivin-notitle260116_npueV.jpeg?v=1774375186&w=1920&h=1080",
+        "publishedAt": "2026-03-24T19:10:26Z",
+        "content": "Lawsuits against Elon Musk'sxAI are piling up, with Baltimore becoming the first major U.S. city to file a complaint against the company concerning issues with its Grok image generator. \r\nBaltimore M\u2026 [+2765 chars]"
     }
 ]

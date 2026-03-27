@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Fast Company"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Thom Geier",
-        "title": "The most innovative companies in film and television for 2026",
-        "description": "As post-pandemic film and television audiences continue to watch their favorite content at home or even on their phones, Hollywood finds itself in panic mode. The more-is-more ethos in the early days of streaming has given way to an ominous contraction\u2014fewer \u2026",
-        "url": "https://www.fastcompany.com/91497209/film-television-most-innovative-companies-2026-imax-apple-tv-ryan-coogler-proximity-media-john-wells-productions-flawless-moonvalley-vix-sony-pictures-animation-breakwater-studios-taylor-swift",
-        "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-1b-2026-MIC-sectors-film-and-tv.jpg",
-        "publishedAt": "2026-03-24T11:00:00Z",
-        "content": "As post-pandemic film and television audiences continue to watch their favorite content at home or even on their phones, Hollywood finds itself in panic mode. The more-is-more ethos in the early days\u2026 [+2955 chars]"
+        "author": "Lucia Moses",
+        "title": "This startup raised $34 million to make micro dramas starring AI actors \u2014 and let fans interact with them",
+        "description": "StoReel describes how it uses AI and a user-generated platform to make micro dramas at a fraction of the cost paid by established players.",
+        "url": "https://www.businessinsider.com/pitch-deck-storeel-raised-millions-build-ai-micro-dramas-2026-3",
+        "urlToImage": "https://i.insider.com/69c19272e98a37a4841f2c56?width=1200&format=jpeg",
+        "publishedAt": "2026-03-25T11:00:01Z",
+        "content": "StoReel's founders, from left: Rui Zhang, Angela Yu, and\nShipeng Fan.StoReel\r\n<ul><li>Beijing-based StoReel raised $34 million to build out its AI micro drama app.</li><li>StoReel has creators make m\u2026 [+6841 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Ashley Stewart",
+        "title": "Microsoft makes sweeping overhaul of HR organization, internal memo shows",
+        "description": "Microsoft's Chief Diversity Officer Lindsay-Rae McIntyre is leaving the company on March 31.",
+        "url": "https://www.businessinsider.com/microsoft-makes-sweeping-overhaul-of-hr-organization-internal-memo-shows-2026-3",
+        "urlToImage": "https://i.insider.com/69c3ef2458b5806618e7e311?width=1024&format=jpeg",
+        "publishedAt": "2026-03-25T15:36:59Z",
+        "content": "Microsoft Chief People Officer Amy ColemanMicrosoft\r\n<ul><li>Amy Coleman, who took over as chief people officer in March 2025, is overhauling her team.</li><li>The overhaul includes a series of promo\u2026 [+13560 chars]"
     },
     {
         "source": {
@@ -24,19 +37,6 @@
         "urlToImage": "https://i.insider.com/69c3207de98a37a4841f34b1?width=1200&format=jpeg",
         "publishedAt": "2026-03-25T00:23:51Z",
         "content": "Earlier this month, Fidji Simo laid out a sharper strategy for OpenAI: the startup's everything era is over. Now, it's about focus.\r\n\"We cannot miss this moment because we are distracted by side ques\u2026 [+3322 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fast Company"
-        },
-        "author": "Mark Wilson",
-        "title": "The most innovative design companies of 2026",
-        "description": "Following the rise of modern AI, design will never be the same. It\u2019s no wonder that a majority of our 2026 Most Innovative Companies in design stood out by either leveraging or enabling the technology in new ways.\n\n\n\nThat includes the Chinese company Unitree\u2019\u2026",
-        "url": "https://www.fastcompany.com/91497109/design-most-innovative-companies-2026",
-        "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-1b-2026-MIC-sectors-design.jpg",
-        "publishedAt": "2026-03-24T11:00:00Z",
-        "content": "Following the rise of modern AI, design will never be the same. Its no wonder that a majority of our 2026 Most Innovative Companies in design stood out by either leveraging or enabling the technology\u2026 [+1524 chars]"
     },
     {
         "source": {
@@ -56,6 +56,19 @@
             "id": "fortune",
             "name": "Fortune"
         },
+        "author": "John Kell",
+        "title": "The ROI for AI isn\u2019t one-size-fits-all, says data storage CTO",
+        "description": "Rob Lee, Everpure\u2019s chief technology and growth officer, says measuring the return on investment of AI varies by use case.",
+        "url": "https://fortune.com/2026/03/25/the-roi-for-ai-isnt-one-size-fits-all-says-data-storage-cto/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/CIO-Intelligence-Everpure.jpg?resize=1200,600",
+        "publishedAt": "2026-03-25T17:31:13Z",
+        "content": "2026 is the year many C-suite technology leaders will have to finally prove that their artificial intelligence investments are paying off.\u00a0But at Everpure, a data storage and cloud services provider,\u2026 [+14175 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
         "author": "Nicholas Gordon",
         "title": "China could be the \u2018big winner\u2019 in the AI race, thanks to abundant power, cheap manufacturing, and an open-source craze",
         "description": "Mohit Kumar, Jefferies's global macro strategist, cites valuations, cheap power, and \"wider adoption of AI\" for his bullishness on China's tech sector.",
@@ -69,51 +82,51 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeremy Kahn",
-        "title": "AI agents are getting more capable, but reliability is lagging\u2014and that\u2019s a problem",
-        "description": "Most AI vendors don't benchmark for reliability. A new battery of tests from Princeton researchers does.",
-        "url": "https://fortune.com/2026/03/24/ai-agents-are-getting-more-capable-but-reliability-is-lagging-narayanan-kapoor/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1815307952-e1774374184248.jpg?resize=1200,600",
-        "publishedAt": "2026-03-24T20:18:47Z",
-        "content": "Hello and welcome to Eye on AI. In this editionAIs reliability problemTrump sends an AI legislation blueprint to CongressOpenAI consolidates products into a super app and hires upAI agents that can i\u2026 [+17836 chars]"
+        "author": "Nicholas Gordon",
+        "title": "The world\u2019s consumers are ready for robotaxis. James Peng of Pony AI wants to make sure they\u2019re riding in his",
+        "description": "Peng sees a world with more robotaxis as \u201cinevitable,\u201d citing safety and convenience. \u201cPeople love to drive; they don\u2019t love driving all the time.\"",
+        "url": "https://fortune.com/2026/03/26/pony-ai-ceo-james-peng-china-robotaxi/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/gettyimages-2231462201-2048x2048-1.jpg?resize=1200,600",
+        "publishedAt": "2026-03-26T07:00:00Z",
+        "content": "James Peng, cofounder and CEO of Chinese robotaxi startup Pony AI, was reviewing customer data with his team, and he was facing a puzzle. Every day, one of his users would book a robotaxi at the same\u2026 [+11553 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "AI robots could cost $13,000 by 2035: Here\u2019s what that means for CFOs",
+        "description": "How finance chiefs can turn AI's physical frontier into a competitive advantage.",
+        "url": "https://fortune.com/2026/03/25/ai-robots-cost-13000-by-2035-what-that-means-for-cfos/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2236357602.jpg?resize=1200,600",
+        "publishedAt": "2026-03-25T11:57:05Z",
+        "content": "Good morning. AI is escaping the screen and that should be setting off both alarms and opportunities in the finance function.Deloittes new CFO Guide to Tech Trends 2026 explores how finance leaders c\u2026 [+5034 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "sobrient@insider.com (Samuel O'Brient)",
+        "title": "SpaceX IPO excitement sends space stocks soaring as Wall Street prepares for blockbuster offering",
+        "description": "SpaceX could file for its long-awaited IPO within days, and investors excitement for the colossal offering is sending space stocks higher on Wednesday.",
+        "url": "https://www.businessinsider.com/space-stock-spacex-ipo-valuation-elon-musk-rklb-asts-star-2026-3",
+        "urlToImage": "https://i.insider.com/69c4365d732a0245147132e7?width=1200&format=jpeg",
+        "publishedAt": "2026-03-25T19:29:47Z",
+        "content": "Elon Musk's SpaceX could reportedly file for its long-awaited IPO within days, and Wall Street's excitement is boosting other space stocks on Wednesday. \r\nThe Information reported that the space tran\u2026 [+2056 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Jordan Novet",
-        "title": "Databricks enters cybersecurity market with Lakewatch launch, bulking up ahead of IPO",
-        "description": "Databricks wants to draw on AI to help organizations respond to a higher speed of attacks, based on newly disclosed vulnerabilities.",
-        "url": "https://www.cnbc.com/2026/03/24/databricks-cybersecurity-lakewatch-ipo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188185-1755629294370-ALI_GHODSI_4.png?v=1755629368&w=1920&h=1080",
-        "publishedAt": "2026-03-24T13:00:01Z",
-        "content": "Databricks has grown from startup into major software company, generating billions by processing data and running generative artificial intelligence models for clients. \r\nFor its next leg of growth, \u2026 [+3203 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Annie Palmer",
-        "title": "Amazon acquires 'approachable' humanoid maker Fauna Robotics",
-        "description": "Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3.5 feet tall and designed to be \"approachable and human-friendly.\"",
-        "url": "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282426-1774380496314-Rob_and_Sprout.jpg?v=1774380637&w=1920&h=1080",
-        "publishedAt": "2026-03-24T21:05:47Z",
-        "content": "Amazon has acquired Fauna Robotics, a startup that builds \"approachable\" humanoid robots for consumers and businesses, the company confirmed Tuesday. Terms of the deal weren't disclosed. \r\n\"We are ex\u2026 [+2678 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lora Kolodny",
-        "title": "Baltimore is first U.S. city to sue over Grok deepfake porn as legal pressure mounts on Musk's xAI",
-        "description": "Following international regulatory probes, lawsuits are piling up in the U.S. against Elon Musk's xAI and its Grok chatbot.",
-        "url": "https://www.cnbc.com/2026/03/24/musk-xai-sued-baltimore-grok-deepfake-porn.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282366-1774375160320-gettyimages-2255985804-boivin-notitle260116_npueV.jpeg?v=1774375186&w=1920&h=1080",
-        "publishedAt": "2026-03-24T19:10:26Z",
-        "content": "Lawsuits against Elon Musk'sxAI are piling up, with Baltimore becoming the first major U.S. city to file a complaint against the company concerning issues with its Grok image generator. \r\nBaltimore M\u2026 [+2765 chars]"
+        "author": "Alex Harring",
+        "title": "U.S.-Iran negotiations, Meta trial verdict, OpenAI shuts Sora and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/03/25/5-things-to-know-before-the-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282397-17743773402026-03-24t183416z_1695117058_rc26bkasj0c8_rtrmadp_0_usa-trump.jpeg?v=1774377358&w=1920&h=1080",
+        "publishedAt": "2026-03-25T12:06:14Z",
+        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Wednesday. I spent yesterday evening at a market technicals event and then went to watch the \u2026 [+4859 chars]"
     }
 ]

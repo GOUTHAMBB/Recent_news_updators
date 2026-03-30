@@ -1,93 +1,28 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Jessica Mathews",
-        "title": "Defense startup Shield AI is projecting more than $540 million in revenue this year as valuation more than doubles to $12.7 billion",
-        "description": "The surveillance drone and autonomy startup has raised $1.5 billion and is acquiring an autonomy simulation company.",
-        "url": "https://fortune.com/2026/03/26/shield-ai-revenue-series-g-funding-12-billion-valuation/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/END-OF-SHOW-B-ROLL00_01_50_05Still006.jpg?resize=1200,600",
-        "publishedAt": "2026-03-27T01:12:55Z",
-        "content": "Global conflicts are awakening governmentsand investorsto the importance of modernizing military forces, says Brandon Tseng, the cofounder and president of ShieldAI, a maker of AI-powered drones that\u2026 [+3176 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jason Ma",
-        "title": "The Army and Amazon are creating an online storefront to buy drones as the technology transforms the battlefield",
-        "description": "Warfare is changing dramatically as demonstrated by Iran and Ukraine, where large salvos of cheap drones have overwhelmed traditional defenses.",
-        "url": "https://fortune.com/2026/03/27/drone-warfare-amazon-army-online-uas-storefront-battlefield-ukraine-iran-wars/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/original.jpg?resize=1200,600",
-        "publishedAt": "2026-03-27T18:14:00Z",
-        "content": "Drones are transforming warfare, and the Army is taking a page out of e-commerce to keep up, creating an online store to get the latest technology into the hands of warfighters faster.On Tuesday, the\u2026 [+3081 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sheryl Estrada",
-        "title": "Why CFOs\u2014not chief AI officers\u2014are the secret to getting real value from AI",
-        "description": "76% of companies with CFO-led AI got \"great value.\" But only 2% do it that way.",
-        "url": "https://fortune.com/2026/03/27/why-cfo-not-chief-ai-officer-secret-getting-real-value-ai/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2242072348.jpg?resize=1200,600",
-        "publishedAt": "2026-03-27T11:30:46Z",
-        "content": "Good morning. Typically, value accountability for AI falls on the chief data and analytics officers or chief AI officers, Laks Srinivasan, co-founder and CEO of the Return on AI Institute, told me. B\u2026 [+7733 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Emma Hinchliffe",
-        "title": "Can Sheryl Sandberg\u2019s Lean In take on tradwives and the manosphere?",
-        "description": "The former Meta exec is positioning Lean In as a counterweight to the growing influence of tradwife content and manosphere ideology online.",
-        "url": "https://fortune.com/2026/03/27/sheryl-sandberg-lean-in-manosphere-tradwives-fight-women-ambition-tiktok/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2250345360-1.jpg?resize=1200,600",
-        "publishedAt": "2026-03-27T15:26:08Z",
-        "content": "The Wall Street Journal had a really interesting story yesterday about the current state of Lean In. Theres some news on an organizational overhaulcuts to a quarter of the nonprofits staff and a new \u2026 [+5306 chars]"
+        "author": "Grace Kay",
+        "title": "And then there were none: Musk's last xAI cofounder is out",
+        "description": "Elon Musk is shaking up xAI ahead of the SpaceX IPO. All 11 of his cofounders are gone, 8 of them since January.",
+        "url": "https://www.businessinsider.com/xai-cofounder-ross-nordeen-leaves-musk-preps-spacex-ipo-2026-3",
+        "urlToImage": "https://i.insider.com/69c7e1f2f573a637a75672b0?width=1200&format=jpeg",
+        "publishedAt": "2026-03-28T15:03:53Z",
+        "content": "Elon Musk has said xAI is being \"rebuilt from the foundations up.\"Adrees Latif/Reuters\r\n<ul><li>Elon Musk started xAI with 11 cofounders in 2023.</li><li>The last remaining one, Ross Nordeen, has now\u2026 [+3291 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Ari Levy",
-        "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
-        "description": "Meta's twin legal defeats this week and a big selloff in Micron spurred a drop in technology stocks, which were broadly hit by rising oil prices.",
-        "url": "https://www.cnbc.com/2026/03/27/tech-stocks-iran-war-meta-verdict.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108283650-1774551893411-gettyimages-2268492365-ah707365_xfw2decf.jpeg?v=1774551940&w=1920&h=1080",
-        "publishedAt": "2026-03-27T20:24:53Z",
-        "content": "A bad week for stocks was particularly rough for tech investors, as the Nasdaq suffered its worst weekly drop since April 2025. Meta and Micron saw double-digit drops, but the pain was felt across th\u2026 [+2785 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Anniek Bao",
-        "title": "'Not unlike tariffs': Iran war threatens to deepen Asia private equity's worst fundraising slump in a decade",
-        "description": "The Middle East war has introduced a new layer of uncertainty for Asia-focused private equity managers already navigating a multiyear fundraising slump.",
-        "url": "https://www.cnbc.com/2026/03/27/asia-private-equity-fundraising-tested-middle-east-in-doldrum-deals.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/101681299-185476052.jpg?v=1774397615&w=1920&h=1080",
-        "publishedAt": "2026-03-27T06:00:00Z",
-        "content": "Blackstone Group's logo on display during the opening of the company's new office in Singapore.\r\nSince the pandemic, private equity funds focused on Asia have struggled to raise money, as the industr\u2026 [+6375 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Elsa Ohlen",
-        "title": "Novartis shells out $2 billion for immunology biotech Excellergy, in second multi-billion dollar deal in a week",
-        "description": "The Swiss pharma giant is betting on a next-generation allergy treatment that may prove to work faster and better than anything currently on the market.",
-        "url": "https://www.cnbc.com/2026/03/27/novartis-nvs-stock-excellergy-buy-biotech-deal.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217127-1761567809150-gettyimages-2234033336-AFP_73ZP4CR.jpeg?v=1761567884&w=1920&h=1080",
-        "publishedAt": "2026-03-27T11:43:54Z",
-        "content": "Novartis is planning to buy U.S.-based biotech Excellergy for up to $2 billion, betting on a next-generation allergy treatment that may prove to work faster and better than anything currently on the \u2026 [+2962 chars]"
+        "author": "Samantha Subin",
+        "title": "The Iran war is defense tech's chance to shine, but few systems and weapons are ready",
+        "description": "Palmer Luckey's Anduril, software AI company Palantir and Elon Musk's SpaceX are getting the lion's share of defense tech dollars from the Pentagon.",
+        "url": "https://www.cnbc.com/2026/03/28/iran-war-defense-tech-drones-trump-hegseth.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108227003-1763407882538-gettyimages-1297824553-soldiers.jpeg?v=1774458313&w=1920&h=1080",
+        "publishedAt": "2026-03-28T12:00:01Z",
+        "content": "The Iran war is redefining modern combat for the U.S. and driving demand for lower-cost tech.\r\nIt's the exact situation Defense Secretary Pete Hegseth warned against a few months ago.\r\n\"We cannot aff\u2026 [+7289 chars]"
     }
 ]

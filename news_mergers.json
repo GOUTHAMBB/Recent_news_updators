@@ -1,28 +1,28 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Grace Kay",
-        "title": "And then there were none: Musk's last xAI cofounder is out",
-        "description": "Elon Musk is shaking up xAI ahead of the SpaceX IPO. All 11 of his cofounders are gone, 8 of them since January.",
-        "url": "https://www.businessinsider.com/xai-cofounder-ross-nordeen-leaves-musk-preps-spacex-ipo-2026-3",
-        "urlToImage": "https://i.insider.com/69c7e1f2f573a637a75672b0?width=1200&format=jpeg",
-        "publishedAt": "2026-03-28T15:03:53Z",
-        "content": "Elon Musk has said xAI is being \"rebuilt from the foundations up.\"Adrees Latif/Reuters\r\n<ul><li>Elon Musk started xAI with 11 cofounders in 2023.</li><li>The last remaining one, Ross Nordeen, has now\u2026 [+3291 chars]"
+        "author": "Michael Liedtke, The Associated Press",
+        "title": "Yahoo CEO Jim Lanzone on \u2018the white whale of turnarounds\u2019 and turning to AI\u2014licensed from Anthropic",
+        "description": "The AP asked Scout about Yahoo's history: \"Yahoo\u2019s journey illustrates how a company with an early advantage can disappear without continuous innovation.\"",
+        "url": "https://fortune.com/2026/03/29/yahoo-ceo-jim-lanzone-white-whale-tunarounds-ai-scout-anthropic/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/AP26086561677177.jpg?resize=1200,600",
+        "publishedAt": "2026-03-29T15:32:29Z",
+        "content": "Internet trailblazer Yahoo is exploring technologys next frontier with Scout, an answer engine powered by artificial intelligence. Scout seems insightful, based on its response to a question posed by\u2026 [+6097 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Samantha Subin",
-        "title": "The Iran war is defense tech's chance to shine, but few systems and weapons are ready",
-        "description": "Palmer Luckey's Anduril, software AI company Palantir and Elon Musk's SpaceX are getting the lion's share of defense tech dollars from the Pentagon.",
-        "url": "https://www.cnbc.com/2026/03/28/iran-war-defense-tech-drones-trump-hegseth.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108227003-1763407882538-gettyimages-1297824553-soldiers.jpeg?v=1774458313&w=1920&h=1080",
-        "publishedAt": "2026-03-28T12:00:01Z",
-        "content": "The Iran war is redefining modern combat for the U.S. and driving demand for lower-cost tech.\r\nIt's the exact situation Defense Secretary Pete Hegseth warned against a few months ago.\r\n\"We cannot aff\u2026 [+7289 chars]"
+        "author": "Shawn Tully",
+        "title": "Some cried. Others were speechless. How front-line workers walked away with checks averaging $240,000 when KKR sold their company",
+        "description": "They knew they were getting a payout. But employees at CoolIT had no idea just how much they'd profit from KKR's sale of their employer.",
+        "url": "https://fortune.com/2026/03/29/kkr-coolit-checks-employee-ownership-payout-private-equity/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Unknown-3_1b8d69.png?resize=1200,600",
+        "publishedAt": "2026-03-29T11:25:00Z",
+        "content": "It was showtime for the employees of CoolIT.In the late afternoon of March 25th, as an unexpected snowstorm blanketed Calgary, Canada, around 600 mainly front-line workers of CoolIT Systems gathered \u2026 [+16630 chars]"
     }
 ]

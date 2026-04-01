@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Steven Musil",
+        "title": "Newsom Signs Executive Order Requiring AI Companies to Provide Safety, Privacy Guardrails",
+        "description": "California's governor says order aims to prevent misuse of AI technology.",
+        "url": "https://www.cnet.com/tech/newsom-signs-executive-order-requiring-ai-companies-to-provide-safety-privacy-guardrails/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/af9d05b5b8870c5daee5eb2c40dfd74693a584e1/hub/2026/03/31/ffefe550-88a8-42cc-92e8-9082bd04960e/gettyimages-2266723241.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-31T02:22:25Z",
+        "content": "California Gov. Gavin Newsom on Monday signed an executive order requiring AI companies that do business with the state to institute safety and privacy guidelines.\r\nThe order (PDF) is designed to ens\u2026 [+1592 chars]"
+    },
+    {
+        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
@@ -15,40 +28,534 @@
     {
         "source": {
             "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "AI Agent Runs the \u2018I\u2019m Being Censored\u2019 Playbook After Getting Banned from Wikipedia",
+        "description": "Expect the bot to be a guest on Joe Rogan soon.",
+        "url": "https://gizmodo.com/ai-agent-runs-the-im-being-censored-playbook-after-getting-banned-from-wikipedia-2000739845",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/WikiHed-1200x675.jpg",
+        "publishedAt": "2026-03-30T19:45:08Z",
+        "content": "Earlier this month, Wikipedia announced that it would ban the use of large language model-generated text from its platform, which means that AI cannot be used to create or edit Wikipedia entries. Now\u2026 [+4911 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "Grace Huckins",
+        "title": "There are more AI health tools than ever\u2014but how well do they work?",
+        "description": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, a\u2026",
+        "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260326_AI_healthcare2.jpg?resize=1200,600",
+        "publishedAt": "2026-03-30T16:00:00Z",
+        "content": "Singhal, the OpenAI health lead, notes that the companys current GPT-5 series of models, which had not yet been released when the original HealthBench study was conducted, do a much better job of sol\u2026 [+3165 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "Judge Denies Liking LinkedIn Post Critical of Elon Musk But Reassigns His Cases Anyway",
+        "description": "The judge said even the appearance of bias is bad for justice.",
+        "url": "https://gizmodo.com/judge-denies-liking-linkedin-post-critical-of-elon-musk-but-reassigns-his-cases-anyway-2000739817",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/03/elon-musk-world-economic-forum-1200x675.jpg",
+        "publishedAt": "2026-03-30T20:55:28Z",
+        "content": "A Delaware judge who\u2019s overseeing several cases involving Elon Musk\u2019s companies has said she\u2019ll reassign them to other judges. Musk has claimed the judge was biased against him because she liked a Li\u2026 [+3739 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Brandon Vigliarolo",
+        "title": "Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach",
+        "description": "Also, EU probes Snapchat, RedLine suspect extradited, AstraZeneca leak claim surfaces, and more\ninfosec in brief The cybercrime crew linked to the Trivy supply-chain attack has struck again, this time pushing malicious Telnyx package versions to PyPI in an ef\u2026",
+        "url": "https://www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/",
+        "urlToImage": "https://regmedia.co.uk/2024/03/29/chain_shutterstock.jpg",
+        "publishedAt": "2026-03-30T17:42:55Z",
+        "content": "infosec in brief The cybercrime crew linked to the Trivy supply-chain attack has struck again, this time pushing malicious Telnyx package versions to PyPI in an effort to plant credential-stealing ma\u2026 [+6804 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Alex Valdes",
+        "title": "Samsung's New AI Wine Fridge Will Keep Tabs on That Vintage Merlot for You",
+        "description": "The new Infinite AI Wine Refrigerator is only available in South Korea for now, priced at $4,300.",
+        "url": "https://www.cnet.com/home/kitchen-and-household/samsungs-ai-wine-fridge-helps-you-keep-track-of-your-inventory/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d1b7b209dd0ce409a9b73105cc01664a20d04009/hub/2026/03/30/3d960af0-068a-4c2a-a147-d81cb95bc39e/ai-wine-fridge-16x9.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-30T20:38:46Z",
+        "content": "Now, where did I put that 2019 pinot noir? A new AI-powered wine fridge might be able help.\r\nSamsung on Monday launched the Infinite AI Wine Refrigerator, an appliance that the company says uses arti\u2026 [+3633 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Samuel Pasquier",
-        "title": "Scaling industrial AI is more a human than a technical challenge",
-        "description": "Industrial artificial intelligence has moved from promise to practice. A Cisco Systems Inc. survey of 1,000 industry leaders found that 61% of organizations across manufacturing, transportation and utilities are deploying AI to improve productivity, reduce co\u2026",
-        "url": "https://siliconangle.com/2026/03/29/scaling-industrial-ai-human-technical-challenge/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/03/a-photo-of-a-room-with-a-large-table-aro_mDsOrAMzQKOwXXlVtd1AQA_-0OZ7vNqQwe7sfFSUhf5Qw.jpeg",
-        "publishedAt": "2026-03-29T20:29:53Z",
-        "content": "Industrial artificial intelligence has moved from promise to practice. A Cisco Systems Inc. survey of 1,000 industry leaders found that 61% of organizations across manufacturing, transportation and u\u2026 [+6160 chars]"
+        "author": "Mike Wheatley",
+        "title": "Rebellions lands $400M in funding to lead the South Korean revolt against Nvidia chips",
+        "description": "Cloud-native artificial intelligence inference chip startup Rebellions Inc. is upping its game in an effort to compete better with rivals such as Nvidia Corp. and Advanced Micro Devices Inc. by raising a massive $400 million in what it calls a \u201cpre-IPO fundin\u2026",
+        "url": "https://siliconangle.com/2026/03/30/rebellions-inc-lands-400m-funding-lead-south-korean-revolt-nvidia-chips/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-26-16-44-48.png",
+        "publishedAt": "2026-03-30T13:00:18Z",
+        "content": "Cloud-native artificial intelligence inference chip startup Rebellions Inc. is upping its game in an effort to compete better with rivals such as Nvidia Corp. and Advanced Micro Devices Inc. by raisi\u2026 [+6371 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Space data center startup Starcloud raises $170M at $1.1B valuation",
+        "description": "Starcloud Inc., a startup that hopes to build a 5-gigawatt artificial intelligence data center in orbit, has closed a $170 million funding round. The company raised the capital in two tranches. Benchmark led the first transaction and co-led the second with EQ\u2026",
+        "url": "https://siliconangle.com/2026/03/30/space-data-center-startup-starcloud-raises-170m-1-1b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Starcloud.png",
+        "publishedAt": "2026-03-31T00:36:58Z",
+        "content": "Starcloud Inc., a startup that hopes to build a 5-gigawatt artificial intelligence data center in orbit, has closed a $170 million funding round.\r\nThe company raised the capital in two tranches. Benc\u2026 [+4460 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Identity theft becomes the new perimeter as attackers bypass security defenses",
+        "description": "A fundamental shift in how cyberattacks are carried out is well underway as threat actors now increasingly log in using stolen credentials rather than breaking through traditional defenses. That\u2019s according to a new report out today from Swiss artificial inte\u2026",
+        "url": "https://siliconangle.com/2026/03/30/identity-theft-becomes-new-perimeter-attackers-bypass-security-defenses/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/identitytheft.png",
+        "publishedAt": "2026-03-30T11:00:01Z",
+        "content": "A fundamental shift in how cyberattacks are carried out is well underway as threat actors now increasingly log in using stolen credentials rather than breaking through traditional defenses.\r\nThat\u2019s a\u2026 [+4059 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Sett raises $30M to grow agent-based AI platform for game studios",
+        "description": "Sett, a startup offering artificial intelligence for the gaming industry, said today it has raised $30 million in new funding to accelerate product development and support the global expansion of its platform. Founded in 2022, Sett\u2019s platform is designed to a\u2026",
+        "url": "https://siliconangle.com/2026/03/30/sett-raises-30m-grow-agent-based-ai-platform-game-studios/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/sett.png",
+        "publishedAt": "2026-03-30T22:47:38Z",
+        "content": "Sett, a startup offering artificial intelligence for the gaming industry, said today it has raised $30 million in new funding to accelerate product development and support the global expansion of its\u2026 [+3690 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Shadow AI is the new shadow IT \u2014 only far more dangerous",
+        "description": "Shadow AI is emerging as one of the most dangerous enterprise risk vectors, eclipsing the shadow IT problem that plagued the cloud era. As employees experiment with generative AI tools, organizations face mounting compliance exposure, data leakage and regulat\u2026",
+        "url": "https://siliconangle.com/2026/03/30/shadow-ai-needs-unified-security-approach-rsac26/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/image_schafer-1-e1774886439928.jpg",
+        "publishedAt": "2026-03-30T20:25:21Z",
+        "content": "Shadow AI is emerging as one of the most dangerous enterprise risk vectors, eclipsing the shadow IT problem that plagued the cloud era. As employees experiment with generative AI tools, organizations\u2026 [+5000 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "LLM developer Mistral AI raises $830M in debt financing to add data center capacity",
+        "description": "Mistral AI SAS today disclosed that it has raised $830 million in debt financing from a group of banks. The consortium included Bpifrance, BNP Paribas, Cr\u00e9dit Agricole CIB, HSBC, La Banque Postale, MUFG and Natixis CIB. Paris-based Mistral will use the funds \u2026",
+        "url": "https://siliconangle.com/2026/03/30/llm-developer-mistral-ai-raises-830m-debt-financing-add-data-center-capacity/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Mistral-AI.png",
+        "publishedAt": "2026-03-30T20:32:57Z",
+        "content": "Mistral AI SAS today disclosed that it has raised $830 million in debt financing from a group of banks.\r\nThe consortium included Bpifrance, BNP Paribas, Cr\u00e9dit Agricole CIB, HSBC, La Banque Postale, \u2026 [+3956 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "AI-generated code verification startup Qodo raises $70M",
+        "description": "A startup called Qodo, officially known as Codium Ltd., today said it has raised $70 billion in a Series B funding round that brings its total funding to date to $120 million. Few areas have felt the impact of generative artificial intelligence as much as sof\u2026",
+        "url": "https://siliconangle.com/2026/03/30/ai-generated-code-verification-startup-qodo-raises-70m/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-31-07-47-46.png",
+        "publishedAt": "2026-03-31T00:50:31Z",
+        "content": "A startup called Qodo, officially known as Codium Ltd., today said it has raised $70 billion in a Series B funding round that brings its total funding to date to $120 million.\r\nFew areas have felt th\u2026 [+6046 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Microsoft accelerates agentic automation with Copilot Cowork for complex workflows",
+        "description": "Microsoft Corp. is moving closer to delivering on its vision of autonomous artificial intelligence agents that can do more than just chat. Today it has announced the launch of Copilot Cowork, a new capability within the Microsoft 365 platform that can handle \u2026",
+        "url": "https://siliconangle.com/2026/03/30/microsoft-accelerates-agentic-automation-copilot-cowork-complex-workflows/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-30-08-21-57.png",
+        "publishedAt": "2026-03-30T13:00:56Z",
+        "content": "Microsoft Corp. is moving closer to delivering on its vision of autonomous artificial intelligence agents that can do more than just chat.\r\nToday it has announced the launch of Copilot Cowork, a new \u2026 [+5143 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Jason English",
+        "title": "Bringing the cyber community into the battle against agentic insecurity at RSAC 2026",
+        "description": "At the\u00a0RSAC2026 Conference, practitioners and vendors came together to hear a new story focused less on prevention, and more on adaptation ahead of the inevitability of change brought on by the rapid enterprise adoption of agentic artificial intelligence codi\u2026",
+        "url": "https://siliconangle.com/2026/03/30/bringing-cyber-community-battle-agentic-insecurity-rsac-2026/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/rsac2026-Moscone-jasonbloomberg.jpg",
+        "publishedAt": "2026-03-30T18:58:33Z",
+        "content": "At the\u00a0RSAC2026 Conference, practitioners and vendors came together to hear a new story focused less on prevention, and more on adaptation ahead of the inevitability of change brought on by the rapid\u2026 [+13968 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Huskeys launches with $8M to modernize WAF security with Edge Security Management",
+        "description": "Edge Security Management startup Huskeys Security Ltd. launched today with the announcement that it has raised $8 million in funding to scale up its platform and try to accelerate adoption across global enterprise customers. Founded in 2025, Huskeys is seekin\u2026",
+        "url": "https://siliconangle.com/2026/03/30/huskeys-launches-8m-modernize-waf-security-edge-security-management/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/huskeys.png",
+        "publishedAt": "2026-03-30T12:00:26Z",
+        "content": "Edge Security Management startup Huskeys Security Ltd. launched today with the announcement that it has raised $8 million in funding to scale up its platform and try to accelerate adoption across glo\u2026 [+4438 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Sycamore raises $65M from Silicon Valley heavyweights to build governance layer for enterprise AI agents",
+        "description": "Sycamore Labs, a Palo Alto-based startup led by former Atlassian Group Corp. Chief Technology Officer Sri Viswanath, said today it has raised $65 million in seed funding to build the \u201cagentic operating system\u201d for the enterprise. The round was led by heavy hi\u2026",
+        "url": "https://siliconangle.com/2026/03/30/sycamore-raises-65m-silicon-valley-heavyweights-build-governance-layer-enterprise-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-30-06-50-39.png",
+        "publishedAt": "2026-03-30T15:00:38Z",
+        "content": "Sycamore Labs, a Palo Alto-based startup led by former Atlassian Group Corp. Chief Technology Officer Sri Viswanath, said today it has raised $65 million in seed funding to build the agentic operatin\u2026 [+5806 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "SAP buys Reltio to pull in more outside data for AI agents",
+        "description": "SAP SE said today it\u2019s buying the data integration and management firm Reltio Inc. for an undisclosed fee in order to boost the capabilities of SAP Business Data Cloud. The enterprise resource planning software giant launched SAP Business Data Cloud last year\u2026",
+        "url": "https://siliconangle.com/2026/03/30/sap-buys-reltio-pull-outside-data-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/SAP.jpg",
+        "publishedAt": "2026-03-30T23:45:25Z",
+        "content": "SAP SE said today its buying the data integration and management firm Reltio Inc. for an undisclosed fee in order to boost the capabilities of SAP Business Data Cloud.\r\nThe enterprise resource planni\u2026 [+4523 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "ScaleOps reels in $130M to make cloud environments more efficient",
+        "description": "Startup ScaleOps Inc. today announced that it has raised $130 million in Series C funding at a valuation exceeding $800 million. Insight Partners led the investment with participation from Lightspeed Venture, NFX, Glilot Capital Partners and Picture Capital. \u2026",
+        "url": "https://siliconangle.com/2026/03/30/scaleops-reels-130m-make-cloud-environments-efficient/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Photo-1.png",
+        "publishedAt": "2026-03-30T22:43:24Z",
+        "content": "Startup ScaleOps Inc. today announced that it has raised $130 million in Series C funding at a valuation exceeding $800 million.\r\nInsight Partners led the investment with participation from Lightspee\u2026 [+4836 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "OpenAI Codex vulnerability enabled GitHub token theft via command injection, report finds",
+        "description": "A\u00a0critical vulnerability in OpenAI Group PBC\u2019s Codex coding agent could have exposed sensitive GitHub authentication tokens through a command injection flaw,\u00a0according to a\u00a0new report out today from Phantom Labs, the research arm of identity and access securi\u2026",
+        "url": "https://siliconangle.com/2026/03/30/openai-codex-vulnerability-enabled-github-token-theft-via-command-injection-report-finds/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/codexvulnerability.png",
+        "publishedAt": "2026-03-30T13:00:18Z",
+        "content": "A\u00a0critical vulnerability in OpenAI Group PBC\u2019s Codex coding agent could have exposed sensitive GitHub authentication tokens through a command injection flaw,\u00a0according to a\u00a0new report out today from \u2026 [+4177 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "KubeVirt gains serious backing as CNCF graduation comes into view",
+        "description": "With Kubernetes becoming the bedrock of modern enterprise infrastructure, Kubernetes virtualization seems to be the next logical step forward. In fact, KubeVirt \u2014 an open-source project that brings container-native virtualization to Kubernetes \u2014 is enabling t\u2026",
+        "url": "https://siliconangle.com/2026/03/30/kubernetes-virtualization-approaches-cncf-graduation-kubeconeu/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Cube-image-e1774629814405.jpg",
+        "publishedAt": "2026-03-30T15:21:44Z",
+        "content": "With Kubernetes becoming the bedrock of modern enterprise infrastructure, Kubernetes virtualization seems to be the next logical step forward.\r\nIn fact, KubeVirt an open-source project that brings co\u2026 [+4306 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kelly Knight",
+        "title": "Inside what the modern virtualization boom means for enterprise infrastructure",
+        "description": "Modern virtualization is becoming the new enterprise blueprint, bringing virtual machines and cloud-native applications together on Kubernetes. For large-scale providers, that means breaking down legacy storage silos and building a more flexible, protected an\u2026",
+        "url": "https://siliconangle.com/2026/03/30/modern-virtualization-bridging-vms-kubernetes-kubeconeu/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/IMG_8375.jpg",
+        "publishedAt": "2026-03-30T15:34:14Z",
+        "content": "Modern virtualization is becoming the new enterprise blueprint, bringing virtual machines and cloud-native applications together on Kubernetes. For large-scale providers, that means breaking down leg\u2026 [+4640 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Companies face a critical balancing act between AI growth and infrastructure simplification, says Red Hat",
+        "description": "Companies are under pressure to move faster on AI while keeping complex infrastructure and operations under control, making enterprise platform simplification a growing priority. As a result, many organizations are looking for ways to consolidate tools and st\u2026",
+        "url": "https://siliconangle.com/2026/03/30/enterprise-platform-simplification-ai-expansion-kubeconeu/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Siamak-Sadeghianfar-senior-manager-for-product-management-at-Red-Hat-and-Daniel-Messer-senior-manager-for-product-management-at-Red-Hat-Inc-KubeCon-CloudNativeCon-EU.jpg",
+        "publishedAt": "2026-03-30T15:50:17Z",
+        "content": "Companies are under pressure to move faster on AI while keeping complex infrastructure and operations under control, making enterprise platform simplification a growing priority. As a result, many or\u2026 [+4617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "The NetApp-Commvault alliance is taking aim at cyber chaos",
+        "description": "As AI accelerates both innovation and risk, cyber resilience strategy has become an urgent business imperative \u2014 how can organizations protect critical data, detect threats before they spread and recover fast enough to stay operational? The answer lies in tak\u2026",
+        "url": "https://siliconangle.com/2026/03/30/cyber-resilience-strategy-way-netapp-commvault-rsac26/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Michelle-Graff-senior-vice-president-of-global-partners-and-channels-at-Commvault-Systems-Inc-and-Gagan-Gulati-senior-vice-president-and-general-manager-for-Data-Service-at-NetApp-Inc-RSAC-2026-Conference-e1774894850591.jpg",
+        "publishedAt": "2026-03-30T19:49:33Z",
+        "content": "As AI accelerates both innovation and risk, cyber resilience strategy has become an urgent business imperative how can organizations protect critical data, detect threats before they spread and recov\u2026 [+4599 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kelly Knight",
+        "title": "Sub-second search and smarter scale: Why modern SIEM is being rebuilt from scratch",
+        "description": "Security information and event management has become essential for enterprises trying to avoid a costly data swamp while preserving visibility across massive environments. Clearly, modernizing SIEM is now less a technical upgrade than a business imperative. T\u2026",
+        "url": "https://siliconangle.com/2026/03/30/modernizing-siem-bottom-data-lake-strategy-rsac26/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Mike-Nichols-Sal-Picheria-Clean.jpg",
+        "publishedAt": "2026-03-30T19:38:45Z",
+        "content": "Security information and event management has become essential for enterprises trying to avoid a costly data swamp while preserving visibility across massive environments. Clearly, modernizing SIEM i\u2026 [+4698 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "AI is driving a new infrastructure cost crisis, but adaptive tiering could help contain it",
+        "description": "Enterprises are under mounting pressure to manage infrastructure more efficiently as AI and distributed applications drive up cost and complexity. As a result, the industry is moving toward more adaptive systems that use intelligent data placement to respond \u2026",
+        "url": "https://siliconangle.com/2026/03/30/intelligent-data-placement-ai-infrastructure-kubeconeu/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Phil-Trickovic-senior-vice-president-of-Tintri-by-DataDirect-Networks-Inc-KubeCon-CloudNativeCon-EU-2026-e1774719766933.jpg",
+        "publishedAt": "2026-03-30T20:34:00Z",
+        "content": "Enterprises are under mounting pressure to manage infrastructure more efficiently as AI and distributed applications drive up cost and complexity. As a result, the industry is moving toward more adap\u2026 [+6286 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Lindsay Clark",
+        "title": "Microsoft Fabric Database Hub only a 'partial' solution for admins",
+        "description": "Could help break silos, but users should take wait-and-see approach to system limited to Microsoft DBs and DBaaS Microsoft's new Fabric Database Hub is a \"partial solution\" for enterprises relying on systems outside the vendor's portfolio, but within these co\u2026",
+        "url": "https://www.theregister.com/2026/03/30/microsoft_fabric_database_hub_partial_solution/",
+        "urlToImage": "https://regmedia.co.uk/2023/02/24/shutterstock_database.jpg",
+        "publishedAt": "2026-03-30T12:23:11Z",
+        "content": "Microsoft's new Fabric Database Hub is a \"partial solution\" for enterprises relying on systems outside the vendor's portfolio, but within these confines, it could make databases more connected and ma\u2026 [+4085 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon\u2019s role changes in the wake of AI",
+        "description": "The warning bell is sounding for cybersecurity, as machine identities flood the system faster than companies can secure their data. At the annual Nvidia GTC event, Nvidia Corp. CEO Jensen Huang introduced\u00a0a series of open-source tools based on OpenClaw, an op\u2026",
+        "url": "https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/John-Furrier-and-Dave-Vellante-theCUBE-Pod-126.png",
+        "publishedAt": "2026-03-30T14:28:56Z",
+        "content": "The warning bell is sounding for cybersecurity, as machine identities flood the system faster than companies can secure their data.\r\nAt the annual Nvidia GTC event, Nvidia Corp. CEO Jensen Huang intr\u2026 [+7381 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "ZDNet"
         },
-        "author": "Erin Carson",
-        "title": "5 reasons you should be more tight-lipped with your chatbot (and how to fix past mistakes)",
-        "description": "Your casual conversations with AI chatbots could have some major privacy implications.",
-        "url": "https://www.zdnet.com/article/5-reasons-you-should-be-more-tight-lipped-with-your-chatbot/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/b0d1fd94de59444745a38329e6d3c6c8445c3a60/2025/08/27/bc8ba971-f8bd-4f6e-b68c-fcccc7f7a731/dsc02410.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-03-29T01:00:37Z",
-        "content": "Kerry Wan/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nHow personal do you get with your chatbot?\r\nDoes it interpret your lab results? Help you sort out your finances? Offer advice a\u2026 [+7266 chars]"
+        "author": "Tiernan Ray",
+        "title": "What Google's TurboQuant can and can't do for AI's spiraling cost",
+        "description": "Google's real-time quantization could be important for running local AI. Here's why.",
+        "url": "https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/5153c23d0e034ceee30078bcdce4d0c77f558e40/2026/03/30/66963fb6-6721-4333-ac3d-ea49af3ae9f2/aiiiboard-gettyimages-1462023760.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-30T19:59:16Z",
+        "content": "Orla/iStock / Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's TurboQuant can dramatically reduce AI memory usage.</l\u2026 [+8341 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "How AI\u2019s capital explosion signals opportunity but also reveals a critical need for measurable ROI and meaningful impact",
+        "description": "The current wave of investment in artificial intelligence reflects one of the largest capital shifts in modern technology, yet questions around financial return remain central to how this growth is being interpreted. According to a report, global venture capi\u2026",
+        "url": "https://thenextweb.com/news/how-ais-capital-explosion-signals-opportunity-but-also-reveals-a-critical-need-for-measurable-roi-and-meaningful-impact/",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fai-investment-roi-impact.png&signature=24d855d7876b396ef6adbf691cc1e31e",
+        "publishedAt": "2026-03-30T19:35:21Z",
+        "content": "The current wave of investment in artificial intelligence reflects one of the largest capital shifts in modern technology, yet questions around financial return remain central to how this growth is b\u2026 [+5579 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Memory-makers\u2019 shares are down. Some RAM prices have eased. Blaming Google is not a good idea",
+        "description": "Chocolate Factory boffins have found a way to reduce AI\u2019s memory use, but don\u2019t assume that means less demand for DRAM The high cost of memory has sideswiped the technology industry, causing server vendors to admit their quotes are guesstimates and depressing\u2026",
+        "url": "https://www.theregister.com/2026/03/31/google_turboquant_memory_market_impact/",
+        "urlToImage": "https://regmedia.co.uk/2023/11/06/shutterstock_2236390995.jpg",
+        "publishedAt": "2026-03-31T05:46:40Z",
+        "content": "The high cost of memory has sideswiped the technology industry, causing server vendors to admit their quotes are guesstimates and depressing sales of PCs and smartphones. Nobody is immune: Microsoft \u2026 [+2942 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Joe McKendrick",
+        "title": "This AI expert says the job apocalypse isn't coming, even if you're a coder - here's why",
+        "description": "AI will either substitute or supplement our work. Too many people are focused on the substitute side, argues Stanford's Erik Brynjolfsson.",
+        "url": "https://www.zdnet.com/article/ai-job-apocalypse-not-happening-for-coders/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/33aa5e20aad6c4c76b3d453d79e4c6b0b8c8f3db/2026/03/30/6aaabead-24ae-4a3d-8c03-fa2a1df998f3/gettyimages-1425988570.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-30T12:23:01Z",
+        "content": "Roy Rochlin / Stringer via Getty Images Entertainment / Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>A job apocalypse for tech professionals is \u2026 [+5483 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Dashia Milden",
+        "title": "Happy Birthday, Apple! CNET Reminisces on 50 Years of Tech and Events",
+        "description": "It's not an April Fool's Joke. Apple's celebrating half a century today.",
+        "url": "https://www.cnet.com/tech/happy-birthday-apple-cnet-reminisces-on-50-years-of-products-and-events/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/411a68ae8b012ffcdd66a16efba8dfc43ced34d3/hub/2023/11/14/a5abfa9a-3033-4488-a3d6-864e5069af63/apple-091217-steve-jobs-theater-3858.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-30T12:00:00Z",
+        "content": "Happy 50th Birthday, Apple. On April 1, 1976, Steve Jobs, Steve Wozniak and Ronald Wayne launched the Apple Computer Company (renamed Apple in 2007) to sell the Apple Computer 1 (Apple-I) -- without \u2026 [+11659 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Radhika Rajkumar",
+        "title": "This privacy-first chatbot is taking off - here's why and how to try it",
+        "description": "Users are flocking to Duck.ai. Is it a reaction to increasing concerns about AI companies and privacy? Here's what you should know.",
+        "url": "https://www.zdnet.com/article/duckai-popularity-government-surveillance-privacy-anthropic-openai/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/49ce2eef68f4bcf06c2c8cb229a1c1ce0df122bb/2026/03/30/6c1b18f3-a3d4-4226-94c3-90e2955bb38b/gettyimages-1147693712.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-31T02:01:07Z",
+        "content": "Mohith S R/iStock / Getty Images Plus\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>DuckDuckGo's privacy-first chatbot is taking off.</li><li>Users are incre\u2026 [+6915 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "The largest AI survey ever reveals what humans actually want",
+        "description": "Anthropic\u2019s massive AI interview study isn\u2019t really about technology. It\u2019s the largest mirror ever held up to human desire. In December 2025, a software engineer in Mexico finished his workday early enough to pick up his children from school. A lawyer in Indi\u2026",
+        "url": "https://thenextweb.com/news/the-largest-ai-survey-ever-reveals-what-humans-actually-want/",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FHumans-and-AI.png&signature=8f6e21043d31c519a219ee79d174ad4d",
+        "publishedAt": "2026-03-30T09:32:01Z",
+        "content": "Anthropics massive AI interview study isnt really about technology. Its the largest mirror ever held up to human desire.\r\nIn December 2025, a software engineer in Mexico finished his workday early en\u2026 [+9439 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Cristian Dina",
+        "title": "Mainland Chinese tech firms are flooding into Hong Kong as the West tightens the door",
+        "description": "The number of mainland Chinese companies listing on the Hong Kong Stock Exchange rose from 30 in 2024 to 76 in 2025, an increase of 153 per cent, according to PricewaterhouseCoopers. Hong Kong reclaimed the top global position for IPO fundraising last year, w\u2026",
+        "url": "https://thenextweb.com/news/chinese-tech-companies-hong-kong-listings-geopolitical/",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fchinese-tech-companies-hong-kong-listings-geopolitical.png&signature=a1996d700992b9115e073e0582b029fd",
+        "publishedAt": "2026-03-30T16:58:25Z",
+        "content": "The number of mainland Chinese companies listing on the Hong Kong Stock Exchange rose from 30 in 2024 to 76 in 2025, an increase of 153 per cent, according to PricewaterhouseCoopers. Hong Kong reclai\u2026 [+6475 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "ZTE",
+        "title": "ZTE showcases end-to-end intelligent computing at CloudFest 2026 in Germany, empowering the digital future",
+        "description": "AI boom fuels ZTE\u2019s cloud pitch: more power, less cost, smoother upgrades Partner Content\u00a0 ZTE Corporation (0763.HK / 000063.SZ), a global leading provider of integrated information and communication technology solutions, participated in CloudFest 2026, held \u2026",
+        "url": "https://www.theregister.com/2026/03/30/zte-showcases-intelligent-computing-at-cloudfest-2026/",
+        "urlToImage": "https://regmedia.co.uk/2021/01/27/shutterstock_cloud.jpg",
+        "publishedAt": "2026-03-30T15:01:31Z",
+        "content": "Partner Content ZTE Corporation (0763.HK / 000063.SZ), a global leading provider of integrated information and communication technology solutions, participated in CloudFest 2026, held from March 23 t\u2026 [+3370 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Okta\u2019s CEO is betting big on AI agent identity",
+        "description": "Today, I\u2019m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management \u2014 actually, that\u2019s a great way to\u2026",
+        "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_McKinnon_Okta.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "publishedAt": "2026-03-30T15:08:50Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy Todd McKinnon thinks its naive not to prepare for the SaaSpocalypse\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest an\u2026 [+66152 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Tobias Mann",
+        "title": "South Korea's Rebellions raises $400B to take rack-scale AI platform global",
+        "description": "Funding round comes ahead of planned IPO\nSK Telecom-backed AI chip startup Rebellions has raised $400 million in a pre-IPO funding round to support its global expansion with a new rack-scale compute platform aimed at enterprises and sovereign clouds.\u2026",
+        "url": "https://www.theregister.com/2026/03/30/rebellions_ai_rackscale/",
+        "urlToImage": "https://regmedia.co.uk/2026/03/27/rebellions_rebel_quad.jpg",
+        "publishedAt": "2026-03-30T13:01:07Z",
+        "content": "SK Telecom-backed AI chip startup Rebellions has raised $400 million in a pre-IPO funding round to support its global expansion with a new rack-scale compute platform aimed at enterprises and soverei\u2026 [+5001 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "Sora\u2019s shutdown could be a reality check moment for AI video | TechCrunch",
-        "description": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-        "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
-        "publishedAt": "2026-03-29T16:33:38Z",
-        "content": "OpenAI announced this week that its shutting down its Sora app and related video models just six months after launching the app.\r\nOn the latest episode of TechCrunchs Equity podcast, Kirsten Korosec,\u2026 [+4994 chars]"
+        "author": "Rebecca Bellan",
+        "title": "As more Americans adopt AI tools, fewer say they can trust the results | TechCrunch",
+        "description": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll.",
+        "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+        "publishedAt": "2026-03-30T20:25:48Z",
+        "content": "Americans are increasingly turning to artificial intelligence to help with things like research, writing, school or work projects, and analyzing data but theyre not exactly happy about it.\r\nEven as A\u2026 [+4216 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Kate Park",
+        "title": "Qodo raises $70M for code verification as AI coding scales | TechCrunch",
+        "description": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+        "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2080252145.jpg?resize=1200,800",
+        "publishedAt": "2026-03-30T12:33:32Z",
+        "content": "As AI coding tools generate billions of lines of code each month, a new bottleneck is emerging: ensuring that software works as intended. Qodo, a startup building AI agents for code review, testing a\u2026 [+3809 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Ram Iyer",
+        "title": "Mantis Biotech is making 'digital twins' of humans to help solve medicine's data availability problem | TechCrunch",
+        "description": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+        "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/brain_pills.jpg?resize=1200,899",
+        "publishedAt": "2026-03-30T14:48:42Z",
+        "content": "Large language models trained on vast datasets could speed genomics research, streamline clinical documentation, improve real-time diagnostics, support clinical decision-making, accelerate drug disco\u2026 [+4730 chars]"
     }
 ]

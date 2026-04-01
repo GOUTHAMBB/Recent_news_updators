@@ -1,28 +1,67 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Michael Liedtke, The Associated Press",
-        "title": "Yahoo CEO Jim Lanzone on \u2018the white whale of turnarounds\u2019 and turning to AI\u2014licensed from Anthropic",
-        "description": "The AP asked Scout about Yahoo's history: \"Yahoo\u2019s journey illustrates how a company with an early advantage can disappear without continuous innovation.\"",
-        "url": "https://fortune.com/2026/03/29/yahoo-ceo-jim-lanzone-white-whale-tunarounds-ai-scout-anthropic/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/AP26086561677177.jpg?resize=1200,600",
-        "publishedAt": "2026-03-29T15:32:29Z",
-        "content": "Internet trailblazer Yahoo is exploring technologys next frontier with Scout, an answer engine powered by artificial intelligence. Scout seems insightful, based on its response to a question posed by\u2026 [+6097 chars]"
+        "author": "Sydney Bradley",
+        "title": "How content creators 'supercharged' Coach's Gen Z strategy",
+        "description": "Coach purses have had a comeback with Gen Z. A marketing exec at the brand said YouTube plays a big role.",
+        "url": "https://www.businessinsider.com/coach-marketing-vp-youtube-creators-luxury-brand-reach-gen-z-2026-3",
+        "urlToImage": "https://i.insider.com/69cac180f573a637a7567967?width=1200&format=jpeg",
+        "publishedAt": "2026-03-30T19:40:56Z",
+        "content": "Edward Berthelot/Getty Images\r\n<ul><li>Coach bags have Gen Z cachet. That's, in part, due to good marketing.</li><li>Coach's VP of marketing shared its Gen Z creator strategy with advertisers at YouT\u2026 [+2484 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Shawn Tully",
-        "title": "Some cried. Others were speechless. How front-line workers walked away with checks averaging $240,000 when KKR sold their company",
-        "description": "They knew they were getting a payout. But employees at CoolIT had no idea just how much they'd profit from KKR's sale of their employer.",
-        "url": "https://fortune.com/2026/03/29/kkr-coolit-checks-employee-ownership-payout-private-equity/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Unknown-3_1b8d69.png?resize=1200,600",
-        "publishedAt": "2026-03-29T11:25:00Z",
-        "content": "It was showtime for the employees of CoolIT.In the late afternoon of March 25th, as an unexpected snowstorm blanketed Calgary, Canada, around 600 mainly front-line workers of CoolIT Systems gathered \u2026 [+16630 chars]"
+        "author": "Sarah E. Needleman",
+        "title": "Meet the three-time world Sudoku champ behind LinkedIn's daily puzzles",
+        "description": "LinkedIn's puzzlemaster crafts daily games designed to keep users coming back \u2014 and competing with their connections.",
+        "url": "https://www.businessinsider.com/meet-the-puzzlemaster-behind-linkedin-games-zip-and-patches-2026-3",
+        "urlToImage": "https://i.insider.com/69c6cb878e44c01630d31923?width=1200&format=jpeg",
+        "publishedAt": "2026-03-30T09:22:01Z",
+        "content": "Thomas Snyder is the principal puzzle master at LinkedIn.Thomas Snyder\r\n<ul><li>LinkedIn hired a three-time world Sudoku champion to create games that spark chatter on its platform.</li><li>The platf\u2026 [+5037 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Arjun Kharpal",
+        "title": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
+        "description": "Rebellions' chips are focused on AI inferencing, putting it in competition with Nvidia as well as other startups from Groq to Cerebras.",
+        "url": "https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178219-1753773288905-REBEL-Quad_by_Rebellionspng_png_.png_?v=1753775056&w=1920&h=1080",
+        "publishedAt": "2026-03-30T13:00:01Z",
+        "content": "South Korean AI chip startup Rebellions said Monday it has raised $400 million as it looks to expand into the U.S. market ahead of a public listing.\r\nMirae Asset Financial Group and the Korea Nationa\u2026 [+2819 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Dylan Butts, Matthew Chin",
+        "title": "Quantum firms are racing to market as the industry hits \u2018inflection point\u2019",
+        "description": "Quantum computing firms are braving turbulent markets to publicly list this year, as the nascent industry looks towards commercialization.",
+        "url": "https://www.cnbc.com/2026/03/30/quantum-computing-firms-go-public-breakthroughs-commercialization.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284591-1774855202553-Horizon_Quantum.JPG?v=1774855683&w=1920&h=1080",
+        "publishedAt": "2026-03-30T09:35:02Z",
+        "content": "Photo from Horizon Quantum's listing ceremony at the Nasdaq MarketSite in New York City on Friday, March 20, 2026.\r\nQuantum computing firms are defying turbulent markets to go public this year, as co\u2026 [+7140 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lim Hui Jie",
+        "title": "CNBC Daily Open: Trump is doubling down on rhetoric to end the Iran war",
+        "description": "Trump has threatened to destroy Iran's oil wells, its export hub of Kharg Island, and power plants\u00a0if a peace deal is not reached \"shortly.\"",
+        "url": "https://www.cnbc.com/2026/03/31/cnbc-daily-open-trump-is-doubling-down-on-rhetoric-to-end-the-iran-war-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108275124-1772910518287-gettyimages-2264697141-AFP_A2D74VE.jpeg?v=1773056227&w=1920&h=1080",
+        "publishedAt": "2026-03-31T01:12:11Z",
+        "content": "Hello, this is Hui Jie writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\r\nU.S. President Donald Trump is apparently finding it difficult to get out of the Iran conflict,\u2026 [+2360 chars]"
     }
 ]

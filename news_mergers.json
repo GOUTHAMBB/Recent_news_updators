@@ -1,119 +1,54 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Ellen Thomas",
-        "title": "Tech billionaires want to put data centers in space. The math could get ugly fast.",
-        "description": "Tech billionaires Elon Musk and Jeff Bezos are advocating for space data centers to scale AI. Scientists say it can get expensive fast.",
-        "url": "https://www.businessinsider.com/elon-musk-jeff-bezos-space-data-centers-scientists-ask-why-2026-4",
-        "urlToImage": "https://i.insider.com/69ced24e6a864f6fcd7bceca?width=1200&format=jpeg",
-        "publishedAt": "2026-04-03T09:00:04Z",
-        "content": "Elon Musk DavosFabrice COFFRINI / AFP via Getty Images\r\n<ul><li>Tech billionaires Elon Musk and Jeff Bezos are advocating for space data centers to scale AI.</li><li>The space economy could be a $1.8\u2026 [+4564 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Ben Bergman",
-        "title": "A SpaceX-linked lawsuit could shape who profits from one of the biggest IPOs in years",
-        "description": "A lawsuit over a disputed stake in SpaceX shares could help determine how billions of dollars in private-market gains are divvied up before an IPO.",
-        "url": "https://www.businessinsider.com/lawsuit-shape-who-profits-from-one-of-the-biggest-ipos-2026-3",
-        "urlToImage": "https://i.insider.com/69cc4172c02a678bd7e46bfd?width=1200&format=jpeg",
-        "publishedAt": "2026-04-03T09:00:03Z",
-        "content": "Patrick T. Fallon / AFP via Getty Images\r\n<ul><li>As startups like SpaceX grow more valuable while staying private longer, legal disputes are expected.</li><li>This lawsuit shows what can happen when\u2026 [+4595 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Ben Shimkus",
-        "title": "Automakers are teaming up, speeding up, and hoping AI can help them down a tough road ahead",
-        "description": "Executives at the New York Auto Show are all saying the same thing: The industry needs AI to speed up production and reduce costs in order to survive.",
-        "url": "https://www.businessinsider.com/car-companies-ai-production-rising-costs-new-york-auto-show-2026-4",
-        "urlToImage": "https://i.insider.com/69ced219c02a678bd7e4787e?width=1200&format=jpeg",
-        "publishedAt": "2026-04-03T18:11:03Z",
-        "content": "The New York International Auto Show is America's most-popular car exhibition. This year, the event's biggest update wasn't a new model: it's how all carmakers are using AI.Ben Shimkus & Bryan Ericks\u2026 [+6916 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Ashley Capoot",
-        "title": "'Chasing vibes' \u2014 OpenAI's M&A strategy gets more confusing with TBPN purchase",
-        "description": "Over 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced it's buying media company TBPN.",
-        "url": "https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg?v=1775172857&w=1920&h=1080",
-        "publishedAt": "2026-04-03T12:00:01Z",
-        "content": "Over 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced another surprising deal on Thursday, snapping up a media business that streams a\u2026 [+5130 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kai Nicol-Schwarz",
-        "title": "The Tech Download: Defense startups eye Iran war windfall as U.S. and Gulf states turn to tech",
-        "description": "Funding for defense startups has ballooned in recent years as militaries scramble to modernize.",
-        "url": "https://www.cnbc.com/2026/04/03/the-tech-download-defense-startups-eye-iran-war-windfall.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284737-1774877064848-Frankenburg-Missile-Field-Test-23-Aug-2025-001.webp?v=1774877099&w=1920&h=1080",
-        "publishedAt": "2026-04-03T11:00:01Z",
-        "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe\u00a0here.\r\nOnce considered a taboo sector to funnel money into by venture capitalists, defense tech has \u2026 [+4373 chars]"
+        "author": "Alyson Shontell",
+        "title": "3 reasons OpenAI buying daily tech show TBPN for hundreds of millions isn\u2019t totally crazy",
+        "description": "One of the biggest differences between startup success and failure is knowing when to sell. TBPN's founders selling to OpenAI is a masterclass.",
+        "url": "https://fortune.com/2026/04/04/openai-tbpn-acquisition-marketing-communications-pr-live-video-smart-move/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Sam_Altman_GettyImages-2236730228.jpg?resize=1200,600",
+        "publishedAt": "2026-04-04T14:15:00Z",
+        "content": "This essay appeared in the April 4, 2026 edition of the Fortune 500 Digest newsletter, which rounds up the headlines driving the weeks most important business news and coverage of Fortune 500 compani\u2026 [+2562 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sheryl Estrada",
-        "title": "Dell\u2019s CFO built a 27-year career without leaving the company. Here\u2019s how he kept moving up",
-        "description": "David Kennedy went from Dell intern to CFO.",
-        "url": "https://fortune.com/2026/04/03/dell-cfo-27-year-career-without-leaving-company-how-he-kept-moving-up/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/David-Kennedy-CFO-Dell-Technologies-IMG_7716.jpg?resize=1200,600",
-        "publishedAt": "2026-04-03T11:44:10Z",
-        "content": "Good morning. David Kennedy has spent more than 27 years at Dell Technologiesan almost unimaginable tenure in an era when many Gen Z workers see changing companies as the surest path to advancement.\u00a0\u2026 [+7900 chars]"
+        "author": "Bernard Condon, The Associated Press",
+        "title": "Trump sons to Gulf states: we\u2019ve got some drone interception tech to sell you",
+        "description": "\u201cThese countries are under enormous pressure to buy from the sons of the president so he will do what they want,\u201d said ex-Bush lawyer Richard Painter.",
+        "url": "https://fortune.com/2026/04/04/trump-sons-to-gulf-states-weve-got-some-drone-interception-tech-to-sell-you/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26092667005977-e1775318173912.jpg?resize=1200,600",
+        "publishedAt": "2026-04-04T15:56:29Z",
+        "content": "A drone maker backed by President Donald Trumps two oldest sons is trying to sell to Gulf countries while they are under attack by Iran and dependent on the U.S. military led by their father.The sale\u2026 [+3611 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "sobrient@insider.com (Samuel O'Brient)",
-        "title": "Here are the 21 stocks Deutsche Bank just added to its 'fresh money' list that's beaten the S&P 500 over time",
-        "description": "The basket of stocks has outperformed the S&P 500 by 32 percentage points since inception.",
-        "url": "https://www.businessinsider.com/deutsche-bank-stocks-investing-wall-street-ai-avgo-amat-sbux-2026-4",
-        "urlToImage": "https://i.insider.com/69ceca386a864f6fcd7bce6b?width=1200&format=jpeg",
-        "publishedAt": "2026-04-03T09:55:01Z",
-        "content": "When Deutsche Bank publishes the quarterly update to its \"Fresh Money\" stock list, it's a good idea to pay attention. \r\nThe basket of stocks has beaten the benchmark S&amp;P 500 by 32 percentage poin\u2026 [+6678 chars]"
+        "author": "gkay@businessinsider.com (Grace Kay)",
+        "title": "The cofounder shakeup at xAI is vintage Elon Musk",
+        "description": "xAI lost Ross Nordeen, its final non-Musk cofounder, this month. What does the turnover mean for the startup's looming IPO with SpaceX?",
+        "url": "https://www.businessinsider.com/elon-musk-xai-cofounder-exits-spacex-ipo-2026-4",
+        "urlToImage": "https://i.insider.com/69d02f41c02a678bd7e47f40?width=1200&format=jpeg",
+        "publishedAt": "2026-04-04T09:22:01Z",
+        "content": "Ross Nordeen didn't announce he was leaving xAI. He didn't need to.\r\nThe 36-year-old engineer was abruptly cut off from the company systems last week and disappeared from a sprawling group chat with \u2026 [+7059 chars]"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "atecotzky@businessinsider.com (Alice Tecotzky)",
-        "title": "How Wall Street tries to keep junior hours in check, from weekly guidelines to 'pencils down' periods",
-        "description": "JPMorgan has piloted a new tool to track juniors' notoriously long hours.",
-        "url": "https://www.businessinsider.com/wall-street-banks-junior-bankers-hours-jpmorgan-goldman-2026-4",
-        "urlToImage": "https://i.insider.com/69cd4d816a864f6fcd7bc606?width=1200&format=jpeg",
-        "publishedAt": "2026-04-03T09:22:01Z",
-        "content": "JPMorgan CEOJamie Dimon has said that people will probably be working 3.5 days a week within a few decades, but in the meantime, many of his own bankers are still logged on far more than the typical \u2026 [+5491 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "insider@insider.com (Lillian Brown)",
-        "title": "Paramount Plus review: Good value for the price, with an app that could use some improvement",
-        "description": "Paramount Plus carries an impressive selection of programming, starting at just $9 a month. Here's what we think of the app after long-term testing.",
-        "url": "https://www.businessinsider.com/guides/streaming/paramount-plus-review-streaming-service",
-        "urlToImage": "https://i.insider.com/69ceb3b3c02a678bd7e47703?width=1200&format=jpeg",
-        "publishedAt": "2026-04-03T16:36:00Z",
-        "content": "Paramount Plus has quietly become one of the biggest players in the stand-alone streaming service game. Through years of hands-on testing experience, we've determined whether the app is actually wort\u2026 [+20255 chars]"
+        "author": "Sasha Rogelberg",
+        "title": "The Trump administration is blurring the public and private sector workforce, and OPM director Scott Kupor won\u2019t rule out conflict of interest risks",
+        "description": "\u201cWe got to balance potential risks with potential upside,\u201d Kupor said of potential conflicts of interest in government. \u201cI think you can manage that quite clearly.\u201d",
+        "url": "https://fortune.com/2026/04/04/trump-administration-private-sector-federal-jobs-conflicts-of-interest-opm-director-scott-kupor/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2228885610-e1775165787646.jpg?resize=1200,600",
+        "publishedAt": "2026-04-04T09:41:00Z",
+        "content": "President Donald Trumps second-term appointments set a record for the wealthiest presidential administration in modern history, an early indication Trump had no problem welcoming business magnates in\u2026 [+6654 chars]"
     }
 ]

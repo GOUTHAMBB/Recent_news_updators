@@ -2,92 +2,66 @@
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Joab Jackson",
-        "title": "Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup",
-        "description": "Agents to check the work of the agents\nAll Things AI AI is easy to use, but not quite as easy as just barking \"Alexa! Make me an e-commerce site.\" And, no, adding \"DON'T HALLUCINATE\" to the instruction loop won't help.\u2026",
-        "url": "https://www.theregister.com/2026/04/04/all_things_ai_conference/",
-        "urlToImage": "https://regmedia.co.uk/2026/04/02/street_cleanup_brooms_bali.jpg",
-        "publishedAt": "2026-04-04T13:13:15Z",
-        "content": "All Things AI AI is easy to use, but not quite as easy as just barking \"Alexa! Make me an e-commerce site.\" And, no, adding \"DON'T HALLUCINATE\" to the instruction loop won't help.\r\nMore to the point,\u2026 [+6628 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "James Robinson",
-        "title": "How flexibility and ambassadors can secure the AI-enabled enterprise",
-        "description": "It\u2019s now widely accepted that artificial intelligence will permeate nearly every aspect of our lives. That presents new challenges related to AI threats, enterprise AI management and adapting security programs for an increasingly AI-driven world. What matters\u2026",
-        "url": "https://siliconangle.com/2026/04/04/flexibility-ambassadors-can-secure-ai-enabled-enterprise/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/02/nvidiacybersecurityai.png",
-        "publishedAt": "2026-04-04T18:36:14Z",
-        "content": "It\u2019s now widely accepted that artificial intelligence will permeate nearly every aspect of our lives. That presents new challenges related to AI threats, enterprise AI management and adapting securit\u2026 [+5938 chars]"
+        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+        "title": "Apple approves drivers that let AMD and Nvidia eGPUs run on Mac \u2014 software designed for AI, though, and not built for gaming",
+        "description": "The company behind the tiny box AI accelerator says that its macOS driver for Nvidia eGPUs has just been signed by Apple, making it a legitimate software for Macs and no longer needs workarounds to work with the device.",
+        "url": "https://www.tomshardware.com/pc-components/gpu-drivers/apple-approves-drivers-that-let-amd-and-nvidia-egpus-run-on-mac-software-designed-for-ai-though-and-not-built-for-gaming",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/zF564d7AMEAgkC2hWKptBh-1920-80.png",
+        "publishedAt": "2026-04-05T10:00:00Z",
+        "content": "Apple has just reportedly signed drivers for Nvidia eGPUs, allowing them to finally work on Apple silicon devices. Tiny Corp said in its X post that the company has finally approved the software, let\u2026 [+2593 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-        "title": "Nvidia AI tech claims to slash VRAM usage by 85% with zero quality loss \u2014 Neural Texture Compression demo reveals stunning visual parity between 6.5GB of memory and 970MB",
-        "description": "Nvidia has just demoed its Neural Texture Compression technique again at a GTC talk, where it showed VRAM usage dropping from 6.5 GB to just 970 MB in a scene. NTC uses a neural network to decompress textures instead of standard block-based compression, reduc\u2026",
-        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/em75yW8GD6NwDXqZgKv7bZ-1920-80.jpg",
-        "publishedAt": "2026-04-04T15:33:31Z",
-        "content": "As games become more complex and photorealistic, the industry has increasingly relied on upscaling technology to meet surging hardware demands. One of the biggest issues arising from this subpar opti\u2026 [+3975 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Cesar Cadenas",
-        "title": "Is increasing VRAM finally worth it? I ran the numbers on my Windows 11 PC",
-        "description": "Virtual RAM can help boost PC performance when resources are scarce. While it can be useful, it's not a replacement for physical RAM.",
-        "url": "https://www.zdnet.com/article/is-virtual-ram-good-alternative-rising-ram-prices/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/0dcb44a2b3d7cd8a643167cea153cbaf60ef412c/2026/03/09/d67176c2-cefd-4ba6-8c97-07eeda2273eb/img-2891.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-04T02:00:58Z",
-        "content": "Adrian Kingsley-Hughes/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways \r\n<ul><li>Rising RAM prices have made upgrading your PC more expensive.</li><li>Virtual RAM \u2026 [+6674 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Terrence O\u2019Brien",
-        "title": "A folk musician became a target for AI fakes and a copyright troll",
-        "description": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised th\u2026",
-        "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/0040566978_25.jpg?quality=90&strip=all&crop=0,11.156428956539,100,41.810022438295",
-        "publishedAt": "2026-04-04T17:57:12Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nA folk musician became a target for AI fakes and a copyright troll\r\nMurphy Campbell plays public domain ballads, but YouTube accepted the copyright claim anyway.\u2026 [+5427 chars]"
+        "author": "Mark Tyson",
+        "title": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti \u2014 architecture kicked off with the Tesla P100",
+        "description": "Nvidia delivered 'five architectural breakthroughs' with the launch of the Tesla P100 accelerator 10 years ago today.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/mjCiu5HUHkyTer8tg8whLK-1920-80.jpg",
+        "publishedAt": "2026-04-05T12:00:00Z",
+        "content": "Nvidia delivered \u201cfive architectural breakthroughs\u201d with the launch of the Tesla P100 accelerator 10 years ago today. Behind the \u201cmost advanced hyperscale data center accelerator ever built\u201d was the \u2026 [+3466 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Thomas Claburn",
-        "title": "PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud",
-        "description": "Bonasi 8B model is competitive with other 8B models but 14x smaller and 5x more energy efficient\nPrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI e\u2026",
-        "url": "https://www.theregister.com/2026/04/04/prismml_1bit_llm/",
-        "urlToImage": "https://regmedia.co.uk/2026/03/24/shutterstock_2199689367.jpg",
-        "publishedAt": "2026-04-04T08:09:08Z",
-        "content": "PrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI efficiency and viability on mobile dev\u2026 [+3758 chars]"
+        "author": "Lindsay Clark",
+        "title": "AI agents promise to 'run the business,' but who is liable if things go wrong?",
+        "description": "Vendors tout the potential, but responsibility remains unclear\nFeature \"You can't blame it on the box,\" says the boss of a UK financial regulator. What about the people who sold you the box? Good luck with that, says a global tech analyst.\u2026<!--#include virtua\u2026",
+        "url": "https://www.theregister.com/2026/04/05/ai_agents_liability/",
+        "urlToImage": "https://regmedia.co.uk/2025/07/18/leonardo_ai_agentic_ai_concept.jpg",
+        "publishedAt": "2026-04-05T10:00:11Z",
+        "content": "Feature \"You can't blame it on the box,\" says the boss of a UK financial regulator. What about the people who sold you the box? Good luck with that, says a global tech analyst.\r\nWhen AI agents... are\u2026 [+8958 chars]"
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Alina Maria Stan",
-        "title": "Meta freezes AI data work after breach puts training secrets at risk",
-        "description": "In short:\u00a0Meta has suspended its collaboration with Mercor, a $10 billion AI data startup, after a supply chain attack exposed what may be the AI industry\u2019s most closely guarded secrets: not just personal data, but the training methodologies that power the wo\u2026",
-        "url": "https://thenextweb.com/news/meta-mercor-breach-ai-training-secrets-risk/",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/meta-mercor-breach-ai-training-secrets-risk.png",
-        "publishedAt": "2026-04-04T18:31:09Z",
-        "content": "In short:\u00a0Meta has suspended its collaboration with Mercor, a $10 billion AI data startup, after a supply chain attack exposed what may be the AI industrys most closely guarded secrets: not just pers\u2026 [+8734 chars]"
+        "author": "Paul Gillin",
+        "title": "Inside Capital One\u2019s shift to a \u2018serverless-first\u2019 operating model",
+        "description": "Capital One Financial Corp.\u2019s five-year mission to transform its information technology operations to a \u201cserverless-first\u201d model is paying off in improved developer productivity, lower operating costs and a shift away from infrastructure focus toward customer\u2026",
+        "url": "https://siliconangle.com/2026/04/05/inside-capital-ones-shift-serverless-first-operating-model/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/07/capitalonedata.jpg",
+        "publishedAt": "2026-04-06T00:18:22Z",
+        "content": "Capital One Financial Corp.s five-year mission to transform its information technology operations to a serverless-first model is paying off in improved developer productivity, lower operating costs a\u2026 [+6550 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Mia Sato",
+        "title": "Can AI responses be influenced? The SEO industry is trying",
+        "description": "Let's pretend you work in IT and you're looking for a new digital service desk platform to help your employees reset passwords or onboard new hires. You use Google's AI Mode to search for suggestions, which quickly spits out a detailed answer listing companie\u2026",
+        "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268407_Can_AI_responses_be_influenced_SInbar2.gif?quality=90&strip=all&crop=0,10.752607989199,100,78.494784021602",
+        "publishedAt": "2026-04-06T02:42:44Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe explosion of AI search tools and features changed the landscape for marketers looking to get in front of customers. Now theres a gold rush for firms claiming\u2026 [+18723 chars]"
     }
 ]

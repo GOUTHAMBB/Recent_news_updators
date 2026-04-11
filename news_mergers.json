@@ -1,67 +1,41 @@
 [
     {
         "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Beatrice Nolan",
+        "title": "What Anthropic\u2019s too-dangerous-to-release AI model means for its upcoming IPO",
+        "description": "Anthropic says it has built its most capable AI model ever. It's also decided you can't have it.",
+        "url": "https://fortune.com/2026/04/10/anthropic-too-dangerous-to-release-ai-model-means-for-its-upcoming-ipo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2261864825-2-e1775770945351.jpg?resize=1200,600",
+        "publishedAt": "2026-04-10T07:52:38Z",
+        "content": "Anthropic has a new product with a major catchits too powerful to be released.\u00a0For a company valued at around $380 billion and reportedly preparing for an IPO this year, its an unusual stancebut one \u2026 [+9354 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Lara O'Reilly",
-        "title": "Advertising's new 'safety' fight",
-        "description": "Move over brand safety. There's a new marketing war brewing over AI ad safety as more dollars flow into AI-powered platforms.",
-        "url": "https://www.businessinsider.com/advertising-new-safety-fight-2026-4",
-        "urlToImage": "https://i.insider.com/69d55f231a512d0a63e7349c?width=1200&format=jpeg",
-        "publishedAt": "2026-04-08T11:38:02Z",
-        "content": "Demonstrators pictured outside OpenAI's UK offices. Marketers are similarly on a mission to push for more safeguards around AI tools.Wiktor Szymanowicz/Future Publishing via Getty Images\r\n<ul><li>A v\u2026 [+3305 chars]"
+        "author": "sobrient@insider.com (Samuel O'Brient)",
+        "title": "Investors are getting the SpaceX IPO wrong, and the real value is in its 'sovereign AI,' hedge fund manager Gene Munster says",
+        "description": "A longtime tech investor argues that SpaceX could achieve a level of AI capability unmatched by other major companies working on the technology.",
+        "url": "https://www.businessinsider.com/spacex-ipo-gene-munster-elon-musk-terafab-ai-satellites-2026-4",
+        "urlToImage": "https://i.insider.com/69d6be5df36fd1a78c05215d?width=1200&format=jpeg",
+        "publishedAt": "2026-04-09T15:07:20Z",
+        "content": "Wall Street is eager to get a piece of SpaceX's historic IPO, but one prominent hedge fund manager thinks investors are missing the big picture regarding what could end up being the biggest driver of\u2026 [+2355 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "John Kell",
-        "title": "Amid the \u2018SaaSpocalypse,\u2019 CIOs and CTOs take a harder line with their vendors",
-        "description": "As investors debate the threat that AI poses to enterprise software companies, CIOs are on the font lines of the changes affecting the industry.",
-        "url": "https://fortune.com/2026/04/08/amid-the-saaspocalypse-cios-and-ctos-take-a-harder-line-with-their-vendors/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Allegra-Driscoll_Headshot_FINAL-1.jpg?resize=1200,600",
-        "publishedAt": "2026-04-08T16:52:23Z",
-        "content": "Allegra Driscoll, the chief technology officer of Bread Financial, has a few ground rules when engaging with software vendors about generative AI capabilities. No agreements beyond one year, given th\u2026 [+13850 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jeremy Kahn",
-        "title": "Meta unveils Muse Spark, its first AI model since hiring Alexandr Wang and a bellwether for CEO Mark Zuckerberg\u2019s multi-billion dollar AI push",
-        "description": "The new model is competitive with rival AI models, according to data from Meta, but won't be widely available outside Meta's own product ecosystem",
-        "url": "https://fortune.com/2026/04/08/meta-unveils-muse-spark-mark-zuckerberg-ai-push/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2261857168-e1775665198765.jpg?resize=1200,600",
-        "publishedAt": "2026-04-08T17:05:48Z",
-        "content": "Meta has unveiled Muse Spark, the first AI model produced by its Meta Superintelligence Labs, the new AI research unit it created last year and has spent billions of dollars to staff and equip.\r\nThe \u2026 [+7129 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Diane Brady",
-        "title": "Bill Ackman channels Warren Buffett with his $64 billion bid for Universal Music Group",
-        "description": "Also: All the news and watercooler chat from Fortune.",
-        "url": "https://fortune.com/2026/04/08/bill-ackman-channels-warren-buffett-64-billion-bid-universal-music-group/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2218867560-e1775637562788.jpg?resize=1200,600",
-        "publishedAt": "2026-04-08T08:54:59Z",
-        "content": "Good morning. Is Bill Ackman like Warren Buffett?\u00a0\u00a0The CEO of Pershing Square Capital Management cited a desire to unleash long-term value when making yesterdays $64 billion bid to acquire Universal \u2026 [+4338 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jim Edwards",
-        "title": "Trump\u2019s ceasefire gives Iran control of the Strait of Hormuz\u2014and Mojtaba Khamenei is reportedly alive",
-        "description": "Everything you need to know before you reach the office this morning.",
-        "url": "https://fortune.com/2026/04/08/trump-ceasefire-iran-control-strait-of-hormuz-mojtaba-khamenei-alive/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270167901.jpg?resize=1200,600",
-        "publishedAt": "2026-04-08T10:09:07Z",
-        "content": "Oil fell to $94 per barrel this morning, following the U.S.-Iran ceasefire agreement. S&amp;P 500 futures popped 2.57% before the open in New York, after the index closed up marginally yesterday, rev\u2026 [+7671 chars]"
+        "author": "Sharon Goldman",
+        "title": "Even Nvidia\u2019s own research teams can\u2019t get enough GPUs amid the race for AI computing power",
+        "description": "A global GPU crunch is reshaping AI\u2014and even Nvidia isn\u2019t immune.",
+        "url": "https://fortune.com/2026/04/09/nvidia-gpu-shortage-impacts-even-nvidias-own-research-teams-bryan-catanzaro-eye-on-ai/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/nvidia-headshot-bryan-catanzaro-1.jpg?resize=1200,600",
+        "publishedAt": "2026-04-09T16:24:40Z",
+        "content": "Welcome to Eye on AI, with AI reporter Sharon Goldman. The pro-Iran meme machine trolling Trump with AI Lego cartoonsAmazons Andy Jassy defends Amazons $200 billion spending spree...OpenAI pauses Sta\u2026 [+7704 chars]"
     }
 ]

@@ -14,28 +14,41 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "sobrient@insider.com (Samuel O'Brient)",
-        "title": "Investors are getting the SpaceX IPO wrong, and the real value is in its 'sovereign AI,' hedge fund manager Gene Munster says",
-        "description": "A longtime tech investor argues that SpaceX could achieve a level of AI capability unmatched by other major companies working on the technology.",
-        "url": "https://www.businessinsider.com/spacex-ipo-gene-munster-elon-musk-terafab-ai-satellites-2026-4",
-        "urlToImage": "https://i.insider.com/69d6be5df36fd1a78c05215d?width=1200&format=jpeg",
-        "publishedAt": "2026-04-09T15:07:20Z",
-        "content": "Wall Street is eager to get a piece of SpaceX's historic IPO, but one prominent hedge fund manager thinks investors are missing the big picture regarding what could end up being the biggest driver of\u2026 [+2355 chars]"
+        "author": "Sheryl Estrada",
+        "title": "26% of CEOs think the greatest threat to their job security is their own CFO",
+        "description": "A new BCG stress index finds CEOs are stretched thin by growth targets, board pressure, and increasingly powerful CFOs.",
+        "url": "https://fortune.com/2026/04/10/ceos-think-greatest-threat-their-job-security-their-own-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-85406541.jpg?resize=1200,600",
+        "publishedAt": "2026-04-10T11:38:52Z",
+        "content": "Good morning. CEOs depend on their CFOs more than ever. And fear them more than ever, too.Under mounting pressure from nearly every direction, many chief executives now view their closest strategic p\u2026 [+7598 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sharon Goldman",
-        "title": "Even Nvidia\u2019s own research teams can\u2019t get enough GPUs amid the race for AI computing power",
-        "description": "A global GPU crunch is reshaping AI\u2014and even Nvidia isn\u2019t immune.",
-        "url": "https://fortune.com/2026/04/09/nvidia-gpu-shortage-impacts-even-nvidias-own-research-teams-bryan-catanzaro-eye-on-ai/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/nvidia-headshot-bryan-catanzaro-1.jpg?resize=1200,600",
-        "publishedAt": "2026-04-09T16:24:40Z",
-        "content": "Welcome to Eye on AI, with AI reporter Sharon Goldman. The pro-Iran meme machine trolling Trump with AI Lego cartoonsAmazons Andy Jassy defends Amazons $200 billion spending spree...OpenAI pauses Sta\u2026 [+7704 chars]"
+        "author": "Jim Edwards",
+        "title": "U.S. and Iran begin peace talks as Trump\u2019s White House goes to war against the media, insider traders, and the Pope",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/04/10/us-iran-peace-talks-trump-wsj-insider-trading-pope/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270167901.jpg?resize=1200,600",
+        "publishedAt": "2026-04-10T09:57:07Z",
+        "content": "Oil rose marginally to $97 per barrel this morning. S&amp;P 500 futures were flat before the open in New York. The index closed up 0.62% yesterday. Asia was up strongly today: Japans Nikkei 225 rose \u2026 [+8167 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lora Kolodny",
+        "title": "Elon Musk\u2019s xAI faces fresh opposition after landing permit for Mississippi power plant",
+        "description": "Musk's xAI, now owned by SpaceX, faces a legal challenge from environmental groups opposed to a massive power plant in Mississippi.",
+        "url": "https://www.cnbc.com/2026/04/10/musks-xai-draws-more-opposition-over-mississippi-power-plant-permit.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170649-1752223567421-gettyimages-2199701064-HL_VFEURAY_2670140.jpeg?v=1775860210&w=1920&h=1080",
+        "publishedAt": "2026-04-10T23:05:01Z",
+        "content": "Elon Musk's xAI, now owned by SpaceX, is facing a new legal challenge from environmental groups in Mississippi, where the company plans to build a massive, methane gas-burning power plant in the town\u2026 [+2831 chars]"
     }
 ]

@@ -1,81 +1,42 @@
 [
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Louryn Strampe",
-        "title": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
-        "description": "This hair dye printer promises hundreds of shades. It couldn't even manage two.",
-        "url": "https://www.wired.com/review/zuvi-colorbox/",
-        "urlToImage": "https://media.wired.com/photos/69d980c64fbd3a67c3404b7c/191:100/w_1280,c_limit/Review--Zuvi-ColorBox.jpg",
-        "publishedAt": "2026-04-11T12:11:00Z",
-        "content": "I will say that I think this product could be neat in a few scenarios. If you like to dye your own extensions, or you continually change the color of a streak and don't need to buy oodles of full-siz\u2026 [+2354 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Cath Virginia",
-        "title": "Your article about AI doesn\u2019t need AI art",
-        "description": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger t\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-04-11T13:01:26Z",
-        "content": "<ul><li></li></ul>\r\nA New Yorker profile of Sam Altman was accompanied by controversial artwork.\r\nby\r\nCath VirginiaClose\r\nPosts from this author will be added to your daily email digest and your home\u2026 [+9955 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Theregister.com"
         },
-        "author": "Matt Novak",
-        "title": "If You Make Fart Music, ChatGPT Will Be the Most Supportive Girlfriend You Could Ask For",
-        "description": "\"It feels cohesive and intentional, not just thrown together,\" ChatGPT said about an 8-second fart noise.",
-        "url": "https://gizmodo.com/if-you-make-fart-music-chatgpt-will-be-the-most-supportive-girlfriend-you-could-ask-for-2000745058",
-        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106.jpg",
-        "publishedAt": "2026-04-11T14:14:04Z",
-        "content": "Generative AI is notorious for trying to make people feel good. You can write the most inane garbage and it will generally try to be supportive when critiquing your work. And the latest over-the-top \u2026 [+4660 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Report: Cisco could acquire AI agent security startup Astrix Security for $250M+",
-        "description": "Cisco Systems Inc. is reportedly in talks to buy Astrix Security Ltd., a startup that helps companies secure their artificial intelligence agents. The Information today cited sources as saying that the deal could be worth between $250 million and $350 million\u2026",
-        "url": "https://siliconangle.com/2026/04/10/report-cisco-acquire-ai-agent-security-startup-astrix-security-250m/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Cisco.png",
-        "publishedAt": "2026-04-11T00:50:32Z",
-        "content": "Cisco Systems Inc. is reportedly in talks to buy Astrix Security Ltd., a startup that helps companies secure their artificial intelligence agents.\r\nThe Information today cited sources as saying that \u2026 [+3898 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Domhnaill Hernon",
-        "title": "Digital employees are here: What now?",
-        "description": "Digital workforces are everywhere you go. Before you\u2019ve even entered your first meeting of the day, artificial intelligence can provide you with a summary of your inbox, check your calendar and even submit an expense report on your behalf. This isn\u2019t a future\u2026",
-        "url": "https://siliconangle.com/2026/04/11/digital-employees-now/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Human-office-workers-sitting-at-desks-across-from-mostly-human-ghostly-AI-agents-working-together-th-2.jpeg",
-        "publishedAt": "2026-04-11T22:52:43Z",
-        "content": "Digital workforces are everywhere you go.\r\nBefore youve even entered your first meeting of the day, artificial intelligence can provide you with a summary of your inbox, check your calendar and even \u2026 [+5634 chars]"
+        "author": "Tobias Mann",
+        "title": "Growing void between enterprise and frontier AI puts open weights models in the spotlight",
+        "description": "Most customers don't need the biggest baddest models, just ones that work, are cheap, and won't pirate their proprietary data\nFEATURE Spring has sprung and that means another wave of open weights AI models from the likes of Google, Microsoft, Alibaba, and Nvi\u2026",
+        "url": "https://www.theregister.com/2026/04/12/ai_open_weights_models/",
+        "urlToImage": "https://regmedia.co.uk/2025/07/10/aidatacenters.jpg",
+        "publishedAt": "2026-04-12T10:51:06Z",
+        "content": "FEATURE Spring has sprung and that means another wave of open weights AI models from the likes of Google, Microsoft, Alibaba, and Nvidia. But this time feels a bit different.\r\nIn the past, these mode\u2026 [+6873 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "Dan Mateescu",
-        "title": "Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80%",
-        "description": "We put RTX Neural Texture Compression to the test with multiple GPUs and on a laptop.",
-        "url": "https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/4Zjn6tNFiu23R3TicwG4iP-1429-80.jpg",
-        "publishedAt": "2026-04-11T11:00:00Z",
-        "content": "Today, we're benchmarking and analyzing one of Nvidia's most interesting new technologies in development: RTX Neural Texture Compression (NTC), an AI-driven technology that uses Tensor Cores to compr\u2026 [+16131 chars]"
+        "author": "Zak Killian",
+        "title": "Linux lays down the law on AI-generated code, yes to Copilot, no to AI slop, and humans take the fall for mistakes \u2014 after months of fierce debate, Torvalds and maintainers come to an agreement",
+        "description": "After months of fierce debate, Linus Torvalds and the Linux kernel maintainers have laid down the law on AI-generated code.",
+        "url": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/NcvfDmThovA9wBhTA2KyUc-1920-80.jpg",
+        "publishedAt": "2026-04-12T14:18:08Z",
+        "content": "The open-source community's long-simmering identity crisis over artificial intelligence just got a much-needed dose of pragmatism. This week, the Linux kernel project finally established a formal, pr\u2026 [+5677 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "France\u2019s digital directorate dumping Windows desktops, adopting Linux instead",
+        "description": "Apr\u00e8s \u00e7a, le d\u00e9luge, as plans call for move away from plenty more American software and hardware France\u2019s Interministerial Directorate for Digital Affairs (DINUM) will drop Windows desktops, and adopt Linux instead.\u2026",
+        "url": "https://www.theregister.com/2026/04/13/france_tech_sovereignty_plan/",
+        "urlToImage": "https://regmedia.co.uk/2022/05/31/shutterstock_8_bit_france.jpg",
+        "publishedAt": "2026-04-13T08:01:06Z",
+        "content": "Frances Interministerial Directorate for Digital Affairs (DINUM) will drop Windows desktops, and adopt Linux instead.\r\nDINUM announced the swap last week during an interministerial seminar that saw s\u2026 [+2821 chars]"
     },
     {
         "source": {
@@ -83,76 +44,63 @@
             "name": "The Next Web"
         },
         "author": "Ana-Maria Stanciuc",
-        "title": "AI can screen 15 million molecules in a day. It still can\u2019t cure Alzheimer\u2019s.",
-        "description": "The drug discovery revolution is real but radically overstated, the health chatbots are a documented hazard, and the diseases that matter most remain stubbornly unsolved. At Novartis, sometime in late 2025, a team of researchers working on Huntington\u2019s diseas\u2026",
-        "url": "https://thenextweb.com/news/ai-healthcare-drug-discovery-chatbots-reality/",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/AI-health-tech.png",
-        "publishedAt": "2026-04-11T06:00:30Z",
-        "content": "The drug discovery revolution is real but radically overstated, the health chatbots are a documented hazard, and the diseases that matter most remain stubbornly unsolved.\r\nAt Novartis, sometime in la\u2026 [+9398 chars]"
+        "title": "Europe is dismantling its own rulebook to compete with America",
+        "description": "On 19 November 2025, the European Commission published its Digital Omnibus package, a legislative proposal to amend the AI Act, the GDPR, the ePrivacy Directive, the Data Act, and several cybersecurity frameworks in a single stroke. The word \u201csimplification\u201d \u2026",
+        "url": "https://thenextweb.com/news/europe-is-dismantling-its-own-rulebook-to-compete-with-america/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/EU.png",
+        "publishedAt": "2026-04-13T07:41:28Z",
+        "content": "On 19 November 2025, the European Commission published its Digital Omnibus package, a legislative proposal to amend the AI Act, the GDPR, the ePrivacy Directive, the Data Act, and several cybersecuri\u2026 [+9278 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNET"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Macy Meyer",
-        "title": "This Animation Startup Wants to Make It Easier to Tell Open-Ended Stories",
-        "description": "Founded by former OpenAI scientist Andrew Carr and former Google creative director Jonathan Jarvis, Cartwheel is bridging the gap between 2D vision and 3D execution.",
-        "url": "https://www.cnet.com/tech/services-and-software/cartwheel-ai-animation-interview/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/d2b0bc2c93c4de868d0284238ec5bc3a629e4c05/hub/2026/04/10/5daf234d-bce3-4589-add5-7d4fb09d1eae/screenshot-2026-04-10-at-10-52-58am.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-11T11:00:59Z",
-        "content": "The current wave of generative AI animation often feels like a magic trick that only works once. You type in a prompt, a video appears, and if you don't like the result -- maybe the feet are all wonk\u2026 [+4422 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "Mark Tyson",
-        "title": "Clippy, Microsoft\u2019s hapless Office assistant, was retired 25 years ago today \u2014 its irritating spirit lives on in 100+ Copilots",
-        "description": "Microsoft\u2019s Clippy was put out to pasture a quarter century ago. This hapless, and some would add \u2018irritating,\u2019 productivity assistant would no longer be enabled by default in Office, starting April 11, 2001.",
-        "url": "https://www.tomshardware.com/software/windows/clippy-microsofts-hapless-office-assistant-was-retired-25-years-ago-today-its-irritating-spirit-lives-on-in-100-copilots",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/eyaTBF7HvhAjm2qbV9XeCk-1920-80.jpg",
-        "publishedAt": "2026-04-11T16:27:37Z",
-        "content": "Microsoft\u2019s Clippy was put out to pasture a quarter century ago. This hapless, and some would say \u2018irritating,\u2019 productivity assistant would no longer be enabled by default in Office, starting April \u2026 [+3521 chars]"
+        "author": "Natasha Lomas",
+        "title": "From LLMs to hallucinations, here's a simple guide to common AI terms | TechCrunch",
+        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+        "publishedAt": "2026-04-12T15:07:45Z",
+        "content": "Artificial intelligence is a deep and convoluted world. The scientists who work in this field often rely on jargon and lingo to explain what theyre working on. As a result, we frequently have to use \u2026 [+17578 chars]"
     },
     {
         "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Antonio G. Di Benedetto",
-        "title": "Allow me to explain why I love this camera that can\u2019t shoot color",
-        "description": "I love black-and-white photography. I also adore compact cameras you can always have by your side. So I'm a total mark for the Ricoh GR IV Monochrome, a fixed-lens camera that can't zoom and can't record color - at all. It's a formula that makes the average p\u2026",
-        "url": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268451_Ricoh_GR_IV_Monochrome_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-04-11T13:02:43Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nAllow me to explain why I love this camera that cant shoot color\r\nThe Ricoh GR IV Monochrome is the perfect everyday companion that makes the mundane feel intere\u2026 [+9282 chars]"
+        "author": "Elissa Welle",
+        "title": "Did Neuralink make the wrong bet?",
+        "description": "Elon Musk promised Neuralink would bring superhuman abilities and minds merged with AI. Then he fueled a runaway hype train for his brain implant technology, which ended up with a grisly record for implants in monkeys and some success with human subjects. But\u2026",
+        "url": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/258176_Did_Neuralink_make_the_wrong_bet__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-04-13T00:25:56Z",
+        "content": "<ul><li></li><li></li></ul>\r\nThe field of brain-computer interfaces is moving away from mind-controlled computer cursors to restoring speech.\r\nby\r\nElissa WelleClose\r\nPosts from this author will be ad\u2026 [+21334 chars]"
     },
     {
         "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Ana-Maria Stanciuc",
-        "title": "AI is making us faster, more productive, and worse at thinking",
-        "description": "AI is everywhere, the pressure to adopt it is relentless, and the evidence that it\u2019s making us smarter is getting thinner by the quarter. On New Year\u2019s Day 2026, a programmer named Steve Yegge launched an open-source platform called Gas Town. It lets users or\u2026",
-        "url": "https://thenextweb.com/news/ai-intelligence-losing-our-own/",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/artificial-intelligence-hype.png",
-        "publishedAt": "2026-04-11T07:30:27Z",
-        "content": "AI is everywhere, the pressure to adopt it is relentless, and the evidence that its making us smarter is getting thinner by the quarter.\r\nOn New Years Day 2026, a programmer named Steve Yegge launche\u2026 [+9280 chars]"
+        "author": "Cristian Dina",
+        "title": "Anthropic brings Claude into Microsoft Word, and legal contract review leads its use cases",
+        "description": "In short:\u00a0Anthropic has released a beta add-in that places Claude directly inside Microsoft Word, with every AI-generated edit appearing as a native tracked change and legal contract review listed first among the tool\u2019s example applications. The add-in, avail\u2026",
+        "url": "https://thenextweb.com/news/dario-amodei-london-united-kingdom/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/anthropic-claude-word-lawyers-legal-ai.png",
+        "publishedAt": "2026-04-12T15:35:28Z",
+        "content": "In short:\u00a0Anthropic has released a beta add-in that places Claude directly inside Microsoft Word, with every AI-generated edit appearing as a native tracked change and legal contract review listed fi\u2026 [+7739 chars]"
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "Theregister.com"
         },
-        "author": "Gia Chaudry",
-        "title": "How the Internet Broke Everyone\u2019s Bullshit Detectors",
-        "description": "From AI-generated images to restricted satellite data, the systems used to verify what\u2019s real online are struggling to keep up.",
-        "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
-        "urlToImage": "https://media.wired.com/photos/69d8f8b6b2861e1c6bbfc54f/191:100/w_1280,c_limit/Fake_leadInsta.jpg",
-        "publishedAt": "2026-04-11T09:30:00Z",
-        "content": "Lego-style propaganda videos alleging war crimes are flooding online feeds, echoing the White Houses own turn toward cryptic teaser clips and meme-native visuals. This is not just content drift. It i\u2026 [+4023 chars]"
+        "author": "Simon Sharwood",
+        "title": "China wants AI to prepare school lessons and mark homework",
+        "description": "PLUS: Toyota wheels out basketball bot; Arm scores AI server win with SK Telecom; India ponders payment pauses to foil fraudsters; And more!\nAsia In Brief China\u2019s National Data Administration last Friday published its action plan for AI in education which cal\u2026",
+        "url": "https://www.theregister.com/2026/04/13/asia_tech_news_roundup/",
+        "urlToImage": "https://regmedia.co.uk/2026/04/13/screenshot_toyota_cue7_basketball_robot.jpg",
+        "publishedAt": "2026-04-13T02:09:07Z",
+        "content": "Asia In Brief Chinas National Data Administration last Friday published its action plan for AI in education which calls for upskilling of the nations citizens to ensure they can put the technology to\u2026 [+4661 chars]"
     }
 ]

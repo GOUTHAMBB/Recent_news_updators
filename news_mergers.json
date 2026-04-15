@@ -1,28 +1,67 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "ddefrancesco@businessinsider.com (Dan DeFrancesco)",
+        "title": "The storylines you need to know heading into earnings season",
+        "description": "Major companies are reporting earnings during the next few weeks \u2014 and it's projected to be a big season.",
+        "url": "https://www.businessinsider.com/earnings-season-markets-banks-wall-street-2026-4",
+        "urlToImage": "https://i.insider.com/69d966f305c9b303c4e77240?width=1200&format=jpeg",
+        "publishedAt": "2026-04-13T10:15:25Z",
+        "content": "Oh, earnings season, how we missed you.\r\nThere is a lot going on in the world these days that has the market's attention (to put it mildly). But companies reporting earnings over the next month and a\u2026 [+2821 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
         "author": "Nicholas Gordon",
-        "title": "Blazing hot IPOs, an AI agent craze, and a new word for \u2018token\u2019: Here\u2019s what\u2019s happening in the world of Chinese AI",
-        "description": "China hopes to build a \u201ctoken economy,\u201d backed by open-source models and real-world AI applications\u2014even as U.S. export controls still hold things back.",
-        "url": "https://fortune.com/2026/04/12/china-token-economy-ai-boom-big-tech-startups/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2269744443-e1775985109713.jpg?resize=1200,600",
-        "publishedAt": "2026-04-12T21:00:00Z",
-        "content": "Liu Liehong, the administrator of Chinas National Data Administration, the countrys main data regulator, unveiled the term at a State Council press conference in March, explaining that tokens were no\u2026 [+10071 chars]"
+        "title": "China went from uninvestable to unavoidable\u2014and Hong Kong is cashing in with a slew of AI-centric IPOs",
+        "description": "The boom in initial public offerings is boosting the city\u2019s stature among the world\u2019s exchanges.",
+        "url": "https://fortune.com/2026/04/13/china-uninvestable-unavoidable-hong-kong-cashing-ai-centric-ipos/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2267044172-e1776078872900.jpg?resize=1200,600",
+        "publishedAt": "2026-04-13T11:18:47Z",
+        "content": "Nicholas Gordon, Fortunes Asia editor, filling in for Allie Garfinkle.Hong Kong is back.\r\nIPOs in the Chinese city raised almost $14 billion in the first quarter of the year, a jump of almost 490% ye\u2026 [+5882 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "Tens of billions in days: CoreWeave shows how aggressively AI infrastructure is being funded",
+        "description": "A landmark week for CoreWeave's capital structure reveals the aggressive financing strategies powering the AI infrastructure race.",
+        "url": "https://fortune.com/2026/04/13/tens-billions-days-coreweave-shows-how-aggressively-ai-infrastructure-being-funded/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2224672346.jpg?resize=1200,600",
+        "publishedAt": "2026-04-13T10:55:29Z",
+        "content": "Good morning. For finance leaders trying to understand how the AI infrastructure race is being funded, CoreWeave just offered a revealing case study.In the span of a few days, the Nvidia-backed start\u2026 [+5376 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Beatrice Nolan",
+        "title": "Anthropic is facing a wave of user backlash over reports of performance issues with its Claude AI chatbot",
+        "description": "\"Claude has regressed to the point [that] it cannot be trusted to perform complex engineering,\" one developer wrote.",
+        "url": "https://fortune.com/2026/04/14/anthropic-claude-performance-decline-user-complaints-backlash-lack-of-transparency-accusations-compute-crunch/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2256654494-2-e1776098895103.jpg?resize=1200,600",
+        "publishedAt": "2026-04-14T09:13:48Z",
+        "content": "Anthropic, the high-flying AI company, is facing a backlash from some of its most prolific\u00a0users over a perceived decline in the performance of its Claude AI models.The issues have left the companyre\u2026 [+8492 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "TipRanks.com Staff",
-        "title": "Top Wall Street analysts prefer these dividend stocks for steady income",
-        "description": "Given ongoing uncertainty, investors may seek to add some stability to their portfolios by buying dividend stocks for steady income.",
-        "url": "https://www.cnbc.com/2026/04/12/top-street-analysts-prefer-these-dividend-stocks-for-steady-income-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287976-1775572440840-gettyimages-2269656245-AFP_A6YJ9YG.jpeg?v=1775572466&w=1920&h=1080",
-        "publishedAt": "2026-04-12T11:18:07Z",
-        "content": "Geopolitical tensions in the Middle East are keeping global markets on edge, but investors can add some stability to their portfolios by purchasing dividend-paying stocks. \r\nChoosing the right stocks\u2026 [+5484 chars]"
+        "author": "Sarah Whitten, Lillian Rizzo",
+        "title": "Wall Street still loves streaming, but are its affections well placed?",
+        "description": "While streaming continues to drive media stocks, especially around quarterly earnings, it's not clear when it will start driving profits for smaller players.",
+        "url": "https://www.cnbc.com/2026/04/13/wall-street-streaming-focus-future.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209265-1759926468888-gettyimages-2239866412-dji_20251007134216_0033_d_atnuara6.jpeg?v=1776097410&w=1920&h=1080",
+        "publishedAt": "2026-04-13T16:31:17Z",
+        "content": "In an aerial view, the Netflix logo is displayed above Netflix corporate offices on October 7, 2025 in Los Angeles, California.\r\nThere's a love affair on Wall Street between investors and streaming.\r\u2026 [+9863 chars]"
     }
 ]

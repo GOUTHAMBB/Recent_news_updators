@@ -1,29 +1,237 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Theregister.com"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Tobias Mann",
-        "title": "Growing void between enterprise and frontier AI puts open weights models in the spotlight",
-        "description": "Most customers don't need the biggest baddest models, just ones that work, are cheap, and won't pirate their proprietary data\nFEATURE Spring has sprung and that means another wave of open weights AI models from the likes of Google, Microsoft, Alibaba, and Nvi\u2026",
-        "url": "https://www.theregister.com/2026/04/12/ai_open_weights_models/",
-        "urlToImage": "https://regmedia.co.uk/2025/07/10/aidatacenters.jpg",
-        "publishedAt": "2026-04-12T10:51:06Z",
-        "content": "FEATURE Spring has sprung and that means another wave of open weights AI models from the likes of Google, Microsoft, Alibaba, and Nvidia. But this time feels a bit different.\r\nIn the past, these mode\u2026 [+6873 chars]"
+        "author": "Jay Peters",
+        "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman\u2019s home and OpenAI\u2019s HQ",
+        "description": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting \u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/screenshot_2026-04-13_161515_0.jpg?quality=90&strip=all&crop=0.18825561312608,0,99.623488773748,100",
+        "publishedAt": "2026-04-14T00:02:38Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nPolice also recovered a document titled Your Last Warning where Moreno-Gama admitted to attempting to kill Altman.\r\nPolice also recovered a document titled Your \u2026 [+3334 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Andrew Webster",
+        "title": "Pragmata is just OK, but it could\u2019ve been great",
+        "description": "Over the last few years, Capcom has done an exceptional job of solidifying its lineup of big, long-running franchises. The likes of Monster Hunter, Resident Evil, and Street Fighter have all been on strong and consistent runs, an impressive thing given the cu\u2026",
+        "url": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/PRAGMATA_Lunar_Cityscape_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "publishedAt": "2026-04-13T12:25:24Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nPragmata is just OK, but it couldve been great\r\nCapcoms new sci-fi game plays things too safe.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from \u2026 [+7170 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "MIT Technology Review"
         },
-        "author": "Zak Killian",
-        "title": "Linux lays down the law on AI-generated code, yes to Copilot, no to AI slop, and humans take the fall for mistakes \u2014 after months of fierce debate, Torvalds and maintainers come to an agreement",
-        "description": "After months of fierce debate, Linus Torvalds and the Linux kernel maintainers have laid down the law on AI-generated code.",
-        "url": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/NcvfDmThovA9wBhTA2KyUc-1920-80.jpg",
-        "publishedAt": "2026-04-12T14:18:08Z",
-        "content": "The open-source community's long-simmering identity crisis over artificial intelligence just got a much-needed dose of pragmatism. This week, the Linux kernel project finally established a formal, pr\u2026 [+5677 chars]"
+        "author": "Michelle Kim",
+        "title": "Want to understand the current state of AI? Check out these charts.",
+        "description": "If you\u2019re following AI news, you\u2019re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can\u2019t even read a clock. The 2026 AI Index from Stanford University\u2019s Institute for Human-Centered Artificial Intelligence, AI\u2019s annual\u2026",
+        "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/04/state-ai-report.jpg?resize=1200,600",
+        "publishedAt": "2026-04-13T13:00:00Z",
+        "content": "In a long, heated race with immense geopolitical stakes, the US and China are almost neck and neck on AI model performance, according to Arena, a community-driven ranking platform that allows users t\u2026 [+2417 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Tyler Graham",
+        "title": "Disappearing Macs? Global RAM Supply Crisis Likely Hits Apple",
+        "description": "Certain high-end customization options for the M4 Mac Mini and Mac Studio are unavailable, at least for now.",
+        "url": "https://www.cnet.com/tech/computing/disappearing-macs-global-ram-crisis-likely-hits-apple/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/0d34dd9a1fc4a678d900cdd7606d0272ffe1935b/hub/2024/11/06/1ac668d1-b2fd-4af9-9e08-7d1fbd6f07d7/mac-mini-m4-03.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-13T22:30:58Z",
+        "content": "Several high-end Apple computers are sold out on the company's online store, and there's no indication when they'll be back in stock. Multiple RAM-intensive configurations of the M4 Mac Mini and Mac \u2026 [+2824 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "China has erased the US lead in AI, Stanford HAI\u2019s 2026 AI index reveals",
+        "description": "Stanford University researchers today released their highly anticipated 2026 AI Index Report, revealing a global landscape where artificial intelligence technology is being adopted at record-breaking pace, even as public trust in AI oversight and transparency\u2026",
+        "url": "https://siliconangle.com/2026/04/13/stanford-hais-2026-ai-index-reveals-china-u-s-now-neck-neck-race-global-dominance/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-13-09-24-38.png",
+        "publishedAt": "2026-04-13T13:00:42Z",
+        "content": "Stanford University researchers today released their highly anticipated 2026 AI Index Report, revealing a global landscape where artificial intelligence technology is being adopted at record-breaking\u2026 [+7127 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Japanese tech giants launch joint venture targeting physical AI for robots and machines",
+        "description": "Japanese technology giants SoftBank Group Corp., Sony Corp. and NEC Corp. are teaming up with Honda Motor Co., Ltd. on a new artificial intelligence joint venture that has a single goal: to build a trillion-parameter model for autonomous machines. The compani\u2026",
+        "url": "https://siliconangle.com/2026/04/13/japanese-tech-giants-launch-joint-venture-targeting-physical-ai-robots-machines/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-14-07-46-31.png",
+        "publishedAt": "2026-04-14T00:47:11Z",
+        "content": "Japanese technology giants SoftBank Group Corp., Sony Corp. and NEC Corp. are teaming up with Honda Motor Co., Ltd. on a new artificial intelligence joint venture that has a single goal: to build a t\u2026 [+3529 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Nasha Addarich Mart\u00ednez",
+        "title": "Whoop 5.0 Review: A Fitness Tracker Focused on Performance and Longevity",
+        "description": "I've spent eleven months testing the Whoop 5.0 MG. Here's where it shines, and some things to consider.",
+        "url": "https://www.cnet.com/health/fitness/whoop-5-0-review/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/f6966b83f8c94755706b307535874bb92fd5c303/hub/2025/08/15/fda7bc3d-d63a-4783-92ac-ae4d74fe1435/image.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-13T15:41:40Z",
+        "content": "I've tested my fair share of fitness trackers over the years. From smartwatches to smart rings, I've seen how fast innovation in the wearables industry can change. You've probably seen this discreet,\u2026 [+10921 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Commvault rolls out AI capabilities to secure agentic workflows and data",
+        "description": "Data protection provider\u00a0Commvault Systems Inc.\u00a0today announced new artificial intelligence capabilities that it says will allow organizations to accelerate AI adoption with confidence while maintaining control over data, agents and recovery. The new capabili\u2026",
+        "url": "https://siliconangle.com/2026/04/13/commvault-rolls-ai-capabilities-secure-agentic-workflows-data/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/commvault.png",
+        "publishedAt": "2026-04-13T12:30:42Z",
+        "content": "Data protection provider\u00a0Commvault Systems Inc.\u00a0today announced new artificial intelligence capabilities that it says will allow organizations to accelerate AI adoption with confidence while maintain\u2026 [+4376 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "OpenAI partners with Novo Nordisk to accelerate drug discovery and delivery",
+        "description": "Artificial intelligence powerhouse OpenAI Group PBC is lending its expertise to Novo Nordisk A/S in a new partnership announced today that aims to accelerate research in the pharmaceutical industry. The sweeping collaboration will see OpenAI\u2019s intelligent age\u2026",
+        "url": "https://siliconangle.com/2026/04/14/openai-partners-novo-nordisk-accelerate-drug-discovery-delivery/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-14-08-32-56.png",
+        "publishedAt": "2026-04-14T06:00:49Z",
+        "content": "Artificial intelligence powerhouse OpenAI Group PBC is lending its expertise to Novo Nordisk A/S in a new partnership announced today that aims to accelerate research in the pharmaceutical industry.\r\u2026 [+4456 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "The votes are in: AI will hurt elections and relationships",
+        "description": "Latest report from Stanford's AI boffins finds unsafe usage practices, widespread anxiety about impacts, and China catching up to the USA Artificial intelligence has achieved mass adoption faster than the personal computer or the internet, reaching 53 percent\u2026",
+        "url": "https://www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/",
+        "urlToImage": "https://regmedia.co.uk/2026/04/14/shutterstock_angry_and_afraid_of_laptop.jpg",
+        "publishedAt": "2026-04-14T00:05:13Z",
+        "content": "Artificial intelligence has achieved mass adoption faster than the personal computer or the internet, reaching 53 percent of the population in just three years. The number of harmful AI incidents has\u2026 [+4378 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Cloudflare expands Agent Cloud with new tools to build and scale AI agents",
+        "description": "Cloudflare Inc. today announced an expansion of its Agent Cloud with new features that are designed to help developers build, deploy and scale agents. The new release includes a suite of infrastructure, security and developer tools that help to move AI agents\u2026",
+        "url": "https://siliconangle.com/2026/04/13/cloudflare-expands-agent-cloud-new-tools-build-scale-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/cloudflareoffice.jpg",
+        "publishedAt": "2026-04-13T13:00:22Z",
+        "content": "Cloudflare Inc. today announced an expansion of its Agent Cloud with new features that are designed to help developers build, deploy and scale agents.\r\nThe new release includes a suite of infrastruct\u2026 [+4688 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Electric pickup truck startup Slate Auto raises $650M in funding",
+        "description": "Slate Auto Inc., a startup that plans to make electric pickup trucks based on a cost-optimized design, has closed a $650 million funding round. The company stated in its announcement of the Series C round today that TWG Global was the lead investor. According\u2026",
+        "url": "https://siliconangle.com/2026/04/13/electric-pickup-truck-startup-slate-auto-raises-650m-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Slate.png",
+        "publishedAt": "2026-04-13T22:59:59Z",
+        "content": "Slate Auto Inc., a startup that plans to make electric pickup trucks based on a cost-optimized design, has closed a $650 million funding round.\r\nThe company stated in its announcement of the Series C\u2026 [+3864 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Zeus Kerravala",
+        "title": "Zoom Perspectives: Why \u2018agentic\u2019 work is the new enterprise standard",
+        "description": "I had been waiting for the 2026 edition of Zoom Communications Inc.\u2018s Perspectives, its recently held annual get-together for industry analysts, because I find Zoom to be the most interesting vendor in the communications business today. Though it has many com\u2026",
+        "url": "https://siliconangle.com/2026/04/13/zoom-perspectives-agentic-work-new-enterprise-standard/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/EYZM.jpg",
+        "publishedAt": "2026-04-13T16:36:37Z",
+        "content": "I had been waiting for the 2026 edition of Zoom Communications Inc.\u2018s Perspectives, its recently held annual get-together for industry analysts, because I find Zoom to be the most interesting vendor \u2026 [+8597 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "David Lumb",
+        "title": "Pragmata Review: A Streamlined, Satisfying Follow-Up to Resident Evil Requiem",
+        "description": "A fun third-person shooter wrapped in a dad-and-daughter narrative make for a familiar, yet engaging game.",
+        "url": "https://www.cnet.com/tech/gaming/pragmata-review-a-streamlined-satisfying-follow-up-to-resident-evil-requiem/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d487457a38acaa09d95537ce54467f90c1383be3/hub/2026/04/13/205548a4-64da-4030-b962-b4c86cdde723/pragmata-20260408234051.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-13T15:00:44Z",
+        "content": "With artificial intelligence changing how people work and live, it's no surprise that Capcom's new sci-fi game Pragmata harnesses that zeitgeist to create a new take on the third-person shooter. The \u2026 [+8384 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Amazon debuts high-speed satellite internet antenna for commercial aircraft",
+        "description": "Amazon.com Inc. today debuted a ruggedized antenna that will enable commercial aircraft to access its internet satellites. The Amazon Leo Aviation Antenna can download up to 1 gigabit of data per second and upload 400 megabits. According to the company, those\u2026",
+        "url": "https://siliconangle.com/2026/04/13/amazon-debuts-high-speed-satellite-internet-antenna-commercial-aircraft/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Amazon.png",
+        "publishedAt": "2026-04-14T00:51:34Z",
+        "content": "Amazon.com Inc. today debuted a ruggedized antenna that will enable commercial aircraft to access its internet satellites.\r\nThe Amazon Leo Aviation Antenna can download up to 1 gigabit of data per se\u2026 [+4062 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Steven Vaughan-Nichols",
+        "title": "France is replacing 2.5 million Windows desktops with Linux - and I mapped out its new stack",
+        "description": "Officially, we don't know what France's forthcoming Linux desktop will look like, but this is what my sources and experience tell me to expect.",
+        "url": "https://www.zdnet.com/article/france-leaves-windows-for-linux-desktop/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/0c459c506fb3a54eeb5d7f043ee8bb797ff4459b/2026/04/13/23b3fd94-63bc-4625-981e-ed952278c141/gettyimages-2256863568.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-13T12:23:57Z",
+        "content": "Luc TEBOUL/Moment/Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET key takeaways \r\n<ul><li>France's government is switching from Windows to a Linux desktop.</li><li>The desk\u2026 [+10469 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Jack Wallen",
+        "title": "I tested Artix Linux: An enjoyable systemd-free distro for experienced users (and ChromeOS speeds)",
+        "description": "If you want a stable Linux distribution with a unique take, Artix is one of the fastest and most reliable I've tested.",
+        "url": "https://www.zdnet.com/article/artix-linux-distribution-review/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/69192eb2c8d845488e7b8bb34a454edfbd22b59f/2026/04/13/03cedca3-878e-47dd-a470-96eed2c1823a/artixhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-13T15:17:00Z",
+        "content": "Jack Wallen/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Artix is a Linux distribution with a different approach, but plenty to offer.</li><li>It offer\u2026 [+6256 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Dell Cameron",
+        "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+        "description": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+        "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+        "urlToImage": "https://media.wired.com/photos/69dd120fd5415cb89341a838/191:100/w_1280,c_limit/GettyImages-2265766888.jpg",
+        "publishedAt": "2026-04-13T16:01:30Z",
+        "content": "More than 70 civil liberties, domestic violence, reproductive rights, LGBTQ+, labor, and immigrant advocacy organizations are demanding that Meta abandon plans to deploy face recognition on its Ray-B\u2026 [+3955 chars]"
     },
     {
         "source": {
@@ -40,6 +248,32 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Rachel Kane",
+        "title": "How to Be an AI Detective: Tips for Spotting Bot-Generated Text",
+        "description": "Do you know the red flags of AI-generated content? Here's how to spot them.",
+        "url": "https://www.cnet.com/tech/services-and-software/how-to-be-an-ai-detective-tips-for-spotting-bot-generated-text/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/94343a3c92330f4635f36ae4250ea32c8be72ea5/hub/2025/01/10/c02c10ae-0399-46c6-a60d-6bee4b423222/gettyimages-1065011316.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-13T10:01:11Z",
+        "content": "The internet is drowning in a sea of generic, machine-generated content that looks professional at a glance but lacks any substance: slop. It's become increasingly difficult to tell what's been writt\u2026 [+5920 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "AI influencers are \u2018everywhere\u2019 at Coachella",
+        "description": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in g\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ai-label-10.png?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-04-13T19:59:42Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nCan you live vicariously through content creators if theyre not actually alive?\r\nCan you live vicariously through content creators if theyre not actually alive?\r\u2026 [+8095 chars]"
+    },
+    {
+        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
@@ -53,16 +287,16 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Natasha Lomas",
-        "title": "From LLMs to hallucinations, here's a simple guide to common AI terms | TechCrunch",
-        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-        "publishedAt": "2026-04-12T15:07:45Z",
-        "content": "Artificial intelligence is a deep and convoluted world. The scientists who work in this field often rely on jargon and lingo to explain what theyre working on. As a result, we frequently have to use \u2026 [+17578 chars]"
+        "author": "Alina Maria Stan",
+        "title": "Two arrested after gunfire near Sam Altman\u2019s home, days after Molotov attack",
+        "description": "Two people were arrested after shots were fired near Sam Altman\u2019s San Francisco home on Sunday, two days after a separate suspect threw a Molotov cocktail at the property and threatened to burn down OpenAI\u2019s headquarters. The attacks coincided with a critical\u2026",
+        "url": "https://thenextweb.com/news/sam-altman-home-shooting-arrest-molotov-openai/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/sam-altman-home-shooting-arrest-molotov-openai.png",
+        "publishedAt": "2026-04-13T18:10:57Z",
+        "content": "Two people were arrested after shots were fired near Sam Altmans San Francisco home on Sunday, two days after a separate suspect threw a Molotov cocktail at the property and threatened to burn down O\u2026 [+6443 chars]"
     },
     {
         "source": {
@@ -79,19 +313,6 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Cristian Dina",
-        "title": "Anthropic brings Claude into Microsoft Word, and legal contract review leads its use cases",
-        "description": "In short:\u00a0Anthropic has released a beta add-in that places Claude directly inside Microsoft Word, with every AI-generated edit appearing as a native tracked change and legal contract review listed first among the tool\u2019s example applications. The add-in, avail\u2026",
-        "url": "https://thenextweb.com/news/dario-amodei-london-united-kingdom/",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/anthropic-claude-word-lawyers-legal-ai.png",
-        "publishedAt": "2026-04-12T15:35:28Z",
-        "content": "In short:\u00a0Anthropic has released a beta add-in that places Claude directly inside Microsoft Word, with every AI-generated edit appearing as a native tracked change and legal contract review listed fi\u2026 [+7739 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Theregister.com"
         },
@@ -102,5 +323,31 @@
         "urlToImage": "https://regmedia.co.uk/2026/04/13/screenshot_toyota_cue7_basketball_robot.jpg",
         "publishedAt": "2026-04-13T02:09:07Z",
         "content": "Asia In Brief Chinas National Data Administration last Friday published its action plan for AI in education which calls for upskilling of the nations citizens to ensure they can put the technology to\u2026 [+4661 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Kate Knibbs",
+        "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+        "description": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive\u2019s vast collection of web pages.",
+        "url": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+        "urlToImage": "https://media.wired.com/photos/69d9793c27ad448072aa787f/191:100/w_1280,c_limit/Internet-Archive-In-Peril-Business-1408988884.jpg",
+        "publishedAt": "2026-04-13T11:00:00Z",
+        "content": "This month, USA Today published an excellent report that revealed how US Immigrations and Customs Enforcement delayed disclosing key information about the impacts of its detainment policies. The auth\u2026 [+3750 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Marco Trabucchi",
+        "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+        "description": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+        "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+        "urlToImage": "https://media.wired.com/photos/69dd62de5630ccde90450adb/191:100/w_1280,c_limit/2200095767",
+        "publishedAt": "2026-04-13T23:37:38Z",
+        "content": "Listing consumer electronics on the internet's large ecommerce marketplaces is a key step in democratizing the products, allowing them to be purchased by anyone with\u00a0just a click. It has happened to \u2026 [+4012 chars]"
     }
 ]

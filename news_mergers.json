@@ -4,45 +4,6 @@
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Ben Bergman",
-        "title": "VCs are flooding Anthropic with offers to invest at up to an $800 billion valuation",
-        "description": "Anthropic has received multiple offers to invest at valuations as high as $800 billion in recent weeks, which would more than double its valuation.",
-        "url": "https://www.businessinsider.com/anthropic-with-offers-to-invest-at-up-to-800-billion-2026-4",
-        "urlToImage": "https://i.insider.com/69deca47ddf31b99606d402f?width=1200&format=jpeg",
-        "publishedAt": "2026-04-14T23:32:31Z",
-        "content": "Dario Amodei is the CEO and cofounder of Anthropic.Michael M. Santiago/Getty Images\r\n<ul><li>Anthropic has recently received multiple offers from VCs to invest at valuations as high as $800 billion.<\u2026 [+2134 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Tim Bajarin, Contributor",
-        "title": "Inside China\u2019s Push To Build Birdlike Drones",
-        "description": "China\u2019s birdlike drones mark a new era in flight\u2014merging biology and technology to create quieter, more efficient machines with wide-ranging implications.",
-        "url": "https://www.forbes.com/sites/timbajarin/2026/04/14/inside-chinas-push-to-build-birdlike-drones/",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/B431AC4DE9DECCE8AF4CC372572752D058CA27D0824919AEB0AA2B6EEA1D0F3D/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Fforbes_contributor_845%2F92deecea4290dc8f51be27228713dedb",
-        "publishedAt": "2026-04-14T14:00:00Z",
-        "content": "A new drone technology is in the works. It goes so far beyond the status quo that it creates a new paradigm. The innovation happening in China with ornithopter drones exemplifies this shift. This phe\u2026 [+4185 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Tim Paradis,Dominick Reuter",
-        "title": "We're in a new era of heightened CEO safety measures, security pros say",
-        "description": "The recent attack on OpenAI founder Sam Altman's house is a reminder that security risks can lie outside fortified corporate offices.",
-        "url": "https://www.businessinsider.com/security-professionals-weigh-in-following-altman-home-attack-2026-4",
-        "urlToImage": "https://i.insider.com/69dd72dd4d9d0b20564923fb?width=1200&format=jpeg",
-        "publishedAt": "2026-04-14T09:49:24Z",
-        "content": "An attack on the home of OpenAI CEO Sam Altman highlighted the security risks CEOs can face outside the office.Anna Moneymaker/Getty Images\r\n<ul><li>Friday's attack on Sam Altman's house underscores \u2026 [+5419 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
         "author": "Ashley Stewart",
         "title": "Internal Salesforce org chart shows the 10 executives helping CEO Marc Benioff navigate AI's threat to software",
         "description": "Salesforce is under pressure as generative AI threatens to upend its business model. These execs are helping Marc Benioff respond.",
@@ -56,13 +17,65 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Lora Kolodny",
-        "title": "NAACP sues Elon Musk's xAI over Memphis data center air pollution",
-        "description": "Elopn Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout.",
-        "url": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108264237-1770777595689-gettyimages-2255986185-boivin-notitle260116_npWRa.jpeg?v=1770777619&w=1920&h=1080",
-        "publishedAt": "2026-04-14T21:25:11Z",
-        "content": "The NAACP filed a lawsuit against Elon Musk's xAI on Tuesday, accusing the artificial intelligence company of violating the Clean Air Act with its use of natural gas-burning turbines to power data ce\u2026 [+2918 chars]"
+        "author": "Kate Rooney, Drew Troast",
+        "title": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending",
+        "description": "Negativity around AI could be a drag on OpenAI and Anthropic as the startups look to go public, and will likely be a major issue in the midterm elections.",
+        "url": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203076-1758900160412-108203076-1758667426528-gettyimages-2236544326-STARGATE_DATA_CENTER.jpg?v=1765940242&w=1920&h=1080",
+        "publishedAt": "2026-04-15T23:58:12Z",
+        "content": "Artificial intelligence is losing the popularity contest in the United States, and that's bad news for some of Big Tech's power players. \r\nThe trend has implications for richly valued companies like \u2026 [+3512 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "Disney cutting 1,000 jobs under new CEO Josh D'Amaro",
+        "description": "The cuts span Disney's traditional TV businesses, movie studio, and marketing department \u2014 the first notable layoffs since D'Amaro took over in March",
+        "url": "https://qz.com/disney-layoffs-1000-jobs-damaro-ceo-041526",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ElO_qIW0I1oZYVB5u8hnYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/50cc33b18f2ba8ceaef353c23ca9ddb9",
+        "publishedAt": "2026-04-15T13:09:27Z",
+        "content": "Disney began laying off about 1,000 employees this week, the first substantial round of job cuts since Josh D'Amaro became CEO of the company in March.\r\nAccording to The Associated Press, the job cut\u2026 [+2616 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Diane Brady",
+        "title": "Dow\u2019s next chapter depends on whether new CEO Karen Carter gets room to lead\u2014and how fast Jim Fitterling steps back",
+        "description": "Also: All the news and watercooler chat from Fortune.",
+        "url": "https://fortune.com/2026/04/15/dow-new-ceo-karen-carter-jim-fitterling/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1241945697-e1776247644364.jpg?resize=1200,600",
+        "publishedAt": "2026-04-15T10:22:46Z",
+        "content": "Good morning. Former Cisco Chairman and CEO John Chambers once told me that a CEO has three main tasks: to set the vision and strategy of the company, to hire the senior leadership team to get it don\u2026 [+4878 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "nbuchanan@insider.com (Naomi Buchanan)",
+        "title": "Allbirds spikes more than 350% on pivot from sneakers to AI",
+        "description": "Allbirds stock rocketed higher on Wednesday after announcing plans to become an AI infrastructure company, rebranding itself as NewBird AI.",
+        "url": "https://www.businessinsider.com/allbirds-stock-price-ai-newbird-gpus-compute-gpuaas-bird-shoes-2026-4",
+        "urlToImage": "https://i.insider.com/69df944f55edb86c69eccb99?width=1200&format=jpeg",
+        "publishedAt": "2026-04-15T14:10:18Z",
+        "content": "What's All is New.\r\nAllbirds, once the go-to shoemaker for finance and tech bros coast to coast, is now NewBird AI, and its stock is seeing a wild rally on the pivot.\r\nShares exploded higher by as mu\u2026 [+1402 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Kai Nicol-Schwarz",
+        "title": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over",
+        "description": "The AI startup is now in discussions with Microsoft about renting compute capacity",
+        "url": "https://www.cnbc.com/2026/04/15/openai-stargate-norway-project-microsoft.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108272501-1772510587771-gettyimages-2236544097-STARGATE_DATA_CENTER.jpeg?v=1776255778&w=1920&h=1080",
+        "publishedAt": "2026-04-15T12:29:04Z",
+        "content": "OpenAI has abandoned plans to rent compute capacity directly from a Norwegian data center, days after confirming it paused a similar project in the U.K.\r\nMicrosoft is taking the extra compute previou\u2026 [+2927 chars]"
     },
     {
         "source": {
@@ -79,28 +92,41 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "anicoll@businessinsider.com (Alex Nicoll)",
-        "title": "BlackRock says the private credit 'shakeout' is an opportunity for the $13.9 trillion fund giant to dominate",
-        "description": "There may be some private credit losers in the future, but doesn't plan to be one of them. On their Q1 analyst call, Fink and co explained why they will win.",
-        "url": "https://www.businessinsider.com/blackrock-sees-opportunity-for-growth-in-private-credit-shakeout-2026-4",
-        "urlToImage": "https://i.insider.com/69de4837899c9d3be05104ac?width=1200&format=jpeg",
-        "publishedAt": "2026-04-14T15:14:52Z",
-        "content": "Less than a year after BlackRock's $12 billion acquisition of private credit powerhouse HPS Investment Partners, one of Wall Street's hottest asset classes is now showing signs of strain.\r\nBut the wo\u2026 [+4307 chars]"
+        "author": "Josephine Rozzelle",
+        "title": "Bank of America earnings, Kalshi's DC charm offensive, a United-American merger and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/04/15/5-things-to-know-before-the-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291213-1776184015475-Traders-Photo-20260414-KK-PRESS-009.jpg?v=1776184110&w=1920&h=1080",
+        "publishedAt": "2026-04-15T12:28:34Z",
+        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nGood morning, and happy Tax Day. As of last week, the average tax refund this year is more than 10%\u2026 [+5905 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Beatrice Nolan",
-        "title": "Anthropic is facing a wave of user backlash over reports of performance issues with its Claude AI chatbot",
-        "description": "\"Claude has regressed to the point [that] it cannot be trusted to perform complex engineering,\" one developer wrote.",
-        "url": "https://fortune.com/2026/04/14/anthropic-claude-performance-decline-user-complaints-backlash-lack-of-transparency-accusations-compute-crunch/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2256654494-2-e1776098895103.jpg?resize=1200,600",
-        "publishedAt": "2026-04-14T09:13:48Z",
-        "content": "Anthropic, the high-flying AI company, is facing a backlash from some of its most prolific\u00a0users over a perceived decline in the performance of its Claude AI models.The issues have left the companyre\u2026 [+8492 chars]"
+        "author": "Priyanka Salve",
+        "title": "Inside India newsletter: Small towns are powering e-commerce's fastest-growing market, dominated by Amazon, Walmart unit",
+        "description": "Small towns are fueling India\u2019s e\u2011commerce surge, with Amazon and Flipkart chasing new shoppers, faster delivery and rising aspirational demand.",
+        "url": "https://www.cnbc.com/2026/04/15/inside-india-newsletter-small-towns-amazon-walmart-ecommerce.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291503-1776220903118-gettyimages-2171810382-avdsept24anklot8f.jpeg?v=1776220923&w=1920&h=1080",
+        "publishedAt": "2026-04-16T00:10:36Z",
+        "content": "Hello, this is Priyanka Salve, writing to you from Singapore. \r\nWelcome to the latest edition of \"Inside India\" your one-stop destination for stories and developments from the world's fastest growing\u2026 [+6311 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Harvard Business Review"
+        },
+        "author": null,
+        "title": "Scaling a Business Beyond the Family Playbook",
+        "description": "A conversation with HBS senior lecturer Henry McGee and CEO Jessica Johnson-Cope about the challenges that come with expanding a multigenerational business in new directions.",
+        "url": "https://hbr.org/podcast/2026/04/scaling-a-business-beyond-the-family-playbook",
+        "urlToImage": "https://hbr.org/resources/images/article_assets/2024/11/wide-hbr-on-leadership-24.png",
+        "publishedAt": "2026-04-15T18:46:00Z",
+        "content": "ALISON BEARD: Welcome to\u00a0HBR On Leadership. I\u2019m HBR Executive Editor Alison Beard. On this show, we share case studies and conversations with the world\u2019s top business and management experts, hand-sel\u2026 [+33470 chars]"
     }
 ]

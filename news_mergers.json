@@ -1,107 +1,81 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Ashley Stewart",
-        "title": "Internal Salesforce org chart shows the 10 executives helping CEO Marc Benioff navigate AI's threat to software",
-        "description": "Salesforce is under pressure as generative AI threatens to upend its business model. These execs are helping Marc Benioff respond.",
-        "url": "https://www.businessinsider.com/salesforce-org-chart-shows-executives-under-marc-benioff-2026-4",
-        "urlToImage": "https://i.insider.com/69dd5d4cdfb2c132adcfd128?width=1200&format=jpeg",
-        "publishedAt": "2026-04-15T09:00:02Z",
-        "content": "Marc Benioff, CEO of SalesforceBloomberg/Getty Images\r\n<ul><li>Salesforce is facing a fight for its life as generative AI threatens to upend its business model.</li><li>An internal Salesforce chart s\u2026 [+4825 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kate Rooney, Drew Troast",
-        "title": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending",
-        "description": "Negativity around AI could be a drag on OpenAI and Anthropic as the startups look to go public, and will likely be a major issue in the midterm elections.",
-        "url": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203076-1758900160412-108203076-1758667426528-gettyimages-2236544326-STARGATE_DATA_CENTER.jpg?v=1765940242&w=1920&h=1080",
-        "publishedAt": "2026-04-15T23:58:12Z",
-        "content": "Artificial intelligence is losing the popularity contest in the United States, and that's bad news for some of Big Tech's power players. \r\nThe trend has implications for richly valued companies like \u2026 [+3512 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Quartz India"
-        },
-        "author": "Cris Tolomia",
-        "title": "Disney cutting 1,000 jobs under new CEO Josh D'Amaro",
-        "description": "The cuts span Disney's traditional TV businesses, movie studio, and marketing department \u2014 the first notable layoffs since D'Amaro took over in March",
-        "url": "https://qz.com/disney-layoffs-1000-jobs-damaro-ceo-041526",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ElO_qIW0I1oZYVB5u8hnYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/50cc33b18f2ba8ceaef353c23ca9ddb9",
-        "publishedAt": "2026-04-15T13:09:27Z",
-        "content": "Disney began laying off about 1,000 employees this week, the first substantial round of job cuts since Josh D'Amaro became CEO of the company in March.\r\nAccording to The Associated Press, the job cut\u2026 [+2616 chars]"
+        "author": "Nicholas Gordon",
+        "title": "Manycore, the first of the Hangzhou \u2018Little Dragons\u2019 to go public, pushes \u2018spatial intelligence\u2019 as the next wave of AI development",
+        "description": "Manycore Tech debuts on Hong Kong's stock exchange today, following a $130 million IPO\u2014and contributing to the Chinese city's AI listing boom.",
+        "url": "https://fortune.com/2026/04/16/manycore-ipo-hong-kong-shares-debut-victor-huang-jixun-foo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270660849-e1776354507338.jpg?resize=1200,600",
+        "publishedAt": "2026-04-16T21:00:00Z",
+        "content": "Hong Kongs AI IPO boom produces its latest entrant today, as design AI startup Manycore Tech begins trading after seeking up to 1.02 billion Hong Kong dollars ($130 million) in funding, becoming the \u2026 [+8267 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Diane Brady",
-        "title": "Dow\u2019s next chapter depends on whether new CEO Karen Carter gets room to lead\u2014and how fast Jim Fitterling steps back",
-        "description": "Also: All the news and watercooler chat from Fortune.",
-        "url": "https://fortune.com/2026/04/15/dow-new-ceo-karen-carter-jim-fitterling/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1241945697-e1776247644364.jpg?resize=1200,600",
-        "publishedAt": "2026-04-15T10:22:46Z",
-        "content": "Good morning. Former Cisco Chairman and CEO John Chambers once told me that a CEO has three main tasks: to set the vision and strategy of the company, to hire the senior leadership team to get it don\u2026 [+4878 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "nbuchanan@insider.com (Naomi Buchanan)",
-        "title": "Allbirds spikes more than 350% on pivot from sneakers to AI",
-        "description": "Allbirds stock rocketed higher on Wednesday after announcing plans to become an AI infrastructure company, rebranding itself as NewBird AI.",
-        "url": "https://www.businessinsider.com/allbirds-stock-price-ai-newbird-gpus-compute-gpuaas-bird-shoes-2026-4",
-        "urlToImage": "https://i.insider.com/69df944f55edb86c69eccb99?width=1200&format=jpeg",
-        "publishedAt": "2026-04-15T14:10:18Z",
-        "content": "What's All is New.\r\nAllbirds, once the go-to shoemaker for finance and tech bros coast to coast, is now NewBird AI, and its stock is seeing a wild rally on the pivot.\r\nShares exploded higher by as mu\u2026 [+1402 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kai Nicol-Schwarz",
-        "title": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over",
-        "description": "The AI startup is now in discussions with Microsoft about renting compute capacity",
-        "url": "https://www.cnbc.com/2026/04/15/openai-stargate-norway-project-microsoft.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108272501-1772510587771-gettyimages-2236544097-STARGATE_DATA_CENTER.jpeg?v=1776255778&w=1920&h=1080",
-        "publishedAt": "2026-04-15T12:29:04Z",
-        "content": "OpenAI has abandoned plans to rent compute capacity directly from a Norwegian data center, days after confirming it paused a similar project in the U.K.\r\nMicrosoft is taking the extra compute previou\u2026 [+2927 chars]"
+        "author": "Nicholas Gordon",
+        "title": "Canva debuts a new suite of agentic tools, as the design app quietly becomes one of the world\u2019s most used AI services",
+        "description": "AI agents are headline Canva\u2019s biggest redesign since its debut, as the platform strives to be more than \"a design platform with AI services built on top.\"",
+        "url": "https://fortune.com/2026/04/16/canva-ai-agentic-design-suite-coo-cliff-obrecht/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Cliff-Obrecht-2-e1776309589630.jpg?resize=1200,600",
+        "publishedAt": "2026-04-16T13:00:00Z",
+        "content": "Canva, the Australian startup thats won over 265 million users with its design software, is launching a new suite of tools that combine visual creation and workflow automation, run by AI agents that \u2026 [+4083 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Shawn Tully",
-        "title": "The hidden menace behind Big Tech\u2019s AI arms race: Meta, Amazon and others are spending billions on hardware that\u2019s worthless in 3 years",
-        "description": "The new industrial era may be a lot more beneficial to the folks and businesses that use the AI-enhanced products than the enterprises that furnish them.",
-        "url": "https://fortune.com/2026/04/15/data-centers-hyperscalers-spending-billions-on-hardware-thats-worthless-in-3-years/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270123932.jpg?resize=1200,600",
-        "publishedAt": "2026-04-15T07:00:00Z",
-        "content": "Theres a wild paradox in the middle of the biggest story in tech right now. The GPUs and other essential hardware that the hyperscalers are spending so lavishly to pack into their data centers with, \u2026 [+7285 chars]"
+        "author": "Katie Moore",
+        "title": "Poppi\u2019s cofounder pitched her startup on Shark Tank while 9 months pregnant and landed a $400,000 deal\u2014now it\u2019s worth $2 billion",
+        "description": "Poppi cofounder Allison Ellsworth\u2019s 2018 Shark Tank pitch helped catapult the brand into beverage fame.",
+        "url": "https://fortune.com/2026/04/17/poppi-cofounder-allison-ellsworth-shark-tank-pitch-while-pregnant-2-billion-dollar-brand/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/IMG_8486.jpg?resize=1200,600",
+        "publishedAt": "2026-04-17T07:15:00Z",
+        "content": "When Poppi cofounder Allison Ellsworth pitched her business with her husband on Shark Tank in 2018, she was nervous, excitedand about to have a baby.I was nine months pregnant, so there was the Hey, \u2026 [+5101 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Josephine Rozzelle",
-        "title": "Bank of America earnings, Kalshi's DC charm offensive, a United-American merger and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/04/15/5-things-to-know-before-the-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291213-1776184015475-Traders-Photo-20260414-KK-PRESS-009.jpg?v=1776184110&w=1920&h=1080",
-        "publishedAt": "2026-04-15T12:28:34Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nGood morning, and happy Tax Day. As of last week, the average tax refund this year is more than 10%\u2026 [+5905 chars]"
+        "author": "Sheryl Estrada",
+        "title": "Bank of America\u2019s 18,000 financial advisors just got a new AI tool as the company posts a record quarter",
+        "description": "A new AI tool for financial advisors is one sign of how Bank of America is weaving artificial intelligence into its business model.",
+        "url": "https://fortune.com/2026/04/16/bank-of-america-18000-financial-advisors-new-ai-tool-company-record-quarter/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1247403164.jpg?resize=1200,600",
+        "publishedAt": "2026-04-16T11:58:14Z",
+        "content": "Good morning. Bank of America posted its strongest earnings in nearly two decades, and CFO Alastair Borthwick says AI is becoming key to the banks performance.The bank reported on Wednesday that Q1 2\u2026 [+5230 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Amanda Gerut",
+        "title": "Reed Hastings\u2019s exit from $455 billion Netflix \u2018had nothing to do with\u2019 the failed Warner Bros. deal, says Ted Sarandos",
+        "description": "Netflix\u2019s stock price sank 9% in after-hours trading on Thursday.",
+        "url": "https://fortune.com/2026/04/16/netflix-reed-hastings-depart-board-warner-stock-results/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2224569843-e1776376951178.jpg?resize=1200,600",
+        "publishedAt": "2026-04-16T23:34:03Z",
+        "content": "The 65-year-old cofounder and former CEO of the worlds largest streaming service announced on Thursday that he wont stand for reelection to the board at the companys annual shareholder meeting in Jun\u2026 [+4622 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "jciolli@businessinsider.com (Joe Ciolli)",
+        "title": "Allbirds' last-ditch AI pivot played out perfectly. Now here come the copycats.",
+        "description": "Allbirds joins a long line of companies that made surprising and lucrative pivots towards trendy industries.",
+        "url": "https://www.businessinsider.com/allbirds-meme-stock-price-spike-ai-pivot-copycats-gpus-2026-4",
+        "urlToImage": "https://i.insider.com/69e00592557731f181e95233?width=1024&format=jpeg",
+        "publishedAt": "2026-04-16T09:50:01Z",
+        "content": "Everyone loves a good last-ditch reinvention.\r\nActor Robert Downey Jr. was uninsurable and nearly washed out of Hollywood before \"Iron Man\" revived his career. Tennis player Andre Agassi looked finis\u2026 [+3143 chars]"
     },
     {
         "source": {
@@ -115,18 +89,5 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291503-1776220903118-gettyimages-2171810382-avdsept24anklot8f.jpeg?v=1776220923&w=1920&h=1080",
         "publishedAt": "2026-04-16T00:10:36Z",
         "content": "Hello, this is Priyanka Salve, writing to you from Singapore. \r\nWelcome to the latest edition of \"Inside India\" your one-stop destination for stories and developments from the world's fastest growing\u2026 [+6311 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Harvard Business Review"
-        },
-        "author": null,
-        "title": "Scaling a Business Beyond the Family Playbook",
-        "description": "A conversation with HBS senior lecturer Henry McGee and CEO Jessica Johnson-Cope about the challenges that come with expanding a multigenerational business in new directions.",
-        "url": "https://hbr.org/podcast/2026/04/scaling-a-business-beyond-the-family-playbook",
-        "urlToImage": "https://hbr.org/resources/images/article_assets/2024/11/wide-hbr-on-leadership-24.png",
-        "publishedAt": "2026-04-15T18:46:00Z",
-        "content": "ALISON BEARD: Welcome to\u00a0HBR On Leadership. I\u2019m HBR Executive Editor Alison Beard. On this show, we share case studies and conversations with the world\u2019s top business and management experts, hand-sel\u2026 [+33470 chars]"
     }
 ]

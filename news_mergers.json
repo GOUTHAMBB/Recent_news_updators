@@ -1,29 +1,42 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Nicholas Gordon",
-        "title": "Manycore, the first of the Hangzhou \u2018Little Dragons\u2019 to go public, pushes \u2018spatial intelligence\u2019 as the next wave of AI development",
-        "description": "Manycore Tech debuts on Hong Kong's stock exchange today, following a $130 million IPO\u2014and contributing to the Chinese city's AI listing boom.",
-        "url": "https://fortune.com/2026/04/16/manycore-ipo-hong-kong-shares-debut-victor-huang-jixun-foo/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270660849-e1776354507338.jpg?resize=1200,600",
-        "publishedAt": "2026-04-16T21:00:00Z",
-        "content": "Hong Kongs AI IPO boom produces its latest entrant today, as design AI startup Manycore Tech begins trading after seeking up to 1.02 billion Hong Kong dollars ($130 million) in funding, becoming the \u2026 [+8267 chars]"
+        "author": "Ben Bergman",
+        "title": "Ramp is telling investors it is about to hit $1.4 billion in revenue a year, as the company prepares to go public",
+        "description": "Ramp, a New York-based fintech startup, has told potential investors it is on track to reach a $1.4 billion run rate this quarter.",
+        "url": "https://www.businessinsider.com/ramp-is-telling-investors-hit-1-4-billion-in-revenue-2026-4",
+        "urlToImage": "https://i.insider.com/69e25b473fecbb42897a10f4?width=1200&format=jpeg",
+        "publishedAt": "2026-04-17T16:33:19Z",
+        "content": "SAN FRANCISCO, CALIFORNIA - APRIL 09: Ramp CEO Eric Glyman speaks onstage during the \"How AI Is Rewriting the Rules of Finance\" panel at the HumanX Conference San Francisco 2026 at Moscone Center Sou\u2026 [+3113 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Charles Rollet",
+        "title": "OpenAI loses 3 top executives as it cuts back on 'side quests'",
+        "description": "OpenAI loses three executives as it sharpens its business focus and faces rising pressure from Anthropic.",
+        "url": "https://www.businessinsider.com/openai-executive-departures-shake-up-leadership-team-2026-4",
+        "urlToImage": "https://i.insider.com/69e2bd3c367066d7c296e3ce?width=1200&format=jpeg",
+        "publishedAt": "2026-04-18T00:00:12Z",
+        "content": "OpenAI CEO Sam Altman.Bloomberg/Getty Images\r\n<ul><li>OpenAI lost three executives on Friday.</li><li>Under applications CEO Fidji Simo, OpenAI has shifted focus by cutting side projects.</li><li>Ant\u2026 [+2227 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Nicholas Gordon",
-        "title": "Canva debuts a new suite of agentic tools, as the design app quietly becomes one of the world\u2019s most used AI services",
-        "description": "AI agents are headline Canva\u2019s biggest redesign since its debut, as the platform strives to be more than \"a design platform with AI services built on top.\"",
-        "url": "https://fortune.com/2026/04/16/canva-ai-agentic-design-suite-coo-cliff-obrecht/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Cliff-Obrecht-2-e1776309589630.jpg?resize=1200,600",
-        "publishedAt": "2026-04-16T13:00:00Z",
-        "content": "Canva, the Australian startup thats won over 265 million users with its design software, is launching a new suite of tools that combine visual creation and workflow automation, run by AI agents that \u2026 [+4083 chars]"
+        "author": "Sheryl Estrada",
+        "title": "Meet the crypto guru to the Fortune 500",
+        "description": "P2P.org's new CFO Betsabe Botaitis built her career at the intersection of finance and technology.",
+        "url": "https://fortune.com/2026/04/17/meet-crypto-guru-fortune-500-p2p-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Betsabe_Botaitis_P2P_org.jpg?resize=1200,600",
+        "publishedAt": "2026-04-17T12:55:45Z",
+        "content": "Good morning. Fortune 500 companies are already experimenting with blockchain, but many CFOs are still hesitant to move real money on-chain.That topic came up in my conversation with Betsabe Botaitis\u2026 [+9253 chars]"
     },
     {
         "source": {
@@ -40,54 +53,41 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Sheryl Estrada",
-        "title": "Bank of America\u2019s 18,000 financial advisors just got a new AI tool as the company posts a record quarter",
-        "description": "A new AI tool for financial advisors is one sign of how Bank of America is weaving artificial intelligence into its business model.",
-        "url": "https://fortune.com/2026/04/16/bank-of-america-18000-financial-advisors-new-ai-tool-company-record-quarter/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1247403164.jpg?resize=1200,600",
-        "publishedAt": "2026-04-16T11:58:14Z",
-        "content": "Good morning. Bank of America posted its strongest earnings in nearly two decades, and CFO Alastair Borthwick says AI is becoming key to the banks performance.The bank reported on Wednesday that Q1 2\u2026 [+5230 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Amanda Gerut",
-        "title": "Reed Hastings\u2019s exit from $455 billion Netflix \u2018had nothing to do with\u2019 the failed Warner Bros. deal, says Ted Sarandos",
-        "description": "Netflix\u2019s stock price sank 9% in after-hours trading on Thursday.",
-        "url": "https://fortune.com/2026/04/16/netflix-reed-hastings-depart-board-warner-stock-results/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2224569843-e1776376951178.jpg?resize=1200,600",
-        "publishedAt": "2026-04-16T23:34:03Z",
-        "content": "The 65-year-old cofounder and former CEO of the worlds largest streaming service announced on Thursday that he wont stand for reelection to the board at the companys annual shareholder meeting in Jun\u2026 [+4622 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "jciolli@businessinsider.com (Joe Ciolli)",
-        "title": "Allbirds' last-ditch AI pivot played out perfectly. Now here come the copycats.",
-        "description": "Allbirds joins a long line of companies that made surprising and lucrative pivots towards trendy industries.",
-        "url": "https://www.businessinsider.com/allbirds-meme-stock-price-spike-ai-pivot-copycats-gpus-2026-4",
-        "urlToImage": "https://i.insider.com/69e00592557731f181e95233?width=1024&format=jpeg",
-        "publishedAt": "2026-04-16T09:50:01Z",
-        "content": "Everyone loves a good last-ditch reinvention.\r\nActor Robert Downey Jr. was uninsurable and nearly washed out of Hollywood before \"Iron Man\" revived his career. Tennis player Andre Agassi looked finis\u2026 [+3143 chars]"
+        "author": "Jordan Novet",
+        "title": "AI chipmaker Cerebras set to file for IPO as soon as today",
+        "description": "Through the public offering, Cerebras could be worth three times more than what it was in a 2025 funding round, one person said.",
+        "url": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108276391-1773186892442-gettyimages-2260125457-sk1_6091_df5c19kn.jpeg?v=1776444145&w=1920&h=1080",
+        "publishedAt": "2026-04-17T17:26:56Z",
+        "content": "Cerebras, a producer of chips that run artificial intelligence models, will file to go public on Friday, two people familiar with the matter told CNBC.\r\nThe people spoke on condition of anonymity, in\u2026 [+2224 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Priyanka Salve",
-        "title": "Inside India newsletter: Small towns are powering e-commerce's fastest-growing market, dominated by Amazon, Walmart unit",
-        "description": "Small towns are fueling India\u2019s e\u2011commerce surge, with Amazon and Flipkart chasing new shoppers, faster delivery and rising aspirational demand.",
-        "url": "https://www.cnbc.com/2026/04/15/inside-india-newsletter-small-towns-amazon-walmart-ecommerce.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291503-1776220903118-gettyimages-2171810382-avdsept24anklot8f.jpeg?v=1776220923&w=1920&h=1080",
-        "publishedAt": "2026-04-16T00:10:36Z",
-        "content": "Hello, this is Priyanka Salve, writing to you from Singapore. \r\nWelcome to the latest edition of \"Inside India\" your one-stop destination for stories and developments from the world's fastest growing\u2026 [+6311 chars]"
+        "author": "Ashley Capoot",
+        "title": "OpenAI loses two executives in latest leadership shakeup",
+        "description": "Their exits come just weeks after Fidji Simo,\u00a0OpenAI's\u00a0product and business chief, announced she would take a medical leave.",
+        "url": "https://www.cnbc.com/2026/04/17/openai-executives-leave.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108293472-1776457079453-gettyimages-2212179127-HILL_VALLEY_FORUM.jpeg?v=1776457115&w=1920&h=1080",
+        "publishedAt": "2026-04-17T21:16:06Z",
+        "content": "Two OpenAI executives announced their departures from the company on Friday, the latest in a series of leadership shakeups at the artificial intelligence startup. \r\nBill Peebles, who led OpenAI's def\u2026 [+1946 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jim Edwards",
+        "title": "The world holds its breath: Trump says Iran war will end \u2018pretty soon\u2019 as uranium deal is in sight",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/04/17/trump-iran-war-peace-end-pretty-soon-uranium-deal/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2271127367.jpg?resize=1200,600",
+        "publishedAt": "2026-04-17T10:09:37Z",
+        "content": "S&amp;P 500 futures ticked up 0.18% this morning and were rising steadily on news that the U.S. war with Iran may be approaching an end. The index closed up 0.26% yesterday for a second straight reco\u2026 [+7778 chars]"
     }
 ]

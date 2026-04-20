@@ -1,133 +1,42 @@
 [
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Kat Merck",
-        "title": "Coolfly Aura Review: More Angles, Fewer Advantages",
-        "description": "This smart feeder\u2019s industry-first modular camera system adds flexibility but not necessarily a better experience.",
-        "url": "https://www.wired.com/review/coolfly-aura-smart-bird-feeder/",
-        "urlToImage": "https://media.wired.com/photos/69e19d1af63cad28cd7ff8b6/191:100/w_1280,c_limit/Review--CoolFly-Aura-Smart-Bird-Feeder.jpg",
-        "publishedAt": "2026-04-17T12:30:00Z",
-        "content": "Assembly was quick and tool-free, requiring only a handful of included knob screws. I also like that it included both fence- and pole-mounting options, the latter of which is critical for preventing \u2026 [+3663 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Allison Johnson",
-        "title": "This charming gadget writes bad AI poetry",
-        "description": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick i\u2026",
-        "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268467_Poetry_Camera_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "publishedAt": "2026-04-17T17:11:10Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat is a poem?\r\nby\r\nAllison JohnsonClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Alli\u2026 [+6011 chars]"
+        "author": "Mike Pearl",
+        "title": "Trump, When Asked About White House Meeting with Anthropic\u2019s Dario Amodei: \u2018Who?\u2019",
+        "description": "The White House is in a tricky position with Anthropic right now.",
+        "url": "https://gizmodo.com/trump-when-asked-about-white-house-meeting-with-anthropics-dario-amodei-who-2000748236",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2268677104-1200x675.jpg",
+        "publishedAt": "2026-04-18T17:25:16Z",
+        "content": "In Truth Social-ese, one might say Anthropics Claude Mythos Preview model is \u201cthe \u2018hottest\u2019 AI model out there\u201dwith Trump\u2019s patented awkward scare quotes around \u201chottest.\u201d Anthropic has said Mythos i\u2026 [+4228 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "Gizmodo.com"
         },
-        "author": "Giselle Castro-Sloboda",
-        "title": "OpenAI Has a New AI Model Built for Biology and Science",
-        "description": "GPT-Rosalind is intended to help scientists streamline their research and drug discovery.",
-        "url": "https://www.cnet.com/tech/services-and-software/openai-gpt-rosalind-model-release/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/921f4f17206019f8083ca2c76d863626d890e0c5/hub/2026/04/17/8188e92b-f159-400c-9d0e-656f55473e79/gettyimages-2054866895.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-17T19:35:21Z",
-        "content": "OpenAI's latest AI model is built to do far more than offer cooking advice or create a spreadsheet. GPT-Rosalind, the company's first model specifically built for life science, is meant to help scien\u2026 [+2479 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Katelyn Chedraoui",
-        "title": "Apple and Google Broke Their Own Rules by Promoting 'Nudify' Apps, Report Says",
-        "description": "A new report from the Tech Transparency Project found over 100 apps on app stores are designed to \"undress people\" from photos.",
-        "url": "https://www.cnet.com/tech/services-and-software/apple-google-app-store-undressing-apps-report-news/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/9935806daaff671e1090ca9ae73b241eff99412c/hub/2024/11/07/108eaa6f-0f37-4037-8561-36158ae224a5/gettyimages-1738589913.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-17T19:20:36Z",
-        "content": "If you want an app you built to be downloadable from the Apple App Store or Google Play Store, it has to pass a slew of criteria, including safety standards.\u00a0\r\nBut a new report on Wednesday alleges t\u2026 [+3147 chars]"
+        "author": "Matt Novak",
+        "title": "The AI Doomers Who Are Playing With Fire",
+        "description": "For years, the dangerous rhetoric has been out of control. And things are turning violent.",
+        "url": "https://gizmodo.com/the-ai-doomers-who-are-playing-with-fire-2000747606",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1200x675.jpg",
+        "publishedAt": "2026-04-18T12:00:38Z",
+        "content": "After OpenAI\u2019s ChatGPT burst onto the scene in late 2022, it wasn\u2019t long before mainstream America started hearing about the warnings. Executives at the top AI companies told us that they were buildi\u2026 [+9926 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Zeus Kerravala",
-        "title": "How Zscaler and OpenAI turn zero-trust security into an AI accelerator",
-        "description": "Zscaler Inc.\u2018s\u00a0new partnership with\u00a0OpenAI Group PBC has the potential to transform the security firm\u2019s cloud-native zero-trust platform into an engine that can both harden its own stack and help customers deploy artificial intelligence with confidence at lar\u2026",
-        "url": "https://siliconangle.com/2026/04/16/zscaler-openai-turn-zero-trust-security-ai-accelerator/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/04/aicybershield-gemini.jpeg",
-        "publishedAt": "2026-04-17T00:32:13Z",
-        "content": "Zscaler Inc.\u2018s\u00a0new partnership with\u00a0OpenAI Group PBC has the potential to transform the security firm\u2019s cloud-native zero-trust platform into an engine that can both harden its own stack and help cus\u2026 [+10718 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "NanoClaw partners with Vercel to deliver one-click approvals for AI agents working on sensitive tasks",
-        "description": "NanoCo, the startup behind NanoClaw, a fast-growing alternative to OpenAI Group PBC\u2019s OpenClaw project, said today it\u2019s teaming up with Vercel Inc. and OneCLI to try to fix the \u201ctrust problem\u201d holding back artificial intelligence agents. Their idea is to brin\u2026",
-        "url": "https://siliconangle.com/2026/04/17/nanoclaw-partners-vercel-deliver-one-click-approvals-ai-agents-working-sensitive-tasks/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-17-10-06-01.png",
-        "publishedAt": "2026-04-17T11:00:38Z",
-        "content": "NanoCo, the startup behind NanoClaw, a fast-growing alternative to OpenAI Group PBCs OpenClaw project, said today its teaming up with Vercel Inc. and OneCLI to try to fix the trust problem holding ba\u2026 [+4769 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "OpenAI ratchets up Codex\u2019s agentic capabilities to rival Claude Code",
-        "description": "OpenAI Group PBC today announced a major revamp of its artificial intelligence coding tool Codex, giving it a number of new \u201cagentic\u201d capabilities that enable more complex task automation. The ChatGPT maker is engaged in a fierce battle for AI coding supremac\u2026",
-        "url": "https://siliconangle.com/2026/04/16/openai-ratchets-codexs-agentic-capabilities-rival-claude-code/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-17-07-14-58.png",
-        "publishedAt": "2026-04-17T00:19:09Z",
-        "content": "OpenAI Group PBC today announced a major revamp of its artificial intelligence coding tool Codex, giving it a number of new agentic capabilities that enable more complex task automation.\r\nThe ChatGPT\u2026 [+4187 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "AI Mode in Chrome adds split-screen view to enhance the web search experience",
-        "description": "Google LLC today rolled out a major revamp of AI Mode in Google Chrome, giving users a more efficient way to explore the web through its conversational search experience. The most impactful update is that clicking links in AI Mode will see the resulting webpa\u2026",
-        "url": "https://siliconangle.com/2026/04/16/ai-mode-chrome-adds-split-screen-view-enhance-web-search-experience/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-17-08-11-17.png",
-        "publishedAt": "2026-04-17T01:31:08Z",
-        "content": "Google LLC today rolled out a major revamp of AI Mode in Google Chrome, giving users a more efficient way to explore the web through its conversational search experience.\r\nThe most impactful update i\u2026 [+4080 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "AI chip developer Cerebras Systems files to go public amid rapid revenue growth",
-        "description": "Cerebras Systems Inc., the developer of the wafer-size WSE-3 artificial intelligence chip, today filed to go public. The move comes about 18 months after the company\u2019s first attempt to list its shares. It filed for an initial public offering in September 2024\u2026",
-        "url": "https://siliconangle.com/2026/04/17/ai-chip-developer-cerebras-systems-files-go-public-amid-rapid-revenue-growth/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Cerebras.png",
-        "publishedAt": "2026-04-17T23:26:49Z",
-        "content": "Cerebras Systems Inc., the developer of the wafer-size WSE-3 artificial intelligence chip, today filed to go public.\r\nThe move comes about 18 months after the companys first attempt to list its share\u2026 [+4959 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Chad Wilson",
-        "title": "Dell and Nvidia turn AI infrastructure into the new power center of enterprise tech",
-        "description": "As artificial intelligence scales, AI infrastructure is becoming the deciding factor in whether enterprise AI delivers real value or stalls. AI is shifting from experimentation to unified systems where infrastructure, data and software work together. Partners\u2026",
-        "url": "https://siliconangle.com/2026/04/17/dell-nvidia-push-ai-infrastructure-aifactoriesdatacenters/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Varun-Chhabra-Dell-and-Anne-Hecht-Nvidia.png",
-        "publishedAt": "2026-04-17T20:59:10Z",
-        "content": "As artificial intelligence scales, AI infrastructure is becoming the deciding factor in whether enterprise AI delivers real value or stalls.\r\nAI is shifting from experimentation to unified systems wh\u2026 [+6645 chars]"
+        "author": "Dave Vellante",
+        "title": "As AI powers Google, what\u2019s next for Google Cloud",
+        "description": "The agentic artificial intelligence era is forcing a reset in enterprise architecture. Agents that take action go well beyond analyzing data sitting in lakehouses. When agents operate on behalf of humans \u2013 continuously, at machine scale \u2013 they introduce requi\u2026",
+        "url": "https://siliconangle.com/2026/04/18/ai-powers-google-whats-next-google-cloud/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Gemini_Generated_Image_z49gmz49gmz49gmz-2048x1117.png",
+        "publishedAt": "2026-04-19T02:34:49Z",
+        "content": "The agentic artificial intelligence era is forcing a reset in enterprise architecture.\r\nAgents that take action go well beyond analyzing data sitting in lakehouses. When agents operate on behalf of h\u2026 [+25905 chars]"
     },
     {
         "source": {
@@ -147,84 +56,6 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Resolve AI raises $40M at $1.5B valuation to optimize production environments",
-        "description": "Resolve AI Inc., a startup that helps enterprises make their infrastructure more reliable, has raised $40 million in funding. DST Global and Salesforce Ventures led the investment. It comes as an extension to a $125 million Series A round that Resolve AI anno\u2026",
-        "url": "https://siliconangle.com/2026/04/16/resolve-ai-raises-40m-1-5b-valuation-optimize-production-environments/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/kevin-ku-w7ZyuGYNpRQ-unsplash-1.jpg",
-        "publishedAt": "2026-04-17T00:53:03Z",
-        "content": "Resolve AI Inc., a startup that helps enterprises make their infrastructure more reliable, has raised $40 million in funding.\r\nDST Global and Salesforce Ventures led the investment. It comes as an ex\u2026 [+4293 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Anthropic launches Claude Design to speed up graphic design projects",
-        "description": "The latest addition to Anthropic PBC\u2019s product portfolio is Claude Design, a tool that enables users to generate visual assets with prompts. The company launched the offering into public preview today. It\u2019s available to Claude users with Pro, Max, Team and En\u2026",
-        "url": "https://siliconangle.com/2026/04/17/anthropic-launches-claude-design-speed-graphic-design-projects/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Claude.png",
-        "publishedAt": "2026-04-17T20:45:09Z",
-        "content": "The latest addition to Anthropic PBCs product portfolio is Claude Design, a tool that enables users to generate visual assets with prompts.\r\nThe company launched the offering into public preview toda\u2026 [+4635 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "AI + quantum, Amazon vs. Starlink and the wide-open US-China internet battle",
-        "description": "Quantum computing keeps gaining momentum even though practically it\u2019s years away from wide commercialization, and World Quantum Day April 14 provided an excuse for a lot of announcements. Among them: Nvidia unveiled AI models for quantum error correction. Dav\u2026",
-        "url": "https://siliconangle.com/2026/04/17/ai-quantum-amazon-vs-starlink-wide-open-us-china-internet-battle/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Quantum-Computer-_-AI-Figures-2.png",
-        "publishedAt": "2026-04-17T14:00:59Z",
-        "content": "Quantum computing keeps gaining momentum even though practically it\u2019s years away from wide commercialization, and World Quantum Day April 14 provided an excuse for a lot of announcements.\r\nAmong them\u2026 [+10757 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Team Cymru launches Total Insights Feed to replace legacy threat intelligence lists",
-        "description": "Real-time threat intelligence company Team Cymru Inc. today announced the launch of Total Insights Feed, a unified threat intelligence platform that is designed to replace legacy indicator list-based feeds with machine-actionable, scored intelligence across t\u2026",
-        "url": "https://siliconangle.com/2026/04/17/team-cymru-launches-total-insights-feed-replace-legacy-threat-intelligence-lists/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/teamcymru.png",
-        "publishedAt": "2026-04-17T12:00:39Z",
-        "content": "Real-time threat intelligence company Team Cymru Inc. today announced the launch of Total Insights Feed, a unified threat intelligence platform that is designed to replace legacy indicator list-based\u2026 [+3748 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jason Bloomberg",
-        "title": "Will agentic AI governance run amok? The lesson of Asimov\u2019s Three Laws",
-        "description": "Asimov\u2019s Three Laws of Robotics: A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law. A robot must pro\u2026",
-        "url": "https://siliconangle.com/2026/04/17/will-agentic-ai-governance-run-amok-lesson-asimovs-three-laws/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/robot-police.jpg",
-        "publishedAt": "2026-04-17T15:56:02Z",
-        "content": "Asimovs Three Laws of Robotics:\r\n<ol><li>A robot may not injure a human being or, through inaction, allow a human being to come to harm.\r\n</li><li>A robot must obey the orders given it by human being\u2026 [+12431 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Jess Weatherbed",
-        "title": "The creative software industry has declared war on Adobe",
-        "description": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come. The Creative Cloud provider's suite of design tools have been considered the industry standard for decades - despite unpopular decisi\u2026",
-        "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Creative-apps-declare-war-on-Adobe.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-04-17T12:51:16Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nIf you cant beat them, undercut them on price.\r\nIf you cant beat them, undercut them on price.\r\nby\r\nJess WeatherbedClose\r\nPosts from this author will be added to\u2026 [+5345 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
         "author": "Zeus Kerravala",
         "title": "AI in coding: Five takeaways from\u00a0Cursor COO Jordan Topoleski\u2019s\u00a0fireside chat at NTT Upgrade",
         "description": "The theme of\u00a0NTT Research Inc.\u2018s\u00a0annual user event, Upgrade, in San Jose this week was\u00a0\u201cResearch to Reality,\u201d a reflection of NTT\u2019s desire to balance the academic nature of research with the practicality of ensuring the outcome is something customers can use \u2026",
@@ -235,93 +66,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Theregister.com"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "ZTE",
-        "title": "ZTE highlights path to broadband monetization at FTTH conference 2026",
-        "description": "Urges operators to shift focus from traditional network metrics to managing user experience and customer behavior\nPartner Content ZTE Corporation (0763.HK / 000063.SZ), a globally leading provider of integrated information and communication technology solutio\u2026",
-        "url": "https://www.theregister.com/2026/04/17/zte_highlights_path_to_broadband_monetization/",
-        "urlToImage": "https://regmedia.co.uk/2026/04/17/zte_large.jpg",
-        "publishedAt": "2026-04-17T11:48:08Z",
-        "content": "Partner Content ZTE Corporation (0763.HK / 000063.SZ), a globally leading provider of integrated information and communication technology solutions, today shared its latest perspectives on broadband \u2026 [+3842 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "Jon Martindale",
-        "title": "Local political revolts threaten to derail US data center projects \u2014 mounting delays are already costing AI hyperscalers billions",
-        "description": "Local communities all over America and the world are pushing back on the explosive growth of AI data center projects. Through local courts, community action, and intense meetings with politicians, the general public are forcing the cancellation of major data \u2026",
-        "url": "https://www.tomshardware.com/tech-industry/local-political-revolts-threaten-to-derail-us-data-center-projects-mounting-delays-are-already-costing-ai-hyperscalers-billions",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/PJ7hq4YZcLebfzKvT7XLVc-1600-80.jpg",
-        "publishedAt": "2026-04-17T15:25:06Z",
-        "content": "AI companies have a compute problem. As the usage of artificial intelligence is increasing among working adults in the U.S., computing power has become a precious resource that hyperscalers cannot ig\u2026 [+6017 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Tiernan Ray",
-        "title": "Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe",
-        "description": "AI is a great tool for small, well-defined tasks, but maintain a healthy skepticism and avoid falling down a rabbit hole.",
-        "url": "https://www.zdnet.com/article/why-prolonged-ai-use-risks-your-health-4-ways-to-stay-safe/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/9500b8c8ba02dff1c01cd712dda70c5bbe9c2816/2026/04/17/6eec25f3-d8c3-46e9-8b44-b2175267a6ac/adeephole-gettyimages-856656258.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-17T18:06:37Z",
-        "content": "Puneet Vikram Singh, Nature and Concept photographer/ Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \u2028\r\n<ul><li>AI is getting better at small ta\u2026 [+9897 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "David Gewirtz",
-        "title": "AI-powered website builders have come a long way - here's your best option in 2026",
-        "description": "Last year, the best we could say about AI website builders is they had potential. This year, we found some that can actually do the job.",
-        "url": "https://www.zdnet.com/article/ai-website-builders-your-best-option/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/eb64ae8eba4b6032fb4bfc58ec68d9a3fd4ce2c5/2026/04/15/cdc35a77-a721-47af-870e-762fd3dada71/designabstract-gettyimages-2252176226.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-17T01:30:00Z",
-        "content": "Slim3D/iStock / Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nGenerative AI and web development seem tailor-made for each other. Web design combines codin\u2026 [+19704 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams",
-        "description": "The bar for creating visual assets has been lowered to the ability to converse with a model\nAnthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called \u2026",
-        "url": "https://www.theregister.com/2026/04/17/anthropic_debuts_claude_design/",
-        "urlToImage": "https://regmedia.co.uk/2024/10/06/shutterstock_ai_design.jpg",
-        "publishedAt": "2026-04-17T20:38:02Z",
-        "content": "Anthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called Claude Design that creates visua\u2026 [+4986 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Sean O'kane",
-        "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
-        "description": "The San Francisco startup closed a Series C funding round led by Antonio Gracias' firm Valor, which is a major backer of xAI.",
-        "url": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/loop-founders.jpg?resize=1200,809",
-        "publishedAt": "2026-04-17T13:02:37Z",
-        "content": "Supply chains are messy. San Francisco-based startup Loop isn\u2019t content helping companies merely clean up their supply chains. Instead, the startup is using AI to offer companies predictive, and even\u2026 [+4788 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Steven Levy",
-        "title": "AI Drafting My Stories? Over My Dead Body",
-        "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
-        "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
-        "urlToImage": "https://media.wired.com/photos/69e1650c3768d90cb0bbf6c2/191:100/w_1280,c_limit/Backchannel-Issue-With-AI-Doing-the-Writing-Busines-491874561.jpg",
-        "publishedAt": "2026-04-17T15:46:06Z",
-        "content": "Sportswriting legend Red Smith once said that writing a column is easy: All you do is sit down at a typewriter and bleed. In 2026, though, no blood is required. All you do is sit down at a laptop and\u2026 [+3629 chars]"
+        "author": "Alina Maria Stan",
+        "title": "Three more senior executives leave OpenAI as the company kills its side quests",
+        "description": "Summary: Three senior OpenAI executives, former CPO Kevin Weil, Sora head Bill Peebles, and enterprise CTO Srinivas Narayanan \u2013 departed on the same day as the company shuts down \u201cside quests\u201d including Sora (discontinuing 26 April) and dismantles OpenAI for \u2026",
+        "url": "https://thenextweb.com/news/openai-departures-kevin-weil-sora-peebles-enterprise-pivot/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/openai-departures-kevin-weil-sora-peebles-enterprise-pivot.png",
+        "publishedAt": "2026-04-18T10:13:18Z",
+        "content": "Summary: Three senior OpenAI executives, former CPO Kevin Weil, Sora head Bill Peebles, and enterprise CTO Srinivas Narayanan departed on the same day as the company shuts down side quests including \u2026 [+7614 chars]"
     }
 ]

@@ -1,16 +1,42 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Javier Carbajal",
+        "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+        "description": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+        "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+        "urlToImage": "https://media.wired.com/photos/69e67707d27252207be01419/191:100/w_1280,c_limit/robotchino1.jpg",
+        "publishedAt": "2026-04-20T22:33:27Z",
+        "content": "Over the weekend in China, a humanoid robot shattered world half-marathon recordthe human recordby seven minutes.\r\nThe star performer was a robot developed by the Chinese company Honor (the smartphon\u2026 [+3492 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "David Lumb",
-        "title": "1000xResist Studio's Next Indie Game Asks: Can You Convince an AI It Isn't Human?",
-        "description": "Perhaps the most relevant game for the ChatGPT era.",
-        "url": "https://www.cnet.com/tech/gaming/1000xresist-studios-next-indie-game-prove-youre-human-interview/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/12d916d564af167a1991dc34d207128e62535353/hub/2026/04/18/8bb0c446-ced7-4196-b414-b2b1962ba848/pyh-keyart-still-4k.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-19T11:00:58Z",
-        "content": "If you're flustered at how much AI chatbots chat like humans, there's an upcoming indie game with your name on it.\r\nDuring the Triple-i Initiative showcase in early April, the studio Sunset Visitor (\u2026 [+9008 chars]"
+        "author": "Omar Gallaga",
+        "title": "Are You a Verified Human? Yes? That's Exactly What AI Would Say!",
+        "description": "World ID, an identity system designed to prove you're human, is expanding to Tinder and concert ticket sales.",
+        "url": "https://www.cnet.com/tech/services-and-software/are-you-a-verified-human-yes-thats-exactly-what-an-ai-would-say/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/5e0ac555237059d0eaff50b0613b2d21c6eb2e41/hub/2026/04/20/beb84b9a-639a-4b1b-b093-3f909dfd456b/worldid.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-20T20:04:41Z",
+        "content": "World ID is a verification system for people to prove they are human. It's part of the ecosystem of apps and tools from World focused around identity.\r\nWorld\r\nIt's hard out here for a human as artifi\u2026 [+1617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "JetBlue Responds to Accusations of Using Surveillance Pricing After Viral Tweet",
+        "description": "Surveillance pricing or not, the airline is probably offering good advice.",
+        "url": "https://gizmodo.com/jetblue-responds-to-accusations-of-using-surveillance-pricing-after-viral-tweet-2000748602",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/jetblue-dot-fine-1200x675.jpg",
+        "publishedAt": "2026-04-20T18:15:01Z",
+        "content": "Is JetBlue engaging in surveillance pricing, the practice of charging customers different prices based on data like location, age, sex, and income level? That\u2019s the question after a tweet from the ai\u2026 [+3612 chars]"
     },
     {
         "source": {
@@ -24,6 +50,97 @@
         "urlToImage": "https://regmedia.co.uk/2026/04/17/shutterstock_tilling.jpg",
         "publishedAt": "2026-04-20T08:25:07Z",
         "content": "Opinion Fans of the creative arts often find out where creators gather to talk among themselves, then sneak in to eavesdrop on what those masters of the art talk about. Golden insights, daring concep\u2026 [+5229 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Elizabeth Lopatto",
+        "title": "Silicon Valley has forgotten what normal people want",
+        "description": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an a\u2026",
+        "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-04-20T20:19:49Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSilicon Valley has forgotten what normal people want\r\nWhat NFTs, AI and the metaverse tell us about thought leadership\r\nby\r\nElizabeth LopattoClose\r\nPosts from th\u2026 [+18278 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "House Candidate Unveils Plan to Pay Americans Who Face AI Job Displacement",
+        "description": "The funds would come from a \"modest\" AI tax.",
+        "url": "https://gizmodo.com/house-candidate-unveils-plan-to-pay-americans-who-face-ai-job-displacement-2000748609",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-1493516220-1200x675.jpg",
+        "publishedAt": "2026-04-20T21:16:21Z",
+        "content": "A prominent congressional candidate in the upcoming 2026 midterm elections just unveiled a striking new AI policy that is bound to ruffle some feathers in Silicon Valley.\r\nNew York assemblymember Ale\u2026 [+4647 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Canva\u2019s CEO on its big pivot to AI enterprise software",
+        "description": "Today, I\u2019m talking with Melanie Perkins, founder and CEO of Canva, a popular online design tool. I always enjoy talking with Melanie. She was last on the show a couple of years ago, just as the AI revolution was coming to the worlds of art and design. At the \u2026",
+        "url": "https://www.theverge.com/podcast/913793/melanie-perkins-canva-ai-adobe-affinity-design",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_Perkins_Canva.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-04-20T14:27:50Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy Melanie Perkins is confident Canva can take on the big AI players.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics s\u2026 [+65589 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Moonshot AI releases Kimi-K2.6 model with 1T parameters, attention optimizations",
+        "description": "Moonshot AI today released Kimi-K2.6, the latest addition to its popular Kimi series of open-source large language models. The Chinese artificial intelligence startup says that the algorithm outperforms GPT-5.4 and Claude Opus 4.6 across several AI benchmarks\u2026",
+        "url": "https://siliconangle.com/2026/04/20/moonshot-ai-releases-kimi-k2-6-model-1t-parameters-attention-optimizations/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/unsplash2-2.png",
+        "publishedAt": "2026-04-20T23:04:02Z",
+        "content": "Moonshot AI today released Kimi-K2.6, the latest addition to its popular Kimi series of open-source large language models.\r\nThe Chinese artificial intelligence startup says that the algorithm outperf\u2026 [+4385 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mark Albertson",
+        "title": "What to expect during the Phi Moments @ Next event: Join theCUBE April 22-23",
+        "description": "Advances in the use of artificial intelligence by major providers such as Google Cloud are not confined solely to the hyperscaler\u2019s own customers. Partners, such as the AI-first digital engineering company Quantiphi Inc., are leveraging the cloud company\u2019s of\u2026",
+        "url": "https://siliconangle.com/2026/04/20/phi-moments-google-cloud-next-ai-first-digital-phimomentsatnext/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Phi-Moments-at-Google-Cloud-Next-2026.png",
+        "publishedAt": "2026-04-20T17:32:51Z",
+        "content": "Advances in the use of artificial intelligence by major providers such as Google Cloud are not confined solely to the hyperscalers own customers. Partners, such as the AI-first digital engineering co\u2026 [+5970 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Zeus Kerravala",
+        "title": "Five takeaways from CEO Shantanu Narayen\u2019s final keynote at Adobe Summit",
+        "description": "The 2026 edition of Adobe Summit this week marks a historic turning point for the software giant. It not only showcased the next frontier of \u201cagentic artificial intelligence\u201d but also served as the swan song for Shantanu Narayen, who delivered his final keyno\u2026",
+        "url": "https://siliconangle.com/2026/04/20/five-takeaways-ceo-shantanu-narayens-final-keynote-adobe-summit/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Adobe-Jensen-Shantanu.png",
+        "publishedAt": "2026-04-21T02:21:24Z",
+        "content": "The 2026 edition of Adobe Summit this week marks a historic turning point for the software giant.\r\nIt not only showcased the next frontier of \u201cagentic artificial intelligence\u201d but also served as the \u2026 [+8670 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Aikido Security debuts Endpoint for AI-native developer security",
+        "description": "Belgian cybersecurity company Aikido Security BV\u00a0today launched Endpoint, a lightweight security agent designed to secure artificial intelligence use on developer workstations and address supply chain attacks against open-source software.\u00a0 Endpoint delivers a\u2026",
+        "url": "https://siliconangle.com/2026/04/20/aikido-security-debuts-endpoint-ai-native-developer-security/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/An-abstract-cybersecurity-AI-protecting-a-laptop-floating-in-space-using-ghostly-blue-luminous-locks.jpeg",
+        "publishedAt": "2026-04-20T11:00:26Z",
+        "content": "Belgian cybersecurity company Aikido Security BV\u00a0today launched Endpoint, a lightweight security agent designed to secure artificial intelligence use on developer workstations and address supply chai\u2026 [+4252 chars]"
     },
     {
         "source": {
@@ -43,26 +160,169 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dave Vellante",
-        "title": "As AI powers Google, what\u2019s next for Google Cloud",
-        "description": "The agentic artificial intelligence era is forcing a reset in enterprise architecture. Agents that take action go well beyond analyzing data sitting in lakehouses. When agents operate on behalf of humans \u2013 continuously, at machine scale \u2013 they introduce requi\u2026",
-        "url": "https://siliconangle.com/2026/04/18/ai-powers-google-whats-next-google-cloud/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Gemini_Generated_Image_z49gmz49gmz49gmz-2048x1117.png",
-        "publishedAt": "2026-04-19T02:34:49Z",
-        "content": "The agentic artificial intelligence era is forcing a reset in enterprise architecture.\r\nAgents that take action go well beyond analyzing data sitting in lakehouses. When agents operate on behalf of h\u2026 [+25905 chars]"
+        "author": "Mike Wheatley",
+        "title": "Grafana is trying to close the AI observability gap before enterprise agents reign supreme",
+        "description": "Observability startup Grafana Labs Inc. said today it\u2019s trying to shine a light on the \u201cblack box\u201d inner workings of artificial intelligence models with the launch of new capabilities that will better enable companies to trust and control them in production. \u2026",
+        "url": "https://siliconangle.com/2026/04/21/grafana-trying-close-ai-observability-gap-enterprise-agents-reign-supreme/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/document-20.jpeg",
+        "publishedAt": "2026-04-21T07:00:33Z",
+        "content": "Observability startup Grafana Labs Inc. said today its trying to shine a light on the black box inner workings of artificial intelligence models with the launch of new capabilities that will better e\u2026 [+5485 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Adobe deploys AI agents across its customer experience tools",
+        "description": "Adobe Inc. today unveiled a new enterprise platform designed to coordinate artificial intelligence agents across marketing, content and customer engagement workflows, as the company seeks to position itself at the center of what it describes as \u201ccustomer expe\u2026",
+        "url": "https://siliconangle.com/2026/04/20/adobe-deploys-ai-agents-across-customer-experience-tools/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/06/Adobe1.png",
+        "publishedAt": "2026-04-20T17:28:42Z",
+        "content": "Adobe Inc. today unveiled a new enterprise platform designed to coordinate artificial intelligence agents across marketing, content and customer engagement workflows, as the company seeks to position\u2026 [+4848 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Adobe deploys agents across its customer experience tools",
+        "description": "Adobe Inc. today unveiled a new enterprise platform designed to coordinate artificial intelligence agents across marketing, content and customer engagement workflows, as the company seeks to position itself at the center of what it describes as \u201ccustomer expe\u2026",
+        "url": "https://siliconangle.com/2026/04/20/adobe-deploys-agents-across-customer-experience-tools/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/06/Adobe1.png",
+        "publishedAt": "2026-04-20T17:28:42Z",
+        "content": "Adobe Inc. today unveiled a new enterprise platform designed to coordinate artificial intelligence agents across marketing, content and customer engagement workflows, as the company seeks to position\u2026 [+4848 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "DeepKeep rolls out Vibe AI Red Teaming to test AI apps and agents",
+        "description": "Artificial intelligence security platform company\u00a0DeepKeep Ltd.\u00a0today announced the launch of Vibe AI Red Teaming, a capability designed for human-steered, dynamic testing and attack simulation on AI applications and AI agents. The new solution sees the intro\u2026",
+        "url": "https://siliconangle.com/2026/04/20/deepkeep-rolls-vibe-ai-red-teaming-test-ai-apps-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/airedteaming.png",
+        "publishedAt": "2026-04-20T13:00:00Z",
+        "content": "Artificial intelligence security platform company\u00a0DeepKeep Ltd.\u00a0today announced the launch of Vibe AI Red Teaming, a capability designed for human-steered, dynamic testing and attack simulation on AI\u2026 [+4192 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mark Albertson",
+        "title": "Mythos remains a mystery as security world faces rising threats, agentic attacks and concerns about AI integrity",
+        "description": "Anthropic PBC\u2019s Claude Mythos model has emerged as the most widely discussed artificial intelligence solution without being fully released. Information about the model, which\u00a0reportedly\u00a0has the ability to analyze software at large scale, find bugs in hardened\u2026",
+        "url": "https://siliconangle.com/2026/04/20/mythos-remains-mystery-security-world-faces-rising-threats-agentic-attacks-concerns-ai-integrity/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Jacob-Klein.jpg",
+        "publishedAt": "2026-04-21T02:58:30Z",
+        "content": "Anthropic PBCs Claude Mythos model has emerged as the most widely discussed artificial intelligence solution without being fully released.\r\nInformation about the model, which\u00a0reportedly\u00a0has the abili\u2026 [+8185 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "John Furrier",
+        "title": "Google Cloud Next 2026 preview: The real story isn\u2019t AI \u2014 it\u2019s the control plane",
+        "description": "Everyone heading into Google Cloud Next this week is bracing for another wave of artificial intelligence announcements. More Gemini. More agents. More benchmarks. More on-stage demos that look great in a keynote and disappear into a slide deck by Friday. That\u2026",
+        "url": "https://siliconangle.com/2026/04/20/google-cloud-next-2026-preview-real-story-isnt-ai-control-plane/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/agenticlayer.png",
+        "publishedAt": "2026-04-21T00:51:59Z",
+        "content": "Everyone heading into Google Cloud Next this week is bracing for another wave of artificial intelligence announcements. More Gemini. More agents. More benchmarks. More on-stage demos that look great \u2026 [+10813 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Tim Cook out, John Ternus in: Apple names hardware boss its next chief executive",
+        "description": "Apple Inc. announced today that John Ternus, its senior vice president of hardware engineering, will become chief executive officer on Sept. 1, succeeding Tim Cook, who will transition to executive chairman after roughly 15 years running the iPhone maker. App\u2026",
+        "url": "https://siliconangle.com/2026/04/20/cook-ternus-apple-names-hardware-boss-next-chief-executive-officer/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/newappleceo.png",
+        "publishedAt": "2026-04-20T22:44:26Z",
+        "content": "Apple Inc. announced today that John Ternus, its senior vice president of hardware engineering, will become chief executive officer on Sept. 1, succeeding Tim Cook, who will transition to executive c\u2026 [+3705 chars]"
     },
     {
         "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Ana Maria Constantin",
-        "title": "Trump wants to stop states from regulating AI. States and Congress keep saying no.",
-        "description": "In short: The Trump administration is waging a multi-front campaign to prevent states from regulating AI, using a DOJ litigation task force, Commerce Department evaluations of \u201cburdensome\u201d state laws, and a legislative framework urging Congress to preempt sta\u2026",
-        "url": "https://thenextweb.com/news/trump-ai-national-standard-preempt-state-regulation/",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/trump-ai-national-standard-preempt-state-regulation.png",
-        "publishedAt": "2026-04-19T15:40:53Z",
-        "content": "In short: The Trump administration is waging a multi-front campaign to prevent states from regulating AI, using a DOJ litigation task force, Commerce Department evaluations of burdensome state laws, \u2026 [+10644 chars]"
+        "author": "Callum Turner",
+        "title": "Intelligent Investing founder Arnout Ter Schure on integrating AI capabilities with human market insight and structure",
+        "description": "Intelligent Investing, a research-driven market analysis platform, works from the premise that artificial intelligence can expand financial forecasting by processing large datasets, accelerating strategy development, and enabling systematic execution. Alongsi\u2026",
+        "url": "https://thenextweb.com/news/ai-human-judgment-financial-markets/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/ai-human-judgment-financial-markets.png",
+        "publishedAt": "2026-04-20T17:59:26Z",
+        "content": "Intelligent Investing, a research-driven market analysis platform, works from the premise that artificial intelligence can expand financial forecasting by processing large datasets, accelerating stra\u2026 [+6306 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Chad Wilson",
+        "title": "On theCUBE Pod: IBM\u2019s AI strategy, infrastructure bottlenecks and ecosystem partnerships reshape markets",
+        "description": "AI infrastructure is now the deciding force behind enterprise competitiveness. What was once a backend concern has moved directly into the center of business strategy, shaping how companies deploy, scale and ultimately extract value from AI. The shift is expo\u2026",
+        "url": "https://siliconangle.com/2026/04/20/ibms-ai-infrastructure-bottlenecks-ecosystem-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/John-Furrier-and-Dave-Vellante-theCUBE-Pod-4.20.26.png",
+        "publishedAt": "2026-04-20T16:39:50Z",
+        "content": "AI infrastructure is now the deciding force behind enterprise competitiveness.\r\nWhat was once a backend concern has moved directly into the center of business strategy, shaping how companies deploy, \u2026 [+6895 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Amazon to invest up to $25B in Anthropic as part of expanded cloud partnership",
+        "description": "Amazon.com Inc. plans to invest up to $25 billion in Anthropic PBC and provide the company with a significant amount of additional computing capacity. The collaboration, which was announced today, builds on an existing partnership that stretches back three ye\u2026",
+        "url": "https://siliconangle.com/2026/04/20/amazon-invest-25b-anthropic-part-expanded-cloud-partnership/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Anthropic1.png",
+        "publishedAt": "2026-04-21T00:49:52Z",
+        "content": "Amazon.com Inc. plans to invest up to $25 billion in Anthropic PBC and provide the company with a significant amount of additional computing capacity.\r\nThe collaboration, which was announced today, b\u2026 [+4478 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Developer tooling provider Vercel discloses breach that exposed some users\u2019 data",
+        "description": "A hacker has stolen a limited amount of customer data from Vercel Inc., a major developer tooling provider. The company disclosed the incident late Sunday. Vercel, which received a $9.3 billion valuation last year, provides tools that help developers build we\u2026",
+        "url": "https://siliconangle.com/2026/04/20/developer-tooling-provider-vercel-discloses-breach-exposed-users-data/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/vercel.png",
+        "publishedAt": "2026-04-20T20:20:08Z",
+        "content": "A hacker has stolen a limited amount of customer data from Vercel Inc., a major developer tooling provider.\r\nThe company disclosed the incident late Sunday.\r\nVercel, which received a $9.3 billion val\u2026 [+4254 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "From cloud-first to control-first: theCUBE\u2019s SUSECON keynote analysis",
+        "description": "Multicloud resilience is no longer a buzzword. As enterprises wrestle with surging AI adoption and mounting compliance pressures, digital sovereignty has become the new battleground for control over infrastructure and data. That conversation\u00a0was a top agenda \u2026",
+        "url": "https://siliconangle.com/2026/04/21/multicloud-resilience-strategies-reshape-enterprise-susecon/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/4-Keynote-Analysis-Clean.png",
+        "publishedAt": "2026-04-21T09:03:07Z",
+        "content": "Multicloud resilience is no longer a buzzword. As enterprises wrestle with surging AI adoption and mounting compliance pressures, digital sovereignty has become the new battleground for control over \u2026 [+4274 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Carly Page",
+        "title": "Schmoozebots: study finds flattery will get AI everywhere",
+        "description": "Excessive friendliness may cause users to forget they're talking to a very confident autocomplete A study into how humans interact with chatbots suggests the fastest way to make an LLM feel human isn't making it smarter \u2013 it's making it seem nicer.\u2026",
+        "url": "https://www.theregister.com/2026/04/20/chatbots_win_trust_by_sounding/",
+        "urlToImage": "https://regmedia.co.uk/2024/07/02/chatbot1_shutterstock.jpg",
+        "publishedAt": "2026-04-20T16:07:14Z",
+        "content": "A study into how humans interact with chatbots suggests the fastest way to make an LLM feel human isn't making it smarter it's making it seem nicer.\r\nResearchers behind a new study published on Monda\u2026 [+3073 chars]"
     },
     {
         "source": {
@@ -70,50 +330,89 @@
             "name": "The Next Web"
         },
         "author": "Allison Steffens Herrera",
-        "title": "Stanford\u2019s AI Index finds China has nearly closed the performance gap with the US despite spending 23 times less",
-        "description": "In short: Stanford\u2019s 2026 AI Index Report finds the performance gap between the best American and Chinese AI models has collapsed to 2.7%, down from 17.5-31.6 percentage points in May 2023, despite the US spending 23 times more on private AI investment ($285.\u2026",
-        "url": "https://thenextweb.com/news/stanford-ai-index-2026-china-us-performance-gap/",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/china-us.png",
-        "publishedAt": "2026-04-19T14:55:20Z",
-        "content": "In short: Stanfords 2026 AI Index Report finds the performance gap between the best American and Chinese AI models has collapsed to 2.7%, down from 17.5-31.6 percentage points in May 2023, despite th\u2026 [+8434 chars]"
+        "title": "Semrush launches a framework for measuring brand visibility in AI search as the old SEO playbook breaks down",
+        "description": "Summary: Semrush launched a Brand Visibility Framework at Adobe Summit introducing \u201cAgentic Search Optimisation\u201d as a new discipline for measuring brand presence across AI-generated answers, traditional search, and autonomous AI agents, drawing on 213 million\u2026",
+        "url": "https://thenextweb.com/news/semrush-brand-visibility-framework-ai-search/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/semrush-brand-visibility-framework-ai-search.png",
+        "publishedAt": "2026-04-20T21:29:47Z",
+        "content": "Summary: Semrush launched a Brand Visibility Framework at Adobe Summit introducing Agentic Search Optimisation as a new discipline for measuring brand presence across AI-generated answers, traditiona\u2026 [+8447 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Boone Ashworth",
+        "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+        "description": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
+        "url": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+        "urlToImage": "https://media.wired.com/photos/69e162684f4f8c52a7b1a820/191:100/w_1280,c_limit/Prego-AI-Dinner-Bot-Gear-Prego_ConnectionKeeper-5.jpg",
+        "publishedAt": "2026-04-20T13:00:00Z",
+        "content": "Prego, the pasta sauce company, is getting into hardware with a device that sits on your table and records dinner conversations. No, this isnt April Fools.\r\nThe Connection Keeper is a round puck that\u2026 [+2564 chars]"
     },
     {
         "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Alina Maria Stan",
-        "title": "Threads is redesigning its website and finally adding direct messages to the desktop",
-        "description": "Summary: Threads head Connor Hayes previewed a redesigned web interface that adds direct messages, a navigation sidebar with shortcuts to saved posts and insights, and a cleaner single-feed layout replacing the current multi-column design. DMs, which launched\u2026",
-        "url": "https://thenextweb.com/news/threads-website-redesign-direct-messages-desktop/",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/threads-website-redesign-direct-messages-desktop.png",
-        "publishedAt": "2026-04-19T14:14:54Z",
-        "content": "Summary: Threads head Connor Hayes previewed a redesigned web interface that adds direct messages, a navigation sidebar with shortcuts to saved posts and insights, and a cleaner single-feed layout re\u2026 [+6602 chars]"
+        "author": "Ana-Maria Stanciuc",
+        "title": "Op-Ed: SaaS is not dead. You are just being sold the funeral",
+        "description": "The \u201cAI has killed software\u201d narrative has a handful of very loud beneficiaries and a lot of quiet evidence against it. The companies that will survive the next five years are the ones that refuse to treat the hyperscalers as the new gods. Whenever I make an \u2026",
+        "url": "https://thenextweb.com/news/saas-not-dead-ai-hype-enterprise-software/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/SaaS.png",
+        "publishedAt": "2026-04-20T14:47:37Z",
+        "content": "The AI has killed software narrative has a handful of very loud beneficiaries and a lot of quiet evidence against it. The companies that will survive the next five years are the ones that refuse to t\u2026 [+10534 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "SpaceX\u2019s public IPO filing confirms Musk and insiders retain dominant voting control",
+        "description": "The now-public S-1 prospectus shows Musk controls roughly 79% of SpaceX\u2019s votes despite owning approximately 42% of its equity, a gap created by a dual-class share structure. The company is targeting a June listing at a $1.75 trillion valuation, a raise of up\u2026",
+        "url": "https://thenextweb.com/news/spacex-ipo-s1-musk-voting-control/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/Elon-Musk.png",
+        "publishedAt": "2026-04-21T09:19:45Z",
+        "content": "The now-public S-1 prospectus shows Musk controls roughly 79% of SpaceXs votes despite owning approximately 42% of its equity, a gap created by a dual-class share structure. \r\nThe company is targetin\u2026 [+4548 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Cristian Dina",
+        "title": "John Ternus built Apple\u2019s hardware for 24 years and now he has to figure out AI",
+        "description": "Summary: John Ternus, Apple\u2019s incoming CEO effective 1 September, is a 50-year-old mechanical engineer who reversed a period of declining product quality, personally lobbied for the creation of iPadOS, oversaw the Apple Silicon transition, and now controls pr\u2026",
+        "url": "https://thenextweb.com/news/john-ternus-built-apples-hardware-for-24-years-and-now-he-has-to-figure-out-ai/",
+        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/john-ternus-apple-ceo-profile-hardware-ai.png",
+        "publishedAt": "2026-04-21T08:48:38Z",
+        "content": "Summary: John Ternus, Apples incoming CEO effective 1 September, is a 50-year-old mechanical engineer who reversed a period of declining product quality, personally lobbied for the creation of iPadOS\u2026 [+9510 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "Palantir posts mini-manifesto denouncing inclusivity and \u2018regressive\u2019 cultures | TechCrunch",
-        "description": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-        "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/palantir.jpg?resize=1200,640",
-        "publishedAt": "2026-04-19T16:30:00Z",
-        "content": "Surveillance and analytics company Palantir recently posted what it called a brief 22-point summary of CEO Alexander Karps book The Technological Republic.\r\nWritten by Karp and Palantirs head of corp\u2026 [+3353 chars]"
+        "author": "Amanda Silberling",
+        "title": "It's not just one thing \u2014 it's another thing | TechCrunch",
+        "description": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guarantee.",
+        "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
+        "publishedAt": "2026-04-20T19:37:07Z",
+        "content": "Sometimes, things are not just one thing they\u2019re also another thing. This sentence construction (\u201cIt\u2019s not just this it\u2019s that\u201d) has become so common in AI-generated writing that now, it\u2019s no longer \u2026 [+2515 chars]"
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Anthony Ha",
-        "title": "OpenAI\u2019s existential questions | TechCrunch",
-        "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-        "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266645295.jpg?w=1024",
-        "publishedAt": "2026-04-19T21:25:40Z",
-        "content": "OpenAI has been all over the news recently, whether that news is about acquisitions, competition with Anthropic, or bigger debates about AIs impact on society.\r\nOn the latest episode of TechCrunchs E\u2026 [+6428 chars]"
+        "author": "Miles Klee",
+        "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+        "description": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+        "url": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+        "urlToImage": "https://media.wired.com/photos/69e1401ea5e5befd53e0b86f/191:100/w_1280,c_limit/Culture_TechCEOsThinkAIWillLetThemBeEverywhereatOnce.jpg",
+        "publishedAt": "2026-04-20T11:00:00Z",
+        "content": "Silicon Valley moguls have lately complained that too many people are too negative about artificial intelligence. Theyre likewise frustrated by stalled AI adoption among major corporations that arent\u2026 [+3753 chars]"
     }
 ]

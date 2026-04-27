@@ -1,81 +1,42 @@
 [
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Jess Weatherbed",
-        "title": "Prestigious photo contest answers \u2018what is a photo?\u2019",
-        "description": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality \u2026",
-        "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/WPP-2026_POY_Finalists.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-        "publishedAt": "2026-04-24T09:40:07Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nA photograph captures light on a sensor or film. It is a record of a physical moment.\r\nA photograph captures light on a sensor or film. It is a record of a physi\u2026 [+3772 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Ece Yildirim",
-        "title": "Things Are Finally Looking Up for Intel and It Has CPUs to Thank for It",
-        "description": "Intel is slowly starting to enjoy the fruits of AI hype.",
-        "url": "https://gizmodo.com/things-are-finally-looking-up-for-intel-and-it-has-cpus-to-thank-for-it-2000750198",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2264783445-1200x675.jpg",
-        "publishedAt": "2026-04-24T01:36:06Z",
-        "content": "Things had not been looking good for Intel for the past few years.\r\nOnce the star American chipmaker, Intel fell behind competitors like AMD and Nvidia in the age of AI. But now, the chipmaker says a\u2026 [+3175 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Ece Yildirim",
-        "title": "Spotify Reveals Its Most Streamed Music of the Last 20 Years",
-        "description": "The K-Pop stans and Beyhive might be a bit bummed by the results.",
-        "url": "https://gizmodo.com/spotify-reveals-its-most-streamed-music-of-the-last-20-years-2000750160",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2262742747-1200x675.jpg",
-        "publishedAt": "2026-04-24T00:25:39Z",
-        "content": "This month marks 20 years since Spotify was founded. Since it began operations in April 2006, the platform has now become the dominant force in music streaming and has completely changed the music in\u2026 [+5011 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MIT Technology Review"
-        },
-        "author": "Thomas Macaulay",
-        "title": "The Download: supercharged scams and studying AI healthcare",
-        "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. We\u2019re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could cr\u2026",
-        "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/04/superchargedC-thumb.jpg?resize=1200,600",
-        "publishedAt": "2026-04-24T12:10:00Z",
-        "content": "Ive combed the internet to find you todays most fun/important/scary/fascinating stories about technology.\r\n1 DeepSeek has unveiled its long-awaited new AI modelThe Chinese company has just launched p\u2026 [+2495 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Katelyn Chedraoui",
-        "title": "Kids, Social Media and Safety: Why a Years-Long Battle Has No End in Sight",
-        "description": "Everyone wants children to be safe online. Nobody agrees on how to make it happen.",
-        "url": "https://www.cnet.com/news/social-media/online-child-teen-safety-social-media-age-verification-feature-news/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/3c8526f4e1ed40caf769881d11836fa0cdb07235/hub/2026/04/23/2bed41a1-dd62-427b-a5d8-0ea1f389bc0b/teen-safety-online-promo-pic.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-24T11:00:56Z",
-        "content": "John Doe was around 13 years old when he was tricked, blackmailed and threatened by sex traffickers on Snapchat into taking nude photos and videos of himself. Two years later, he learned from his hig\u2026 [+17074 chars]"
+        "author": "Marta Musso",
+        "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+        "description": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+        "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+        "urlToImage": "https://media.wired.com/photos/69ea3dfba5897da10992cdf4/191:100/w_1280,c_limit/178826162",
+        "publishedAt": "2026-04-25T09:30:00Z",
+        "content": "Ace is a robot that aims high: It wants to become the world champion of table tennis. It was developed by Sony AI researchers who, in a new study published in Nature, have shown how this robot, equip\u2026 [+2556 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "DeepSeek open-sources V4 large language model series",
-        "description": "Chinese artificial intelligence developer DeepSeek today released a new series of open-source large language models. V4, as the algorithm family is called, comprises 2 LLMs on launch. There\u2019s the flagship V4-Pro and a smaller model called V4-Flash that trades\u2026",
-        "url": "https://siliconangle.com/2026/04/24/deepseek-open-sources-v4-large-language-model-series/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/DeepSeek.png",
-        "publishedAt": "2026-04-24T20:47:21Z",
-        "content": "Chinese artificial intelligence developer DeepSeek today released a new series of open-source large language models.\r\nV4, as the algorithm family is called, comprises 2 LLMs on launch. Theres the fla\u2026 [+4372 chars]"
+        "author": "Paul Gillin",
+        "title": "Experian takes consumer financial guidance to the next level with AI-powered virtual assistant",
+        "description": "With the release of the newest version of its\u00a0Experian Virtual Assistant, Experian plc is leveraging artificial intelligence to advance its broader goals of expanding beyond credit reporting to become a technology-driven services provider. Doing that in a tig\u2026",
+        "url": "https://siliconangle.com/2026/04/25/experian-takes-consumer-financial-guidance-next-level-ai-powered-virtual-assistant/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Experian-EVA.jpg",
+        "publishedAt": "2026-04-25T17:24:59Z",
+        "content": "With the release of the newest version of its\u00a0Experian Virtual Assistant, Experian plc is leveraging artificial intelligence to advance its broader goals of expanding beyond credit reporting to becom\u2026 [+5999 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Tom Hawking",
+        "title": "The \u2018Anti-Grammarly\u2019 Helps People Hide Their Participation in the AI Slop Era",
+        "description": "Is this satire? Does it even matter?",
+        "url": "https://gizmodo.com/the-anti-grammarly-helps-people-hide-their-participation-in-the-ai-slop-era-2000750553",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/04/sinceerly-website-1200x675.png",
+        "publishedAt": "2026-04-25T12:00:12Z",
+        "content": "Now that the human race has developed a tool that lets everyone write emails that sound like a pitch deck written by Bryce, who everyone knows is the worst person in the office, the next great leap f\u2026 [+3623 chars]"
     },
     {
         "source": {
@@ -95,325 +56,65 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Cognition, creator of the AI software engineer Devin, in talks to raise \u2018hundreds of millions\u2019 at $25B valuation",
-        "description": "Artificial intelligence coding assistant startup Cognition AI Inc. is engaged in discussions with investors over another massive funding round that would more than double its valuation to $25 billion, Bloomberg reported today. The report cites \u201cpeople familia\u2026",
-        "url": "https://siliconangle.com/2026/04/23/cognition-creator-ai-software-engineer-devin-talks-raise-hundreds-millions-25b-valuation/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2025-04-04-08-35-21.png",
-        "publishedAt": "2026-04-24T01:53:31Z",
-        "content": "Artificial intelligence coding assistant startup Cognition AI Inc. is engaged in discussions with investors over another massive funding round that would more than double its valuation to $25 billion\u2026 [+3862 chars]"
+        "author": "Dave Vellante and George Gilbert",
+        "title": "Google\u2019s AI agent platform takes pole position but work remains",
+        "description": "Enterprises are rapidly moving from an artificial intelligence that answers questions and generates content to one that performs tasks and takes actions. According to Google Cloud Chief Executive Thomas Kurian, this shift requires a fundamentally different ap\u2026",
+        "url": "https://siliconangle.com/2026/04/25/googles-ai-agent-platform-takes-pole-position-work-remains/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/ChatGPT-Image-Apr-25-2026-02_56_24-PM.png",
+        "publishedAt": "2026-04-25T21:29:28Z",
+        "content": "Enterprises are rapidly moving from an artificial intelligence that answers questions and generates content to one that performs tasks and takes actions. According to Google Cloud Chief Executive Tho\u2026 [+37103 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Paul Gillin",
-        "title": "Intercom\u2019s customer service agent takes on new sales role",
-        "description": "Intercom Inc. is expanding the role of its Fin artificial intelligence customer agent beyond customer support for the first time, positioning it as a sales assistant that operates across all stages of the customer lifecycle. The new \u201cFin for Sales\u201d capability\u2026",
-        "url": "https://siliconangle.com/2026/04/24/intercoms-customer-service-agent-takes-new-sales-role/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/shaking-hands-on-the-sale.jpg",
-        "publishedAt": "2026-04-24T17:52:50Z",
-        "content": "Intercom Inc. is expanding the role of its Fin artificial intelligence customer agent beyond customer support for the first time, positioning it as a sales assistant that operates across all stages o\u2026 [+4445 chars]"
+        "author": "Will Jones",
+        "title": "From web to Artificial Intelligence: Building the missing links",
+        "description": "For years, the web intelligence industry has been a reliable support system for major data-powered developments across industries. As big data kept getting bigger, the infrastructure requirements to ensure sustained data flow became harder. In recent years, A\u2026",
+        "url": "https://thenextweb.com/news/from-web-to-artificial-intelligence-building-the-missing-links/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/web-intelligence-ai-infrastructure-llm-data.avif",
+        "publishedAt": "2026-04-25T10:54:27Z",
+        "content": "For years, the web intelligence industry has been a reliable support system for major data-powered developments across industries. As big data kept getting bigger, the infrastructure requirements to \u2026 [+7402 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Maria Deutscher",
-        "title": "AWS inks multibillion-dollar AI infrastructure deal with Meta",
-        "description": "Amazon Web Services Inc. has inked a multiyear deal to supply Meta Platforms Inc. with cloud infrastructure. Bloomberg reported today that the agreement is worth billions of dollars. The deal centers on AWS\u2019 Graviton family of internally-developed central pro\u2026",
-        "url": "https://siliconangle.com/2026/04/24/aws-inks-multibillion-dollar-ai-infrastructure-deal-meta/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Graviton.png",
-        "publishedAt": "2026-04-24T23:12:29Z",
-        "content": "Amazon Web Services Inc. has inked a multiyear deal to supply Meta Platforms Inc. with cloud infrastructure.\r\nBloomberg reported today that the agreement is worth billions of dollars.\r\nThe deal cente\u2026 [+4001 chars]"
+        "author": "Cristian Dina",
+        "title": "Meta signs multibillion-dollar deal for Amazon Graviton5 chips as AI compute demand outstrips $135B capex budget",
+        "description": "Summary: Meta signed a multibillion-dollar, multi-year deal to deploy tens of millions of Amazon\u2019s Graviton5 ARM CPU cores in AWS data centres for agentic AI workloads. The chips are general-purpose processors, not AI accelerators, handling the CPU-intensive \u2026",
+        "url": "https://thenextweb.com/news/meta-amazon-graviton-chips-agentic-ai/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/meta-amazon-graviton-chips-agentic-ai.avif",
+        "publishedAt": "2026-04-25T11:22:37Z",
+        "content": "Summary: Meta signed a multibillion-dollar, multi-year deal to deploy tens of millions of Amazons Graviton5 ARM CPU cores in AWS data centres for agentic AI workloads. The chips are general-purpose p\u2026 [+10826 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "ZDNet"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Charlie Osborne",
-        "title": "How indirect prompt injection attacks on AI work - and 6 ways to shut them down",
-        "description": "Cybercriminals are tricking AI into leaking your data, executing code, and sending you to malicious sites. Here's how.",
-        "url": "https://www.zdnet.com/article/how-indirect-prompt-injection-attacks-on-ai-work-and-6-ways-to-shut-them-down/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/8bdc6becdd3f139506514ea2d26aac13af89677c/2026/04/23/4af5add2-e2d5-43a3-b7cc-e858b01d7202/gettyimages-1376579671.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-24T00:00:45Z",
-        "content": "ATINAT_FEI/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Malicious web prompts can weaponize AI without your input. </li><li> Indirec\u2026 [+10028 chars]"
+        "author": "Veronika Furs",
+        "title": "Securing \u2060\u200dthe \u061cfutu\u200dre \u200d\u061cof \u2060AI: How \u200cT\u200dresor \u200c\u200bLisungu \u200d\u061c\u200cOteko \u061cis \u2060bri\u200ddgi\u200dng \u061c\u200bcloud \u2060sy\u200dstems \u200b\u200c\u061cand \u200cpost-quantum \u061c\u200d\u200b\u061csecurity",
+        "description": "As \u200bartificial \u200d\u200cintelligence \u200b\u061c\u200d\u061csys\u200dtems \u061c\u200csc\u200d\u200dale \u061crapidly \u200d\u2060\u200d\u061cacross \u200b\u200centerprise \u200d\u061c\u2060environments, a \u200bcr\u200diti\u200dcal \u200b\u2060\u200c\u061cgap \u061cis \u200bbecoming \u200c\u200b\u2060harder \u061c\u200dto \u200bigno\u200dre: security \u2060\u061c\u200c\u061cis \u200bnot \u2060evolving \u200b\u200c\u200dat \u061cthe \u200cs\u200d\u200dame \u2060\u200dpace \u200cas \u200cdeployment. Organizations \u2060\u061care \u200d\u2026",
+        "url": "https://thenextweb.com/news/securing-the-future-of-ai-how-tresor-lisungu-oteko-is-brid/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/Tresor-Lisungu-Oteko.avif",
+        "publishedAt": "2026-04-25T10:26:41Z",
+        "content": "As artificial intelligence systems scale rapidly across enterprise environments, a critical gap is becoming harder to ignore: security is not evolving at the same pace as deployment. Organizations ar\u2026 [+6487 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Theregister.com"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Simon Sharwood",
-        "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
-        "description": "OpenAI's first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs Black Hat Asia\u00a0 Open source models can find bugs as effectively as Anthropic's Mythos, according to Ari Herbert-Voss, CEO of AI-powere\u2026",
-        "url": "https://www.theregister.com/2026/04/24/ai_bugfinding_futures/",
-        "urlToImage": "https://regmedia.co.uk/2017/02/02/excalibur.jpg",
-        "publishedAt": "2026-04-24T11:41:54Z",
-        "content": "Black Hat Asia Open source models can find bugs as effectively as Anthropic's Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI's first security hire.\r\nSpe\u2026 [+1990 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Pudu Robotics raises nearly $150M at $1.5B valuation to deploy\u00a0embodied\u00a0AI technology",
-        "description": "Pudu Technology Inc., a leading developer of intelligent\u00a0service robotics, has raised\u00a0nearly $150 million\u00a0in a new funding round.\u00a0 With this capital raise, announced Thursday, the company exceeded\u00a0$1.5 billion\u00a0in valuation and has reached over $300 million in\u2026",
-        "url": "https://siliconangle.com/2026/04/24/pudu-robotics-raises-nearly-150m-1-5b-valuation-deploy-embodied-ai-technology/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/news_7a0f2c4657.png",
-        "publishedAt": "2026-04-24T12:30:56Z",
-        "content": "Pudu Technology Inc., a leading developer of intelligent\u00a0service robotics, has raised\u00a0nearly $150 million\u00a0in a new funding round.\u00a0\r\nWith this capital raise, announced Thursday, the company exceeded\u00a0$\u2026 [+3550 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "OpenText and Google target the data layer gap holding back enterprise agentic AI",
-        "description": "Organizations racing to deploy agentic AI are discovering that raw model performance is only part of the equation \u2014 context engineering is the key to managing decades of unstructured, ungoverned data trapped inside legacy information management systems. As Go\u2026",
-        "url": "https://siliconangle.com/2026/04/24/context-engineering-missing-layer-agentic-ai-googlecloudnext/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/jkpfrAf07I-HD-e1777051568314.jpg",
-        "publishedAt": "2026-04-24T18:21:25Z",
-        "content": "Organizations racing to deploy agentic AI are discovering that raw model performance is only part of the equation context engineering is the key to managing decades of unstructured, ungoverned data t\u2026 [+6108 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Software artifact management startup Cloudsmith raises $72M",
-        "description": "Cloudsmith Inc., a startup that helps software teams manage application components, has secured $72 million in new funding. The Series C round was led by TCV, which was also the biggest backer of the company\u2019s previous raise last year. Cloudsmith stated in it\u2026",
-        "url": "https://siliconangle.com/2026/04/23/software-artifact-management-startup-cloudsmith-raises-72m/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Cloudsmith.png",
-        "publishedAt": "2026-04-24T00:59:18Z",
-        "content": "Cloudsmith Inc., a startup that helps software teams manage application components, has secured $72 million in new funding.\r\nThe Series C round was led by TCV, which was also the biggest backer of th\u2026 [+4376 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "SAP posts solid earnings results to shrug off latest software stock slaughter",
-        "description": "Shares of the European enterprise software maker SAP SE registered solid gains in late-trading today after the company delivered earnings results that came in ahead of expectations. The company\u2019s American depository receipts gained more than 6% in the after-h\u2026",
-        "url": "https://siliconangle.com/2026/04/23/sap-posts-solid-earnings-results-shrug-off-latest-software-stock-slaughter/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2025-07-23-06-22-31.png",
-        "publishedAt": "2026-04-24T00:55:53Z",
-        "content": "Shares of the European enterprise software maker SAP SE registered solid gains in late-trading today after the company delivered earnings results that came in ahead of expectations.\r\nThe companys Ame\u2026 [+4034 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Intel crushes Wall Street\u2019s expectations and its stock surges 20% as revival gains pace",
-        "description": "Intel Corp. crushed analyst\u2019s expectations as it delivered its first-quarter earnings results today, in a sign that its efforts to turn around its business under Chief Executive Lip-Bu Tan are finally starting to pay off. The chipmaker reported solid earnings\u2026",
-        "url": "https://siliconangle.com/2026/04/23/intel-crushes-wall-streets-expectations-stock-surges-20-revival-gains-pace/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2025-07-25-06-39-33-1.png",
-        "publishedAt": "2026-04-24T00:18:00Z",
-        "content": "Intel Corp. crushed analysts expectations as it delivered its first-quarter earnings results today, in a sign that its efforts to turn around its business under Chief Executive Lip-Bu Tan are finally\u2026 [+7921 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "Geopolitical pressures and AI initiatives drive enterprise adoption of a sovereign-first cloud strategy",
-        "description": "When a company such as Google LLP demonstrates leadership in large-scale data systems, advantages can begin to accrue in areas not readily apparent from the keynote speeches and press releases. One of these involves the sovereign cloud. Google itself made no \u2026",
-        "url": "https://siliconangle.com/2026/04/24/geopolitical-pressures-ai-initiatives-drive-enterprise-adoption-sovereign-first-cloud-strategy/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Google-Cloud-Next2.jpg",
-        "publishedAt": "2026-04-24T21:37:06Z",
-        "content": "When a company such as Google LLP demonstrates leadership in large-scale data systems, advantages can begin to accrue in areas not readily apparent from the keynote speeches and press releases.\r\nOne \u2026 [+7153 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "James Farrell",
-        "title": "US special forces soldier charged for making insider bet on Maduro\u2019s removal",
-        "description": "A U.S. special forces soldier who was part of the operation to capture Venezuelan President Nicol\u00e1s Maduro has been arrested and charged for allegedly betting on the operation in the prediction market and winning more than $400,000. Federal investigators said\u2026",
-        "url": "https://siliconangle.com/2026/04/23/us-special-forces-soldier-charged-making-insider-bet-maduros-removal/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/giorgio-trovato-SBWxKy9EJ0c-unsplash.jpg",
-        "publishedAt": "2026-04-24T02:37:33Z",
-        "content": "A U.S. special forces soldier who was part of the operation to capture Venezuelan President Nicol\u00e1s Maduro has been arrested and charged for allegedly betting on the operation in the prediction marke\u2026 [+3662 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kelly Knight",
-        "title": "\u2018It will be different within weeks\u2019: Why enterprises must build for replacement, not permanence",
-        "description": "Enterprise AI deployments are accelerating, but the velocity of change in models, tools and platforms is quietly creating a new and costly trap: costly failure to build for AI architectural replaceability. As Google Cloud Next 2026 confirms that agentic AI ha\u2026",
-        "url": "https://siliconangle.com/2026/04/24/prioritizing-ai-architectural-replaceability-enterprise-googlecloudnext/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Paul-Lewis-Clean.jpg",
-        "publishedAt": "2026-04-24T12:24:49Z",
-        "content": "Enterprise AI deployments are accelerating, but the velocity of change in models, tools and platforms is quietly creating a new and costly trap: costly failure to build for AI architectural replaceab\u2026 [+4022 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "James Farrell",
-        "title": "US special forces solider charged for making insider bet on Maduro\u2019s removal",
-        "description": "A U.S. special forces soldier who was part of the operation to capture Venezuelan President Nicol\u00e1s Maduro has been arrested and charged for allegedly betting on the operation in the prediction market and winning more than $400,000. Federal investigators said\u2026",
-        "url": "https://siliconangle.com/2026/04/23/us-special-forces-solider-charged-making-insider-bet-maduros-removal/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/giorgio-trovato-SBWxKy9EJ0c-unsplash.jpg",
-        "publishedAt": "2026-04-24T02:37:33Z",
-        "content": "A U.S. special forces soldier who was part of the operation to capture Venezuelan President Nicol\u00e1s Maduro has been arrested and charged for allegedly betting on the operation in the prediction marke\u2026 [+3665 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Tobias Mann",
-        "title": "Meta Arms itself to the teeth by signing for 'tens of millions' of AWS Graviton cores",
-        "description": "After flubbing the Metaverse, Zuck embraces the Neoverse Meta plans to deploy tens of millions of Amazon Web Services' Graviton 5 CPU cores as part of a multi-year collaboration that will make the social network among the largest-ever consumers of the cloud g\u2026",
-        "url": "https://www.theregister.com/2026/04/24/meta_aws_cpu/",
-        "urlToImage": "https://regmedia.co.uk/2021/12/03/graviton-aws.jpg",
-        "publishedAt": "2026-04-24T12:00:16Z",
-        "content": "Meta plans to deploy tens of millions of Amazon Web Services' Graviton 5 CPU cores as part of a multi-year collaboration that will make the social network among the largest-ever consumers of the clou\u2026 [+2682 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kelly Knight",
-        "title": "Defenders strike back: AI-native security is closing the gap on adversaries",
-        "description": "As AI accelerates enterprise transformation, it is simultaneously widening the attack surface organizations must defend \u2014 and compressing the time defenders have to respond. The convergence of geopolitical tension, AI-powered adversaries and a surging wave of\u2026",
-        "url": "https://siliconangle.com/2026/04/24/agentic-defense-ai-cybersecurity-integration-googlecloudnext/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Charles-Carmakal-Morgan-Adamski-Clean.jpg",
-        "publishedAt": "2026-04-24T17:22:55Z",
-        "content": "As AI accelerates enterprise transformation, it is simultaneously widening the attack surface organizations must defend and compressing the time defenders have to respond.\r\nThe convergence of geopoli\u2026 [+4236 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kelly Knight",
-        "title": "Covered California and Deloitte tap Google AI to put the human touch back into public health",
-        "description": "Public sector organizations are at an inflection point, one where the combination of domain-specific data and agentic enterprise intelligence is producing measurable, life-changing outcomes for the populations they serve \u2014 outcomes that legacy manual workflow\u2026",
-        "url": "https://siliconangle.com/2026/04/24/agentic-enterprise-intelligence-public-health-sectors-googlecloudnext/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Shilpa-Akunuri-Vishal-Prabhu-Clean.jpg",
-        "publishedAt": "2026-04-24T19:46:25Z",
-        "content": "Public sector organizations are at an inflection point, one where the combination of domain-specific data and agentic enterprise intelligence is producing measurable, life-changing outcomes for the p\u2026 [+4871 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jonathan Anthony",
-        "title": "DDN and Google Cloud are redefining AI storage infrastructure for the agentic era",
-        "description": "As enterprises pivot from AI experimentation to production deployment, AI storage infrastructure is emerging as the critical bottleneck determining whether massive chip investments deliver real returns. The central challenge for running large-scale AI workloa\u2026",
-        "url": "https://siliconangle.com/2026/04/24/ai-storage-infrastructure-key-limit-production-ai-race-googlecloudnext/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_9211.jpg",
-        "publishedAt": "2026-04-24T17:29:16Z",
-        "content": "As enterprises pivot from AI experimentation to production deployment, AI storage infrastructure is emerging as the critical bottleneck determining whether massive chip investments deliver real retur\u2026 [+5774 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kelly Knight",
-        "title": "Small businesses are the backbone of the economy. Now, Google wants them to be AI\u2019s next frontier",
-        "description": "For years, AI conversations at major tech events centered almost exclusively on large enterprises, leaving small and medium-sized businesses on the margins of a transformation reshaping the global economy. That dynamic is now shifting fast, as SMB AI adoption\u2026",
-        "url": "https://siliconangle.com/2026/04/24/empowering-smb-ai-adoption-using-generative-workflows-googlecloudnext/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Sharon-Prosser-clean.jpg",
-        "publishedAt": "2026-04-24T18:42:55Z",
-        "content": "For years, AI conversations at major tech events centered almost exclusively on large enterprises, leaving small and medium-sized businesses on the margins of a transformation reshaping the global ec\u2026 [+4781 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "6 real-world proofs that enterprise AI actually works: Insights from the Phi Moments @ Next event",
-        "description": "Enterprise AI is shifting from hype to measurable outcomes, with success now depending on seamless integration and balancing automation with the human element. But the gap between a compelling AI demo and a deployment that actually changes outcomes isn\u2019t the \u2026",
-        "url": "https://siliconangle.com/2026/04/24/seamless-integration-drives-enterprise-ai-execution-phimomentsatnext/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Ishaan-Aggarwal-customer-experience-practice-lead-at-Quantiphi-Inc-Phi-Moments-@-Next-event-2026-e1777002745137.jpg",
-        "publishedAt": "2026-04-24T19:06:23Z",
-        "content": "Enterprise AI is shifting from hype to measurable outcomes, with success now depending on seamless integration and balancing automation with the human element.\r\nBut the gap between a compelling AI de\u2026 [+7504 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Omar Gallaga",
-        "title": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic",
-        "description": "What you should know about the latest AI models, including DeepSeek's V4, OpenAI's GPT-5.5 and Claude Opus 4.7.",
-        "url": "https://www.cnet.com/tech/services-and-software/openai-deepseek-anthropic-new-ai-models/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/f0803bcc4492562c6e61d44a787cd829f014efa3/hub/2025/02/12/072b3f92-538b-4254-b666-8692c9279ba4/deepseek-ai-9734.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-24T19:48:57Z",
-        "content": "It's a busy week in the world of AI models, as some of the top artificial intelligence companies roll out their latest updates. Just a week after Anthropic introduced version 4.7 of its Claude Opus A\u2026 [+2942 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Liam Proven",
-        "title": "More ancient Linux device support faces the chop",
-        "description": "One way to deal with bug hunting LLMs: ditch the old drivers One tactic to deal with LLM-powered vulnerability detection is simple \u2013 just speed up the removal of old code. If it's gone, it no longer matters if it's buggy.\u2026",
-        "url": "https://www.theregister.com/2026/04/24/ancient_linux_drivers_going/",
-        "urlToImage": "https://regmedia.co.uk/2026/04/23/shutterstock_2751078647.jpg",
-        "publishedAt": "2026-04-24T14:15:10Z",
-        "content": "One tactic to deal with LLM-powered vulnerability detection is simple just speed up the removal of old code. If it's gone, it no longer matters if it's buggy.\r\nBot-powered bug-busting is in the news \u2026 [+2858 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "At Next, Google aims to dominate the dawning age of agentic AI",
-        "description": "At Cloud Next this week in Las Vegas,\u00a0Google made its case this week that it has all the pieces \u2014 literally the entire \u201cstack\u201d of technologies from chips to models to data management platforms \u2014 needed to provide essentially the operating system for AI agents\u2026",
-        "url": "https://siliconangle.com/2026/04/24/next-google-aims-dominate-dawning-age-agentic-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/gcpnext2026-livestream-thomaskurian-.png",
-        "publishedAt": "2026-04-24T13:30:17Z",
-        "content": "At Cloud Next this week in Las Vegas,\u00a0Google made its case this week that it has all the pieces \u2014 literally the entire stack of technologies from chips to models to data management platforms \u2014 needed\u2026 [+15753 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Tobias Mann",
-        "title": "DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs",
-        "description": "Now available in preview, DeepSeek V4 cuts inference costs to a fraction of R1 Chinese AI darling DeepSeek is back with a new open weights large language model that promises performance to rival the best proprietary American LLMs. Perhaps more importantly, it\u2026",
-        "url": "https://www.theregister.com/2026/04/24/deepseek_v4/",
-        "urlToImage": "https://regmedia.co.uk/2025/01/27/shutterstock_deepseek_logo.jpg",
-        "publishedAt": "2026-04-24T21:25:01Z",
-        "content": "Chinese AI darling DeepSeek is back with a new open weights large language model that promises performance to rival the best proprietary American LLMs. Perhaps more importantly, it claims to dramatic\u2026 [+6140 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Liam Proven",
-        "title": "Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps",
-        "description": "New LTS is here, with more tooling for GPGPU and AI workloads Ubuntu 26.04 \"Resolute Raccoon,\" the latest LTS release from Canonical, arrives with GNOME 50, Linux kernel 7.0, and drops the Xorg option from Ubuntu Desktop while still running X11 applications t\u2026",
-        "url": "https://www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/",
-        "urlToImage": "https://regmedia.co.uk/2026/04/24/shutterstock_1854849526.jpg",
-        "publishedAt": "2026-04-24T17:22:41Z",
-        "content": "Ubuntu 26.04 \"Resolute Raccoon,\" the latest LTS release from Canonical, arrives with GNOME 50, Linux kernel 7.0, and drops the Xorg option from Ubuntu Desktop while still running X11 applications thr\u2026 [+10507 chars]"
+        "author": "Cristian Dina",
+        "title": "OpenAI knew. It chose not to call the police. Now Sam Altman is sorry.",
+        "description": "Sam Altman published an open letter to the community of Tumbler Ridge, British Columbia, on Thursday, apologising for OpenAI\u2019s failure to alert law enforcement after its own systems flagged a user who went on to carry out the deadliest school shooting in Cana\u2026",
+        "url": "https://thenextweb.com/news/sam-altman-openai-apology-tumbler-ridge-shooting/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/Sam-altman-open-ai.avif",
+        "publishedAt": "2026-04-25T18:51:33Z",
+        "content": "TL;DR\r\nSam Altman apologised to the community of Tumbler Ridge, British Columbia, for OpenAIs failure to alert police after its own systems flagged a ChatGPT user who went on to kill eight people and\u2026 [+12169 chars]"
     },
     {
         "source": {
@@ -421,37 +122,63 @@
             "name": "The Next Web"
         },
         "author": "Alina Maria Stan",
-        "title": "China plans to block US investment in its top AI firms without government approval",
-        "description": "Two parallel moves in 24 hours mark a significant escalation of the US-China AI war from chips and exports into capital and models.\u00a0 China plans to restrict its leading technology companies, including top AI startups, from accepting US capital without first o\u2026",
-        "url": "https://thenextweb.com/news/china-us-investment-ai-startups-approval/",
-        "urlToImage": "https://media.thenextweb.com/2026/04/China-vs-USA.avif",
-        "publishedAt": "2026-04-24T10:57:54Z",
-        "content": "Two parallel moves in 24 hours mark a significant escalation of the US-China AI war from chips and exports into capital and models.\u00a0\r\nChina plans to restrict its leading technology companies, includi\u2026 [+4870 chars]"
+        "title": "Meta is firing 8,000 people. Microsoft is paying 8,750 to leave. Both are spending the savings on AI.",
+        "description": "Summary: Meta and Microsoft announced workforce reductions on the same day, April 23, affecting up to 23,000 positions combined. Meta is cutting 8,000 jobs (10% of staff) and cancelling 6,000 open roles effective May 20, while Microsoft launched its first-eve\u2026",
+        "url": "https://thenextweb.com/news/meta-microsoft-layoffs-23000-ai-spending/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/meta-microsoft-layoffs-23000-ai-spending.avif",
+        "publishedAt": "2026-04-25T11:11:54Z",
+        "content": "Summary: Meta and Microsoft announced workforce reductions on the same day, April 23, affecting up to 23,000 positions combined. Meta is cutting 8,000 jobs (10% of staff) and cancelling 6,000 open ro\u2026 [+10800 chars]"
     },
     {
         "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Ana-Maria Stanciuc",
-        "title": "Cohere and Aleph Alpha announce merger in Berlin, creating a $20 billion transatlantic AI company",
-        "description": "Cohere\u2019s shareholders will receive approximately 90% of the combined entity; Aleph Alpha\u2019s shareholders approximately 10%, making this effectively a Cohere acquisition in merger framing. The German government is set to become an anchor customer. Both digital \u2026",
-        "url": "https://thenextweb.com/news/cohere-aleph-alpha-merger-20-billion/",
-        "urlToImage": "https://media.thenextweb.com/2026/04/Cohere.avif",
-        "publishedAt": "2026-04-24T07:50:56Z",
-        "content": "Coheres shareholders will receive approximately 90% of the combined entity; Aleph Alphas shareholders approximately 10%, making this effectively a Cohere acquisition in merger framing. The German gov\u2026 [+5013 chars]"
+        "author": "Veronika Furs",
+        "title": "Denis Brovarnyy: Tech education that starts where theory ends",
+        "description": "The gap between finishing a course and actually being useful on a team, Denis Brovarnyy has seen it from both sides. And in an era where AI is reshaping every technical role, that gap is getting more expensive to ignore. Companies are no longer experimenting \u2026",
+        "url": "https://thenextweb.com/news/denis-brovarnyy-ai-education-skills-gap/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/denis-brovarnyy-ai-education-skills-gap.avif",
+        "publishedAt": "2026-04-25T10:06:00Z",
+        "content": "The gap between finishing a course and actually being useful on a team, Denis Brovarnyy has seen it from both sides. And in an era where AI is reshaping every technical role, that gap is getting more\u2026 [+6871 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Connie Loizos",
-        "title": "Meta's loss is Thinking Machines gain | TechCrunch",
-        "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-        "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
-        "publishedAt": "2026-04-24T20:53:00Z",
-        "content": "Weiyao Wang spent eight years at Meta his first job out of college helping build multimodal perception systems and contributing to open-world segmentation projects, including SAM3D. His final day at \u2026 [+3083 chars]"
+        "author": "Anthony Ha",
+        "title": "OpenAI CEO apologizes to Tumbler Ridge community | TechCrunch",
+        "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+        "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
+        "publishedAt": "2026-04-25T17:18:52Z",
+        "content": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is deeply sorry that his company failed to alert law enforcement about the suspect in a recent mass shooting.\r\nAft\u2026 [+1805 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "The AI rally looks like the dot-com bubble. The companies do not.",
+        "description": "The Shiller cyclically adjusted price-to-earnings ratio for the S&P 500 stands at approximately 38 to 40, depending on the day you check. In 155 years of recorded data, the CAPE has been higher exactly once: March 2000, when it reached 44.19, one month before\u2026",
+        "url": "https://thenextweb.com/news/ai-stocks-dot-com-bubble-comparison-market-outlook/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/ai-stocks-dot-com-bubble-comparison-market-outlook.avif",
+        "publishedAt": "2026-04-25T18:30:21Z",
+        "content": "TL;DR\r\nThe Shiller CAPE ratio stands at 38-40, the second-highest in 155 years behind only the dot-com peak of 44.19, and S&amp;P 500 top-10 concentration exceeds dot-com levels by nearly 50%. But AI\u2026 [+9495 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Cindy Zackney",
+        "title": "Why Tokyo is the most important tech destination of 2026 | TechCrunch",
+        "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+        "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/sushitech-3-hero.webp?resize=1200,835",
+        "publishedAt": "2026-04-25T15:07:32Z",
+        "content": "Every major tech conference has themes. Most are vague enough to mean everything and nothing at the same time. SusHi Tech Tokyo 2026 is doing something different four tightly defined technology domai\u2026 [+3400 chars]"
     }
 ]

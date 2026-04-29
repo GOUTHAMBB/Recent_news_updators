@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Alice Tecotzky",
+        "title": "I quit investment banking and now run a startup. I work just as much, but the hours feel totally different.",
+        "description": "As a banker, Andrew Meng knew exactly how many hours he clocked. Now, as a founder, he works the same amount, but his sense of time is transformed.",
+        "url": "https://www.businessinsider.com/investment-banking-hours-founder-schedule-2026-4",
+        "urlToImage": "https://i.insider.com/69ef9982a98bc8fdc096f55a?width=1104&format=jpeg",
+        "publishedAt": "2026-04-28T09:01:01Z",
+        "content": "Meng said his relationship with long working hours has transformed.Andrew Meng\r\n<ul><li>Andrew Meng, 29, left a career in investment banking to be a founder.</li><li>He owns his time and schedule now\u2026 [+5483 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Brent D. Griffiths",
+        "title": "OpenAI and Microsoft renegotiated their deal for the second time in 6 months. See what's new.",
+        "description": "Under its new agreement with Microsoft, OpenAI has the green light to work with other cloud providers like Amazon \u2014 with some strings attached.",
+        "url": "https://www.businessinsider.com/openai-microsoft-partnership-agreement-changes-cloud-providers-agi-2026-4",
+        "urlToImage": "https://i.insider.com/69ef6cc0367066d7c297172a?width=1200&format=jpeg",
+        "publishedAt": "2026-04-27T14:21:24Z",
+        "content": "OpenAI CEO Sam Altman and Microsoft CEO Satya Nadella's companies have once again modified their agreement.Anna Moneymaker and Fabrice Coffrini/AFP via Getty Images\r\n<ul><li>OpenAI and Microsoft are \u2026 [+3299 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Forbes"
         },
@@ -11,6 +37,19 @@
         "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ef35a4555e241d1632cf70/0x0.jpg?format=jpg&crop=4250,2389,x0,y30,safe&height=900&width=1600&fit=bounds",
         "publishedAt": "2026-04-27T10:10:46Z",
         "content": "The Chinese Government on Monday blocked Metas $2 billion deal to acquire the Chinese-founded artificial intelligence startup Manus, a regulatory maneuver that comes amid an escalating fight between \u2026 [+2097 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Chris Panella",
+        "title": "The Pentagon is putting industry on a key 'Golden Dome' weapon that military leaders have said might ultimately be too expensive",
+        "description": "Space-based interceptors are the most expensive and technologically advanced piece of Golden Dome. There are concerns they may not be affordable.",
+        "url": "https://www.businessinsider.com/us-picks-companies-golden-dome-weapon-might-not-be-affordable-2026-4",
+        "urlToImage": "https://i.insider.com/69efaa573fecbb42897a4a3b?width=1200&format=jpeg",
+        "publishedAt": "2026-04-27T19:34:00Z",
+        "content": "The Trump administration's desired capabilities and cost have raised questions about feasibility.The Washington Post/The Washington Post via Getty Images\r\n<ul><li>Twelve defense companies have been p\u2026 [+5186 chars]"
     },
     {
         "source": {
@@ -30,26 +69,39 @@
             "id": null,
             "name": "Forbes"
         },
-        "author": "Frank Racioppi, Contributor, \n Frank Racioppi, Contributor\n https://www.forbes.com/sites/frankracioppi/",
-        "title": "Sirius XM And iHeart Media In Talks To Merge",
-        "description": "SiriusXM and iHeart Media are in preliminary talks to merge. A consolidation of the two giants would bring further dominance in radio, and a greater share of the fast-growing podcast market.",
-        "url": "https://www.forbes.com/sites/frankracioppi/2026/04/26/sirius-xm-and-iheart-media-in-talks-to-merge/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ecba83ec04ddfcadf7e32f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-04-26T09:50:58Z",
-        "content": "Howard Stern is still a big audience draw for SiriusXM. In December 2025, he announced a contract extension to continue The Howard Stern Show for three more years, featuring a flexible schedule on hi\u2026 [+6337 chars]"
+        "author": "Alan Ohnsman, Forbes Staff, \n Alan Ohnsman, Forbes Staff\n https://www.forbes.com/sites/alanohnsman/",
+        "title": "Finding Hidden Geothermal Power With AI",
+        "description": "This week\u2019s Current Climate newsletter also looks at how SpaceX\u2019s IPO could leave Tesla eating rocket dust and the need for better forest management in a warming world",
+        "url": "https://www.forbes.com/sites/current-climate/2026/04/27/finding-hidden-geothermal-power-with-ai/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ebe87c4bc16c42ca506d05/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-27T13:00:00Z",
+        "content": "Current Climate brings you the latest news about the business of sustainability every Monday. Sign up to get it in your inbox.\r\nAn exploratory well at Zanskar's Big Blind site in Nevada.\r\nZanskar\r\nIn\u2026 [+9133 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Nicholas Gordon",
+        "title": "China\u2019s decision to block the $2 billion Meta-Manus deal shows how far Washington and Beijing are drifting apart over AI",
+        "description": "Both Washington and Beijing now seek to maintain control of strategic technologies and prevent them from leaking to the other.",
+        "url": "https://fortune.com/2026/04/28/china-blocks-meta-manus-deal-ai/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2255015583-e1777309367543.jpg?resize=1200,600",
+        "publishedAt": "2026-04-28T07:00:00Z",
+        "content": "China has blocked Metas deal to acquire AI startup Manus. The National Development and Reform Commission, the countrys top macroeconomic regulator, unceremoniously posted on Monday that it had decide\u2026 [+6014 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Forbes"
         },
-        "author": "Andy Meek, Senior Contributor, \n Andy Meek, Senior Contributor\n https://www.forbes.com/sites/andymeek/",
-        "title": "Netflix\u2019s New Stock Buyback Is Bigger Than Its Entire 2026 Content Budget",
-        "description": "After a post-earnings stock dip, Netflix is betting on itself with a $25 billion buyback \u2014 a move that tells quite a story about the company\u2019s momentum.",
-        "url": "https://www.forbes.com/sites/andymeek/2026/04/26/netflixs-new-stock-buyback-is-bigger-than-its-entire-2026-content-budget/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ee63a0b007d2628f6759c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-04-26T19:31:37Z",
-        "content": "An aerial view of the Netflix logo displayed at Netflix studios, with the Hollywood sign in the distance.\r\nGetty Images\r\nNetflix, for years, spent whatever it took to win the streaming wars. Now, in \u2026 [+3414 chars]"
+        "author": "Bill Schiffmiller, Contributor, \n Bill Schiffmiller, Contributor\n https://www.forbes.com/sites/billschiffmiller/",
+        "title": "Why A Hearing Industry Deal Matters To Every Business Leader",
+        "description": "In a defining moment for GN Group and Amplifon, a look at the kind of leadership that prioritizes discipline, focus, and long-term value over visibility.",
+        "url": "https://www.forbes.com/sites/billschiffmiller/2026/04/27/why-a-hearing-industry-deal-matters-to-every-business-leader/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ee8816a9a6d832c1522579/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-27T13:05:31Z",
+        "content": "A businesswoman in deep thoughts.\r\ngetty\r\nLast month, Amplifon announced its planned acquisition of GN Groups hearing division, a move that remains subject to regulatory approval in Europe and other \u2026 [+6225 chars]"
     },
     {
         "source": {
@@ -69,6 +121,32 @@
             "id": "fortune",
             "name": "Fortune"
         },
+        "author": "Allie Garfinkle",
+        "title": "How a chance encounter in Texas sparked a $1 billion Kleiner Perkins-backed AI startup",
+        "description": "Avoca, founded by two MIT grads, brings Silicon Valley tech to trades like plumbing, roofing, and HVAC.",
+        "url": "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/image_5d86c8.png?resize=1200,600",
+        "publishedAt": "2026-04-27T11:50:18Z",
+        "content": "Tyson Chen and Apurva Shrivastava were chasing restaurants when they found an HVAC company.\u00a0The two engineers had first met at MIT poker night and built an AI system to handle missed callsoriginally,\u2026 [+5007 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Colleen Cabili",
+        "title": "HawkEye 360 targets $2.4 billion valuation in U.S. IPO",
+        "description": "The Virginia-based signals intelligence company plans to raise up to $416 million by offering 16 million shares priced between $24 and $26",
+        "url": "https://qz.com/hawkeye-360-ipo-valuation-nyse-hawk-042726",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qRJuLEpLExHw8IOYW_u1pQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/dc7ed581f15810e137fda0692a00fe8e",
+        "publishedAt": "2026-04-27T13:36:38Z",
+        "content": "HawkEye 360 is targeting a valuation of up to $2.42 billion in a U.S. initial public offering, the Herndon, Virginia-based company said Monday. Proceeds from the offering could reach $416 million, wi\u2026 [+1717 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
         "author": "Jim Edwards",
         "title": "A manifesto, a train ride, and gaps in security that let a shooter get near Trump",
         "description": "Everything you need to know before you reach the office this morning.",
@@ -79,16 +157,42 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "Forbes"
         },
-        "author": "Emma Burleigh",
-        "title": "NASA advisor turned $65 billion founder says ex-Intel CEO Andy Grove helped him get out of a crisis: \u2018That\u2019s a lesson I will take to my grave\u2019",
-        "description": "Bloom Energy CEO K.R. Sridhar tapped former Intel CEO Andy Grove for wisdom during a company crisis\u2014and he learned employees are the best kept secret in reversing course.",
-        "url": "https://fortune.com/2026/04/26/nasa-advisor-founder-kr-sridhar-intel-ceo-andy-grove-lesson/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-170952134-e1777064118103.jpg?resize=1200,600",
-        "publishedAt": "2026-04-26T09:10:00Z",
-        "content": "When a business is on the brink of crisis, CEOs assemble their war rooms of execs and board members to strategize a way out. But Bloom Energy CEO K.R. Sridhar says leaders may be overlooking one secr\u2026 [+5445 chars]"
+        "author": "Gladys Louise Tyler, Contributor, \n Gladys Louise Tyler, Contributor\n https://www.forbes.com/sites/gladyslouisetyler/",
+        "title": "2026 Draft Grades For Each NFL Team By Division: AFC",
+        "description": "NFL 2026 Draft is over. The grades for each team in the AFC are in. The New York Jets lead the East while the Cleveland Browns surprise the North.",
+        "url": "https://www.forbes.com/sites/gladyslouisetyler/2026/04/27/2026-draft-grades-for-each-nfl-team-by-division-afc/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69eef0712632130ef079f4ce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-27T12:30:00Z",
+        "content": "PITTSBURGH, PENNSYLVANIA - APRIL 23: A screen shows Fernando Mendoza of Indiana after being selected first overall by the Las Vegas Raiders during Round One of the 2026 NFL Draft at Acrisure Stadium \u2026 [+17356 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Evelyn Cheng",
+        "title": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
+        "description": "Beijing's decision to block Meta's acquisition of Manus is a warning to other startups thinking of relocating data, talent and intellectual property abroad.",
+        "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108298087-1777364896511-GettyImages-2255015560.jpg?v=1777364943&w=1920&h=1080",
+        "publishedAt": "2026-04-28T08:31:40Z",
+        "content": "Manus was hailed by Chinese state media as the \"next DeepSeek\" soon after its launch in March 2025, months before the startup relocated to Singapore.\r\nBEIJING China's decision to block U.S. tech gian\u2026 [+6217 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "hlangley@businessinsider.com (Hugh Langley)",
+        "title": "What's at stake for Meta if China kills its Manus deal",
+        "description": "The Chinese government has ordered Meta to unwind its acquisition of Manus, potentially hurting Meta's push into building AI agents.",
+        "url": "https://www.businessinsider.com/meta-manus-deal-china-stop-acquisition-agents-ai-artificial-intelligence-2026-4",
+        "urlToImage": "https://i.insider.com/69ef426a367066d7c297160a?width=1200&format=jpeg",
+        "publishedAt": "2026-04-27T11:13:24Z",
+        "content": "The Chinese government has ordered Meta to unwind its acquisition of Manus, an AI startup that builds autonomous agents.\r\nMeta announced it would acquire Manus in December as part of a push into buil\u2026 [+781 chars]"
     },
     {
         "source": {
@@ -108,6 +212,19 @@
             "id": null,
             "name": "CNBC"
         },
+        "author": "Samantha Subin",
+        "title": "True Anomaly raises $650 million to support space interceptors for Trump's Golden Dome",
+        "description": "True Anomaly, a four-year-old startup, plans to use the funding to scale manufacturing and double its workforce by the end of the year.",
+        "url": "https://www.cnbc.com/2026/04/28/true-anomaly-trump-golden-dome.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108298020-1777327860734-JUTL_Jackal_Hero_Wide_11.jpg?v=1777328008&w=1920&h=1080",
+        "publishedAt": "2026-04-28T09:45:01Z",
+        "content": "True Anomaly, a Colorado-based startup building space interceptors for President Donald Trump's sweeping Golden Dome project, raised $650 million, the company said on Tuesday. \r\nThe four-year-old sta\u2026 [+2172 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
         "author": "April Roach",
         "title": "China blocks Meta's acquisition of AI startup Manus",
         "description": "China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.",
@@ -115,5 +232,70 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279325-1773812817915-gettyimages-2255015559-img_4584.jpeg?v=1773812854&w=1920&h=1080",
         "publishedAt": "2026-04-27T09:03:53Z",
         "content": "China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.\r\nChina's state planner, the National Development and Reform Commission, \u2026 [+563 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "kvlamis@businessinsider.com (Kelsey Vlamis)",
+        "title": "Elon Musk really wants to make sure you've read Ronan Farrow's Sam Altman investigation",
+        "description": "Elon Musk boosted Ronan Farrow's profile questioning Sam Altman's trustworthiness as the two tech titans face each other in court.",
+        "url": "https://www.businessinsider.com/elon-musk-ronan-farrow-new-yorker-sam-altman-profile-trial-2026-4",
+        "urlToImage": "https://i.insider.com/69efcefb3fecbb42897a4b72?width=583&format=jpeg",
+        "publishedAt": "2026-04-27T22:03:22Z",
+        "content": "A New Yorker magazine investigation detailing concerns about Sam Altman's leadership resurfaced on X feeds on Monday, at the behest of the social media platform's billionaire owner.\r\nA post from Rona\u2026 [+1655 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lim Hui Jie",
+        "title": "CNBC Daily Open: Investors look past warning signs to send stock markets soaring",
+        "description": "From stagflation warnings and stalled Iran talks to rising oil prices, red lights are everywhere.",
+        "url": "https://www.cnbc.com/2026/04/28/cnbc-daily-open-investors-look-past-warning-signs-to-send-stock-markets-soaring.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108292512-1776349492904-gettyimages-2271044715-AFP_A82P6HH.jpeg?v=1776349511&w=1920&h=1080",
+        "publishedAt": "2026-04-28T01:29:40Z",
+        "content": "Hello, this is Hui Jie writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\r\nFrom stagflation warnings and stalled Iran talks to rising oil prices, red flags are everywhere\u2026 [+2282 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lee Ying Shan",
+        "title": "CATL plunges more than 8% as the Chinese battery maker unveils $5 billion share placement",
+        "description": "Shares of Contemporary Amperex Technology (CATL) declined 8.5% after the EV battery giant unveiled plans for a roughly $5 billion equity placement in Hong Kong.",
+        "url": "https://www.cnbc.com/2026/04/28/catl-shares-slide-after-5-billion-hong-kong-share-placement-plan.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145217-1747208937362-gettyimages-2213998775-vcg111565986078.jpeg?v=1747208970&w=1920&h=1080",
+        "publishedAt": "2026-04-28T02:55:35Z",
+        "content": "Shares of China's Contemporary Amperex Technology declined 8.5% Tuesday after the EV battery giant unveiled plans for a roughly $5 billion equity offering in Hong Kong.\r\nCATL, which makes lithium-ion\u2026 [+2187 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Jury selection kicks off in Musk v. Altman trial",
+        "description": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
+        "url": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297714-17773046912026-04-27t154305z_1964669647_rc2rxka9pguy_rtrmadp_0_musk-openai-court.jpeg?v=1777304761&w=1920&h=1080",
+        "publishedAt": "2026-04-27T16:35:50Z",
+        "content": "Jury selection is beginning in the high-stakes legal battle between longtime friends turned rivals Elon Musk and Sam Altman at a federal courthouse in Oakland, California. \r\nJudge Yvonne Gonzalez Rog\u2026 [+2611 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Alex Harring",
+        "title": "WHCD shooting, DOJ ends Powell probe, Musk vs. Altman and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/04/27/5-things-to-know-before-the-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297323-17771725122026-04-26t025826z_487662792_rc2qwkaz6rrf_rtrmadp_0_usa-trump-dinner.jpeg?v=1777172534&w=1920&h=1080",
+        "publishedAt": "2026-04-27T12:22:02Z",
+        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nGood morning. We have a big week ahead of us: In addition to earnings reports from key automakers a\u2026 [+6096 chars]"
     }
 ]

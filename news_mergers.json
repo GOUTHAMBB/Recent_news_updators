@@ -4,13 +4,13 @@
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Lloyd Lee",
-        "title": "Meta bought some help in its quest for humanoid robots",
-        "description": "Meta is making another push toward robotics with its acquisition of Assured Robot Intelligence, a small San Diego-based startup.",
-        "url": "https://www.businessinsider.com/meta-acquires-assured-robot-intelligence-humanoid-robotics-2026-5",
-        "urlToImage": "https://i.insider.com/69f525f6ab24bc0b23a189f4?width=1200&format=jpeg",
-        "publishedAt": "2026-05-01T23:50:02Z",
-        "content": "Meta is making another push to expand its humanoid efforts with the acquisition of a small robotics intelligence startup.Benjamin Fanjoy/Bloomberg via Getty Images\r\n<ul><li>Meta acquired Assured Robo\u2026 [+2652 chars]"
+        "author": "Thibault Spirlet",
+        "title": "AI is opening doors for philosophy majors",
+        "description": "Philosophy majors are being recruited by AI companies to help decide how machines should think and behave.",
+        "url": "https://www.businessinsider.com/ai-job-market-careers-philosophy-majors-google-anthropic-2026-4",
+        "urlToImage": "https://i.insider.com/69ef3f46367066d7c29715fb?width=1200&format=jpeg",
+        "publishedAt": "2026-05-03T08:43:25Z",
+        "content": "Philosophy majors are landing lucrative roles shaping AI, but their real influence is still up for debate.Qilai Shen/Bloomberg via Getty Images\r\n<ul><li>AI labs are recruiting philosophers to shape h\u2026 [+7302 chars]"
     },
     {
         "source": {
@@ -30,13 +30,39 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sheryl Estrada",
-        "title": "Apple just posted $111 billion in revenue. Now its CFO and incoming CEO are teaming up",
-        "description": "Apple's next CEO, John Ternus, plans to continue the company's financial discipline into its next era.",
-        "url": "https://fortune.com/2026/05/01/apple-111-billion-revenue-cfo-incoming-ceo-john-ternus-team-up/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2233928906.jpg?resize=1200,600",
-        "publishedAt": "2026-05-01T13:18:20Z",
-        "content": "Good morning. Apple Inc., CEO Tim Cook opened the companys earnings call Thursday by marking his 28th anniversary at Apple, his 15th year as CEO, and his 89th earnings callreflective moments as he pr\u2026 [+9091 chars]"
+        "author": "Emma Burleigh",
+        "title": "Eventbrite CEO sold her company for $500 million\u2014without a job for the first time since 15, she\u2019s playing chess with a robot and eyeing internships",
+        "description": "Julia Hartz, the cofounder and CEO of ticketing platform Eventbrite, made a $500 million exit and is now considering her next career move as a free agent.",
+        "url": "https://fortune.com/2026/05/03/eventbrite-ceo-julia-hartz-sold-company-500-million-without-job-since-15-learning-chess-eyeing-internships/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/headshot.jpg?resize=1200,600",
+        "publishedAt": "2026-05-03T08:00:00Z",
+        "content": "Twenty years ago, Julia Hartz ditched a budding career at MTV and FX, drove up the coast of California, and bootstrapped ticketing platform Eventbrite with her two cofounders. Now, the longtime CEO w\u2026 [+5756 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
+        "description": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman.",
+        "url": "https://www.cnbc.com/2026/05/02/musk-testimony-dominated-first-week-musk-v-altman-trial-in-oakland.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300077-1777564113758-gettyimages-2273245544-2026_apr_30_muskvsaltman_0666.jpeg?v=1777564136&w=1920&h=1080",
+        "publishedAt": "2026-05-02T12:00:01Z",
+        "content": "Elon Musk arrives to court at the Ronald V. Dellums Federal Building on April 30, 2026 in Oakland, California. \r\nA week into the Musk v. Altman trial, which features two towering figures in the tech \u2026 [+5458 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jake Angelo",
+        "title": "A $20B battleship the U.S. abandoned after WWII is back in Trump\u2019s $1.5T defense budget. Experts say modern missiles will easily destroy it",
+        "description": "President Trump's record defense budget includes a new class of battleships not seen since WWII.",
+        "url": "https://fortune.com/2026/05/03/trump-defense-budget-wwii-battleship-modern-missiles/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2253191070-e1777670729759.jpg?resize=1200,600",
+        "publishedAt": "2026-05-03T09:28:00Z",
+        "content": "President Donald Trump last month announced a record-setting $1.5 trillion defense budget for fiscal year 2027. But in that towering proposal, experts say theres obvious signs of waste and overspend.\u2026 [+4408 chars]"
     },
     {
         "source": {
@@ -50,18 +76,5 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Stephen-A-Schwarzman.jpg?resize=1200,600",
         "publishedAt": "2026-05-02T08:00:00Z",
         "content": "Steve Schwarzman has spent his career on Wall Streetbut hes also been on a quieter quest on the other side of the globe, a decades-long journey to understanding China. That brought him, in late April\u2026 [+12203 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Matthew Chin, Sydney Goh",
-        "title": "Japan Airlines to trial humanoid robots for baggage handling at Haneda airport amid labor crunch",
-        "description": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.",
-        "url": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108299727-1777528427570-gettyimages-2265480935-260307_lax_169.jpeg?v=1777528437&w=1920&h=1080",
-        "publishedAt": "2026-05-01T00:47:03Z",
-        "content": "LOS ANGELES, CALIFORNIA - MARCH 7: A Japan Airlines Boeing 787 Dreamliner departs Los Angeles International Airport en route to Tokyo on March 7, 2026 in Los Angeles, California. (Photo by Kevin Cart\u2026 [+4618 chars]"
     }
 ]

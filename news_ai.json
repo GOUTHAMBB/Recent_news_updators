@@ -4,13 +4,91 @@
             "id": null,
             "name": "Gizmodo.com"
         },
+        "author": "Tom Hawking",
+        "title": "This AI-Powered Talking C-3PO Head Lets You Feel What It\u2019s Like to Be R2-D2",
+        "description": "Now you too can sputter and bleep in response.",
+        "url": "https://gizmodo.com/this-ai-powered-talking-c-3po-head-lets-you-feel-what-its-like-to-be-r2-d2-2000754223",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/c-3po-ai-head_lede-1200x675.jpg",
+        "publishedAt": "2026-05-04T18:20:26Z",
+        "content": "May the fourth be with you, and all that. And for Star Wars Day, were focusing on one of the films less appreciated characters: step forward C-3PO, the shiny golden droid with the personality of a ma\u2026 [+2617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
         "author": "Mike Pearl",
-        "title": "More Than a Third of All New Podcasts Are AI-Generated",
-        "description": "Synthetic podcasts just keep coming.",
-        "url": "https://gizmodo.com/more-than-a-third-of-all-new-podcasts-are-ai-generated-2000753786",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/airpods-ear-1200x675.jpg",
-        "publishedAt": "2026-05-03T09:00:58Z",
-        "content": "In 2024, Google rolled out what was at the time a pretty startling new feature as part of its NotebookLM AI suite: audio digests of information that were essentially podcasts, sometimes featuring odd\u2026 [+3118 chars]"
+        "title": "Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models",
+        "description": "Let him cook.",
+        "url": "https://gizmodo.com/trump-reportedly-considering-executive-order-aimed-at-vetting-new-ai-models-2000754493",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Trump-AI-write-transportation-laws-1200x675.jpg",
+        "publishedAt": "2026-05-05T10:00:22Z",
+        "content": "According to an anonymously sourced story in the New York Times, the president is considering a new oversight scheme for the AI industry. Apparently this comes from people briefed on the conversation\u2026 [+2906 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Katelyn Chedraoui",
+        "title": "And the Oscar Does Not Go to\u2026 AI 'Actors' and AI-Written Screenplays, the Academy Says",
+        "description": "You must be human to win an Academy Award.",
+        "url": "https://www.cnet.com/tech/services-and-software/academy-motion-picture-arts-sciences-new-oscars-rules-ai-2026-news/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e4eec16ef0125f0a5f6b44aa5e9cce9030d35c0c/hub/2026/05/04/31c5d18e-1267-4d66-854a-ebda1408c23a/gettyimages-2266746216.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-04T21:20:33Z",
+        "content": "The Academy of Motion Picture Arts and Sciences -- the organization behind the Oscars -- is trying to avoid giving awards to AI. An updated list of\u00a0rules for the 99th Academy Awards,\u00a0released on Frid\u2026 [+2244 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jennifer Pattison Tuohy",
+        "title": "The creator of Roomba is back with a furry robot companion",
+        "description": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines & Ma\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Golden.png?quality=90&strip=all&crop=0%2C1.8117057886209%2C100%2C96.376588422758&w=1200",
+        "publishedAt": "2026-05-04T16:53:14Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe creator of Roomba is back with a furry robot companion\r\nColin Angle revealed his latest creation this week: a dog-sized robot Familiar designed for human con\u2026 [+10893 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Katelyn Chedraoui",
+        "title": "Bosses Want You to Use AI but They're Not Setting a Good Example, Study Says",
+        "description": "Executives have been pushing AI for years. But leadership-led workplace culture may be preventing effective adoption, Microsoft found.",
+        "url": "https://www.cnet.com/tech/services-and-software/microsoft-work-trend-index-2026-ai-work-news/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/eca589455533dbfee168a9f66597fde468c14d20/hub/2026/05/04/cda297c6-6133-4b62-9c20-eccd33933e01/gettyimages-2247162855.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-05T10:01:38Z",
+        "content": "Your company's leadership might've told you to start incorporating AI into your work, but that same leadership may actually be hindering AI adoption across the workplace, according to a new report fr\u2026 [+3407 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Singapore boffins get diverse SIEMs singing in harmony with agentic rule translation",
+        "description": "Vendors all use different formats. This tech translates them all so you can smooth your SOC\nAcademics from Singapore and China have found a way to make AI useful for cyber-defenders, by creating a technique that translates rules from diverse Security Informat\u2026",
+        "url": "https://www.theregister.com/2026/05/05/arulecon_siem_rule_conversion/",
+        "urlToImage": "https://regmedia.co.uk/2021/09/28/shutterstock_alert.jpg",
+        "publishedAt": "2026-05-05T02:12:16Z",
+        "content": "Academics from Singapore and China have found a way to make AI useful for cyber-defenders, by creating a technique that translates rules from diverse Security Information and Event Managements (SIEMs\u2026 [+3061 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "MIT Technology Review Insights",
+        "title": "Tailoring AI solutions for health care needs",
+        "description": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting func\u2026",
+        "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTR-MayoClinicCoverSocialV31200.png?resize=1200,600",
+        "publishedAt": "2026-05-04T13:00:00Z",
+        "content": "AI applications for health care are proliferating rapidly. The U.S. Food and Drug Administration has approved more than 1,300 AI-enabled medical devices, mostly for interpreting diagnostic images. Mo\u2026 [+2758 chars]"
     },
     {
         "source": {
@@ -28,15 +106,106 @@
     {
         "source": {
             "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "James O'Donnell",
+        "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+        "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Two of the most powerful people in AI\u2014Sam Altman and Elon Musk\u2014began their face-off in court in Oakland, California, last\u2026",
+        "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260504_algo2.jpg?resize=1200,600",
+        "publishedAt": "2026-05-04T15:51:27Z",
+        "content": "And then the lawyers just kept going on and on about the catastrophic risks of AI and whether Elon Musk or OpenAI was in the better position to steward AI safety. And the judge sort of snapped. She s\u2026 [+2048 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Emre Kazim",
-        "title": "The quiet erosion of agency in the age of AI",
-        "description": "Enterprises are moving fast to embed artificial intelligence into everything from customer interactions to decision-making. The benefits are undeniable: speed, efficiency and scale. The danger isn\u2019t necessarily sudden or dramatic. It\u2019s quieter, more gradual, \u2026",
-        "url": "https://siliconangle.com/2026/05/03/quiet-erosion-agency-age-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aiwatchingai-1.png",
-        "publishedAt": "2026-05-03T20:59:32Z",
-        "content": "Enterprises are moving fast to embed artificial intelligence into everything from customer interactions to decision-making. The benefits are undeniable: speed, efficiency and scale.\r\nThe danger isnt \u2026 [+7795 chars]"
+        "author": "Duncan Riley",
+        "title": "Opaque buys post-quantum cryptographic AI tech from Abu Dhabi\u2019s TII",
+        "description": "Confidential artificial intelligence platform provider\u00a0Opaque Systems Inc.\u00a0today announced it has acquired advanced cryptographic AI technologies from the Technology Innovation Institute, the applied research pillar of Abu Dhabi\u2019s Advanced Technology Research\u2026",
+        "url": "https://siliconangle.com/2026/05/04/opaque-buys-post-quantum-cryptographic-ai-tech-abu-dhabis-tii/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/opaqueabudhabi.png",
+        "publishedAt": "2026-05-04T14:00:10Z",
+        "content": "Confidential artificial intelligence platform provider\u00a0Opaque Systems Inc.\u00a0today announced it has acquired advanced cryptographic AI technologies from the Technology Innovation Institute, the applied\u2026 [+3967 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Singapore boffins get diverse SIEMs singing in harmony with agentic rule translation",
+        "description": ": Vendors all use different formats. This tech translates them all so you can smooth your SOC",
+        "url": "https://www.theregister.com/security/2026/05/05/singapore-boffins-get-diverse-siems-singing-in-harmony/5220619",
+        "urlToImage": "https://image.theregister.com/261362.jpg?imageId=261362&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+        "publishedAt": "2026-05-05T02:12:16Z",
+        "content": "Academics from Singapore and China have found a way to make AI useful for cyber-defenders, by creating a technique that translates rules from diverse Security Information and Event Managements (SIEMs\u2026 [+3061 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "What to expect at the DigiCert Trust Summit: Join theCUBE May 13",
+        "description": "Artificial intelligence has rapidly changed the cybersecurity landscape, leaving organizations reeling \u2014 and in need of new trust infrastructure. More than 70% of organizations are already deploying AI-powered security tools, yet nearly 90% remain unprepared \u2026",
+        "url": "https://siliconangle.com/2026/05/04/trust-infrastructure-ai-digicerttrustsummit/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/DigiCert-Trust-Summit-2026.png",
+        "publishedAt": "2026-05-04T18:47:04Z",
+        "content": "Artificial intelligence has rapidly changed the cybersecurity landscape, leaving organizations reeling and in need of new trust infrastructure.\r\nMore than 70% of organizations are already deploying A\u2026 [+5720 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Anthropic and OpenAI establish joint ventures on Wall Street to accelerate enterprise AI adoption",
+        "description": "Artificial intelligence giants\u00a0Anthropic PBC and OpenAI Group PBC are going after the enterprise, announcing the creation of new AI services companies in joint ventures with some of America\u2019s biggest private equity firms. Anthropic said today it is teaming up\u2026",
+        "url": "https://siliconangle.com/2026/05/04/anthropic-openai-establish-joint-ventures-wall-street-accelerate-enterprise-ai-adoption/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-05-05-07-57-17.png",
+        "publishedAt": "2026-05-05T00:58:14Z",
+        "content": "Artificial intelligence giants\u00a0Anthropic PBC and OpenAI Group PBC are going after the enterprise in full force now, announcing the creation of new AI services companies in joint ventures with some of\u2026 [+5335 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Cisco buys Astrix Security to strengthen AI agent discovery and governance",
+        "description": "Cisco Systems Inc. today revealed it\u2019s going to buy the Israeli cybersecurity firm Astrix Security Ltd. in an effort to bolster the defenses of artificial intelligence agents. The startup has developed a platform that\u2019s able to identify, manage and secure AI \u2026",
+        "url": "https://siliconangle.com/2026/05/04/cisco-buys-astrix-security-strengthen-ai-agent-discovery-governance/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-05-05-08-31-33.png",
+        "publishedAt": "2026-05-05T01:32:28Z",
+        "content": "Cisco Systems Inc. today revealed its going to buy the Israeli cybersecurity firm Astrix Security Ltd. in an effort to bolster the defenses of artificial intelligence agents. The startup has develope\u2026 [+5239 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "AI chip provider Cerebras seeks to raise $3.5B in IPO at $26.6B valuation",
+        "description": "Cerebras Systems Inc., a maker of supersized artificial intelligence chips, today disclosed the financial terms of its upcoming public offering. The company hopes to raise as much as $3.5 billion by selling 28 million shares for $115 to $125 apiece. Cerebras\u2019\u2026",
+        "url": "https://siliconangle.com/2026/05/04/ai-chip-provider-cerebras-seeks-raise-3-5b-ipo-26-6b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Cerebras.png",
+        "publishedAt": "2026-05-04T20:13:20Z",
+        "content": "Cerebras Systems Inc., a maker of supersized artificial intelligence chips, today disclosed the financial terms of its upcoming public offering.\r\nThe company hopes to raise as much as $3.5 billion by\u2026 [+4403 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "IBM charts AI operating model to move enterprises beyond experimentation",
+        "description": "IBM Corp. will use its Think 2026 conference today to outline a broad expansion of its enterprise artificial intelligence portfolio, positioning a new \u201cAI operating model\u201d as the next stage in its customers\u2019 march toward translating early investments into mea\u2026",
+        "url": "https://siliconangle.com/2026/05/05/ibm-charts-ai-operating-model-move-enterprises-beyond-experimentation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Think-sign-enhanced.jpg",
+        "publishedAt": "2026-05-05T04:01:33Z",
+        "content": "IBM Corp. will use its Think 2026 conference today to outline a broad expansion of its enterprise artificial intelligence portfolio, positioning a new AI operating model as the next stage in its cust\u2026 [+7673 chars]"
     },
     {
         "source": {
@@ -54,28 +223,210 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "MIT Technology Review"
         },
-        "author": "Etiido Uko",
-        "title": "Chinese court rules companies can't fire workers just because AI is cheaper \u2014 ruling says automation alone doesn't justify layoffs",
-        "description": "Chinese courts ruled that companies cannot automatically fire workers simply because AI can do the job more cheaply, declaring that automation alone does not justify dismissal under labor law.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-court-rules-companies-cant-fire-workers-just-because-ai-is-cheaper-ruling-says-automation-alone-doesnt-justify-layoffs",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/AQSPMV2LMQWoPRSStvmdb4-2560-80.jpg",
-        "publishedAt": "2026-05-03T12:35:13Z",
-        "content": "A court in China has ruled that companies cannot automatically justify firing workers simply because artificial intelligence can now perform their jobs more cheaply, as businesses worldwide increasin\u2026 [+4299 chars]"
+        "author": "Andrew Sorota, Josh Hendler",
+        "title": "A blueprint for using AI to strengthen democracy",
+        "description": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to ad\u2026",
+        "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260430_AIdemocracy3.jpg?resize=1200,600",
+        "publishedAt": "2026-05-05T09:00:00Z",
+        "content": "Start with what might be called the epistemic layerhow we come to know things. People are increasingly relying on AI to know what is true, what is happening, and whom to trust. Search is already subs\u2026 [+4497 chars]"
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Allison Steffens Herrera",
-        "title": "The Academy has not banned AI from the Oscars. It has defined what it means to be the author of a film.",
-        "description": "The Academy of Motion Picture Arts and Sciences announced new eligibility rules on 2 May for the 99th Academy Awards, and the two that matter most are about seven words each. Acting nominations will be limited to roles \u201cdemonstrably performed by humans with t\u2026",
-        "url": "https://thenextweb.com/news/oscars-ai-ban-acting-writing-rules/",
-        "urlToImage": "https://media.thenextweb.com/2026/05/oscars-ai-ban-acting-writing-rules.avif",
-        "publishedAt": "2026-05-03T19:24:27Z",
-        "content": "TL;DR\r\nThe Academy of Motion Picture Arts and Sciences announced new rules for the 99th Oscars requiring that acting nominations go only to roles demonstrably performed by humans with their consent a\u2026 [+8685 chars]"
+        "author": "Mike Wheatley",
+        "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models",
+        "description": "Dedicated inference cloud startup Deepinfra Inc. is looking to scale and expand its global capacity after raising $107 million in a Series B round of funding led by 500 Global and Georges Harik, who was one of Google LLC\u2019s first-ever cloud engineers. The roun\u2026",
+        "url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/us-team-2026.jpg",
+        "publishedAt": "2026-05-05T02:04:16Z",
+        "content": "Dedicated inference cloud startup Deepinfra Inc. is looking to expand its global capacity after raising $107 million in a Series B round of funding led by 500 Global and Georges Harik, who was one of\u2026 [+4773 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+        "title": "Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years \u2014 large customers are signing large contracts",
+        "description": "Demand for storage devices is so high that large customers are willing to sign up to five-year long-term supply agreements, according to Sandisk, Seagate, and Western Digital.",
+        "url": "https://www.tomshardware.com/pc-components/ssds/crushing-shortages-have-pushed-long-term-supply-agreements-for-ssds-and-hdds-to-record-five-years-large-customers-are-signing-large-contracts",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/bcsFWLTDVtHVgtDn4K27hi-1920-80.jpg",
+        "publishedAt": "2026-05-04T10:30:00Z",
+        "content": "In a world of rapidly developing artificial intelligence, the supply of computer hardware can barely meet demand, and at this point, long-term supply agreements (LTAs) become compulsory. When it come\u2026 [+4116 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "AI agent startup Sierra valued at $15B in new $950M funding round",
+        "description": "Eight months after closing a $350 million funding round, Sierra Technologies Inc. today announced that it has raised another $950 million at a $15 billion valuation. Alphabet Inc.\u2019s GV venture capital arm and Tiger Global led the investment. They were joined \u2026",
+        "url": "https://siliconangle.com/2026/05/04/ai-agent-startup-sierra-valued-15b-new-950m-funding-round/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Sierra.png",
+        "publishedAt": "2026-05-05T00:47:52Z",
+        "content": "Eight months after closing a $350 million funding round, Sierra Technologies Inc. today announced that it has raised another $950 million at a $15 billion valuation.\r\nAlphabet Inc.s GV venture capita\u2026 [+3891 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "SAP acquires Dremio, Prior Labs to enhance its tabular AI capabilities",
+        "description": "SAP SE today announced plans to acquire two startups that help organizations analyze tabular data, or information stored in rows and columns. Santa Clara, California-based Dremio Inc. raised more than $300 million prior to the deal. Prior Labs GmbH, the other\u2026",
+        "url": "https://siliconangle.com/2026/05/04/sap-acquires-dremio-prior-labs-enhance-tabular-ai-capabilities/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/SAP.jpg",
+        "publishedAt": "2026-05-04T22:44:22Z",
+        "content": "SAP SE today announced plans to acquire two startups that help organizations analyze tabular data, or information stored in rows and columns.\r\nSanta Clara, California-based Dremio Inc. raised more th\u2026 [+4010 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky",
+        "description": ": Prioritize resilience over productivity, say CISA, NCSC and their friends from Oz, NZ, Canada",
+        "url": "https://www.theregister.com/security/2026/05/04/five-eyes-warn-agentic-ai-is-too-dangerous-for-rapid-rollout/5229103",
+        "urlToImage": "https://image.theregister.com/262625.jpg?imageId=262625&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+        "publishedAt": "2026-05-04T02:35:29Z",
+        "content": "Information security agencies from the nations of the Five Eyes security alliance have co-authored guidance on the use of agentic AI that warns the technology will likely misbehave and amplifies orga\u2026 [+4635 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Penske and Amazon\u00a0introduce supply chain\u00a0logistics\u00a0solutions aimed at\u00a0businesses",
+        "description": "Amazon.com Inc. and\u00a0Penske Logistics, the transportation solutions division of Penske\u00a0Corp.\u00a0Inc.,\u00a0today separately\u00a0announced supply chain solutions\u00a0aimed\u00a0at\u00a0easing business operations.\u00a0 Penske\u00a0announced the launch of\u00a0Supply Chain Insight, a technology platfor\u2026",
+        "url": "https://siliconangle.com/2026/05/04/penske-amazon-introduce-supply-chain-logistics-solutions-aimed-businesses/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/tungart7-truck-8914273_1280.jpg",
+        "publishedAt": "2026-05-04T15:30:24Z",
+        "content": "Amazon.com Inc. and\u00a0Penske Logistics, the transportation solutions division of Penske\u00a0Corp.\u00a0Inc.,\u00a0today separately\u00a0announced supply chain solutions\u00a0aimed\u00a0at\u00a0easing business operations.\u00a0\r\nPenske\u00a0annou\u2026 [+6053 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Tristan Foster",
+        "title": "Agentic development demands a multi-model strategy \u2014 and the governance to match",
+        "description": "The rapid rise of agentic development has radically transformed the software engineering landscape, compelling enterprises to embrace a multi-model AI ecosystem. The pace of change in software development has outstripped even the most optimistic predictions, \u2026",
+        "url": "https://siliconangle.com/2026/05/04/agentic-development-multi-model-era-googlecloudnext/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_9530.jpg",
+        "publishedAt": "2026-05-04T17:34:05Z",
+        "content": "The rapid rise of agentic development has radically transformed the software engineering landscape, compelling enterprises to embrace a multi-model AI ecosystem.\r\nThe pace of change in software devel\u2026 [+4242 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Jonathan Anthony",
+        "title": "\u2018An engine without a car\u2019: Why AI without workflow structure fails to deliver measurable value",
+        "description": "Most enterprise AI pilots are failing to deliver measurable AI business value, and Appian Corp. is suggesting that the culprit isn\u2019t the technology. The gap between AI experimentation and real enterprise transformation is widening as organizations mistake per\u2026",
+        "url": "https://siliconangle.com/2026/05/04/measurable-ai-business-value-starts-process-not-pilots-appianworld/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_2457.jpg",
+        "publishedAt": "2026-05-04T20:58:31Z",
+        "content": "Most enterprise AI pilots are failing to deliver measurable AI business value, and Appian Corp. is suggesting that the culprit isn\u2019t the technology.\r\nThe gap between AI experimentation and real enter\u2026 [+4260 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Tristan Foster",
+        "title": "Google and PwC are closing the enterprise AI trust gap one agent at a time",
+        "description": "The race to capture tangible AI value \u2013 and to extract a genuine return on investment \u2013 has officially moved from isolated experiments to the core of enterprise operations. As enterprises turn to agentic solutions to solve business problems, success now hinge\u2026",
+        "url": "https://siliconangle.com/2026/05/04/pwc-google-zero-enterprise-ai-value-googlecloudnext/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_9012-e1777891177532.jpg",
+        "publishedAt": "2026-05-04T17:22:49Z",
+        "content": "The race to capture tangible AI value and to extract a genuine return on investment has officially moved from isolated experiments to the core of enterprise operations.\r\nAs enterprises turn to agenti\u2026 [+5193 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "OpenAI President Greg Brockman grilled about his $30B personal stake and \u2018duty to humanity\u2019",
+        "description": "OpenAI Group PBC co-founder and President Greg Brockman today disclosed in an ongoing landmark trial that his stake in the company is worth close to $30 billion, a windfall Elon Musk has invoked in his argument that the company sacrificed its original nonprof\u2026",
+        "url": "https://siliconangle.com/2026/05/04/openai-president-grilled-30b-personal-stake-duty-humanity/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/48838377052_0757957505_c.jpg",
+        "publishedAt": "2026-05-05T02:13:05Z",
+        "content": "OpenAI Group PBC co-founder and President Greg Brockman today disclosed in an ongoing landmark trial that his stake in the company is worth close to $30 billion, a windfall Elon Musk has invoked in h\u2026 [+4149 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "OpenAI President grilled over his $30 billion personal stake and \u2018duty to humanity\u2019",
+        "description": "OpenAI Group PBC co-founder and President Greg Brockman today disclosed in an ongoing landmark trial that his stake in the company is worth close to $30 billion, a windfall Elon Musk has invoked in his argument that the company sacrificed its original nonprof\u2026",
+        "url": "https://siliconangle.com/2026/05/04/openai-president-grilled-30-billion-personal-stake-duty-humanity/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/48838377052_0757957505_c.jpg",
+        "publishedAt": "2026-05-05T02:13:05Z",
+        "content": "OpenAI Group PBC co-founder and President Greg Brockman today disclosed in an ongoing landmark trial that his stake in the company is worth close to $30 billion, a windfall Elon Musk has invoked in h\u2026 [+4133 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Thomas Godwin",
+        "title": "\u201cSlay the dragon\u201d: Appian says process orchestration is the fix enterprise AI keeps skipping",
+        "description": "The enthusiasm for enterprise AI is outpacing strategic thinking \u2014 and process automation, not more AI tools, is the fix most organizations might be missing. The wall that most enterprises face is an overabundance of unmanaged \u201cwhite space\u201d, not a lack of AI \u2026",
+        "url": "https://siliconangle.com/2026/05/04/appian-co-founder-says-process-automation-beats-ai-hype-appianworld/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_1473.jpg",
+        "publishedAt": "2026-05-04T17:18:38Z",
+        "content": "The enthusiasm for enterprise AI is outpacing strategic thinking and process automation, not more AI tools, is the fix most organizations might be missing.\r\nThe wall that most enterprises face is an \u2026 [+4554 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Palantir beats Q1 expectations, raises full-year guidance as US revenue doubles",
+        "description": "Shares in Palantir Technologies Inc. were down more than 2% in late trading today despite the big data analytics company beating first-quarter expectations and raising full-year guidance for the second consecutive quarter. For its fiscal 2026 first quarter th\u2026",
+        "url": "https://siliconangle.com/2026/05/04/palantir-beats-q1-expectations-raises-full-year-guidance-us-revenue-doubles/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/palantir.png",
+        "publishedAt": "2026-05-04T22:49:27Z",
+        "content": "Shares in Palantir Technologies Inc. were down more than 2% in late trading today despite the big data analytics company beating first-quarter expectations and raising full-year guidance for the seco\u2026 [+3980 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "RV Studios",
+        "title": "The future of IT service delivery is built on AI and automation",
+        "description": "IT teams and Managed Service Providers are under pressure to deliver faster service in an increasingly complex threat landscape. They can no longer do without integrated, AI-driven systems.",
+        "url": "https://www.zdnet.com/paid-content/article/the-future-of-it-service-delivery-is-built-on-ai-and-automation/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/9997c207c572c2c1e74a1427b0a4c79ff23a6f75/2026/05/01/6e0fb652-d1b2-4667-9a74-21001afaa34e/cnet-lead-image.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-04T18:39:00Z",
+        "content": "PixeloneStocker / Getty Images\r\nThe traditional IT playbook is broken. As businesses scale, so do their threat surfaces, users, and support tickets. Each new client or service gap pushes an urgent ne\u2026 [+5143 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Manny Veiga",
+        "title": "Three insights you might have missed from theCUBE\u2019s coverage of Google Cloud Next",
+        "description": "The race for AI dominance is about more than which model will reign supreme. The real action is happening underneath the surface, where hyperscalers such as Google LLC are focused on the infrastructure and the data pipelines that models run on \u2014 especially as\u2026",
+        "url": "https://siliconangle.com/2026/05/04/agentic-ai-infrastructure-googlecloudnext/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_8851-e1776886077716.jpg",
+        "publishedAt": "2026-05-04T21:27:18Z",
+        "content": "The race for AI dominance is about more than which model will reign supreme. The real action is happening underneath the surface, where hyperscalers such as Google LLC are focused on the infrastructu\u2026 [+12732 chars]"
     },
     {
         "source": {
@@ -92,16 +443,133 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Silk null",
+        "title": "AI inference just plays by different rules",
+        "description": "Partner Content: Why no cloud storage architecture was designed for what agentic AI is about to demand",
+        "url": "https://www.theregister.com/software/2026/05/04/ai-inference-just-plays-by-different-rules/5223647",
+        "urlToImage": "https://image.theregister.com/232439.jpg?imageId=232439&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+        "publishedAt": "2026-05-04T15:00:13Z",
+        "content": "PARTNER CONTENT Nvidia CEO Jensen Huang recently declared\u00a0that we are entering the era of \"AI factories,\" where the primary output of the global tech economy isn't software, it's intelligence. He's r\u2026 [+10322 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "Inside Amazon Web Services' plan to make networking disappear",
+        "description": "FEATURE: The Register gets a look inside AWS' networking lab in Cupertino",
+        "url": "https://www.theregister.com/on-prem/2026/05/04/aws-networking-lab-tour-making-networking-disappear/5228826",
+        "urlToImage": "https://image.theregister.com/5229635.jpg?imageId=5229635&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+        "publishedAt": "2026-05-04T15:39:08Z",
+        "content": "FEATURE In an unassuming three-story office building in Cupertino, California, engineers from Amazon Web Services are busy trying to make networking inconspicuous.\r\nThey work in windowless hardware d\u2026 [+10454 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Tiernan Ray",
+        "title": "What you'll pay for AI agents will be wildly variable and unpredictable",
+        "description": "A test of leading AI agents found vastly different amounts of tokens consumed with no transparency and no guarantees of success.",
+        "url": "https://www.zdnet.com/article/your-cost-for-ai-agents-will-be-wildly-variable-and-unpredictable/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/d7d1fe9eeebfde2afd8fb895ffad24fc79db5b6d/2026/05/04/c0a3e06b-368f-4136-b778-4a6f1c9cc655/gettyimages-79903157.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-05T09:00:43Z",
+        "content": "Hill Street Studios/Fuse / Getty Images Plus\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0 \r\n<ul><li>AI's cost in terms of tokens soars when using agents.</li><li>Age\u2026 [+10243 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Tyler Lacoma",
+        "title": "Ring's New Video Doorbell Is the Most Powerful I've Seen, But It Tries to Do Too Much",
+        "description": "Ring's 2026 Battery Doorbell Pro can do everything, including unique AI scanning and greetings, but that creates its own challenges.",
+        "url": "https://www.cnet.com/home/security/rings-new-video-doorbell-is-the-most-powerful-ive-seen-but-it-tries-to-do-too-much/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/82b9474a8685cd759938c17d25fc2142fe9503f5/hub/2026/05/01/d8cdcad3-9e93-48ba-a77c-65e55d90207d/ring-doorbell-cnet-ar.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-04T11:00:00Z",
+        "content": "Amazon Ring's plethora of video doorbells received a major update in April with the Ring Battery Doorbell Pro ($250), a culmination of Ring's latest technologies as well as Amazon's AI push, featurin\u2026 [+13337 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Joe McKendrick",
+        "title": "The rise and risks of agent management platforms",
+        "description": "Agent management platforms offer orchestration and operational discipline to growing networks of agents.",
+        "url": "https://www.zdnet.com/article/the-rise-and-risks-of-agent-management-platforms/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/020098699681e2c30f4b3e9bd4546bdc741d1016/2026/04/30/a6eea400-cfe6-4286-aa40-f29d6dd30499/the-rise-and-risks-of-agent-management-platforms-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-04T14:09:44Z",
+        "content": "Tharon Green/ZDNET/Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>The number of agents continues to grow, increasing the risk of sprawl.</li><li>P\u2026 [+8662 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "AI is now an F1 sponsor, a strategist, and a tech director. The race weekend has changed.",
+        "description": "Eight AI partnerships signed in six months. Williams runs Claude. McLaren runs Gemini. Red Bull runs Oracle. The 2026 regulation overhaul has turned the paddock into one of the largest live commercial AI deployments in sport. The teams in the Formula One padd\u2026",
+        "url": "https://thenextweb.com/news/formula-one-ai-sponsorship-strategy-2026/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/F1.avif",
+        "publishedAt": "2026-05-04T18:51:52Z",
+        "content": "Eight AI partnerships signed in six months. Williams runs Claude. McLaren runs Gemini. Red Bull runs Oracle. The 2026 regulation overhaul has turned the paddock into one of the largest live commercia\u2026 [+10768 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "Inside Amazon Web Services' plan to make networking disappear",
+        "description": "The Register gets a look inside AWS' networking lab in Cupertino FEATURE\u00a0 In an unassuming three-story office building in Cupertino, California, engineers from Amazon Web Services are busy trying to make networking inconspicuous.\u2026",
+        "url": "https://www.theregister.com/2026/05/04/amazon_web_services_cupertino_networking_lab/",
+        "urlToImage": "https://regmedia.co.uk/2026/05/01/aws_networking_lab.jpg",
+        "publishedAt": "2026-05-04T15:39:08Z",
+        "content": "FEATURE In an unassuming three-story office building in Cupertino, California, engineers from Amazon Web Services are busy trying to make networking inconspicuous.\r\nThey work in windowless hardware d\u2026 [+10396 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "David Gewirtz",
+        "title": "Building an agentic AI strategy that pays off - without risking business failure",
+        "description": "Companies are chasing tenfold AI gains, but many projects are failing fast. We break down the real risks and show you how to turn agentic AI into reliable, profitable outcomes.",
+        "url": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/8483dc62e26d08514ac4b04eb5fa229d1614d2b1/2026/04/30/359c6d48-711c-4ac5-b542-633744f8c1a8/building-an-agentic-ai-strategy-that-pays-off-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-04T14:10:52Z",
+        "content": "Tharon Green/ZDNET/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Not all \"agentic AI\" tools are truly agentic systems.</li><li>Poor prompts and r\u2026 [+16978 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Tiernan Ray",
+        "title": "Give your 'human-level agents' a proper head start with these 3 best practices",
+        "description": "Focusing on governance, evaluation, and starting small can increase your AI agents' prospects for making it into production",
+        "url": "https://www.zdnet.com/article/doing-these-three-things-at-the-beginning-of-agentic-ai-will-make-everything-smoother/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/85a84595470b2fdb158b9232d24c7fafa8b0e6b0/2026/05/04/054c8c5b-6a2a-4e0d-bfa6-407bd97490f4/for-a-smoother-deployment-of-agentic-ai-do-these-3-things-first-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-04T14:08:18Z",
+        "content": "Tharon Green/ZDNET/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>Setting up governance and evaluation are keys to designing agents.\u00a0</li><li>Sta\u2026 [+11286 chars]"
+    },
+    {
+        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
         "author": "Alina Maria Stan",
-        "title": "Tim Cook returned $1 trillion to shareholders. John Ternus is being given permission to keep it.",
-        "description": "For nearly 15 years, Apple\u2019s financial strategy has been defined by a single number: more than $1 trillion returned to shareholders through stock buybacks and dividends. Tim Cook inherited a company sitting on a cash mountain that Steve Jobs had accumulated o\u2026",
-        "url": "https://thenextweb.com/news/apple-ternus-ceo-buyback-cash-strategy/",
-        "urlToImage": "https://media.thenextweb.com/2026/05/apple-ternus-ceo-buyback-cash-strategy.avif",
-        "publishedAt": "2026-05-03T16:42:49Z",
-        "content": "TL;DR\r\nApple dropped its net cash neutral policy after seven years, signalling that incoming CEO John Ternus will have greater flexibility to invest in AI infrastructure and acquisitions rather than \u2026 [+7306 chars]"
+        "title": "Every government has an AI strategy. Dubai just gave its private sector a deadline.",
+        "description": "Every major government now has an AI strategy. Most involve pilot programmes, task forces, and multi-year roadmaps that promise transformation without specifying a deadline. Dubai has taken a different approach. On Sunday, Crown Prince Sheikh Hamdan bin Moham\u2026",
+        "url": "https://thenextweb.com/news/dubai-agentic-ai-private-sector-mandate/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/dubai-agentic-ai-private-sector-mandate.avif",
+        "publishedAt": "2026-05-04T21:06:22Z",
+        "content": "TL;DR\r\nDubai Crown Prince Sheikh Hamdan has launched a two-year initiative to transition the emirates entire private sector to agentic AI, with training tracks for all business councils, government-f\u2026 [+9041 chars]"
     },
     {
         "source": {
@@ -122,12 +590,38 @@
             "name": "The Next Web"
         },
         "author": "Alina Maria Stan",
+        "title": "A crypto VC raised $1 billion to fund AI agents. The bet is that finance, not models, is what they need.",
+        "description": "Katie Haun has raised $1 billion for two new venture funds at Haun Ventures, split evenly between early and later-stage vehicles to be deployed over the next two to three years. The capital will go into crypto and blockchain companies, which have been the fir\u2026",
+        "url": "https://thenextweb.com/news/haun-ventures-billion-fund-crypto-ai-agents-fintech/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/Katie-Haun-a-former-Andreessen-Horowitz-general-partner.avif",
+        "publishedAt": "2026-05-04T19:12:28Z",
+        "content": "TL;DR\r\nKatie Haun has raised $1 billion for two new Haun Ventures funds, expanding from crypto into AI agents and financial infrastructure. The thesis: AI agents will need regulated financial plumbin\u2026 [+8047 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
         "title": "The next satisfactory standard for data governance may not come from Brussels. It may come from Beijing.",
         "description": "The European Union treats data as a privacy right. The United States treats it as a corporate asset. China treats it as a factor of production, a national economic resource on par with land, labour, capital, and technology. That distinction, which sounds like\u2026",
         "url": "https://thenextweb.com/news/china-data-governance-global-standard/",
         "urlToImage": "https://media.thenextweb.com/2026/05/TNW-Article-Banner.avif",
         "publishedAt": "2026-05-04T01:00:11Z",
         "content": "TL;DR\r\nChina treats data as a factor of production, not a privacy right or corporate asset, and is building economic infrastructure around it: regulated data exchanges, 30+ new standards expected in \u2026 [+9497 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Silk",
+        "title": "AI inference just plays by different rules",
+        "description": "Why no cloud storage architecture was designed for what agentic AI is about to demand\nPartner Content Nvidia CEO Jensen Huang recently declared\u00a0that we are entering the era of \"AI factories,\" where the primary output of the global tech economy isn't software,\u2026",
+        "url": "https://www.theregister.com/2026/05/04/ai_inference_just_plays/",
+        "urlToImage": "https://regmedia.co.uk/2023/07/12/shutterstock_data_ai.jpg",
+        "publishedAt": "2026-05-04T15:00:13Z",
+        "content": "Partner Content Nvidia CEO Jensen Huang recently declared\u00a0that we are entering the era of \"AI factories,\" where the primary output of the global tech economy isn't software, it's intelligence. He's r\u2026 [+10322 chars]"
     },
     {
         "source": {

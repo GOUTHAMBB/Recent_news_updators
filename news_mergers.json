@@ -1,146 +1,42 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "James Faris",
-        "title": "Here's what David Ellison told Paramount employees after beating earnings estimates",
-        "description": "Paramount Skydance CEO David Ellison said the company is \"making meaningful strides\" in tech ahead of its mega-deal with Warner Bros. Discovery.",
-        "url": "https://www.businessinsider.com/david-ellison-memo-earnings-paramount-skydance-wbd-deal-2026-5",
-        "urlToImage": "https://i.insider.com/69f9fd0f405e0cf89dc8723d?width=1200&format=jpeg",
-        "publishedAt": "2026-05-05T15:17:09Z",
-        "content": "David Ellison, the CEO of Paramount Skydance, told employees that the company is making progress.Alberto E. Rodriguez/Getty Images for CinemaCon\r\n<ul><li>Paramount Skydance CEO David Ellison sent a m\u2026 [+6024 chars]"
+        "author": "Raffaele Huang and Tracy Qu",
+        "title": "China to Invest in DeepSeek at $50 Billion Valuation",
+        "description": "The money will come from government-backed investors and align the AI startup with Beijing\u2019s push for technology self-sufficiency.",
+        "url": "https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6IVzCxIglPrvYsGlnPie0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/088c0d1254939a2c67c343d8023572f8",
+        "publishedAt": "2026-05-06T12:45:00Z",
+        "content": "DeepSeek is viewed as a national AI champion by China. - Andy Wong/AP\r\nChinas DeepSeek is raising money from government-backed investors, aligning the artificial-intelligence startup with Beijings pu\u2026 [+3883 chars]"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "Quartz India"
         },
-        "author": "Melia Russell",
-        "title": "Harvey's CEO says AI agents are picking up more work that human lawyers used to do",
-        "description": "Harvey's CEO says as AI agents take on more work, firms might put fewer lawyers on each case. That doesn't mean there will be less work, he says.",
-        "url": "https://www.businessinsider.com/harvey-ceo-ai-agents-transforming-legal-industry-dynamics-2026-5",
-        "urlToImage": "https://i.insider.com/69f9015bb3045b292f636969?width=1200&format=jpeg",
-        "publishedAt": "2026-05-05T12:01:01Z",
-        "content": "Winston Weinberg is the CEO of Harvey.Harvey\r\n<ul><li>Agents are transforming what it's like to be a coder. The tech is coming for lawyers next.</li><li>Legal AI giant Harvey says it has built 500 ag\u2026 [+4379 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Bradley Saacks",
-        "title": "BlackRock's Larry Fink hints at a coming partnership with a hyperscaler",
-        "description": "BlackRock's Larry Fink has positioned $13.9 trillion BlackRock to fund the buildout of infrastructure for AI.",
-        "url": "https://www.businessinsider.com/larry-fink-blackrock-hyperscaler-data-center-partnership-2026-5",
-        "urlToImage": "https://i.insider.com/69fa1e6f405e0cf89dc87384?width=1200&format=jpeg",
-        "publishedAt": "2026-05-05T20:17:57Z",
-        "content": "Larry Fink runs the world's largest asset manager, BlackRockAnna Moneymaker/Getty Images\r\n<ul><li>BlackRock CEO Larry Fink said at Milken that his firm is partnering with a hyperscaler.</li><li>The p\u2026 [+2568 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Theron Mohamed",
-        "title": "'Big Short' investor Michael Burry confirms he's sold GameStop and says he's shorting Palantir",
-        "description": "Michael Burry of \"The Big Short\" fame said he sold GameStop because he dislikes its plan to buy eBay, and has opened an \"outright short\" on Palantir.",
-        "url": "https://www.businessinsider.com/big-short-michael-burry-sells-gamestop-palantir-short-nvidia-tech-2026-5",
-        "urlToImage": "https://i.insider.com/69f9d8e838bee05c96983da1?width=1200&format=jpeg",
-        "publishedAt": "2026-05-05T12:35:03Z",
-        "content": "Michael Burry, the investor of \"The Big Short\" fame, has exited his GameStop position.James Devaney/WireImage\r\n<ul><li>Michael Burry says he's sold his GameStop stake and opened an \"outright short\" o\u2026 [+3995 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Daniel Geiger",
-        "title": "AI infrastructure executives are raking in massive stock windfalls \u2014 some are cashing them out",
-        "description": "CoreWeave is one of the most successful among a crop of firms delivering the infrastructure for AI. Its top execs have quietly sold off shares.",
-        "url": "https://www.businessinsider.com/ai-executives-earned-sold-off-stock-awards-coreweave-iren-2026-5",
-        "urlToImage": "https://i.insider.com/69f912c1b3045b292f636a36?width=1200&format=jpeg",
-        "publishedAt": "2026-05-05T09:36:01Z",
-        "content": "Michael Intrator, CoreWeave's CEO.Bloomberg/Getty Images\r\n<ul><li>AI infrastructure firms are paying giant compensation to their senior executives, mostly in stock.</li><li>CoreWeave's top executives\u2026 [+7742 chars]"
+        "author": "Cris Tolomia",
+        "title": "SpaceX files plans for $55 billion Terafab chip plant in Texas",
+        "description": "The Terafab facility, a joint project with Tesla, could require up to $119 billion in total investment if all phases are completed",
+        "url": "https://qz.com/spacex-terafab-chip-plant-texas-050626",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WUFGoWnptrXknay6aTRZvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/1438f6dbd37d8b5c1f6760127a8fbc0e",
+        "publishedAt": "2026-05-06T12:23:51Z",
+        "content": "SpaceX has proposed spending $55 billion to begin construction of a semiconductor manufacturing facility in Grimes County, Texas, according to a public notice posted on the county's website. Total in\u2026 [+2696 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jack Kubinec",
-        "title": "MoonPay acquires Solana trading infrastructure platform in $100M all-stock deal",
-        "description": "The deal represents MoonPay\u2019s sixth acquisition in the past 18 months",
-        "url": "https://fortune.com/2026/05/05/moonpay-acquires-solana-100m-all-stock/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2266544030-e1777989308922.jpg?resize=1200,600",
-        "publishedAt": "2026-05-05T15:00:00Z",
-        "content": "The crypto payment and infrastructure firm MoonPay has acquired DFlow, a platform that facilitates trading on the Solana blockchain. MoonPay paid $100 million in stock to scoop up DFlow, two sources \u2026 [+3167 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Lily Mae Lazarus",
-        "title": "Exclusive: AI grocery startup Vori raises $22 million to help independent retailers compete with Walmart and Amazon",
-        "description": "With $500 million already processed through its platform, Vori is scaling fast as it targets underserved grocery operators.",
-        "url": "https://fortune.com/2026/05/05/exclusive-ai-grocery-startup-vori-raises-22-million-to-help-independent-retailers-compete-with-walmart-and-amazon/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/26042001_Vori-Founders_Founders_10257_FINAL-e1777924781805.jpg?resize=1200,600",
-        "publishedAt": "2026-05-05T12:00:00Z",
-        "content": "Brandon Hills parents met and fell in love in an independent grocery store. Decades later, the startup founder is trying to make sure stores like that dont get swallowed up by Walmart and Amazon.Hill\u2026 [+3540 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jeremy Kahn",
-        "title": "Musk\u2019s court fight against OpenAI produces more heat than light on the control of advanced AI",
-        "description": "The trial has had a few bombshell moments, but is unlikely to impact where AI is heading\u2014or who controls it.",
-        "url": "https://fortune.com/2026/05/05/musk-court-fight-openai/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2273248179-e1778004327484.jpg?resize=1200,600",
-        "publishedAt": "2026-05-05T19:43:22Z",
-        "content": "Hello and welcome to Eye on AIIn this edition: Sparks fly as Musk and Brockman testify in battle over OpenAIs restructuringthe White House does a 180 degree U-turn on AI regulation and may begin revi\u2026 [+18265 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Ben Weiss",
-        "title": "Exclusive: Kraken to let customers cash out crypto at MoneyGram locations in more than 100 countries",
-        "description": "Once a legacy cross-border payments firm, MoneyGram has revamped itself to become more crypto-native over the past three years.",
-        "url": "https://fortune.com/2026/05/05/kraken-moneygram-partnership-crypto-cash-off-ramp/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2270876621-e1777974469490.jpg?resize=1200,600",
-        "publishedAt": "2026-05-05T12:00:00Z",
-        "content": "Crypto transfers are typically instant and seamlessunless, that is, users want to convert their digital currency into cash. In those cases, users in many countries are obliged to navigate a slow, com\u2026 [+2073 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Marco Quiroz-Gutierrez",
-        "title": "GameStop\u2019s billionaire CEO is an entrepreneur without a college degree who cofounded Chewy. Now he has his sights set on buying eBay for $56 billion",
-        "description": "Ryan Cohen was rejected by 100 investors before selling Chewy for $3.35 billion.",
-        "url": "https://fortune.com/2026/05/05/gamestop-billionaire-entrepreneur-ceo-ryan-cohen-chewy-cofounder-meme-stocks/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2274484444-e1777990150793.jpg?resize=1200,600",
-        "publishedAt": "2026-05-05T14:19:29Z",
-        "content": "GameStop CEO Ryan Cohen is a billionaire entrepreneur who is known for taking big risks. Yet, his biggest challenge may be his attempt to revive the struggling gaming retail chain.With GameStops unso\u2026 [+3576 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Bloomberg",
-        "title": "Yotta Data said to\u00a0hire\u00a0advisors for $900 million India IPO",
-        "description": "Yotta Data Services Pvt. is weighing an initial public offering in Mumbai that could raise as much as $900 million and has engaged investment banks for the process, according to people familiar with the matter.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-05/yotta-data-said-to-hire-advisors-for-900-million-india-ipo",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/m9mwr5/article70941668.ece/alternates/LANDSCAPE_1200/PO02_Survey_checklist.jpg",
-        "publishedAt": "2026-05-05T06:44:40Z",
-        "content": "Yotta Data Services Pvt. is weighing an initial public offering in Mumbai that could raise as much as $900 million and has engaged investment banks for the process, according to people familiar with \u2026 [+1663 chars]"
+        "author": "Anis Uzzaman",
+        "title": "AI, robotics, climate tech: How VCaaS helps corporations enter deep tech safely",
+        "description": "In AI, robotics, and climate tech, the path forward is not about avoiding risk, but something else.",
+        "url": "https://fortune.com/2026/05/06/ai-robotics-climate-tech-how-vcaas-helps-corporations-enter-deep-tech-safely/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/1577816439147.jpg?resize=1200,600",
+        "publishedAt": "2026-05-06T13:30:00Z",
+        "content": "Artificial Intelligence (AI), robotics, and climate technologies are no longer distant future technologies. They are rapidly becoming the infrastructure of the next industrial era. For corporations, \u2026 [+8441 chars]"
     },
     {
         "source": {
@@ -157,15 +53,41 @@
     },
     {
         "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Ruth Umoh",
+        "title": "Inside Home Depot\u2019s marketing playbook: weather signals, influencers, and an app to drive bigger baskets",
+        "description": "Home Depot\u2019s CMO doesn't just want to sell products. She wants to rewire how shoppers buy them.",
+        "url": "https://fortune.com/article/home-depot-cmo-marketing-data-ai-shoppers-influencers-diy/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Molly_Battin_horizontal.jpg?resize=1200,600",
+        "publishedAt": "2026-05-06T14:14:23Z",
+        "content": "Molly Battin, Home Depots chief marketing officer, oversees far more than advertising. Product sits within her organization as a shared function across marketing and technology, giving her influence \u2026 [+4675 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Davis Giangiulio",
-        "title": "After Coinbase, prediction market traders forecast more tech layoffs ahead",
-        "description": "Traders on prediction market platforms give a high probability to layoffs in the tech sector reaching more than 447,000 jobs in 2026.",
-        "url": "https://www.cnbc.com/2026/05/05/after-coinbase-prediction-markets-traders-see-more-tech-layoffs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108100616-1739282562459-gettyimages-2193601136-AFP_36UB2KR.jpeg?v=1761851003&w=1920&h=1080",
-        "publishedAt": "2026-05-05T16:26:27Z",
-        "content": "Coinbase became the latest tech company to announce a round of layoffs Tuesday morning, blaming artificial intelligence for altering the company's operations. Prediction markets traders think the fin\u2026 [+1805 chars]"
+        "author": "Priyanka Salve",
+        "title": "Inside India newsletter: Social media is reshaping the world's fastest-growing market for global brands",
+        "description": "Social media influencers are urging consumers to read labels and pushing traditional companies to make healthier products or risk being replaced by newer entrants.",
+        "url": "https://www.cnbc.com/2026/05/07/inside-india-newsletter-social-media-pepsico-mondelez-global-brands-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302699-1778038391773-gettyimages-672083374-INDIA_BIG_BAZAAR.jpeg?v=1778038419&w=1920&h=1080",
+        "publishedAt": "2026-05-07T00:24:13Z",
+        "content": "Hello, this is Priyanka Salve, writing to you from Singapore.\r\nWelcome to the latest edition of\u00a0\"Inside India\"\u00a0 your one-stop destination for stories and developments from the world's fastest-growing\u2026 [+7366 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "lloydlee@insider.com (Lloyd Lee)",
+        "title": "The 'Meme King' is turning eBay listings into takeover theater",
+        "description": "GameStop CEO Ryan Cohen said he's selling old items on eBay \"to pay for eBay.\" The CEO could be cashing in on his memestock status, experts said.",
+        "url": "https://www.businessinsider.com/gamestop-ceo-ryan-cohen-selling-items-ebay-meme-stock-king-2026-5",
+        "urlToImage": "https://i.insider.com/69fbd282e1443b8dc48e29d6?width=900&format=jpeg",
+        "publishedAt": "2026-05-07T01:07:17Z",
+        "content": "In a world where cultural capital equals deal currency,\u00a0GameStop CEO Ryan Cohen\u00a0is dipping into his reserves.\r\nOn Wednesday, Cohen put up some of his video games, sports memorabilia, and GameStop mer\u2026 [+3997 chars]"
     }
 ]

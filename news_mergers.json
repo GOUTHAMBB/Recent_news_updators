@@ -1,81 +1,42 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Zinnia Lee, Forbes Staff, \n Zinnia Lee, Forbes Staff\n https://www.forbes.com/sites/zinnialee/",
-        "title": "Brothers Become Billionaires From Supplying Chemicals To China\u2019s Semiconductor Industry",
-        "description": "Shares of Hubei Dinglong more than doubled in the past year, making cofounder Zhu Shuangquan and his younger brother Shunquan the latest members of the billionaire club.",
-        "url": "https://www.forbes.com/sites/zinnialee/2026/05/08/brothers-become-billionaires-from-supplying-chemicals-to-chinas-semiconductor-industry/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67da6cfef4d6dd6b8ceef759/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-05-08T14:55:05Z",
-        "content": "Chinas push for self-sufficiency in semiconductor manufacturing has benefited companies across the supply chain. The latest to get a boost is Hubei Dinglong, which supplies materials essential for th\u2026 [+4528 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Allie Garfinkle",
-        "title": "Brian Schimpf has been quietly running Anduril since its earliest days. And once he\u2019s talking, he has a lot to say",
-        "description": "Anduril CEO Brian Schimpf on the war in Iran, the future of autonomous weapons, and where the $30.5 billion company goes from here.",
-        "url": "https://fortune.com/2026/05/08/anduril-brian-schimpf-term-sheet/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Andruil_social-thumbnail.jpg?resize=1200,600",
-        "publishedAt": "2026-05-08T11:31:51Z",
-        "content": "In 2017, Brian Schimpf was in the California desert with an engineering problem to solve.\u00a0The place was Apple Valley, expansive, sandy, and surreal. SchimpfCEO and cofounder of Anduril, then a startu\u2026 [+6003 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Quartz India"
-        },
-        "author": "Cris Tolomia",
-        "title": "GPU-collateralized debt explained: AI financing risks",
-        "description": "Neoclouds like CoreWeave borrow billions against chips that lose value fast, and the financing structures are unlike anything in traditional credit",
-        "url": "https://qz.com/gpu-collateralized-debt-ai-neocloud-coreweave-financing-risks-050526",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rMf57LbfuE2VHXrBnc4feQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/cb6f1107989c0807d22817a41de1db18",
-        "publishedAt": "2026-05-08T18:02:29Z",
-        "content": "In August 2023, a company most people had never heard of borrowed $2.3 billion using Nvidia chips as collateral. As Reuters reported at the time, CoreWeave raised the debt facility, led by Magnetar C\u2026 [+7573 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Alexei Oreskovic",
-        "title": "Why CEO Bill McDermott says ServiceNow\u2019s 39% stock crash is Saaspocalypse \u2018nonsense\u2019 and why AI will make it a trillion-dollar company",
-        "description": "In an in-depth interview with Fortune, the ServiceNow CEO explains how AI provides a tailwind to its business and how Wall Street is missing the point.",
-        "url": "https://fortune.com/2026/05/08/servicenow-ceo-bill-mcdermott/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2223638169-e1778197175355.jpg?resize=1200,600",
-        "publishedAt": "2026-05-08T07:30:00Z",
-        "content": "Bill McDermotts time at the helm of ServiceNow has been nothing if not eventful. Months after he became CEO at the end of 2019, the COVID pandemic shut down the global economy; then in late 2022, Cha\u2026 [+4909 chars]"
+        "author": "Chris Panella,Kelsey Baker",
+        "title": "The submariner-turned-top Army tech boss said the hardest thing about modernizing isn't the new tools \u2014 it's the people",
+        "description": "The Army is deploying digital tools across the force. Its former CIO says the biggest challenge isn't technology \u2014 it's getting people to adopt it.",
+        "url": "https://www.businessinsider.com/army-pushes-ai-but-getting-troops-to-adapt-is-harder-2026-5",
+        "urlToImage": "https://i.insider.com/69fcac32e1443b8dc48e2cc8?width=1200&format=jpeg",
+        "publishedAt": "2026-05-09T11:27:01Z",
+        "content": "Petty Officer 2nd Class Wade Costin/Defense Intelligence Agency\r\n<ul><li>The Army's former CIO shared how challenging it is to get people to adapt to new tech.</li><li>Leonel Garciga helped implement\u2026 [+6467 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "scouncil@insider.com (Stephen Council)",
-        "title": "The University of Michigan invested $20 million into OpenAI early. Now it could make $2 billion.",
-        "description": "The University of Michigan's early stake in OpenAI, before Microsoft's massive investment, could yield $2 billion.",
-        "url": "https://www.businessinsider.com/michigan-early-openai-investment-yield-billions-2026-5",
-        "urlToImage": "https://i.insider.com/69fe29eee1443b8dc48e3596?width=1200&format=jpeg",
-        "publishedAt": "2026-05-08T19:05:00Z",
-        "content": "University of Michigan made a very good, very early bet on OpenAI.\r\nInvestors running the public school's endowments put $20 million into one of the AI lab's earliest fundraising efforts, according t\u2026 [+2361 chars]"
+        "author": "Jordan Hart",
+        "title": "The new CEO flex: Bragging about how much AI code your company shipped",
+        "description": "CEOs like Meta's Mark Zuckerberg can't stop talking about how agentic AI is changing how engineers code \u2014 and it's not just the Big Tech bosses.",
+        "url": "https://www.businessinsider.com/latest-ceo-flex-how-much-ai-code-your-company-shipped-2026-5",
+        "urlToImage": "https://i.insider.com/69fdfdfdc9dd4cb81cda8888?width=1200&format=jpeg",
+        "publishedAt": "2026-05-09T09:41:01Z",
+        "content": "Mark Zuckerberg predicted that 2026 would be the year AI dramatically changed how people work.Bloomberg/Getty Images\r\n<ul><li>Tech CEOs aren't the only ones bragging about their company's AI output.<\u2026 [+7222 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Marco Quiroz-Gutierrez",
-        "title": "Anthropic grew 80-fold in a single quarter. Now it\u2019s renting Elon Musk\u2019s data center to cope",
-        "description": "CEO Dario Amodei said he\u2019s hoping eventually Anthropic will have a \u201cmore normal\u201d expansion.",
-        "url": "https://fortune.com/2026/05/08/anthropic-80fold-growth-quarter-renting-elon-musk-data-center/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2256654494-1-e1778250677916.jpg?resize=1200,600",
-        "publishedAt": "2026-05-08T14:45:45Z",
-        "content": "Anthropic CEO Dario Amodei said the AI company had planned for 10x growth, but instead, its revenue and usage grew 80-fold in the first quarter on an annualized basis, a surge he called just crazy an\u2026 [+4099 chars]"
+        "author": "anicoll@businessinsider.com (Alex Nicoll)",
+        "title": "From Blackstone to Blue Owl, here's how the biggest investors are chasing a $900 billion data center opportunity",
+        "description": "Private markets giants are more bullish than ever on their data center bets. After all, with a $900 billion opportunity, there's room for everyone.",
+        "url": "https://www.businessinsider.com/how-private-equity-chasing-data-center-opportunity-blackstone-ares-apollo-2026-5",
+        "urlToImage": "https://i.insider.com/69fd01c4e1443b8dc48e307e?width=1200&format=jpeg",
+        "publishedAt": "2026-05-09T10:40:01Z",
+        "content": "The AI data center bet keeps getting bigger. \r\nWhen asked on a recent earnings call how big the total market for digital infrastructure is, Blair Jacobson, co-president of private credit giant Ares, \u2026 [+6875 chars]"
     },
     {
         "source": {
@@ -92,16 +53,29 @@
     },
     {
         "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Nick Lichtenberg",
+        "title": "\u2018The Devil Wears Prada 2\u2019 broke the box office. It may also be the last great victory for Hollywood\u2019s IP machine",
+        "description": "The $77 million opening shows the nostalgia formula still works\u2014when conditions are right. The problem is nothing else on the calendar meets the test.",
+        "url": "https://fortune.com/2026/05/09/the-devil-wears-prada-2-hollywood-future-millennial-nostalgia/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2273608020.jpg?resize=1200,600",
+        "publishedAt": "2026-05-09T11:45:00Z",
+        "content": "Twenty years after Miranda Priestly first demanded her coat, Hollywood got its answer: millennials will show up. The Devil Wears Prada 2opened to $77 million domestically and $234 million worldwide i\u2026 [+13388 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Davis Giangiulio",
-        "title": "How much further does this Teflon market have to go? Here's what traders say",
-        "description": "Traders on prediction markets platform Kalshi place a more than 50% chance that the S&P 500 crosses 8,000 in 2026.",
-        "url": "https://www.cnbc.com/2026/05/08/how-much-further-can-this-teflon-market-go-heres-what-traders-say.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108301576-1777904768539-gettyimages-2274452503-mms12466_ejejthgs.jpeg?v=1777904954&w=1920&h=1080",
-        "publishedAt": "2026-05-08T18:19:05Z",
-        "content": "Traders work on the floor of the New York Stock Exchange during morning trading on May 4, 2026 in New York City. \r\nThe S&amp;P 500 brushed off Thursday headlines about the U.S. and Iran trading blows\u2026 [+3176 chars]"
+        "author": "Kristina Partsinevelos, Ashley Capoot",
+        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+        "description": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302210-1777986151335-gettyimages-2274057858-AFP_A9TU3XM.jpeg?v=1777986265&w=1920&h=1080",
+        "publishedAt": "2026-05-09T12:00:01Z",
+        "content": "Nvidia founder and CEO, Jensen Huang, speaks during the 29th annual Milken Institute Global Conference at the Beverly Hilton in Beverly Hills, California on May 4, 2026. \r\nNvidia stepped on the gas l\u2026 [+7114 chars]"
     },
     {
         "source": {

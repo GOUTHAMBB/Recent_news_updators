@@ -2,6 +2,19 @@
     {
         "source": {
             "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Liam Proven",
+        "title": "Both Fedora and Ubuntu will get AI support \u2013 soon",
+        "description": "Furores are fermenting in the forums",
+        "url": "https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409",
+        "urlToImage": "https://image.theregister.com/5237447.jpg?imageId=5237447&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-05-10T13:00:00Z",
+        "content": "Both Ubuntu and Fedora have made it official: support is coming soon\r\nfor running local generative AI instances.\r\nAn epic and still-growing thread in the Fedora forums states one of\r\nthe goals for th\u2026 [+5262 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Gizmodo.com"
         },
         "author": "Mike Pearl",
@@ -17,52 +30,104 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Alphabet\u2019s Isomorphic Labs reportedly raising $2B+ for its medical research AI",
-        "description": "Isomorphic Labs Inc., an Alphabet Inc. unit using artificial intelligence to speed up drug development, is reportedly in talks to raise a new funding round. Sources told Bloomberg today that the investment could be worth more than $2 billion. OpenAI Group PBC\u2026",
-        "url": "https://siliconangle.com/2026/05/08/alphabets-isomorphic-labs-reportedly-raising-2b-medical-research-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Alphabet.png",
-        "publishedAt": "2026-05-09T01:15:49Z",
-        "content": "Isomorphic Labs Inc., an Alphabet Inc. unit using artificial intelligence to speed up drug development, is reportedly in talks to raise a new funding round.\r\nSources told Bloomberg today that the inv\u2026 [+3787 chars]"
+        "author": "Mike Wheatley",
+        "title": "Report: AI chipmaker Cerebras to increase IPO price target amid surging investor demand",
+        "description": "Artificial intelligence chipmaker Cerebras Systems Inc. is expected to increase the size and price of its initial public offering later today as investor demand for access to its shares continues to rise. Reuters reported Sunday that the chipmaker is now cons\u2026",
+        "url": "https://siliconangle.com/2026/05/10/report-ai-chipmaker-cerebras-increase-ipo-price-target-amid-surging-investor-demand/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Cerebras-1.png",
+        "publishedAt": "2026-05-11T00:25:40Z",
+        "content": "Artificial intelligence chipmaker Cerebras Systems Inc. is expected to increase the size and price of its initial public offering later today as investor demand for access to its shares continues to \u2026 [+4841 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Brandon Vigliarolo",
+        "title": "Yes, local LLMs are ready to ease the compute strain",
+        "description": "Anthropic might be thinking about space to ease its computing burden, but Claude Code on your laptop is way more practical",
+        "url": "https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451",
+        "urlToImage": "https://image.theregister.com/5237509.jpg?imageId=5237509&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-05-10T23:00:00Z",
+        "content": "KETTLEWe've been experimenting with LLMs for a while here at\u00a0The Register,\u00a0and if you ask our systems editor Tobias Mann and senior reporter Tom Claburn, locally installed coding assistants have actu\u2026 [+27819 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Etiido Uko",
+        "title": "MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures \u2014 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams in seconds",
+        "description": "MIT researchers have developed a 3D-printed three-sided zipper that rapidly transforms floppy structures into rigid beams, robotic limbs, and deployable frameworks using triangular geometry.",
+        "url": "https://www.tomshardware.com/3d-printing/mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d-printed-y-zipper-turns-floppy-tentacles-into-rigid-beams-in-seconds",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZzZhSdNWjQKswLZYkh2Hg-900-80.png",
+        "publishedAt": "2026-05-10T15:15:09Z",
+        "content": "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have developed a three-sided zipper that transforms 3D-printed floppy structures into rigid, load-bearing forms in seconds\u2026 [+4862 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Zeus Kerravala",
-        "title": "AIR, ARR and AI: Inside RingCentral\u2019s transformation into an AI-first engagement platform",
-        "description": "RingCentral Inc.\u2018s latest quarter shows a company that has quietly turned artificial intelligence from a future story into its primary engine for product differentiation, operational leverage and, increasingly, growth. What started as a unified-communications\u2026",
-        "url": "https://siliconangle.com/2026/05/08/air-arr-ai-inside-ringcentrals-transformation-ai-first-engagement-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-2026-05-08-at-8.52.37\u202fPM.png",
-        "publishedAt": "2026-05-09T03:54:15Z",
-        "content": "RingCentral Inc.\u2018s latest quarter shows a company that has quietly turned artificial intelligence from a future story into its primary engine for product differentiation, operational leverage and, in\u2026 [+12685 chars]"
+        "author": "Mike Wheatley",
+        "title": "Imaging tech startup eyeo raises \u20ac40M to try to show the world in a very different light",
+        "description": "Netherlands- and Belgium-based imaging technology startup eyeo B.V. said today it has closed on a \u20ac40 million ($47.07 million) Series A round of funding in order to try to fulfill its mission to enhance the world\u2019s cameras. The round, which brings eyeo\u2019s tota\u2026",
+        "url": "https://siliconangle.com/2026/05/11/imaging-tech-startup-eyeo-raises-e40m-try-show-world-different-light/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-05-11-08-37-56.png",
+        "publishedAt": "2026-05-11T09:00:16Z",
+        "content": "Netherlands- and Belgium-based imaging technology startup eyeo B.V. said today it has closed on a 40 million ($47.07 million) Series A round of funding in order to try to fulfill its mission to enhan\u2026 [+4544 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Blake Stimac",
+        "title": "Google's Big Bet: Adding Native Android App Support to Chrome Could Result in a Robust OS",
+        "description": "Google's merging Android and ChromeOS to take on the laptop space.",
+        "url": "https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/4ba6472841e4e5424a076550981a361fb36fe7cf/hub/2022/01/05/1e503428-8325-40e4-889e-1f54916218d8/7-multi-device-messaging-from-android-to-chrome-os.gif?fit=crop&format=mp4&height=675&width=1200",
+        "publishedAt": "2026-05-10T12:00:39Z",
+        "content": "Android and ChromeOS are merging into a single operating system, and the result could become one of the most powerful platforms Google has ever produced. Dubbed Aluminum OS, the operating system take\u2026 [+3009 chars]"
     },
     {
         "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Alina Maria Stan",
-        "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
-        "description": "Google launched a 99 dollar screenless fitness tracker and a 9.99 dollar per month AI health coach powered by Gemini. One day later, Whoop announced that it would add on-demand video consultations with licensed clinicians to its app. Google is betting that ar\u2026",
-        "url": "https://thenextweb.com/news/whoop-doctors-fitbit-air-google-health-ai/",
-        "urlToImage": "https://media.thenextweb.com/2026/05/whoop-doctors-fitbit-air-google-health-ai.avif",
-        "publishedAt": "2026-05-09T10:43:17Z",
-        "content": "TL;DR\r\nGoogle launched the 99 dollar screenless Fitbit Air and a 9.99 dollar per month Gemini-powered AI health coach. One day later, Whoop responded by adding on-demand video consultations with lice\u2026 [+8148 chars]"
+        "author": "Callum Turner",
+        "title": "How Tohme Accounting sees AI elevating cross-border accounting",
+        "description": "Tohme Accounting, a cross-border tax and advisory firm serving clients throughout Canada and the United States, sees artificial intelligence becoming increasingly influential in modern accounting. It observes that as financial activity expands across jurisdic\u2026",
+        "url": "https://thenextweb.com/news/ai-cross-border-accounting-financial-advisory/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/ai-cross-border-accounting-financial-advisory.avif",
+        "publishedAt": "2026-05-11T06:59:04Z",
+        "content": "TL;DR\r\nTohme Accounting believes AI is becoming essential in cross-border accounting as firms manage growing regulatory complexity, faster reporting demands, and larger volumes of financial data. The\u2026 [+7023 chars]"
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Natasha Lomas",
-        "title": "So you've heard these AI terms and nodded along; let's fix that | TechCrunch",
-        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-        "publishedAt": "2026-05-09T21:49:02Z",
-        "content": "Artificial intelligence is changing the world, and simultaneously inventing a whole new language to describe how it\u2019s doing it. Spend five minutes reading about AI and you\u2019ll run into LLMs, RAG, RLHF\u2026 [+20344 chars]"
+        "author": "David Vellante and David Floyer",
+        "title": "Nvidia, AI factories and the transition to accelerated computing",
+        "description": "The market is trying to price a transition it hasn\u2019t fully internalized. It sees Nvidia Corp.\u2019s market cap with a five-handle and assumes the valuation is too high to grow further. We believe that\u2019s the wrong mental model and it underestimates the market pote\u2026",
+        "url": "https://siliconangle.com/2026/05/10/nvidia-ai-factories-transition-accelerated-computing/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/ChatGPT-Image-May-9-2026-05_14_52-AM-2.png",
+        "publishedAt": "2026-05-10T16:19:47Z",
+        "content": "The market is trying to price a transition it hasnt fully internalized. It sees Nvidia Corp.s market cap with a five-handle and assumes the valuation is too high to grow further.\r\nWe believe thats th\u2026 [+57304 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Allison Steffens Herrera",
+        "title": "GPUaaS is reinforcing the illusion of European AI sovereignty",
+        "description": "Europe is pouring billions into AI development and infrastructure. GPU (graphics processing units) access is expanding rapidly through cloud platforms and GPU-as-a-service (GPUaaS) providers, becoming a key enabler of AI development and deployment. The underl\u2026",
+        "url": "https://thenextweb.com/news/gpuaas-is-reinforcing-the-illusion-of-european-ai-sovereignty/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/GPU.avif",
+        "publishedAt": "2026-05-11T09:06:39Z",
+        "content": "Europe is pouring billions into AI development and infrastructure. GPU (graphics processing units) access is expanding rapidly through cloud platforms and GPU-as-a-service (GPUaaS) providers, becomin\u2026 [+11059 chars]"
     },
     {
         "source": {
@@ -82,13 +147,13 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Alina Maria Stan",
-        "title": "The University of Michigan invested 20 million dollars in OpenAI before ChatGPT existed. Court documents show the stake is now worth two billion.",
-        "description": "The University of Michigan invested 20 million dollars in OpenAI before ChatGPT existed, before Microsoft committed billions, and before the company was worth more than some countries. Court documents from the Musk v. Altman trial revealed this week that the \u2026",
-        "url": "https://thenextweb.com/news/michigan-openai-early-investment-billions-endowment/",
-        "urlToImage": "https://media.thenextweb.com/2026/05/michigan-openai-early-investment-billions-endowment.avif",
-        "publishedAt": "2026-05-09T10:26:07Z",
-        "content": "TL;DR\r\nCourt documents from the Musk v. Altman trial revealed that the University of Michigan invested 20 million dollars in OpenAI before ChatGPT existed. The stake is now worth two billion dollars.\u2026 [+6866 chars]"
+        "author": "Ana-Maria Stanciuc",
+        "title": "Jensen Huang tells Carnegie Mellon\u2019s class of 2026 their career starts at the AI revolution",
+        "description": "NVIDIA\u2019s CEO delivered the keynote at CMU\u2019s 128th commencement on Sunday and received an honorary doctorate. The address framed AI as a reindustrialisation moment for the US, and pressed both engineers and policymakers to advance capability and safety in step\u2026",
+        "url": "https://thenextweb.com/news/jensen-huang-carnegie-mellon-ai-revolution/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/Jensen-Huang.avif",
+        "publishedAt": "2026-05-11T09:30:59Z",
+        "content": "NVIDIAs CEO delivered the keynote at CMUs 128th commencement on Sunday and received an honorary doctorate. The address framed AI as a reindustrialisation moment for the US, and pressed both engineers\u2026 [+7830 chars]"
     },
     {
         "source": {
@@ -102,6 +167,19 @@
         "urlToImage": "https://media.thenextweb.com/2026/04/uk-biobank-health-data-alibaba-breach.avif",
         "publishedAt": "2026-05-10T09:53:39Z",
         "content": "The Qwen app gets access to Taobao and Tmalls catalogue of more than 4 billion items, plus Alipay-native checkout, in what is the largest agentic-commerce launch yet from a Chinese platform.\r\nAlibaba\u2026 [+5069 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts | TechCrunch",
+        "description": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+        "publishedAt": "2026-05-10T20:43:58Z",
+        "content": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.\r\nLast year, the company said that during pre-release tests involving a fictional company, \u2026 [+1089 chars]"
     },
     {
         "source": {

@@ -1,93 +1,41 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "Forbes"
         },
-        "author": "Chris Panella,Kelsey Baker",
-        "title": "The submariner-turned-top Army tech boss said the hardest thing about modernizing isn't the new tools \u2014 it's the people",
-        "description": "The Army is deploying digital tools across the force. Its former CIO says the biggest challenge isn't technology \u2014 it's getting people to adopt it.",
-        "url": "https://www.businessinsider.com/army-pushes-ai-but-getting-troops-to-adapt-is-harder-2026-5",
-        "urlToImage": "https://i.insider.com/69fcac32e1443b8dc48e2cc8?width=1200&format=jpeg",
-        "publishedAt": "2026-05-09T11:27:01Z",
-        "content": "Petty Officer 2nd Class Wade Costin/Defense Intelligence Agency\r\n<ul><li>The Army's former CIO shared how challenging it is to get people to adapt to new tech.</li><li>Leonel Garciga helped implement\u2026 [+6467 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Jordan Hart",
-        "title": "The new CEO flex: Bragging about how much AI code your company shipped",
-        "description": "CEOs like Meta's Mark Zuckerberg can't stop talking about how agentic AI is changing how engineers code \u2014 and it's not just the Big Tech bosses.",
-        "url": "https://www.businessinsider.com/latest-ceo-flex-how-much-ai-code-your-company-shipped-2026-5",
-        "urlToImage": "https://i.insider.com/69fdfdfdc9dd4cb81cda8888?width=1200&format=jpeg",
-        "publishedAt": "2026-05-09T09:41:01Z",
-        "content": "Mark Zuckerberg predicted that 2026 would be the year AI dramatically changed how people work.Bloomberg/Getty Images\r\n<ul><li>Tech CEOs aren't the only ones bragging about their company's AI output.<\u2026 [+7222 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "anicoll@businessinsider.com (Alex Nicoll)",
-        "title": "From Blackstone to Blue Owl, here's how the biggest investors are chasing a $900 billion data center opportunity",
-        "description": "Private markets giants are more bullish than ever on their data center bets. After all, with a $900 billion opportunity, there's room for everyone.",
-        "url": "https://www.businessinsider.com/how-private-equity-chasing-data-center-opportunity-blackstone-ares-apollo-2026-5",
-        "urlToImage": "https://i.insider.com/69fd01c4e1443b8dc48e307e?width=1200&format=jpeg",
-        "publishedAt": "2026-05-09T10:40:01Z",
-        "content": "The AI data center bet keeps getting bigger. \r\nWhen asked on a recent earnings call how big the total market for digital infrastructure is, Blair Jacobson, co-president of private credit giant Ares, \u2026 [+6875 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Shawn Tully",
-        "title": "Why GameStop\u2019s bid for eBay echoes one of the worst business deals of all time",
-        "description": "GameStop's play for eBay echoes the AOL-Time Warner deal in eerie detail\u2014and that should terrify eBay's board.",
-        "url": "https://fortune.com/2026/05/09/gamestop-ebay-stock-outlook-past-merger-disaster/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2274484367.jpg?resize=1200,600",
-        "publishedAt": "2026-05-09T08:00:00Z",
-        "content": "By the start of 2000, I was already a veteran writer for Fortune warning our readers that the dot.com craze had lifted Nasdaq valuations to unsustainable highs. All of the time-honored metrics pointe\u2026 [+10503 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Nick Lichtenberg",
-        "title": "\u2018The Devil Wears Prada 2\u2019 broke the box office. It may also be the last great victory for Hollywood\u2019s IP machine",
-        "description": "The $77 million opening shows the nostalgia formula still works\u2014when conditions are right. The problem is nothing else on the calendar meets the test.",
-        "url": "https://fortune.com/2026/05/09/the-devil-wears-prada-2-hollywood-future-millennial-nostalgia/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2273608020.jpg?resize=1200,600",
-        "publishedAt": "2026-05-09T11:45:00Z",
-        "content": "Twenty years after Miranda Priestly first demanded her coat, Hollywood got its answer: millennials will show up. The Devil Wears Prada 2opened to $77 million domestically and $234 million worldwide i\u2026 [+13388 chars]"
+        "author": "Andy Meek, Senior Contributor, \n Andy Meek, Senior Contributor\n https://www.forbes.com/sites/andymeek/",
+        "title": "What The Latest Media Earnings Blitz Reveals About Hollywood\u2019s Future",
+        "description": "From Disney to Paramount and more, a slew of new media company earnings points to Hollywood\u2019s updated survival blueprint.",
+        "url": "https://www.forbes.com/sites/andymeek/2026/05/10/what-the-latest-media-earnings-blitz-reveals-about-hollywoods-future/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a00d90f96eecd169d1deb17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-10T19:49:46Z",
+        "content": "Disney CEO Josh D'Amaro attends the 98th Oscars Nominees Luncheon at the Beverly Hilton hotel in Beverly Hills on February 10, 2026.\r\nAFP via Getty Images\r\nIf there was a common message to be found i\u2026 [+5677 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Kristina Partsinevelos, Ashley Capoot",
-        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
-        "description": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
-        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302210-1777986151335-gettyimages-2274057858-AFP_A9TU3XM.jpeg?v=1777986265&w=1920&h=1080",
-        "publishedAt": "2026-05-09T12:00:01Z",
-        "content": "Nvidia founder and CEO, Jensen Huang, speaks during the 29th annual Milken Institute Global Conference at the Beverly Hilton in Beverly Hills, California on May 4, 2026. \r\nNvidia stepped on the gas l\u2026 [+7114 chars]"
+        "author": "Matthew Chin",
+        "title": "Do you need a chief AI officer? Here's how the tech is changing boardrooms",
+        "description": "AI may now be coming for the C-suite, according to a report published Monday by IBM, which found that most companies were now staffing chief AI officer roles.",
+        "url": "https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302054-1777964321643-gettyimages-1344913071-mage14329.jpeg?v=1777964352&w=1920&h=1080",
+        "publishedAt": "2026-05-11T02:10:29Z",
+        "content": "Since the debut of OpenAI's ChatGPT in 2022, and the subsequent AI revolution, workers across industries have been hit by sweeping layoffs.\r\nA new report published by IBM last week, however, shows th\u2026 [+5461 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Forbes"
+            "name": "CNBC"
         },
-        "author": "Chuck Brooks",
-        "title": "Agentic AI: Navigating The Evolving Frontier",
-        "description": "Agentic AI is increasingly establishing itself as the standard decision-making framework in critical systems",
-        "url": "https://www.forbes.com/sites/chuckbrooks/2026/05/08/agentic-ai-navigating-the-evolving-frontier/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69fe6ede40462ff9a3c4d454/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-05-09T00:08:59Z",
-        "content": "robot finger touch glowing hud interface with agentic ai text in center - futuristic digital technology\r\ngetty\r\nAs 2026 advances, the digital landscape has evolved to be increasingly proactive and al\u2026 [+7302 chars]"
+        "author": "Cnbc",
+        "title": "Cerebras to raise IPO price range to $150-$160 a share: Reuters\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+        "description": "Cerebras is considering an IPO price range of $150 to $160 a share and raising the number of shares marketed to 30 million from 28 million, Reuters reported.",
+        "url": "https://www.cnbc.com/2026/05/10/cerebras-ipo-price-range.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207837-1759525442207-gettyimages-2238042293-kokovlis-notitle250930_npgMX.jpeg?v=1759525510&w=1920&h=1080",
+        "publishedAt": "2026-05-10T21:59:42Z",
+        "content": "Cerebras Systems is set to raise the size and price of its initial public offering as soon as Monday, as demand for the artificial intelligence chipmaker's shares continues to climb, two people famil\u2026 [+2286 chars]"
     }
 ]

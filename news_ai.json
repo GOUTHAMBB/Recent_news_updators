@@ -2,28 +2,158 @@
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "Gizmodo.com"
         },
-        "author": "Liam Proven",
-        "title": "Both Fedora and Ubuntu will get AI support \u2013 soon",
-        "description": "Furores are fermenting in the forums",
-        "url": "https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409",
-        "urlToImage": "https://image.theregister.com/5237447.jpg?imageId=5237447&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-05-10T13:00:00Z",
-        "content": "Both Ubuntu and Fedora have made it official: support is coming soon\r\nfor running local generative AI instances.\r\nAn epic and still-growing thread in the Fedora forums states one of\r\nthe goals for th\u2026 [+5262 chars]"
+        "author": "AJ Dellinger",
+        "title": "Graduation Speaker Says AI Is \u2018The Next Industrial Revolution,\u2019 Immediately Drowned Out by Booing Students",
+        "description": "Maybe stick to things that don't remind them that the job market sucks.",
+        "url": "https://gizmodo.com/graduation-speaker-says-ai-is-the-next-industrial-revolution-immediately-drowned-out-by-booing-students-2000757140",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/AI_commencement_speech-1200x675.png",
+        "publishedAt": "2026-05-11T19:10:34Z",
+        "content": "A piece of advice if you are giving a commencement speech this year:\u00a0Do not talk to the kids about AI. That\u2019s like talking up the coal mines to kids in the 1840s. They just don\u2019t want to hear about h\u2026 [+2349 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Stevie Bonifield",
+        "title": "Google stopped a zero-day hack that it says was developed with AI",
+        "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass explo\u2026",
+        "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-05-11T16:18:49Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle researchers found evidence in the exploits code that it may have been created using AI, like a hallucinated CVSS score.\r\nGoogle researchers found evidence\u2026 [+3250 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "Claude AI agents are driving record Mac mini demand",
+        "description": "Tyler Cadwell runs a small Arizona business called Everything Etched. He sells custom-engraved glassware on Etsy and Shopify. When he wants to brainstorm or build something new, he drives his Ford Bronco out into the canyons around Flagstaff and Tucson with a\u2026",
+        "url": "https://thenextweb.com/news/claude-mac-mini-openclaw-ai-agents-shortage/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release.avif",
+        "publishedAt": "2026-05-11T14:59:03Z",
+        "content": "Tyler Cadwell runs a small Arizona business called Everything Etched. He sells custom-engraved glassware on Etsy and Shopify. When he wants to brainstorm or build something new, he drives his Ford Br\u2026 [+7711 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "OpenAI launches $4bn Deployment Company with TPG, Advent, Bain, and Brookfield",
+        "description": "OpenAI has set up a new venture called OpenAI Deployment Company, with more than $4bn in initial funding from a syndicate of 19 firms led by TPG and including Advent International, Bain Capital and Brookfield as co-lead founding partners, the company said on \u2026",
+        "url": "https://thenextweb.com/news/openai-deployment-company-4bn-tpg-tomoro/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/OpenAI.avif",
+        "publishedAt": "2026-05-11T15:15:55Z",
+        "content": "OpenAI has set up a new venture called OpenAI Deployment Company, with more than $4bn in initial funding from a syndicate of 19 firms led by TPG and including Advent International, Bain Capital and B\u2026 [+7973 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Theregister.com"
         },
-        "author": "Mike Pearl",
-        "title": "Anthropic Has Added Several More Religions on Its Quest to Inject Perfect Morals into Claude",
-        "description": "Anthropic (and OpenAI) recently met with representatives from Sikh, Hindu, Jewish, and LDS groups. Will it help?",
-        "url": "https://gizmodo.com/anthropic-has-added-several-more-religions-on-its-quest-to-inject-perfect-morals-into-claude-2000756740",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/04/matrix-praying-1200x675.jpg",
-        "publishedAt": "2026-05-10T09:00:46Z",
-        "content": "The original mysterious black box wasnt an AI model at all, but the Kaaba, the black cube at the center of the Sacred Mosque of Mecca. Prior to Muhammads conquest of Mecca, the Kaaba was a sort of al\u2026 [+3806 chars]"
+        "author": "Thomas Claburn",
+        "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+        "description": "An intern who failed this much would be shown the door",
+        "url": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+        "urlToImage": "https://image.theregister.com/5238321.jpg?imageId=5238321&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-05-11T20:50:00Z",
+        "content": "Companies exploring automated workflows would be well advised to keep their AI agents on a short leash.\r\nMicrosoft researchers have found that even the priciest frontier models introduce errors in lo\u2026 [+4996 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Joanna Stern is not a robot, but she lived with them",
+        "description": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my v\u2026",
+        "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_joanna_stern.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-05-11T13:48:57Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe journalist and author of I Am Not a Robot on her year living with AI and starting a new media company.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be \u2026 [+56891 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Carly Page",
+        "title": "Google says criminals used AI-built zero-day in planned mass hack spree",
+        "description": "GTIG says AI-powered hacking has moved well beyond phishing emails and chatbot tricks",
+        "url": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
+        "urlToImage": "https://image.theregister.com/5237994.jpg?imageId=5237994&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-05-11T13:38:22Z",
+        "content": "Google says crooks already have AI cooking up zero-days, and claims one nearly escaped into the wild before the company stopped it.\r\nIn a report shared with The Register ahead of publication on Monda\u2026 [+3283 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Carly Page",
+        "title": "Google says criminals used AI-built zero-day in planned mass hack spree",
+        "description": "GTIG says AI-powered hacking has moved well beyond phishing emails and chatbot tricks",
+        "url": "https://www.theregister.com/ai-and-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
+        "urlToImage": "https://image.theregister.com/5237994.jpg?imageId=5237994&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-05-11T13:38:22Z",
+        "content": "Google says crooks already have AI cooking up zero-days, and claims one nearly escaped into the wild before the company stopped it.\r\nIn a report shared with The Register ahead of publication on Monda\u2026 [+3283 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Dan Robinson",
+        "title": "SoftBank bets on battery building to back bit barns",
+        "description": "Tech investment giant wants batteries for its own AI datacenters, and lots of them",
+        "url": "https://www.theregister.com/on-prem/2026/05/11/softbank-bets-on-battery-building-to-back-bit-barns/5237886",
+        "urlToImage": "https://image.theregister.com/101488.jpg?imageId=101488&x=0&y=12.93&cropw=100&croph=74.14&panox=0&panoy=12.93&panow=100&panoh=74.14&width=1200&height=683",
+        "publishedAt": "2026-05-11T13:37:20Z",
+        "content": "SoftBank is getting into the datacenter battery business and\r\nplans to start manufacturing them on the scale of gigawatt-hours per year of capacity\r\nto support the power needs of AI infrastructure, i\u2026 [+3557 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "With $50M in funding, Frame Security takes aim at AI-powered social engineering",
+        "description": "Human risk security startup Frame Security Ltd. launched today with an announcement that it had raised $50 million in funding to build out its platform that uses artificial intelligence to harden employees against social engineering and deepfake attacks. Fram\u2026",
+        "url": "https://siliconangle.com/2026/05/11/50m-funding-frame-security-takes-aim-ai-powered-social-engineering/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/freamesec.png",
+        "publishedAt": "2026-05-11T22:33:14Z",
+        "content": "Human risk security startup Frame Security Ltd. launched today with an announcement that it had raised $50 million in funding to build out its platform that uses artificial intelligence to harden emp\u2026 [+3986 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "AI security startup Grego AI debuts, claims record $250,000 bounty for AI-found exploit",
+        "description": "Artificial intelligence cybersecurity startup Grego AI formally launched today with a claimed method of using existing AI models to find critical software vulnerabilities that human auditors and other automated tools routinely miss. Founded in 2024, the compa\u2026",
+        "url": "https://siliconangle.com/2026/05/12/ai-security-startup-grego-ai-debuts-claims-record-250000-bounty-ai-found-exploit/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/gregoai.png",
+        "publishedAt": "2026-05-12T10:00:40Z",
+        "content": "Artificial intelligence cybersecurity startup Grego AI formally launched today with a claimed method of using existing AI models to find critical software vulnerabilities that human auditors and othe\u2026 [+3926 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Thinking Machines drops a new, highly responsive model designed for humanlike interactions in real-time",
+        "description": "Thinking Machines Lab Inc., the artificial intelligence research startup founded by former OpenAI Group PBC Chief Technology Officer Mira Murati, wants to move beyond the era of \u201cturn-based\u201d AI interactions. The company has just announced a research preview o\u2026",
+        "url": "https://siliconangle.com/2026/05/11/thinking-machines-drops-new-highly-responsive-model-designed-humanlike-interactions-real-time/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-05-12-07-57-17.png",
+        "publishedAt": "2026-05-12T00:59:39Z",
+        "content": "Thinking Machines Lab Inc., the artificial intelligence research startup founded by former OpenAI Group PBC Chief Technology Officer Mira Murati, wants to move beyond the era of turn-based AI interac\u2026 [+5860 chars]"
     },
     {
         "source": {
@@ -41,28 +171,119 @@
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "SiliconANGLE News"
         },
-        "author": "Brandon Vigliarolo",
-        "title": "Yes, local LLMs are ready to ease the compute strain",
-        "description": "Anthropic might be thinking about space to ease its computing burden, but Claude Code on your laptop is way more practical",
-        "url": "https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451",
-        "urlToImage": "https://image.theregister.com/5237509.jpg?imageId=5237509&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-05-10T23:00:00Z",
-        "content": "KETTLEWe've been experimenting with LLMs for a while here at\u00a0The Register,\u00a0and if you ask our systems editor Tobias Mann and senior reporter Tom Claburn, locally installed coding assistants have actu\u2026 [+27819 chars]"
+        "author": "Paul Gillin",
+        "title": "Red Hat targets enterprise deployment with new version of its AI platform",
+        "description": "IBM Corp. subsidiary Red Hat today is unveiling a broad set of product and partnership announcements aimed at helping enterprises put artificial intelligence into operation, modernize infrastructure and extend open-source platforms into new environments rangi\u2026",
+        "url": "https://siliconangle.com/2026/05/11/red-hat-targets-enterprise-deployment-new-version-ai-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Computer-with-all-capital-letters-AI-on-front-and-a-Red-Hat-fedora-on-top-surrounded-by-blue-sky-and.jpeg",
+        "publishedAt": "2026-05-11T12:00:46Z",
+        "content": "IBM Corp. subsidiary Red Hat today is unveiling a broad set of product and partnership announcements aimed at helping enterprises put artificial intelligence into operation, modernize infrastructure \u2026 [+6025 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "Etiido Uko",
-        "title": "MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures \u2014 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams in seconds",
-        "description": "MIT researchers have developed a 3D-printed three-sided zipper that rapidly transforms floppy structures into rigid beams, robotic limbs, and deployable frameworks using triangular geometry.",
-        "url": "https://www.tomshardware.com/3d-printing/mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d-printed-y-zipper-turns-floppy-tentacles-into-rigid-beams-in-seconds",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZzZhSdNWjQKswLZYkh2Hg-900-80.png",
-        "publishedAt": "2026-05-10T15:15:09Z",
-        "content": "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have developed a three-sided zipper that transforms 3D-printed floppy structures into rigid, load-bearing forms in seconds\u2026 [+4862 chars]"
+        "author": "Duncan Riley",
+        "title": "Quiq extends its AI agent platform into voice as enterprise rollouts move past pilots",
+        "description": "Artificial intelligence customer service platform provider Quiq Inc. today launched a new voice product and refreshed its brand, betting that customer experience teams are ready to move beyond isolated pilots to scaled production deployments. The new voice ca\u2026",
+        "url": "https://siliconangle.com/2026/05/11/quiq-extends-ai-agent-platform-voice-enterprise-rollouts-move-past-pilots/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/quiq.png",
+        "publishedAt": "2026-05-11T14:15:14Z",
+        "content": "Artificial intelligence customer service platform provider Quiq Inc. today launched a new voice product and refreshed its brand, betting that customer experience teams are ready to move beyond isolat\u2026 [+4319 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Google says criminals used AI to build a working zero-day exploit for the first time",
+        "description": "Criminal hackers have used artificial intelligence to develop a working zero-day exploit, the first confirmed case of its kind, according to a report released today by Google LLC\u2019s Google Threat Intelligence Group. The GTIG AI Threat Tracker report details ho\u2026",
+        "url": "https://siliconangle.com/2026/05/11/google-says-criminals-used-ai-build-working-zero-day-exploit-first-time/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aizeroday.png",
+        "publishedAt": "2026-05-11T13:00:35Z",
+        "content": "Criminal hackers have used artificial intelligence to develop a working zero-day exploit, the first confirmed case of its kind, according to a report released today by Google LLC\u2019s Google Threat Inte\u2026 [+5000 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "OpenAI launches professional services business with $4B investment",
+        "description": "OpenAI Group PBC today unveiled a new business unit, The OpenAI Deployment Company, that will help companies adopt its artificial intelligence models. The subsidiary is launching with $4 billion in funding from the ChatGPT developer and more than a dozen othe\u2026",
+        "url": "https://siliconangle.com/2026/05/11/openai-launches-professional-services-business-4b-investment/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/OpenAI1.png",
+        "publishedAt": "2026-05-11T20:47:49Z",
+        "content": "OpenAI Group PBC today unveiled a new business unit, The OpenAI Deployment Company, that will help companies adopt its artificial intelligence models.\r\nThe subsidiary is launching with $4 billion in \u2026 [+5061 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: IBM Think goes AI first and Musk buries the hatchet with Anthropic",
+        "description": "IBM Think saw Big Blue grab its place in the artificial intelligence spotlight. In a week full of notable, and surprising, AI news, IBM Think saw CEO Arvind Krishna emphasize AI as the operating model of the future while positioning IBM\u2019s platform as a contro\u2026",
+        "url": "https://siliconangle.com/2026/05/11/ibm-think-ai-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/John-Furrier-and-Dave-Vellante-theCUBE-Pod-128.png",
+        "publishedAt": "2026-05-11T14:55:29Z",
+        "content": "IBM Think saw Big Blue grab its place in the artificial intelligence spotlight.\r\nIn a week full of notable, and surprising, AI news, IBM Think saw CEO Arvind Krishna emphasize AI as the operating mod\u2026 [+7162 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Cowboy Space raises $275M to build orbital AI data centers",
+        "description": "Space technology startup Cowboy Space Corp. today disclosed that it has raised $275 million in funding at a $2 billion valuation. Index Ventures led the Series B round. It was joined by NEA, IVP and several other institutional investors along with Cowboy Spac\u2026",
+        "url": "https://siliconangle.com/2026/05/11/cowboy-space-raises-275m-build-orbital-ai-data-centers/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Cowboy-Space.png",
+        "publishedAt": "2026-05-12T01:11:52Z",
+        "content": "Space technology startup Cowboy Space Corp. today disclosed that it has raised $275 million in funding at a $2 billion valuation.\r\nIndex Ventures led the Series B round. It was joined by NEA, IVP and\u2026 [+4790 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Circle shares close 16% higher after\u00a0$222M token sale, mixed earnings",
+        "description": "Shares of Circle Internet Group Inc. closed 15.9% higher today after it reported earnings, announced a token sale and debuted a new set of developer tools. NYSE-listed Circle issues the popular USDC stablecoin. Users can purchase the US dollar-denominated tok\u2026",
+        "url": "https://siliconangle.com/2026/05/11/circle-shares-close-16-higher-222m-token-sale-mixed-earnings/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Image-4.png",
+        "publishedAt": "2026-05-11T23:19:40Z",
+        "content": "Shares of Circle Internet Group Inc. closed 15.9% higher today after it reported earnings, announced a token sale and debuted a new set of developer tools.\r\nNYSE-listed Circle issues the popular USDC\u2026 [+4824 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "German defense tech startup Helsing in talks over $1.2B funding round",
+        "description": "German defense technology firm Helsing GmbH is reportedly on the verge of securing a bumper $1.2 billion in funding that would bring its valuation to around $18 billion, making it one of Europe\u2019s most valuable technology startups. A report by the Financial Ti\u2026",
+        "url": "https://siliconangle.com/2026/05/11/german-defense-tech-startup-helsing-talks-1-2b-funding-round/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-05-12-08-34-50.png",
+        "publishedAt": "2026-05-12T01:35:27Z",
+        "content": "German defense technology firm Helsing GmbH is reportedly on the verge of securing a bumper $1.2 billion in funding that would bring its valuation to around $18 billion, making it one of Europes most\u2026 [+4796 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kelly Knight",
+        "title": "AMD and Red Hat target enterprise AI costs with broader compute choice",
+        "description": "Enterprise AI adoption has crossed a threshold: The question is no longer whether to invest, but how to do it wisely. As agentic workloads multiply and inference costs rise, AI choice \u2014 the ability to match workloads to the right compute rather than defaultin\u2026",
+        "url": "https://siliconangle.com/2026/05/11/ai-choice-power-open-ecosystems-rhsummit/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_4029-e1778529720883.jpg",
+        "publishedAt": "2026-05-11T20:15:45Z",
+        "content": "Enterprise AI adoption has crossed a threshold: The question is no longer whether to invest, but how to do it wisely. As agentic workloads multiply and inference costs rise, AI choice the ability to \u2026 [+4811 chars]"
     },
     {
         "source": {
@@ -83,12 +304,25 @@
             "name": "CNET"
         },
         "author": "Blake Stimac",
-        "title": "Google's Big Bet: Adding Native Android App Support to Chrome Could Result in a Robust OS",
-        "description": "Google's merging Android and ChromeOS to take on the laptop space.",
-        "url": "https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/4ba6472841e4e5424a076550981a361fb36fe7cf/hub/2022/01/05/1e503428-8325-40e4-889e-1f54916218d8/7-multi-device-messaging-from-android-to-chrome-os.gif?fit=crop&format=mp4&height=675&width=1200",
-        "publishedAt": "2026-05-10T12:00:39Z",
-        "content": "Android and ChromeOS are merging into a single operating system, and the result could become one of the most powerful platforms Google has ever produced. Dubbed Aluminum OS, the operating system take\u2026 [+3009 chars]"
+        "title": "Meta Sued by California County Over Alleged Scam Ads on Social Media",
+        "description": "Santa Clara County is seeking restitution, damages and policy changes.",
+        "url": "https://www.cnet.com/news/social-media/meta-sued-by-california-county-for-promoting-scams-on-its-platforms/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/665f90567183a37c872d81b3f552a209db7a48a1/hub/2025/11/24/071617a8-cadc-4ef8-b87d-dd6376576ec5/gettyimages-2243311736.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-11T22:57:30Z",
+        "content": "Santa Clara County in California filed a lawsuit against Meta on Monday, alleging that the company knowingly profited from ads promoting scams on Facebook and Instagram. The lawsuit alleges that the \u2026 [+1736 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Emile Louw",
+        "title": "7 lessons from the first wave of agentic AI deployment: theCUBE + NYSE Wired\u2019s AI Agent Conference insights",
+        "description": "The enterprise AI stack is getting smarter \u2014 but is it getting the context it needs to make agentic AI deployment actually work? The defining problem of the agentic era might never have been building the agents. Instead, evidence is mounting that even the mos\u2026",
+        "url": "https://siliconangle.com/2026/05/11/agentic-ai-deployment-enters-production-reality-aiagentconference/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/image-15.png",
+        "publishedAt": "2026-05-12T00:37:02Z",
+        "content": "The enterprise AI stack is getting smarter but is it getting the context it needs to make agentic AI deployment actually work?\r\nThe defining problem of the agentic era might never have been building \u2026 [+7093 chars]"
     },
     {
         "source": {
@@ -106,15 +340,28 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "CNET"
         },
-        "author": "David Vellante and David Floyer",
-        "title": "Nvidia, AI factories and the transition to accelerated computing",
-        "description": "The market is trying to price a transition it hasn\u2019t fully internalized. It sees Nvidia Corp.\u2019s market cap with a five-handle and assumes the valuation is too high to grow further. We believe that\u2019s the wrong mental model and it underestimates the market pote\u2026",
-        "url": "https://siliconangle.com/2026/05/10/nvidia-ai-factories-transition-accelerated-computing/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/ChatGPT-Image-May-9-2026-05_14_52-AM-2.png",
-        "publishedAt": "2026-05-10T16:19:47Z",
-        "content": "The market is trying to price a transition it hasnt fully internalized. It sees Nvidia Corp.s market cap with a five-handle and assumes the valuation is too high to grow further.\r\nWe believe thats th\u2026 [+57304 chars]"
+        "author": "Oliver Haslam",
+        "title": "Today Only: Save an Incredible $400 Off Apple's Latest 16-Inch M5 Pro MacBook Pro",
+        "description": "Apple's best-ever laptop just got a deep discount, but you don't have long to lock in this price.",
+        "url": "https://www.cnet.com/deals/16-inch-m5-pro-macbook-pro-deal/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/8a85ca68ce6ebc3550a03a31f3ee7401a56cb571/hub/2026/03/04/598844ab-3a56-4a19-ba81-339b24614e4c/m5-pro-macbook.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-11T15:12:13Z",
+        "content": "Today is the perfect time to treat yourself to a new laptop, with B&amp;H selling the latest 16-inch M5 Pro MacBook Pro with a whopping $400 discount. But time is definitely of the essence with this \u2026 [+1620 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "The Editors of Tom's Hardware",
+        "title": "The tech industry is moving faster than ever. Keep up with Tom\u2019s Hardware Premium, available from just $7 per month",
+        "description": "Tom\u2019s Hardware Premium is available from $7 a month, or $29 per-year when subscribing annually. It offers insights you won\u2019t find anywhere else, tapping into the beating heart of an industry that\u2019s shifting beneath our feet in real-time.",
+        "url": "https://www.tomshardware.com/tech-industry/the-tech-industry-is-moving-faster-than-ever-keep-up-with-toms-hardware-premium-available-from-just-usd7-per-month",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/VpbztxtxFKZCPaetywvDsH-2560-80.jpg",
+        "publishedAt": "2026-05-11T13:00:00Z",
+        "content": "The future of the hardware and chipmaking industry is in flux. While the valuations of core companies are typically associated with consumer hardware, today, Nvidia, AMD, and even Intel\u2019s profits are\u2026 [+3820 chars]"
     },
     {
         "source": {
@@ -134,19 +381,6 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Cristian Dina",
-        "title": "Alibaba integrates Qwen AI with Taobao for end-to-end agentic shopping",
-        "description": "The Qwen app gets access to Taobao and Tmall\u2019s catalogue of more than 4 billion items, plus Alipay-native checkout, in what is the largest agentic-commerce launch yet from a Chinese platform. Alibaba is integrating its Qwen AI app with Taobao and Tmall, the c\u2026",
-        "url": "https://thenextweb.com/news/alibaba-integrates-qwen-ai-with-taobao-for-end-to-end-agentic-shopping/",
-        "urlToImage": "https://media.thenextweb.com/2026/04/uk-biobank-health-data-alibaba-breach.avif",
-        "publishedAt": "2026-05-10T09:53:39Z",
-        "content": "The Qwen app gets access to Taobao and Tmalls catalogue of more than 4 billion items, plus Alipay-native checkout, in what is the largest agentic-commerce launch yet from a Chinese platform.\r\nAlibaba\u2026 [+4885 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
         "author": "Ana-Maria Stanciuc",
         "title": "Jensen Huang tells Carnegie Mellon\u2019s class of 2026 their career starts at the AI revolution",
         "description": "NVIDIA\u2019s CEO delivered the keynote at CMU\u2019s 128th commencement on Sunday and received an honorary doctorate. The address framed AI as a reindustrialisation moment for the US, and pressed both engineers and policymakers to advance capability and safety in step\u2026",
@@ -160,38 +394,51 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Cristian Dina",
-        "title": "Alibaba integrates Qwen AI with Taobao for end-to-end agentic shopping",
-        "description": "The Qwen app gets access to Taobao and Tmall\u2019s catalogue of more than 4 billion items, plus Alipay-native checkout, in what is the largest agentic-commerce launch yet from a Chinese platform. Alibaba is integrating its Qwen AI app with Taobao and Tmall, the c\u2026",
-        "url": "https://thenextweb.com/news/alibaba-integrates-qwen-ai-with-taobao/",
-        "urlToImage": "https://media.thenextweb.com/2026/04/uk-biobank-health-data-alibaba-breach.avif",
-        "publishedAt": "2026-05-10T09:53:39Z",
-        "content": "The Qwen app gets access to Taobao and Tmalls catalogue of more than 4 billion items, plus Alipay-native checkout, in what is the largest agentic-commerce launch yet from a Chinese platform.\r\nAlibaba\u2026 [+5069 chars]"
+        "author": "Ana-Maria Stanciuc",
+        "title": "A $13,500 Unitree robot was \u2018ordained\u2019 at Seoul\u2019s Jogyesa Temple",
+        "description": "At about ten in the morning on Wednesday, in the courtyard of Daeungjeon Hall at Jogyesa, a 130-centimetre humanoid in brown robes pressed its palms together and bowed. A monk asked the figure whether it would devote itself to the holy Buddha. The reply, in a\u2026",
+        "url": "https://thenextweb.com/news/jogyesa-robot-monk-gabi-ai-ethics/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/Gabi-robot-monk.avif",
+        "publishedAt": "2026-05-11T14:42:43Z",
+        "content": "At about ten in the morning on Wednesday, in the courtyard of Daeungjeon Hall at Jogyesa, a 130-centimetre humanoid in brown robes pressed its palms together and bowed. A monk asked the figure whethe\u2026 [+8682 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Veronika Furs",
+        "title": "I built a machine learning model to predict who leaves tech jobs early. The results surprised me.",
+        "description": "I went into this research convinced I already knew the answer. After more than a decade in People Analytics, the last few years at Meta, I had a working theory about why tech employees leave their jobs within the first year. Two things, I believed, were doing\u2026",
+        "url": "https://thenextweb.com/news/i-built-a-machine-learning-model-to-predict-who-leaves-tech-jobs-early-the-results-surprised-me/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/tech-employee-attrition-career-momentum.avif",
+        "publishedAt": "2026-05-11T20:41:42Z",
+        "content": "TL;DR\r\nA People Analytics study analyzing 205 tech professionals found that early employee attrition is driven more by stalled career momentum than workplace culture. Promotions, internal mobility, a\u2026 [+15859 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "GitLab is cutting jobs for the agentic era. It does not yet know how many.",
+        "description": "GitLab is cutting jobs to invest in AI agents. The company announced on Monday that it will flatten management layers, reorganise its research and development teams into roughly 60 smaller autonomous units, reduce its country footprint by approximately 30 per\u2026",
+        "url": "https://thenextweb.com/news/gitlab-layoffs-agentic-era-devops-ai/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/gitlab-layoffs-agentic-era-devops-ai.avif",
+        "publishedAt": "2026-05-11T21:55:06Z",
+        "content": "TL;DR\r\nGitLab announced a restructuring that will flatten management, cut its country footprint by 30 per cent, and reorganise R&amp;D into 60 autonomous teams. CEO Bill Staples called it an investme\u2026 [+8638 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts | TechCrunch",
-        "description": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-        "publishedAt": "2026-05-10T20:43:58Z",
-        "content": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.\r\nLast year, the company said that during pre-release tests involving a fictional company, \u2026 [+1089 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Jagmeet Singh",
-        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway. | TechCrunch",
-        "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-        "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800",
-        "publishedAt": "2026-05-10T02:03:38Z",
-        "content": "India\u2019s internet users already rely heavily on voice notes, voice search, and multilingual messaging. Turning those habits into a scalable AI business, however, remains difficult because of the count\u2026 [+5666 chars]"
+        "author": "Kate Park",
+        "title": "Korea's biggest manufacturers back Config, the TSMC of robot data | TechCrunch",
+        "description": "Korea's biggest manufacturers back Config, the TSMC of robot data | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
+        "publishedAt": "2026-05-11T10:59:11Z",
+        "content": "Asia\u2019s push into physical AI is being fueled by the same manufacturing prowess that made the region a global industrial powerhouse. Across South Korea, Japan, China and Taiwan, manufacturing remains \u2026 [+4477 chars]"
     }
 ]

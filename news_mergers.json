@@ -1,42 +1,107 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "John Tamny, Contributor, \n John Tamny, Contributor\n https://www.forbes.com/sites/johntamny/",
-        "title": "The Merger Of NextEra & Dominion Is About Finding The Energy Future",
-        "description": "Knowledge is wealth.",
-        "url": "https://www.forbes.com/sites/johntamny/2026/05/19/the-merger-of-nextera--dominion-is-about-finding-the-energy-future/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a0cab56ca2d2f76f0921aba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-05-19T19:00:26Z",
-        "content": "DAYTONA BEACH, FL - FEBRUARY 24: Kaz Grala, driver of the #33 KiklosGreekExtraVirginOliveOil Chevrolet, celebrates in Victory Lane after winning the NASCAR Camping World Truck Series NextEra Energy R\u2026 [+3886 chars]"
+        "author": "nbuchanan@insider.com (Naomi Buchanan)",
+        "title": "Markets are awaiting SpaceX's historic IPO filing. Here's what investors should know.",
+        "description": "SpaceX is expected to file  imminently for its long-awaited IPO. Ahead of the historic offering, here's what investors should be thinking about.",
+        "url": "https://www.businessinsider.com/spacex-ipo-elon-musk-starlink-s1-ai-stocks-markets-investing-2026-5",
+        "urlToImage": "https://i.insider.com/6a0c631df246b392afc7b5bd?width=1200&format=jpeg",
+        "publishedAt": "2026-05-20T14:10:52Z",
+        "content": "SpaceX could file publicly for its long-awaited IPO at any moment, and the offering is expected to be historic for markets.\r\nThe blockbuster IPO could raise $75 billion and value Elon Musk's company \u2026 [+6179 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Roya Shahidi",
+        "title": "Elon Musk says he's personally reviewing job applications as SpaceX ramps up hiring",
+        "description": "\"Smart humans figure it out fast,\" Elon Musk wrote in the X post. \"If you've made a very complex thing do useful work, that's a major plus.\"",
+        "url": "https://www.businessinsider.com/elon-musk-spacex-ai-hiring-personally-reviews-applications-2026-5",
+        "urlToImage": "https://i.insider.com/6a0ecaf5ce0a5b2f12d7e2bf?width=1200&format=jpeg",
+        "publishedAt": "2026-05-21T10:14:38Z",
+        "content": "Elon Musk's planned SpaceX IPO could make him the first trillionaire.Alex Wong/Getty Images\r\n<ul><li>Elon Musk will personally review the emails of applicants for new roles at SpaceXAI.</li><li>Appli\u2026 [+2208 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Reed Alexander,Alice Tecotzky",
+        "title": "Goldman Sachs grabs the top spot on a SpaceX IPO that could hand banks a record-breaking payday",
+        "description": "SpaceX is moving to go public this summer and has selected Goldman Sachs to lead its offering, according to its new S-1 filing.",
+        "url": "https://www.businessinsider.com/spacex-ipo-banks-wall-street-fees-goldman-sachs-2026-5",
+        "urlToImage": "https://i.insider.com/6a0e2b9c7684ba33f7380fc0?width=1200&format=jpeg",
+        "publishedAt": "2026-05-20T21:46:09Z",
+        "content": "The upcoming SpaceX IPO represents a huge windfall for the leading banks advising on the biggest public offering in history.Patrick T. Fallon / AFP via Getty Images\r\n<ul><li>Elon Musk's SpaceX releas\u2026 [+3683 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lloyd Lee",
+        "title": "The SpaceX S-1 filing is packed with eye-popping deadlines. Here are the most important ones.",
+        "description": "SpaceX's S-1 filing includes timelines for when the company expects Starship to begin payload deliveries and deploy its next-gen Starlink satellites.",
+        "url": "https://www.businessinsider.com/spacex-ipo-filing-timelines-milestones-starship-starlink-s1-2026-5",
+        "urlToImage": "https://i.insider.com/6a0e4fddbe2e5e1daf8913da?width=1200&format=jpeg",
+        "publishedAt": "2026-05-21T09:11:01Z",
+        "content": "SpaceX's IPO filing includes several key timelines, including Starship's first payload delivery to orbit by the second half of 2026.Gabriel V. Cardenas/AFP via Getty Images\r\n<ul><li>SpaceX's IPO fili\u2026 [+4725 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Shubhangi Goel",
+        "title": "Two brothers raised $12m for an OpenClaw competitor that a government official calls his 'second brain'",
+        "description": "NanoClaw's enthusiastic users include AI researcher Andrej Karpathy and Singapore's foreign minister.",
+        "url": "https://www.businessinsider.com/cohen-brothers-raised-millions-openclaw-competitor-nanoclaw-agentic-ai-enterprise-2026-5",
+        "urlToImage": "https://i.insider.com/6a0d4a94ce0a5b2f12d7da45?width=1200&format=jpeg",
+        "publishedAt": "2026-05-20T14:01:01Z",
+        "content": "Gavriel (L) and Lazer Cohen (R) launched NanoClaw while working for their PR agency.Lazer Cohen/Nano Co\r\n<ul><li>NanoClaw secures $12M in funding, bringing its valuation to $62 million.</li><li>NanoC\u2026 [+3025 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Quartz India"
         },
-        "author": "Leslie Picker",
-        "title": "SpaceX picks Goldman Sachs to lead record-breaking IPO, sources say",
-        "description": "SpaceX has picked Goldman Sachs to lead what's expected to be a record-setting IPO.",
-        "url": "https://www.cnbc.com/2026/05/19/spacex-picks-goldman-sachs-to-lead-record-breaking-ipo-sources-say.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108306865-1778762888280-108306865-1778757372066-gettyimages-2275592313-AFP_B2U978M.jpg?v=1778795370&w=1920&h=1080",
-        "publishedAt": "2026-05-19T22:37:37Z",
-        "content": "SpaceX, which is getting set to publicly disclose its IPO prospectus, has picked Goldman Sachs to lead the offering, according to people familiar with the matter.\r\nGoldman will have the lead left pos\u2026 [+734 chars]"
+        "author": "Cris Tolomia",
+        "title": "Goldman Sachs to lead SpaceX IPO as lead-left underwriter",
+        "description": "The offering is targeting a valuation of more than $2 trillion and aims to raise as much as $75 billion",
+        "url": "https://qz.com/goldman-sachs-spacex-ipo-lead-underwriter-052026",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7kgJHxJWemMqo7Cy0L5Fww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/48e3fda512670bc34989a666db5b0d53",
+        "publishedAt": "2026-05-20T13:12:39Z",
+        "content": "SpaceX has tapped Goldman Sachs for the lead-left slot on its initial public offering prospectus, CNBC reported.\r\nRounding out the lead bank group are Bank of America, Citigroup and JPMorgan Chase, w\u2026 [+1876 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeremy Kahn",
-        "title": "The times they are a-changin\u2019: Washington suddenly warms to regulating AI",
-        "description": "With a public backlash against AI mounting, the White House is changing its tune on AI regulation and talks with China on AI.",
-        "url": "https://fortune.com/2026/05/19/trump-pivots-towards-ai-regulation-in-face-mounting-ai-backlash-china-ai-safety-talks/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2225848215-e1779210626128.jpg?resize=1200,600",
-        "publishedAt": "2026-05-19T18:21:17Z",
-        "content": "Hello and welcome to Eye on AI. In this editionmomentum builds for U.S. AI regulationMusk loses his lawsuit against OpenAIAndrej Karpathy goes to AnthropicGoogle debuts a Co-Scientistand are humans t\u2026 [+17856 chars]"
+        "author": "Diane Brady",
+        "title": "The SpaceX IPO is a referendum on Elon Musk and his plan to colonize Mars",
+        "description": "Also: All the news and watercooler chat from Fortune.",
+        "url": "https://fortune.com/2026/05/21/spacex-ipo-prospectus-elon-musk-marks/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2275575381-e1779350958541.jpg?resize=1200,600",
+        "publishedAt": "2026-05-21T09:15:17Z",
+        "content": "Good morning. How much faith do you put in Elon Musk? If you cant wait to get a piece of SpaceX after studying its prospectus, the answer is, a lot. Musks rocket-and-satellite company filed its S-1 y\u2026 [+4884 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Eva Roytburg",
+        "title": "Elon Musk\u2019s proposed pay package in SpaceX\u2019s IPO filing reveals what the company actually is: a $1 trillion monster built to colonize Mars",
+        "description": "\u2018We do not want humans to have the same fate as dinosaurs,\u2019 the prospectus reads.",
+        "url": "https://fortune.com/2026/05/20/space-x-filing-elon-musk-pay-colonize-mars/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2180560425-e1779320910923.jpg?resize=1200,600",
+        "publishedAt": "2026-05-20T23:56:43Z",
+        "content": "Elon Musks new pay package at SpaceX, the largest in corporate history, comes with one little catch: He doesnt get the money until one million people live on Mars.The SpaceX board granted Musk one bi\u2026 [+4895 chars]"
     },
     {
         "source": {
@@ -44,25 +109,142 @@
             "name": "Fortune"
         },
         "author": "Angelica Ang",
-        "title": "How a book convinced Arundhati Bhattacharya, one of India\u2019s most powerful bankers, to try working for a U.S. tech company",
-        "description": "Under Arundhati Bhattacharya, Salesforce\u2019s South Asia headcount grew from 2,500 to over 18,000; India is now one of Salesforce\u2019s fastest growing markets.",
-        "url": "https://fortune.com/2026/05/19/salesforce-india-ceo-arundhati-bhattacharya-ai-gender-inclusion-southeast-asia/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Arundhati-Bhattarcharya-President-and-CEO-South-Asia-and-Southeast-Asia-Salesforce.jpg?resize=1200,600",
-        "publishedAt": "2026-05-19T07:00:00Z",
-        "content": "Finance to tech was a move that was never planned, she tells Fortune. When this role came about, I sat on it for about five to six months, trying to make up my mind on whether to start in a new area \u2026 [+7259 chars]"
+        "title": "Antler CEO Magnus Grimeland says Silicon Valley doesn\u2019t have a monopoly on tech: \u2018People can innovate from almost anywhere\u2019",
+        "description": "Antler positions itself as a \u201cday zero\u201d investor, meaning it backs founders from the very start, before they\u2019ve even started building their businesses.",
+        "url": "https://fortune.com/2026/05/20/antler-ceo-magnus-grimeland-innovation-global-silicon-valley/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Asia-CEO-Interviews-Final3.jpg?resize=1200,600",
+        "publishedAt": "2026-05-20T21:00:00Z",
+        "content": "Most venture capital firms get their start in Silicon Valley. It took Antler almost a decade to open its first office there.\u00a0In 2025, venture capital firm Antler opened its 27th global office in San \u2026 [+8943 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Emma Burleigh",
+        "title": "Accenture exec says the consulting giant is hiring more entry-level workers out of college compared to last year",
+        "description": "As some employers reel back their entry-level hiring, Accenture\u2019s global chief diversity officer, Beck Bailey, says the consulting giant is only ramping up its acquisition of Gen Z talent.",
+        "url": "https://fortune.com/2026/05/20/accenture-exec-future-proofing-org-chart-indeed-university-michigan-ai/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/55281101353_f680158e4f_4k.jpg?resize=1200,600",
+        "publishedAt": "2026-05-20T14:35:56Z",
+        "content": "Leaders are split on how AI will change the entry-level labor market: while some warn of a jobs armageddon, others believe itll usher in a golden era of new opportunities for young workers. Some empl\u2026 [+3171 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "rjetha@insider.com (Rya Jetha)",
+        "title": "SpaceX wants to build businesses on the Moon, Mars, and beyond",
+        "description": "SpaceX IPO filing reveals Elon Musk's vision for Mars factories, asteroid mining, and space tourism.",
+        "url": "https://www.businessinsider.com/spacex-ipo-filing-elon-musk-space-economy-vision-2026-5",
+        "urlToImage": "https://i.insider.com/6a0e4ce1be2e5e1daf8913d1?width=1200&format=jpeg",
+        "publishedAt": "2026-05-21T00:26:49Z",
+        "content": "SpaceX wants investors to think far beyond rockets and Starlink satellites.\r\nThe rocket company's S-1 paperwork, a required step before an initial public offering, lays out a sweeping vision for bill\u2026 [+2873 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "stweedie@businessinsider.com (Steven Tweedie,Tom Carter,Madeline Berg)",
+        "title": "SpaceX's IPO paperwork has landed, our first look inside the finances of Elon Musk's rocket company",
+        "description": "SpaceX's S-1 paperwork, which pulls back the curtain on the rocket company's finances, is a required step ahead of its hotly anticipated IPO.",
+        "url": "https://www.businessinsider.com/spacex-ipo-s1-public-filing-2026-5",
+        "urlToImage": "https://i.insider.com/69f4cf48ab24bc0b23a186f5?width=1200&format=jpeg",
+        "publishedAt": "2026-05-20T20:49:11Z",
+        "content": "Houston, we have the SpaceX filing everyone has been waiting for.\r\nThe S-1 paperwork, one of the most hotly anticipated financial filings of the year, gives the public its first look at the inner wor\u2026 [+1845 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "Analog Devices acquires Empower Semiconductor for $1.5B",
+        "description": "The all-cash deal will expand Analog Devices' power delivery portfolio for AI data centers, where energy constraints are limiting system performance",
+        "url": "https://qz.com/analog-devices-empower-semiconductor-acquisition-ai-power-052026",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IhlgpRF86JUl51ejQhaN.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/e178e12db00b5b81ec4f1b6b5fc4fe12",
+        "publishedAt": "2026-05-20T13:20:52Z",
+        "content": "Analog Devices agreed to acquire Empower Semiconductor for $1.5 billion in cash, the companies said Tuesday, as power delivery becomes a central bottleneck in AI data center design.\r\nEmpower, based i\u2026 [+2379 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Nick Lichtenberg",
+        "title": "SpaceX IPO targets $28.5 trillion total addressable market, mission to \u2018make life multiplanetary\u2019 and understand \u2018true nature of the universe\u2019",
+        "description": "The long-awaited S-1 finally landed\u2014and it shows Elon Musk's empire is far bigger, and more complex, than almost anyone knew.",
+        "url": "https://fortune.com/2026/05/20/spacex-ipo-filing-s1-total-addressable-market-make-life-multiplanetary/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2276194137.jpg?resize=1200,600",
+        "publishedAt": "2026-05-20T21:55:30Z",
+        "content": "SpaceX filed its long-awaited S-1 registration statement with the Securities and Exchange Commission on Wednesday, formally kicking off what is set to be one of the most consequentialand closely watc\u2026 [+4328 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "htan@insider.com (Huileng Tan)",
+        "title": "SpaceX details how retail investors can buy into its IPO",
+        "description": "On Reddit's WallStreetBets, users debated SpaceX's ambitions, while questioning whether the company's potential valuation had detached from reality.",
+        "url": "https://www.businessinsider.com/how-to-buy-spacex-ipo-retail-investors-schwab-fidelity-robinhood-2026-5",
+        "urlToImage": "https://i.insider.com/6a0e6237be2e5e1daf891406?width=1200&format=jpeg",
+        "publishedAt": "2026-05-21T05:17:06Z",
+        "content": "Elon Musk's SpaceX is opening its blockbuster IPO to retail investors, giving everyday traders access to what could become the largest public offering in history.\r\nSpaceX has applied to list on the N\u2026 [+1869 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "jciolli@businessinsider.com (Joe Ciolli)",
+        "title": "7 numbers that define SpaceX's historic IPO filing",
+        "description": "From a $28.5 trillion total addressable market to record-setting IPO proceeds, these are the figures that matter.",
+        "url": "https://www.businessinsider.com/spacex-ipo-s1-takeaways-numbers-that-define-upcoming-public-offering-2026-5",
+        "urlToImage": "https://i.insider.com/6a0e3cdf7684ba33f7381019?width=1200&format=jpeg",
+        "publishedAt": "2026-05-21T09:50:03Z",
+        "content": "Forget the World Cup and \"The Odyssey.\" The real event of the summer is finally here.\r\nI'm of course referring to the long-awaited IPO from SpaceX, the Elon Musk-helmed aerospace company that's grown\u2026 [+2327 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Mary Whitfill Roeloffs, Forbes Staff, \n Mary Whitfill Roeloffs, Forbes Staff\n https://www.forbes.com/sites/maryroeloffs/",
+        "title": "James Murdoch Buys Vox, New York Magazine Portfolio For $300M\u2014Charging Into His Father\u2019s Industry",
+        "description": "The Murdochs own one of the world's largest conservative-leading media companies, but one wayward son is now entering the industry on the other side of the aisle.",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/20/james-murdoch-buys-vox-new-york-magazine-portfolio-for-300m-charging-into-his-fathers-industry/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a0dbe6fe9f5dcd8aba0f63c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-20T14:00:52Z",
+        "content": "The youngest son of legendary conservative media mogul Rupert Murdochwho publicly split from his misogynistic and twisted father in recent yearswill acquire roughly half of left-leaning Vox Media in \u2026 [+9396 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Ian King, Bloomberg",
+        "title": "Nvidia gets tepid reaction to forecast, boosts investor rewards",
+        "description": "The outlook let down investors who expect moonshot results from the chipmaker. But Nvidia announced a big boost to its dividend and $80 billion in stock buybacks.",
+        "url": "https://fortune.com/2026/05/20/nvidia-q1-earnings-forecast-dividend-stock-buybacks/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2276442404-e1779312554163.jpg?resize=1200,600",
+        "publishedAt": "2026-05-20T21:33:33Z",
+        "content": "Nvidia, the worlds most valuable company, delivered a sales forecast that drew a tepid reaction from investors, even as revenue from data center operators continued to surge.\u00a0Sales in the three month\u2026 [+2644 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Julia Boorstin",
-        "title": "2026 CNBC Disruptor 50 list: Why Anthropic was No. 1 in this year's rankings",
-        "description": "Anthropic, posting explosive growth for its powerful AI systems that enterprises trust, has leapfrogged OpenAI on the CNBC Disruptor 50 list as the new No. 1.",
-        "url": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-rankings-anthropic-no-1.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108289783-1775826656096-gettyimages-2264943542-20090101260308-99-764839.jpeg?v=1775826686&w=1920&h=1080",
-        "publishedAt": "2026-05-19T10:00:01Z",
-        "content": "This year's Disruptor 50 list, with Anthropic at No. 1, followed by OpenAI, features companies that are using technology primarily AI to challenge existing industries and build new ones. \r\nWith explo\u2026 [+6895 chars]"
+        "author": "Samantha Subin",
+        "title": "SpaceX is poised to be the biggest IPO ever. Here are the top U.S. deals to date",
+        "description": "Before SpaceX's upcoming IPO sets an expected record, Alibaba, Facebook and Visa raised historic sums in the U.S.",
+        "url": "https://www.cnbc.com/2026/05/20/spacex-is-the-biggest-ipo-ever-these-debuts-also-set-records.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108093070-1738016114039-Zuckerberg_Musk.jpg?v=1738016208&w=1920&h=1080",
+        "publishedAt": "2026-05-20T22:58:32Z",
+        "content": "Meta CEO, Mark Zuckerberg and Tesla and SpaceX CEO, Elon Musk\r\nWhen SpaceX finally debuts on the Nasdaq, under the ticker symbol SPCX, it will almost certainly set a record for the largest offering e\u2026 [+6814 chars]"
     },
     {
         "source": {
@@ -82,58 +264,6 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Lily Mae Lazarus",
-        "title": "DeepSeek and China\u2019s AI boom are increasingly powered by state money",
-        "description": "Government-linked investors in China went from backing fewer than 10 AI deals annually before 2018 to more than 140 in 2025, reshaping who controls the future of AI.",
-        "url": "https://fortune.com/2026/05/19/deepseek-china-ai-venture-capital-nvidia-pitchbook-trends-term-sheet/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2239462981-e1779133412826.jpg?resize=1200,600",
-        "publishedAt": "2026-05-19T10:08:19Z",
-        "content": "One of the worlds most contentious AI companies just took its first outside investment. The check came from the Chinese government.DeepSeek founder Liang Wenfenga hedge fund billionaire who controls \u2026 [+5191 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sasha Rogelberg",
-        "title": "Pizza Hut franchisee claims $100 million losses from \u2018cascading operational breakdowns\u2019 in AI adoption gone wrong",
-        "description": "The problem wasn't AI hallucination, though\u2014it was how gig workers responded to the new tool they'd been given.",
-        "url": "https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-1022604248-e1779220519542.jpg?resize=1200,600",
-        "publishedAt": "2026-05-19T20:03:21Z",
-        "content": "A major Pizza Hut franchisee is suing the pizza chain, claiming gig workers leveraged its AI system for their own benefit, causing cascading operational breakdowns that pummeled sales at more than 10\u2026 [+5193 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sheryl Estrada",
-        "title": "CFOs could cut agentic AI costs up to 60% by fixing this overlooked data problem",
-        "description": "Gartner argues the problem isn't the models finance chiefs are buying\u2014it's the data context underneath.",
-        "url": "https://fortune.com/2026/05/19/cfo-reduce-agentic-ai-cost-60-percent-fixing-data-problem/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2256127581.jpg?resize=1200,600",
-        "publishedAt": "2026-05-19T11:43:23Z",
-        "content": "Good morning. In the race to deploy AI agents, many companies are overlooking a costly problem hiding in plain sight: data without context. Companies that prioritize semantics in their AI-ready data \u2026 [+5447 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Peter Rudegeair",
-        "title": "Hedge fund Darsana Capital stands to make over $17 billion from SpaceX IPO",
-        "description": "Darsana Capital's SpaceX stake now makes up nearly 60% of its assets.",
-        "url": "https://www.wsj.com/finance/investing/the-little-known-hedge-fund-that-stands-to-make-over-10-billion-on-spacex-44504c7a?mod=hp_lead_pos4",
-        "urlToImage": "https://www.nzherald.co.nz/resizer/v2/HEDKYDOAZNA47JU4F4S7GYKISY.jpg?auth=a160fb69a880c11960655259528a5b8b68373428ea06eae2a47a608fa0164631&width=1200&height=675&quality=70&focal=2248%2C2155&smart=false",
-        "publishedAt": "2026-05-19T01:13:09Z",
-        "content": "Darsana got interested in SpaceX after one of its partners, Dan Irom, was looking into publicly traded satellite companies and met with privately held SpaceX as part of his research, the people famil\u2026 [+2284 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
         "author": "Sharon Goldman",
         "title": "How the multibillion dollar AI data center boom has transformed CBRE, the world\u2019s largest commercial real estate company",
         "description": "The AI buildout is reshaping everything from power grids to rural land markets\u2014and turning CBRE into a key player in the infrastructure boom.",
@@ -147,26 +277,39 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Ashley Capoot, Lora Kolodny",
-        "title": "Musk and Altman take their battle from court to Wall Street ahead of landmark IPOs",
-        "description": "Now that the Musk-Altman trial has reached a verdict, the two billionaires can turn their attention to readying their companies for the public market.",
-        "url": "https://www.cnbc.com/2026/05/19/musk-altman-take-their-battle-from-court-to-wall-street-ahead-of-ipos.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300077-1777564113758-gettyimages-2273245544-2026_apr_30_muskvsaltman_0666.jpeg?v=1777564136&w=1920&h=1080",
-        "publishedAt": "2026-05-19T12:44:48Z",
-        "content": "Elon Musk arrives to court at the Ronald V. Dellums Federal Building on April 30, 2026 in Oakland, California. \r\nElon Musk lost his lawsuit against OpenAI CEO Sam Altman on Monday, ending one round i\u2026 [+7884 chars]"
+        "author": "Dylan Butts",
+        "title": "CNBC Daily Open: Nvidia posts strong quarter, as AI leaders race to IPO",
+        "description": "Stocks rally back with the Dow jumping more than 600 points as rate and oil fears ease.",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108308587-1779133062069-gettyimages-2276430024-DELL_TECHNOLOGIES_CONVENTION.jpeg?v=1779133175&w=1920&h=1080",
+        "publishedAt": "2026-05-21T01:16:41Z",
+        "content": "Hello, this is Dylan Butts writing to you from Singapore. Welcome to another edition of the CNBC Daily Open.\r\nBig Tech has dominated the news cycle, with Nvidia delivering another quarter of strong r\u2026 [+3442 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Nicholas Gordon",
-        "title": "Why the 137-year-old developer Hongkong Land is reinventing itself\u2014and trying to loosen its ties to its home city",
-        "description": "Hongkong Land CEO Michael Smith pivots the 133-year-old Hong Kong developer into a pan-Asia fund manager to close its steep valuation discount.",
-        "url": "https://fortune.com/2026/05/19/hongkong-land-michael-smith-asia-real-estate-shift/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/YHR13019v4-e1779171129629.jpg?resize=1200,600",
-        "publishedAt": "2026-05-19T21:00:00Z",
-        "content": "In the mid-1990s, when Percy Weatherall was CEO of Hongkong Land and Michael Smith was a junior property cadet at Jones Lang Wootton, Weatherall offered Smith a job. Smith turned him down as he was a\u2026 [+10699 chars]"
+        "author": "Davis Giangiulio",
+        "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+        "description": "It comes after reports that the AI giant and ChatGPT owner is set to file confidentially for an IPO as soon as this week.",
+        "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203075-1758667425880-gettyimages-2236544323-STARGATE_DATA_CENTER.jpeg?v=1771232899&w=1920&h=1080",
+        "publishedAt": "2026-05-20T19:05:35Z",
+        "content": "Reports that OpenAI is set to confidentially file for an IPO as soon as Friday changed prediction market traders' outlook on which private AI giant will debut on the public markets first.\u00a0\u00a0\r\nTraders \u2026 [+2474 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Deirdre Bosa, Jasmine Wu",
+        "title": "Cheap AI could derail OpenAI and Anthropic's IPOs",
+        "description": "Chinese AI labs are matching American frontier capability at a fraction of the cost.",
+        "url": "https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202500-17585857512025-02-07t115613z_865237367_rc2npcauossb_rtrmadp_0_openai-germany.jpeg?v=1758585772&w=1920&h=1080",
+        "publishedAt": "2026-05-20T17:47:46Z",
+        "content": "This earnings season, the cost of AI started showing up in the numbers. Meta, Shopify, Spotify, and Pinterest all flagged rising AI and inference costs as a drag on margins. Shopify said economies of\u2026 [+7171 chars]"
     },
     {
         "source": {
@@ -186,12 +329,12 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "David Spiegel",
-        "title": "2026 CNBC Disruptor 50 list: How we chose this year's companies",
-        "description": "The 2026 CNBC Disruptor 50 list demonstrates how quickly AI has become essential to disruptive business models across every sector of the economy.",
-        "url": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-list-how-we-chose-this-years-companies.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108308222-1779102989328-Thematic_Illustration_2.jpg?v=1779120631&w=1920&h=1080",
-        "publishedAt": "2026-05-19T10:00:01Z",
-        "content": "The CNBC Disruptor 50 was not created to be an AI list, but it most certainly is one now. Forty-three of the 50 companies in the 2026 list class say AI is essential to their disruptive business model\u2026 [+7081 chars]"
+        "author": "Lora Kolodny",
+        "title": "SpaceX live updates: IPO filing sets stage for record offering",
+        "description": "SpaceX filed for an IPO and plans to list on Nasdaq under ticker SPCX, according to its SEC prospectus.",
+        "url": "https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094249-17381725552025-01-14t080831z_509321382_rc289y9arf59_rtrmadp_0_qantas-flights-safrica.jpeg?v=1738172616&w=1920&h=1080",
+        "publishedAt": "2026-05-20T20:47:46Z",
+        "content": "Musk merged SpaceX with xAI in February, creating a combined entity that he valued at the time at $1.25 trillion. \r\nTesla, Musk's electric vehicle company, has a market cap of about $1.6 trillion, an\u2026 [+1310 chars]"
     }
 ]

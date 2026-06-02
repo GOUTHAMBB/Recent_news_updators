@@ -2,41 +2,132 @@
     {
         "source": {
             "id": null,
+            "name": "CNET"
+        },
+        "author": "Lori Grunin",
+        "title": "Nvidia RTX Spark May Light a Fire for Windows on Arm",
+        "description": "The new SoC promises class-leading performance for creation and gaming, and, of course, generative AI and agents.",
+        "url": "https://www.cnet.com/tech/computing/nvidia-rtx-spark-may-light-a-fire-for-windows-on-arm/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/8f734c07df3e3534a1cf15980acbbd3ad173275a/hub/2026/05/31/f6ccd835-7f26-4339-b47c-41607c08d31f/microsoft-surface-ultra.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-01T05:30:42Z",
+        "content": "Buckle up: Nvidia is \"reinventing the personal computer,\" according to CEO Jensen Huang. Microsoft and Nvidia have been cozying up to one another in preparation for Nvidia's highly anticipated launch\u2026 [+8405 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Intel touts 130-plus edge design wins for Series 3 and launches OpenVINO Physical AI framework",
+        "description": "Intel Corp. today announced that more than 130 design engagements for its Series 3 processor family for edge artificial intelligence and edge computing designs and also unveiled a new open-source framework called OpenVINO Physical AI to address what it calls \u2026",
+        "url": "https://siliconangle.com/2026/05/31/intel-touts-130-plus-edge-design-wins-series-3-launches-openvino-physical-ai-framework/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/intelcomputex.png",
+        "publishedAt": "2026-06-01T03:00:30Z",
+        "content": "Intel Corp. today announced that more than 130 design engagements for its Series 3 processor family for edge artificial intelligence and edge computing designs and also unveiled a new open-source fra\u2026 [+5405 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Fingerprint launches AI Assistant Detection to spot traffic from ChatGPT, Gemini and Claude",
+        "description": "Device intelligence company FingerprintJS Inc. today launched a preview of two products built to identify traffic from artificial intelligence assistants, addressing a detection gap that has opened as more web requests arrive without a browser. The first, AI \u2026",
+        "url": "https://siliconangle.com/2026/06/01/fingerprint-launches-ai-assistant-detection-spot-traffic-chatgpt-gemini-claude/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/fingerprint.png",
+        "publishedAt": "2026-06-01T11:00:37Z",
+        "content": "Device intelligence company FingerprintJS Inc. today launched a preview of two products built to identify traffic from artificial intelligence assistants, addressing a detection gap that has opened a\u2026 [+4277 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Justin Carter",
-        "title": "Amazon Pisses Off Animation Industy With AI Animation Fund",
-        "description": "No one's happy about the Amazon AI Creators Fund, with two of the shows drawing even more negativity for different reasons.",
-        "url": "https://gizmodo.com/amazon-pisses-off-animation-industy-with-ai-animation-fund-2000765057",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/punky-duck-amazon-hed-1200x675.jpg",
-        "publishedAt": "2026-05-30T16:25:07Z",
-        "content": "Earlier in May, Hollywood took significant steps in trying to bring generative AI into the animation industry. Both Netflix and Amazon announced different plans to use the controversial technology to\u2026 [+4576 chars]"
+        "author": "Gayoung Lee",
+        "title": "An OpenAI Model \u2018Disproved\u2019 a Famous Math Conjecture. This Mathematician Couldn\u2019t Leave It Alone",
+        "description": "Mathematician Will Sawin discusses his experience reviewing and refining a mathematical proof devised by OpenAI's internal model\u2014and what that could mean for mathematics.",
+        "url": "https://gizmodo.com/an-openai-model-disproved-a-famous-math-conjecture-this-mathematician-couldnt-leave-it-alone-2000765065",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/erdos-unit-distance-problem-openai-proof-visualization-1200x675.jpg",
+        "publishedAt": "2026-06-01T11:30:07Z",
+        "content": "Will Sawin got OpenAIs email on a Friday night. Or Saturday morning. Either way, Sawin, a professional mathematician, spent his entire weekend thinking about that email. By next Monday, he decided to\u2026 [+14410 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Zeus Kerravala",
-        "title": "From resilience to survivability: How AI forces a rethink of business continuity",
-        "description": "Artificial intelligence is forcing companies to change almost every aspect of their business. From operations to hiring to sales and training, change is happening faster than ever. One aspect of this change that has flown under the radar is the need for compa\u2026",
-        "url": "https://siliconangle.com/2026/05/29/resilience-survivability-ai-forces-rethink-business-continuity/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/wal_172619-skyscraper-8213318_1920.jpg",
-        "publishedAt": "2026-05-30T01:06:55Z",
-        "content": "Artificial intelligence is forcing companies to change almost every aspect of their business. From operations to hiring to sales and training, change is happening faster than ever. One aspect of this\u2026 [+11383 chars]"
+        "author": "Mike Wheatley",
+        "title": "Nvidia gives developers the tool to build secure, autonomous AI workers that scale",
+        "description": "Not content with just providing the infrastructure for the next generation of artificial intelligence agents, Nvidia Corp. is also providing the tools for developers to build them. At Nvidia GTC Taipei 2026, concurrent with the Computex conference, the compan\u2026",
+        "url": "https://siliconangle.com/2026/06/01/nvidia-gives-developers-tool-build-secure-autonomous-ai-workers-scale/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-06-01-09-09-09.png",
+        "publishedAt": "2026-06-01T05:30:17Z",
+        "content": "Not content with just providing the infrastructure for the next generation of artificial intelligence agents, Nvidia Corp. is also providing the tools for developers to build them.\r\nAt Nvidia GTC Tai\u2026 [+7316 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dave Vellante and George Gilbert",
-        "title": "Personal agents light the fuse as Snowflake and Databricks move up the AI stack",
-        "description": "The artificial intelligence wave is starting to look a bit like the personal computer era \u2013 with some obvious differences. The first similarity is personal productivity. Individuals are taking control of their own work with agents, open tools and repeatable s\u2026",
-        "url": "https://siliconangle.com/2026/05/30/personal-agents-light-fuse-snowflake-databricks-move-ai-stack/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/ChatGPT-Image-May-30-2026-05_05_19-PM.png",
-        "publishedAt": "2026-05-30T23:12:58Z",
-        "content": "The artificial intelligence wave is starting to look a bit like the personal computer era with some obvious differences.\r\nThe first similarity is personal productivity. Individuals are taking control\u2026 [+45295 chars]"
+        "author": "Doug Murray",
+        "title": "From reactive operations to autonomous infrastructure: What IT leaders must do next",
+        "description": "As artificial intelligence agents begin to proliferate across information technology infrastructure, IT leaders are moving away from asking, \u201cHow do we monitor every alert?\u201d to \u201cHow do we design infrastructure that can solve its own problems?\u201d Operations team\u2026",
+        "url": "https://siliconangle.com/2026/05/31/reactive-operations-autonomous-infrastructure-leaders-must-next/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/catoautonomouspolicies.png",
+        "publishedAt": "2026-05-31T15:54:02Z",
+        "content": "As artificial intelligence agents begin to proliferate across information technology infrastructure, IT leaders are moving away from asking, How do we monitor every alert? to How do we design infrast\u2026 [+7088 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Nvidia ramps up production of Vera Rubin, the foundation of the next generation of AI factories",
+        "description": "Nvidia Corp. said early Monday at the Computex conference in Taipei that it\u2019s gearing up the production of its forthcoming Vera Rubin platform, which is set to become the foundation of a new generation of artificial intelligence factories that will dominate t\u2026",
+        "url": "https://siliconangle.com/2026/06/01/nvidia-ramps-production-vera-rubin-foundation-next-generation-ai-factories/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-06-01-08-02-06.png",
+        "publishedAt": "2026-06-01T05:30:15Z",
+        "content": "Nvidia Corp. said early Monday at the Computex conference in Taipei that its gearing up the production of its forthcoming Vera Rubin platform, which is set to become the foundation of a new generatio\u2026 [+9078 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Jason Bloomberg",
+        "title": "Why \u2018human in the loop\u2019 falls short \u2013 and what to do about it",
+        "description": "Agentic artificial intelligence governance depends upon humans to keep agentic AI from going off the rails. However, putting humans in the loop is woefully insufficient. Here are the problems \u2013 and perhaps some solutions \u2013 to the human-in-the-loop problem. Si\u2026",
+        "url": "https://siliconangle.com/2026/05/31/human-loop-falls-short/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/noose.jpg",
+        "publishedAt": "2026-05-31T20:10:59Z",
+        "content": "Agentic artificial intelligence governance depends upon humans to keep agentic AI from going off the rails. However, putting humans in the loop is woefully insufficient. Here are the problems and per\u2026 [+13037 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "AI eclipsed nuclear weapons as the dominant threat at Asia\u2019s premier defense summit",
+        "description": "The dangers of artificial intelligence eclipsed nuclear weapons as the central concern at a strategic stability panel during the Shangri-La Dialogue in Singapore, with senior military officials warning that AI-driven systems are collapsing the time available \u2026",
+        "url": "https://thenextweb.com/news/shangri-la-dialogue-ai-dangers-nuclear-weapons-defense/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/shangri-la-dialogue-ai-dangers-nuclear-weapons-defense.avif",
+        "publishedAt": "2026-06-01T11:09:32Z",
+        "content": "TL;DR\r\nAt the Shangri-La Dialogue in Singapore, senior military officials warned that AI is compressing battlefield decision-making faster than humans can process, eclipsing nuclear weapons as the do\u2026 [+5317 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "With DGX Station for Windows, Nvidia squeezes 1 trillion-parameter AI supercomputer into a deskside form factor",
+        "description": "Nvidia Corp. says it\u2019s uprooting supercomputers from the vast, sprawling data center complexes they normally live inside and squeezing them into compact, desktop-sized workstations that can sit on or aside the desks of individual developers, researchers and d\u2026",
+        "url": "https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Screenshot-from-2026-06-01-10-02-48.png",
+        "publishedAt": "2026-06-01T05:30:10Z",
+        "content": "Nvidia Corp. says its uprooting supercomputers from the vast, sprawling data center complexes they normally live inside and squeezing them into compact, desktop-sized workstations that can sit on or \u2026 [+6017 chars]"
     },
     {
         "source": {
@@ -53,15 +144,80 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": null,
+            "name": "CNET"
         },
-        "author": "Lauren Forristal",
-        "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
-        "description": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-        "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-        "publishedAt": "2026-05-30T13:00:00Z",
-        "content": "Google Chrome and Apples Safari currently dominate the web browser market, with Chrome holding a significant share due to the tech giant\u2019s ongoing innovations, particularly in integrating generative \u2026 [+7367 chars]"
+        "author": "Tyler Lacoma",
+        "title": "The Home AI Features That Actually Make Daily Life Easier",
+        "description": "From proactive routines to context-aware automation, here are eight home AI features that do things no chatbot can pull off.",
+        "url": "https://www.cnet.com/home/smart-home/the-home-ai-features-that-actually-make-daily-life-easier/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/8fff2f86615ed0fb4bfcdc6921f42d58b0d159d8/hub/2026/03/23/0556a7c5-a357-4b00-b0e1-6c5dd0815cf3/gettyimages-2200244138.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-31T18:00:39Z",
+        "content": "The AI conversation tends to center on chatbots, what they know, what they get wrong, and whether they're making us smarter or lazier. But some of the most genuinely useful AI applications aren't hap\u2026 [+9616 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Terrence O\u2019Brien",
+        "title": "Apple\u2019s strategy for smart glasses is the same as smart watches",
+        "description": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world.\u2026",
+        "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-05-31T21:33:11Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not just taking on Meta, its going after Ray-Ban and Warby Parker too.\r\nIts not just taking on Meta, its going after Ray-Ban and Warby Parker too.\r\nby\r\nTerre\u2026 [+2556 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "China just told its tech giants to stop fighting on price and start investing in AI",
+        "description": "A top-level Communist Party publication has signaled a shift in how Beijing intends to govern its largest internet platforms. A draft commentary set to appear in the Qiushi journal on Monday says the focus will be on balancing support for growth with enhanced\u2026",
+        "url": "https://thenextweb.com/news/china-platform-regulation-ai-investment-qiushi-signal/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/china-platform-regulation-ai-investment-qiushi-signal.avif",
+        "publishedAt": "2026-05-31T16:49:15Z",
+        "content": "TL;DR\r\nA top Communist Party journal told Chinas platforms to stop price wars and invest in AI. The signal suggests regulatory stabilisation after years of crackdowns.\r\nA top-level Communist Party pu\u2026 [+3578 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Rupert Goodwins",
+        "title": "LLMs are closer to religion than they appear. Watch out for those who like it that way",
+        "description": "Papal's 40k-word encyclical drops and lawyers already asking if Catholics can refuse workplace AI on religious grounds",
+        "url": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
+        "urlToImage": "https://image.theregister.com/5247306.jpg?imageId=5247306&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-01T08:30:00Z",
+        "content": "OPINION AI and religion is becoming a hot topic. Pope Leo XIV just dropped a fat encyclical half as thick as a novel, saying were doing it wrong and threatening human dignity. Meanwhile, a study led \u2026 [+4294 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Wired",
+        "title": "Engineering Smarter Operations",
+        "description": "Three Lessons From Manufacturers Who Have Successfully Transformed Operations With AI",
+        "url": "https://www.wired.com/sponsored/story/engineering-smarter-operations-workist/",
+        "urlToImage": "https://media.wired.com/photos/69fdec5dd818d4f01db33c9f/191:100/w_1280,c_limit/Hero-option-1.jpg",
+        "publishedAt": "2026-06-01T10:14:36Z",
+        "content": "Manufacturing has long been a testbed for cutting-edge technology. Weve seen augmented reality headsets used to instruct engineers, machine vision quality inspections, and robotic arms building robot\u2026 [+12001 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Dan Goodin, Ars Technica",
+        "title": "Websites Can Now Spy on You Through Your Hard Drive",
+        "description": "Thanks to the newly detailed FROST technique, telltale SSD activity can be measured in the browser using simple JavaScript.",
+        "url": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
+        "urlToImage": "https://media.wired.com/photos/6a18b8219674f1db52295428/191:100/w_1280,c_limit/security_SDD_GettyImages-2269205318.jpg",
+        "publishedAt": "2026-06-01T09:30:00Z",
+        "content": "Over the decades, there has been no shortage of sites using clever techniques to covertly track visitors browsing histories, device fingerprints, and keystrokes and mouse movements in real time. Even\u2026 [+3873 chars]"
     }
 ]

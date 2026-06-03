@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "AI is blowing up music. How should the Grammys handle it?",
+        "description": "Today I\u2019m talking with Harvey Mason Jr., who is CEO of the Recording Academy \u2014 that\u2019s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clea\u2026",
+        "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260601_Mason_Grammys.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-06-01T14:02:55Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nRecording Academy CEO Harvey Mason Jr. on human creativity in the age of AI\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email diges\u2026 [+67693 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CNET"
         },
@@ -11,6 +24,58 @@
         "urlToImage": "https://www.cnet.com/a/img/resize/8f734c07df3e3534a1cf15980acbbd3ad173275a/hub/2026/05/31/f6ccd835-7f26-4339-b47c-41607c08d31f/microsoft-surface-ultra.jpg?auto=webp&fit=crop&height=675&width=1200",
         "publishedAt": "2026-06-01T05:30:42Z",
         "content": "Buckle up: Nvidia is \"reinventing the personal computer,\" according to CEO Jensen Huang. Microsoft and Nvidia have been cozying up to one another in preparation for Nvidia's highly anticipated launch\u2026 [+8405 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Justin Caffier",
+        "title": "DuckDuckGo\u2019s Doing Numbers After Pitching Itself as the Home of AI-Free Web Searches",
+        "description": "AI haters are leaving Google in droves.",
+        "url": "https://gizmodo.com/duckduckgos-doing-numbers-after-pitching-itself-as-the-home-of-ai-free-web-searches-2000765927",
+        "urlToImage": "https://gizmodo.com/app/uploads/2022/11/93f6baa287163a564bbcc2c41fc123e4.jpg",
+        "publishedAt": "2026-06-01T22:35:25Z",
+        "content": "As AI is increasingly injected into every facet of our lives whether we like it or not, it seems we can only watch in a mixture of horror and frustration as so many of our once-reliable institutions \u2026 [+3523 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "PewDiePie Is Here to Offer You Privacy Assurances in the Age of AI",
+        "description": "Apparently he's an AI influencer now.",
+        "url": "https://gizmodo.com/pewdiepie-is-here-to-offer-you-privacy-assurances-in-the-age-of-ai-2000765812",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/06/GettyImages-494848194-1200x675.jpg",
+        "publishedAt": "2026-06-01T18:35:01Z",
+        "content": "Google. OpenAI. Anthropic. PewDiePie. As we all know, these are the names of the biggest players in the artificial intelligence space.\r\nYes, the once-most-subscribed person on YouTube-turned-edgelord\u2026 [+4207 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Jon Reed",
+        "title": "Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street",
+        "description": "The Claude developer is one of a trio of tech firms expected to go public this year, alongside SpaceX and OpenAI.",
+        "url": "https://www.cnet.com/tech/services-and-software/anthropic-ipo-first-filing-ai-revenue/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/2c664ac2e135acf50e02d502fed79b71e1612d68/hub/2024/04/06/6d92b0d1-e42d-4dc8-a9e4-982adc0d9eba/claude-3-logo-app-phone.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-01T23:16:03Z",
+        "content": "The artificial intelligence developer Anthropic took a tentative first step Monday toward becoming a publicly traded company, a move that would give it access to a huge pool of investors' money while\u2026 [+6975 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Merge launches Agent Handler for Employees as an IT gatekeeper for workplace AI agents",
+        "description": "Merge API Inc., a platform provider delivering connective infrastructure for artificial intelligence to business data and tools, launched Agent Handler for Employees, easing the strain on information technology teams. With today\u2019s release, Merge is offering a\u2026",
+        "url": "https://siliconangle.com/2026/06/01/merge-launches-agent-handler-employees-gatekeeper-workplace-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/07/38de571c-4b12-42c1-8a4c-03fa26413da5.jpg",
+        "publishedAt": "2026-06-01T13:00:38Z",
+        "content": "Merge API Inc., a platform provider delivering connective infrastructure for artificial intelligence to business data and tools, launched Agent Handler for Employees, easing the strain on information\u2026 [+4659 chars]"
     },
     {
         "source": {
@@ -30,6 +95,84 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
+        "author": "Maria Deutscher",
+        "title": "Nvidia debuts RTX Spark processor for Windows laptops, compact desktops",
+        "description": "Nvidia Corp. today introduced a system-on-chip designed to power Windows laptops and compact desktops.\u00a0 The RTX Spark, as the processor is called, will roll out alongside Windows upgrades that will make the operating system better at running artificial intell\u2026",
+        "url": "https://siliconangle.com/2026/06/01/nvidia-debuts-rtx-spark-processor-windows-laptops-compact-desktops/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Nvidia.png",
+        "publishedAt": "2026-06-01T20:28:47Z",
+        "content": "Nvidia Corp. today introduced a system-on-chip designed to power Windows laptops and compact desktops.\u00a0\r\nThe RTX Spark, as the processor is called, will roll out alongside Windows upgrades that will \u2026 [+5240 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Zeus Kerravala",
+        "title": "Mitel CX solves the sovereign cloud problem for communications",
+        "description": "Sovereign cloud discussions have been a core part of artificial intelligence and infrastructure conversations for the past few years and are now critical to communications. Historically, the communications sector has been a late adopter of technology trends d\u2026",
+        "url": "https://siliconangle.com/2026/06/01/mitel-cx-solves-sovereign-cloud-problem-communications/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/cx-key-3.png",
+        "publishedAt": "2026-06-01T17:42:41Z",
+        "content": "Sovereign cloud discussions have been a core part of artificial intelligence and infrastructure conversations for the past few years and are now critical to communications.\r\nHistorically, the communi\u2026 [+12050 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "MazeBolt launches RADAR VectorAI to test enterprise defenses against AI-generated DDoS attacks",
+        "description": "Israeli distributed denial-of-service resilience company MazeBolt Technologies Ltd. today launched RADAR VectorAI, a new module that uses artificial intelligence to generate previously unseen DDoS attack vectors and run them against customers\u2019 production envi\u2026",
+        "url": "https://siliconangle.com/2026/06/02/mazebolt-launches-radar-vectorai-test-enterprise-defenses-ai-generated-ddos-attacks/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/mazebolt.png",
+        "publishedAt": "2026-06-02T08:00:10Z",
+        "content": "Israeli distributed denial-of-service resilience company MazeBolt Technologies Ltd. today launched RADAR VectorAI, a new module that uses artificial intelligence to generate previously unseen DDoS at\u2026 [+4100 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Archestra raises $10M to broker AI agent access to corporate data",
+        "description": "Archestra Inc., a U.K.-based startup whose open-source platform brokers access between artificial intelligence agents and sensitive enterprise data, today announced that it has raised $10 million in new funding to expand deployments inside large enterprises a\u2026",
+        "url": "https://siliconangle.com/2026/06/02/archestra-raises-10m-broker-ai-agent-access-corporate-data/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Archestra.png",
+        "publishedAt": "2026-06-02T12:00:48Z",
+        "content": "Archestra Inc., a U.K.-based startup whose open-source platform brokers access between artificial intelligence agents and sensitive enterprise data, today announced that it has raised $10 million in \u2026 [+4958 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Alphabet unveils plan to sell $80B in shares to fund ongoing AI infrastructure buildout",
+        "description": "Google LLC parent company Alphabet Inc. is seeking to raise a massive $80 billion in equity capital through a stock sale in an effort to bankroll the ballooning costs of its artificial intelligence infrastructure buildout. In a key endorsement of the plan, Wa\u2026",
+        "url": "https://siliconangle.com/2026/06/01/alphabet-unveils-plan-sell-80b-shares-fund-ongoing-ai-infrastructure-buildout/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/googleio2023-pichai-a1.jpg",
+        "publishedAt": "2026-06-01T23:22:49Z",
+        "content": "Google LLC parent company Alphabet Inc. is seeking to raise a massive $80 billion in equity capital through a stock sale in an effort to bankroll the ballooning costs of its artificial intelligence i\u2026 [+4878 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Intel introduces Xeon 6+ server processors, previews upcoming graphics cards",
+        "description": "Intel Corp. today debuted a line of central processing units based on its latest manufacturing process and shared new details about its next-generation graphics cards. Both product families are geared toward artificial intelligence data centers. Intel is also\u2026",
+        "url": "https://siliconangle.com/2026/06/01/intel-introduces-xeon-6-server-processors-previews-upcoming-graphics-cards/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/2718792077_5b5172a3e0_k-1.jpg",
+        "publishedAt": "2026-06-02T00:43:01Z",
+        "content": "Intel Corp. today debuted a line of central processing units based on its latest manufacturing process and shared new details about its next-generation graphics cards.\r\nBoth product families are gear\u2026 [+4751 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
         "author": "Duncan Riley",
         "title": "Fingerprint launches AI Assistant Detection to spot traffic from ChatGPT, Gemini and Claude",
         "description": "Device intelligence company FingerprintJS Inc. today launched a preview of two products built to identify traffic from artificial intelligence assistants, addressing a detection gap that has opened as more web requests arrive without a browser. The first, AI \u2026",
@@ -37,6 +180,32 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/fingerprint.png",
         "publishedAt": "2026-06-01T11:00:37Z",
         "content": "Device intelligence company FingerprintJS Inc. today launched a preview of two products built to identify traffic from artificial intelligence assistants, addressing a detection gap that has opened a\u2026 [+4277 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "HPE posts huge earnings beat, sending its stock skywards in extended trading",
+        "description": "Hewlett Packard Enterprise Co.\u2019s artificial intelligence servers sold like hot cakes during its fiscal second quarter, powering the company to an impressive earnings and revenue beat. Wall Street was delighted with the results, and the company\u2019s stock soared \u2026",
+        "url": "https://siliconangle.com/2026/06/01/hpe-posts-huge-earnings-beat-sending-stock-skywards-extended-trading/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Antonio-Neri-president-and-chief-executive-officer-of-Hewlett-Packard-Enterprise-Co.-\u2013-Nvidia-GTC-2025.png",
+        "publishedAt": "2026-06-02T01:13:32Z",
+        "content": "Hewlett Packard Enterprise Co.s artificial intelligence servers sold like hot cakes during its fiscal second quarter, powering the company to an impressive earnings and revenue beat. Wall Street was \u2026 [+6020 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "JupiterOne launches Continuous Controls Monitoring to test security controls against live asset data",
+        "description": "Artificial intelligence risk management platform provider JupiterOne Inc. today announced the launch of JupiterOne Continuous Controls Monitoring, a new product that tests whether security and compliance controls are actually working across cloud, software-as\u2026",
+        "url": "https://siliconangle.com/2026/06/02/jupiterone-launches-continuous-controls-monitoring-test-security-controls-live-asset-data/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/jupiterone1.png",
+        "publishedAt": "2026-06-02T09:00:37Z",
+        "content": "Artificial intelligence risk management platform provider JupiterOne Inc. today announced the launch of JupiterOne Continuous Controls Monitoring, a new product that tests whether security and compli\u2026 [+4430 chars]"
     },
     {
         "source": {
@@ -69,13 +238,39 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Doug Murray",
-        "title": "From reactive operations to autonomous infrastructure: What IT leaders must do next",
-        "description": "As artificial intelligence agents begin to proliferate across information technology infrastructure, IT leaders are moving away from asking, \u201cHow do we monitor every alert?\u201d to \u201cHow do we design infrastructure that can solve its own problems?\u201d Operations team\u2026",
-        "url": "https://siliconangle.com/2026/05/31/reactive-operations-autonomous-infrastructure-leaders-must-next/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/catoautonomouspolicies.png",
-        "publishedAt": "2026-05-31T15:54:02Z",
-        "content": "As artificial intelligence agents begin to proliferate across information technology infrastructure, IT leaders are moving away from asking, How do we monitor every alert? to How do we design infrast\u2026 [+7088 chars]"
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: Dell\u2019s AI hardware business pays dividends; Snowflake and Anthropic fare well at the stocks",
+        "description": "Artificial intelligence adoption has brought hardware back in style, with Dell Technologies Inc. having an astounding week. The hardware firm saw an 88% jump in revenue and its stock closed up at 33% last week. These amazing numbers reflect how AI is pushing \u2026",
+        "url": "https://siliconangle.com/2026/06/01/ai-hardware-dell-data-center-growth-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/John-Furrier-and-Dave-Vellante-theCUBE-Pod-129.png",
+        "publishedAt": "2026-06-01T14:48:47Z",
+        "content": "Artificial intelligence adoption has brought hardware back in style, with Dell Technologies Inc. having an astounding week.\r\nThe hardware firm saw an 88% jump in revenue and its stock closed up at 33\u2026 [+6999 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Lindsay Clark",
+        "title": "Claude celebrates Anthropic's stock market float with blockbuster ... outage",
+        "description": "Chatbot has no respect for timing of its maker's financial announcement",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/claude-celebrates-anthropics-stock-market-float-with-blockbuster-outage/5250071",
+        "urlToImage": "https://image.theregister.com/261351.jpg?imageId=261351&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-02T11:54:08Z",
+        "content": "Claude has gone offline on the day after its maker Anthropic filed for what is expected to be a blockbuster IPO.\r\nThe popular chatbot and coding tool suffered an outage from around 0600 UTC on Tuesda\u2026 [+1520 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Zeus Kerravala",
+        "title": "Five thoughts from Nvidia CEO Jensen Huang\u2019s GTC Taipei 2026 keynote",
+        "description": "Useful artificial intelligence has arrived, and if Nvidia Chief Executive Jensen Huang is right, it is about to reshape not only data centers but also the structure of the global economy and the tech labor market. In his GTC Taipei 2026 keynote, Huang\u00a0laid ou\u2026",
+        "url": "https://siliconangle.com/2026/06/01/five-thoughts-nvidia-ceo-jensen-huangs-gtc-taipei-2026-keynote/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Jensen.png",
+        "publishedAt": "2026-06-01T13:46:29Z",
+        "content": "Useful artificial intelligence has arrived, and if Nvidia Chief Executive Jensen Huang is right, it is about to reshape not only data centers but also the structure of the global economy and the tech\u2026 [+9803 chars]"
     },
     {
         "source": {
@@ -93,15 +288,41 @@
     {
         "source": {
             "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "brandon.hill@futurenet.com (Brandon Hill) , Brandon Hill",
+        "title": "Computex 2026 Day Zero Wrap-Up: Nvidia launches RTX Spark Superchip assault on laptop and desktop markets, Intel readies Xeon 6+",
+        "description": "Here's the best of what was announced during the opening hours of Computex 2026",
+        "url": "https://www.tomshardware.com/tech-industry/computex-2026-day-zero-wrap-up-nvidia-launches-rtx-spark-superchip-assault-on-laptop-and-desktop-markets-intel-readies-xeon-6",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/52RfJGEnEUPeDsYGpwse2U-1920-80.jpg",
+        "publishedAt": "2026-06-01T16:26:24Z",
+        "content": "We\u2019re back on the ground in Taipei, Taiwan, for another Computex. We have half a dozen boots on the ground tasked with getting you in-person, hands-on pictures, video, and commentary on all the lates\u2026 [+4355 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Jason Bloomberg",
-        "title": "Why \u2018human in the loop\u2019 falls short \u2013 and what to do about it",
-        "description": "Agentic artificial intelligence governance depends upon humans to keep agentic AI from going off the rails. However, putting humans in the loop is woefully insufficient. Here are the problems \u2013 and perhaps some solutions \u2013 to the human-in-the-loop problem. Si\u2026",
-        "url": "https://siliconangle.com/2026/05/31/human-loop-falls-short/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/noose.jpg",
-        "publishedAt": "2026-05-31T20:10:59Z",
-        "content": "Agentic artificial intelligence governance depends upon humans to keep agentic AI from going off the rails. However, putting humans in the loop is woefully insufficient. Here are the problems and per\u2026 [+13037 chars]"
+        "author": "James Farrell",
+        "title": "Florida AG sues OpenAI and Sam Altman over claims the technology is dangerous and exploits its users",
+        "description": "Florida today became the first U.S. state to sue OpenAI Group PBC and its chief executive, Sam Altman, alleging that its product ChatGPT can be harmful to its users and that the company has failed to make clear these dangers to the public. \u201cToday, we announce\u2026",
+        "url": "https://siliconangle.com/2026/06/01/florida-ag-sues-openai-sam-altman-claims-technology-dangerous-exploits-users/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/emiliano-vittoriosi-fvxNerA8uk0-unsplash.jpg",
+        "publishedAt": "2026-06-02T01:59:31Z",
+        "content": "Florida today became the first U.S. state to sue OpenAI Group PBC and its chief executive, Sam Altman, alleging that its product ChatGPT can be harmful to its users and that the company has failed to\u2026 [+3922 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "The White House is at war with itself over who gets to regulate AI",
+        "description": "The Trump administration is locked in an internal battle over artificial intelligence regulation that has paralysed federal AI policy at the moment it matters most. Three factions are fighting for control: the Commerce Department, which has been quietly build\u2026",
+        "url": "https://thenextweb.com/news/the-white-house-is-at-war-with-itself-over-who-gets-to-regulate-ai/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/us-white-house-ai-model-distillation-china-theft.avif",
+        "publishedAt": "2026-06-02T11:56:45Z",
+        "content": "TL;DR\r\nA three-way internal fight between the Commerce Department, intelligence agencies, and pro-industry factions has paralysed US federal AI regulation. Trump scrapped an executive order at the la\u2026 [+5634 chars]"
     },
     {
         "source": {
@@ -121,6 +342,19 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
+        "author": "Maria Deutscher",
+        "title": "Anthropic confidentially files for IPO amid rapid growth",
+        "description": "Anthropic PBC today disclosed that it has confidentially filed to go public. The company didn\u2019t share any details about its planned listing in the brief blog post that announced the move. Anthropic is widely expected to hold its public offering this year. The\u2026",
+        "url": "https://siliconangle.com/2026/06/01/anthropic-confidentially-files-ipo-amid-rapid-growth/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic1.png",
+        "publishedAt": "2026-06-01T23:02:48Z",
+        "content": "Anthropic PBC today disclosed that it has confidentially filed to go public.\r\nThe company didnt share any details about its planned listing in the brief blog post that announced the move. Anthropic i\u2026 [+4295 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
         "author": "Mike Wheatley",
         "title": "With DGX Station for Windows, Nvidia squeezes 1 trillion-parameter AI supercomputer into a deskside form factor",
         "description": "Nvidia Corp. says it\u2019s uprooting supercomputers from the vast, sprawling data center complexes they normally live inside and squeezing them into compact, desktop-sized workstations that can sit on or aside the desks of individual developers, researchers and d\u2026",
@@ -132,41 +366,54 @@
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "SiliconANGLE News"
         },
-        "author": "Joab Jackson",
-        "title": "Netflix wiz creates app to slash AI bills, then open sources it",
-        "description": "Project Headroom could save you big money, too",
-        "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
-        "urlToImage": "https://image.theregister.com/5248730.jpg?imageId=5248730&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-05-31T07:00:00Z",
-        "content": "As the COOs from both Uber and Microsoft recently learned, encouraging company engineers to use AI aggressively can lead to hefty usage bills, perhaps even offsetting all the gains from laying off em\u2026 [+7942 chars]"
+        "author": "Maria Deutscher",
+        "title": "Space propulsion startup Impulse Space closes $500M investment",
+        "description": "Impulse Space Inc. today announced that it has closed a $500 million late-stage investment led by 137 Ventures and BANNER VC. The Series D round brings the company\u2019s outside funding to over $1 billion. The cost of launching a satellite depends on the altitude\u2026",
+        "url": "https://siliconangle.com/2026/06/02/space-propulsion-startup-impulse-space-closes-500m-investment/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Impulse-Space.png",
+        "publishedAt": "2026-06-02T12:00:35Z",
+        "content": "Impulse Space Inc. today announced that it has closed a $500 million late-stage investment led by 137 Ventures and BANNER VC.\r\nThe Series D round brings the companys outside funding to over $1 billio\u2026 [+4348 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "SiliconANGLE News"
         },
-        "author": "Tyler Lacoma",
-        "title": "The Home AI Features That Actually Make Daily Life Easier",
-        "description": "From proactive routines to context-aware automation, here are eight home AI features that do things no chatbot can pull off.",
-        "url": "https://www.cnet.com/home/smart-home/the-home-ai-features-that-actually-make-daily-life-easier/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/8fff2f86615ed0fb4bfcdc6921f42d58b0d159d8/hub/2026/03/23/0556a7c5-a357-4b00-b0e1-6c5dd0815cf3/gettyimages-2200244138.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-05-31T18:00:39Z",
-        "content": "The AI conversation tends to center on chatbots, what they know, what they get wrong, and whether they're making us smarter or lazier. But some of the most genuinely useful AI applications aren't hap\u2026 [+9616 chars]"
+        "author": "Maria Deutscher",
+        "title": "Anthropic confidentiality files for IPO amid rapid growth",
+        "description": "Anthropic PBC today disclosed that it has confidentially filed to go public. The company didn\u2019t share any details about its planned listing in the brief blog post that announced the move. Anthropic is widely expected to hold its public offering this year. The\u2026",
+        "url": "https://siliconangle.com/2026/06/01/anthropic-confidentiality-files-ipo-amid-rapid-growth/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic1.png",
+        "publishedAt": "2026-06-01T23:02:48Z",
+        "content": "Anthropic PBC today disclosed that it has confidentially filed to go public.\r\nThe company didnt share any details about its planned listing in the brief blog post that announced the move. Anthropic i\u2026 [+4295 chars]"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Terrence O\u2019Brien",
-        "title": "Apple\u2019s strategy for smart glasses is the same as smart watches",
-        "description": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world.\u2026",
-        "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-05-31T21:33:11Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not just taking on Meta, its going after Ray-Ban and Warby Parker too.\r\nIts not just taking on Meta, its going after Ray-Ban and Warby Parker too.\r\nby\r\nTerre\u2026 [+2556 chars]"
+        "author": "Ana Maria Constantin",
+        "title": "Florida becomes the first state to sue OpenAI, naming Altman personally and calling ChatGPT a defective product",
+        "description": "Florida has sued OpenAI and CEO Sam Altman in what appears to be the first lawsuit by a US state against the maker of ChatGPT. The civil complaint,\u00a0filed Monday in state court by Attorney General James Uthmeier, accuses OpenAI of violating product liability l\u2026",
+        "url": "https://thenextweb.com/news/florida-sues-openai-altman-chatgpt-safety-children/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/Sam-Altman.avif",
+        "publishedAt": "2026-06-01T17:14:23Z",
+        "content": "TL;DR\r\nFlorida has become the first US state to sue OpenAI, naming CEO Sam Altman personally and treating ChatGPT as a defective product under product liability law. The lawsuit cites the FSU mass sh\u2026 [+5923 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Paresh Dave",
+        "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+        "description": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX\u2019s splashy IPO announcement.",
+        "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+        "urlToImage": "https://media.wired.com/photos/6a1db04538f4e0fcb2641f17/191:100/w_1280,c_limit/Anthropic-Goes-Public-Business-2274306161.jpg",
+        "publishedAt": "2026-06-01T17:17:58Z",
+        "content": "Anthropic submitted confidential paperwork for an initial public offering on Monday, the first step in what could be a blockbuster debut for the $965 billion company. The filing with US regulators is\u2026 [+3608 chars]"
     },
     {
         "source": {
@@ -174,12 +421,38 @@
             "name": "The Next Web"
         },
         "author": "Alina Maria Stan",
-        "title": "China just told its tech giants to stop fighting on price and start investing in AI",
-        "description": "A top-level Communist Party publication has signaled a shift in how Beijing intends to govern its largest internet platforms. A draft commentary set to appear in the Qiushi journal on Monday says the focus will be on balancing support for growth with enhanced\u2026",
-        "url": "https://thenextweb.com/news/china-platform-regulation-ai-investment-qiushi-signal/",
-        "urlToImage": "https://media.thenextweb.com/2026/05/china-platform-regulation-ai-investment-qiushi-signal.avif",
-        "publishedAt": "2026-05-31T16:49:15Z",
-        "content": "TL;DR\r\nA top Communist Party journal told Chinas platforms to stop price wars and invest in AI. The signal suggests regulatory stabilisation after years of crackdowns.\r\nA top-level Communist Party pu\u2026 [+3578 chars]"
+        "title": "AI is crushing startup valuations for companies that raised before ChatGPT existed",
+        "description": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT launched in November 2022 are watching their worth collapse. \u2026",
+        "url": "https://thenextweb.com/news/ai-startup-valuations-pre-chatgpt-fallen-unicorns/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/ai-startup-valuations-pre-chatgpt-fallen-unicorns.avif",
+        "publishedAt": "2026-06-01T14:10:10Z",
+        "content": "TL;DR\r\nMore than 220 former unicorns have lost their billion-dollar valuations as the AI boom redirects venture capital toward a handful of companies. PitchBook data shows startups that last raised i\u2026 [+5084 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Cristian Dina",
+        "title": "Microsoft heads into Build with AI everywhere and a paying-customer problem",
+        "description": "The company\u2019s developer conference opens in San Francisco with another round of AI tooling expected, against the awkward backdrop of how few people pay for Copilot. Microsoft opened its annual Build developer conference in San Francisco on Tuesday, with Satya\u2026",
+        "url": "https://thenextweb.com/news/microsoft-build-2026-ai-tools-copilot/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/microsoft-threatens-security-researcher-nightmare-eclipse.avif",
+        "publishedAt": "2026-06-02T10:55:17Z",
+        "content": "The companys developer conference opens in San Francisco with another round of AI tooling expected, against the awkward backdrop of how few people pay for Copilot.\r\nMicrosoft opened its annual Build \u2026 [+2855 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Australia\u2019s biggest bank says corporate AI is racking up bigger bills and producing \u2018work slop\u2019",
+        "description": "CBA chief executive Matt Comyn used the phrase \u2018work slop\u2019 to describe the low-quality AI output now flowing through corporate workflows, as token-billed AI costs scale with task complexity. Matt Comyn, chief executive of the Commonwealth Bank of Australia, u\u2026",
+        "url": "https://thenextweb.com/news/cba-comyn-work-slop-ai-token-costs/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/Commonwealth-Bank-of-Australia.avif",
+        "publishedAt": "2026-06-02T08:44:33Z",
+        "content": "CBA chief executive Matt Comyn used the phrase work slop to describe the low-quality AI output now flowing through corporate workflows, as token-billed AI costs scale with task complexity.\r\nMatt Comy\u2026 [+4150 chars]"
     },
     {
         "source": {
@@ -193,6 +466,71 @@
         "urlToImage": "https://image.theregister.com/5247306.jpg?imageId=5247306&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "publishedAt": "2026-06-01T08:30:00Z",
         "content": "OPINION AI and religion is becoming a hot topic. Pope Leo XIV just dropped a fat encyclical half as thick as a novel, saying were doing it wrong and threatening human dignity. Meanwhile, a study led \u2026 [+4294 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Darius Popa",
+        "title": "Apple is building a bill-splitting feature that photographs receipts and assigns items to friends",
+        "description": "Apple is preparing a new iPhone feature that lets users photograph a restaurant receipt, assign individual items to different people, and automatically generate payment requests through Apple Cash. The tool will calculate each person\u2019s share of the bill inclu\u2026",
+        "url": "https://thenextweb.com/news/apple-bill-splitting-receipt-photo-ios-27-fintech/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/apple-bill-splitting-receipt-photo-ios-27-fintech.avif",
+        "publishedAt": "2026-06-01T19:46:29Z",
+        "content": "TL;DR\r\nApple is preparing a bill-splitting feature for iOS 27 that photographs receipts, assigns items to individuals, and generates Apple Cash payment requests. The tool, expected to be announced at\u2026 [+4745 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Lindsay Clark",
+        "title": "US firms still dominate chip subsidies",
+        "description": "China's support is greater relative to semiconductor industry revenue",
+        "url": "https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668",
+        "urlToImage": "https://image.theregister.com/1673877.jpg?imageId=1673877&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-01T16:21:06Z",
+        "content": "A report from the Organization for Economic Co-operation and Development (OECD) has found that semiconductor firms based in the United States received more government support than those based in any \u2026 [+3051 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Russell Brandom",
+        "title": "ZeroDrift raises $10 million to protect AI models from themselves | TechCrunch",
+        "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+        "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
+        "publishedAt": "2026-06-02T12:34:04Z",
+        "content": "As enterprises troubleshoot their AI systems, governance has emerged as a key challenge. Some are taking a dual approach: One model to handle incoming queries, while a second model keeps the first on\u2026 [+2149 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Kirsten Korosec",
+        "title": "Anthropic files to go public | TechCrunch",
+        "description": "The company said Monday it has filed confidentially for an IPO.",
+        "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+        "publishedAt": "2026-06-01T16:36:55Z",
+        "content": "Anthropic, the AI lab behind Claude, has filed confidentially for an initial public offering, the company said in a blog post Monday.\r\nThe company, which is valued at close to $1 trillion, submitted \u2026 [+2073 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Tim Anderson",
+        "title": "Agentic AI arrives for Delphi and C++ Builder",
+        "description": "Kai is an extension for RAD Studio (Delphi and C++ Builder) that integrates with external AI providers",
+        "url": "https://www.theregister.com/devops/2026/06/01/agentic-ai-arrives-for-delphi-and-c-builder/5249638",
+        "urlToImage": "https://image.theregister.com/5249692.jpg?imageId=5249692&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-01T15:45:00Z",
+        "content": "Embarcadero has released Kai, an agentic AI assistant for RAD Studio, an IDE (integrated development environment) for Delphi and C++ Builder.\r\nKai is offered as an extension, which means that by defa\u2026 [+5127 chars]"
     },
     {
         "source": {

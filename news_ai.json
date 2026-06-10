@@ -1,29 +1,107 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Mike Pearl",
-        "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-        "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-        "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-        "publishedAt": "2026-06-07T09:00:33Z",
-        "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
+        "author": "Julian Chokkattu",
+        "title": "Apple\u2019s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+        "description": "Siri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images.",
+        "url": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/",
+        "urlToImage": "https://media.wired.com/photos/6a270a0e623237895b48f975/191:100/w_1280,c_limit/apple-camera-app-gear-2233007119.jpg",
+        "publishedAt": "2026-06-08T18:40:32Z",
+        "content": "Your iPhone camera app will look a little different this fall. On Monday at its annual Worldwide Developers Conference in Cupertino, California, Apple showed off new features in its next version of i\u2026 [+2335 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "Gizmodo.com"
         },
-        "author": "Carly Page",
-        "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
-        "description": "Ofqual says smart glasses, hidden earpieces, and AI tools are creating a new generation of cheating headaches",
-        "url": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
-        "urlToImage": "https://image.theregister.com/5251523.jpg?imageId=5251523&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-07T08:30:00Z",
-        "content": "England's exams watchdog is warning that the next generation of school cheating may arrive not in a student's pocket, but perched on their face.\r\nIn a new podcast, Ofqual chief regulator Sir Ian Bauc\u2026 [+2264 chars]"
+        "author": "Ece Yildirim",
+        "title": "\u2018We Expect It to Leak, So We\u2019re Just Announcing It\u2019: OpenAI Files Confidentially for IPO",
+        "description": "The most consequential artificial intelligence IPO is on the horizon.",
+        "url": "https://gizmodo.com/we-expect-it-to-leak-so-were-just-announcing-it-openai-files-confidentially-for-ipo-2000762237",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/GettyImages-2194586743-1200x675.jpg",
+        "publishedAt": "2026-06-08T22:17:07Z",
+        "content": "OpenAI is officially going public. The AI giant announced on Monday that it filed for an IPO with the U.S. Securities and Exchange Commission.\r\n\u201cWe expect it to leak so were just announcing it,\u201d Open\u2026 [+4040 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "Microsoft\u2019s AI Chief Insists He\u2019s Not Posting Thirst Traps on Main After Messy Breakup With OpenAI",
+        "description": "Microsoft is not officially single and looking.",
+        "url": "https://gizmodo.com/microsofts-ai-chief-insists-hes-not-posting-thirst-traps-on-main-after-messy-breakup-with-openai-2000768803",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/07/GettyImages-2153471300-1200x675.jpg",
+        "publishedAt": "2026-06-08T19:25:04Z",
+        "content": "OpenAI and Microsoft looked like an artificial intelligence power couple, but the AI lab\u2019s growth started to make Microsoft feel a bit boxed in. After all, it\u2019s\u00a0actually the trillion-dollar company, \u2026 [+4197 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Gael Cooper",
+        "title": "OpenAI Confirms Confidential IPO Filing, With Big Stakes for the AI Boom",
+        "description": "OpenAI's move toward public markets raises a bigger question: Is the AI surge a lasting shift or an expensive gamble?",
+        "url": "https://www.cnet.com/tech/services-and-software/openai-confidential-ipo-filing-big-stakes-ai-boom/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/51e46813574590393f5c27e86c772debd07f1ec6/hub/2026/04/27/6dd6eea0-e131-4f17-adca-908116ca3132/gettyimages-2271060320.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-09T01:19:42Z",
+        "content": "OpenAI, perhaps the best-known company in the booming artificial intelligence market, filed confidentially on Monday for an initial public offering. Although there's no date yet for the company's pub\u2026 [+3720 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Katelyn Chedraoui",
+        "title": "Apple's Image Playground Gets 'Photorealistic' Capabilities With New AI",
+        "description": "At WWDC 2026, Apple shows off new AI image creation and editing tools.",
+        "url": "https://www.cnet.com/tech/services-and-software/apple-wwdc-2026-image-playground-ai-news/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/f6d8b1649fd36c15011f2f67e5cd31b101fe0f7c/hub/2026/06/08/6d3b4f6d-466c-458a-a473-c9a474a35875/gettyimages-2252639215.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-08T18:16:00Z",
+        "content": "Apple's creative AI hub Image Playground will be capable of creating \"photorealistic\" AI images, thanks to new AI models running behind the scenes. Apple announced the news at\u00a0WWDC 2026, the company'\u2026 [+1203 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Macy Meyer",
+        "title": "Apple's Cautious AI Strategy Could Have Been Its Smartest Move",
+        "description": "Commentary: Some say Apple is lagging behind in the AI gold rush. I think the company has positioned itself strategically.",
+        "url": "https://www.cnet.com/tech/services-and-software/apple-ai-strategy-wwdc-2026-commentary/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/f8bea8ffc919bfde6e9ed02403400d213bc3d6e4/hub/2026/05/21/71709010-65fa-4068-b989-cc155e8f1280/wwdc26-promo.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-09T09:00:44Z",
+        "content": "You've probably heard someone say something along the lines of, \"Apple is losing the AI race\" or \"Apple's AI is lagging.\" What if being behind on AI was intentional? Or maybe even a winning strategy?\u2026 [+5242 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Jon Reed",
+        "title": "Apple Debuts New AI Models Built With Gemini",
+        "description": "Apple Intelligence is getting an upgrade after the company partnered with Google.",
+        "url": "https://www.cnet.com/tech/services-and-software/apple-intelligence-models-wwdc-2026/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e37e1bf6fc10490e1d4db909ba4cc9791d426d16/hub/2026/06/08/1333c62e-ec71-4d43-8466-ca2e42aa156c/screenshot-2026-06-08-at-1-30-41pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-08T18:02:00Z",
+        "content": "Apple's AI upgrade has been rumored for a long time, but we got a look Monday at the WWDC developers conference, when the company announced new Apple Intelligence models it built in a partnership wit\u2026 [+1503 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Gael Cooper",
+        "title": "Apple Didn't Mention AI for 28 Minutes at WWDC 2026",
+        "description": "Commentary: The company stuck to using \"Apple Intelligence,\" referencing its own proprietary AI, rather than the two-letter acronym and the negative baggage it carries.",
+        "url": "https://www.cnet.com/tech/services-and-software/apple-didnt-mention-ai-28-minutes-wwdc/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/afe89a07c5680b722bdd149b3e11e3d33e500469/hub/2026/06/08/9598a8fd-112a-4862-857e-1e826efdb565/screenshot-2026-06-08-at-2-08-52pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-08T21:14:00Z",
+        "content": "Is AI a positive term in your household? A recent NBC News national survey\u00a0revealed what most of us already knew: AI is one of the least-liked things in America, with only 26% of respondents viewing \u2026 [+2575 chars]"
     },
     {
         "source": {
@@ -43,6 +121,19 @@
             "id": null,
             "name": "Gizmodo.com"
         },
+        "author": "Kyle Torpey",
+        "title": "Convicted Crypto Fraudster Sam Bankman-Fried Officially Files for Trump Pardon",
+        "description": "We would say stranger things have happened, but Trump pardoning a crypto fraudster isn't very strange in 2026.",
+        "url": "https://gizmodo.com/convicted-crypto-fraudster-sam-bankman-fried-officially-files-for-trump-pardon-2000769083",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/05/19f96ef968c606145d436b0340146c0d.jpg",
+        "publishedAt": "2026-06-08T21:00:54Z",
+        "content": "More than a year after it became evident that Sam Bankman-Fried was positioning himself for clemency, the former FTX founder and CEO has submitted a formal application for a presidential pardon. Reco\u2026 [+5554 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
         "author": "Mike Pearl",
         "title": "The Guy Who May Have Finally Fixed Siri Is Reportedly Not Getting Much Credit",
         "description": "Despite all his hard work, Mike Rockwell is reportedly not getting a moment in the spotlight.",
@@ -50,6 +141,110 @@
         "urlToImage": "https://gizmodo.com/app/uploads/2025/12/siri-1200x675.jpg",
         "publishedAt": "2026-06-08T09:00:24Z",
         "content": "As I write this, Apples 2026 Worldwide Developers Conference (WWDC) kicks off tomorrow, and rumor has it the unveiling of a feature-rich new version of Apples AI assistant, Siri, will play a major ro\u2026 [+3005 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Microsoft\u2019s AI chief says superintelligence is near, but won\u2019t take your job",
+        "description": "Today I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I\u2019m actually going to keep today\u2019s intro short \u2014 I\u2019m working from my wife\u2019s family farm this week, as you\u2019ll see in the video, but also this is a real burner of an episode. We covered every\u2026",
+        "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "publishedAt": "2026-06-08T13:17:24Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nMustafa Suleyman on automation, OpenAI, and why its dangerous to call AI alive.\r\nMustafa Suleyman on automation, OpenAI, and why its dangerous to call AI alive.\r\u2026 [+71261 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Apple debuts Siri AI as a more personal assistant built on Gemini",
+        "description": "Apple Inc. stepped onto the stage today at WWDC 2026 to put Siri back at the center of its artificial intelligence strategy by introducing Siri AI as a rebuilt version of the company\u2019s long-running digital assistant. In addition, the company also reintroduced\u2026",
+        "url": "https://siliconangle.com/2026/06/08/apple-debuts-siri-ai-personal-assistant-built-gemini/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Apple-Intelligence-hero-260608_big.jpg.large_2x.jpg",
+        "publishedAt": "2026-06-08T21:00:15Z",
+        "content": "Apple Inc. stepped onto the stage today at WWDC 2026 to put Siri back at the center of its artificial intelligence strategy by introducing Siri AI as a rebuilt version of the companys long-running di\u2026 [+5206 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Brandon Vigliarolo",
+        "title": "It's do or die for Apple AI",
+        "description": "WWDC announcements earned tempered praise from analysts, with an emphasis on the word 'if'",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/08/its-do-or-die-for-apple-ai/5252479",
+        "urlToImage": "https://image.theregister.com/256031.jpg?imageId=256031&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-08T20:32:18Z",
+        "content": "Apples revamped artificial intelligence stack and a revamped Siri were front and center at Mondays WWDC keynote, making it clear that, this time around, its do or die for Apple AI.\r\nThe keynote itsel\u2026 [+5995 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Chris Stokel-Walker",
+        "title": "Demand for data center CPUs has surged, and AI agents are responsible \u2013 why the CPU to GPU ratio is more important than ever for hyperscalers",
+        "description": "The massive AI gold rush has a new bottleneck set in its sights, CPUs. But what's driving the demand? We interview industry experts to find out.",
+        "url": "https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/LWHREwmzj7CHgRHzePgvve-2560-80.jpg",
+        "publishedAt": "2026-06-08T15:15:55Z",
+        "content": "The AI revolution that shows no signs of stopping appears at times to have echoes of the gold rush. Whisper networks spread quickly through communities about new scarce commodities, and suddenly ther\u2026 [+7530 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Pega expands AI platform with agent orchestration, development tools and new pricing model",
+        "description": "Workflow automation vendor Pegasystems Inc. today unveiled a broad set of artificial intelligence enhancements aimed at helping enterprises deploy AI agents in mission-critical business processes while maintaining governance, reliability and cost control. Ann\u2026",
+        "url": "https://siliconangle.com/2026/06/08/pega-expands-ai-platform-agent-orchestration-development-tools-new-pricing-model/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Pegaworld.jpg",
+        "publishedAt": "2026-06-08T15:30:06Z",
+        "content": "Workflow automation vendor Pegasystems Inc. today unveiled a broad set of artificial intelligence enhancements aimed at helping enterprises deploy AI agents in mission-critical business processes whi\u2026 [+6761 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Filigran launches XTM One to automate threat exposure management with AI agents",
+        "description": "French cybersecurity company Filigran SAS today launched XTM One, an artificial intelligence orchestration layer that automates continuous threat exposure management workflows across its platform. XTM One connects the company\u2019s OpenCTI extended threat intelli\u2026",
+        "url": "https://siliconangle.com/2026/06/09/filigran-launches-xtm-one-automate-threat-exposure-management-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/filigranxtmone.png",
+        "publishedAt": "2026-06-09T11:00:42Z",
+        "content": "French cybersecurity company Filigran SAS today launched XTM One, an artificial intelligence orchestration layer that automates continuous threat exposure management workflows across its platform.\r\nX\u2026 [+4402 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "ConnectWise launches AI-native platform in push toward \u2018Predictive IT\u2019",
+        "description": "Information technology management software company ConnectWise Inc. today launched the ConnectWise Platform, a new operational platform for managed service providers that the company is positioning as the centerpiece of a strategy it calls \u201cPredictive IT.\u201d Co\u2026",
+        "url": "https://siliconangle.com/2026/06/08/connectwise-launches-ai-native-platform-push-toward-predictive/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/connectwise.png",
+        "publishedAt": "2026-06-08T12:00:02Z",
+        "content": "Information technology management software company ConnectWise Inc. today launched the ConnectWise Platform, a new operational platform for managed service providers that the company is positioning a\u2026 [+3690 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Silverfort brings runtime identity controls to Microsoft Copilot Studio agents",
+        "description": "Identity security company Silverfort Inc. today launched an integration that applies its identity and access controls to artificial intelligence agents built into Microsoft Corp.\u2019s Copilot Studio, enforcing policy at the moment an agent tries to act rather th\u2026",
+        "url": "https://siliconangle.com/2026/06/08/silverfort-brings-runtime-identity-controls-microsoft-copilot-studio-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/silverfortiamagents.png",
+        "publishedAt": "2026-06-08T12:00:55Z",
+        "content": "Identity security company Silverfort Inc. today launched an integration that applies its identity and access controls to artificial intelligence agents built into Microsoft Corp.\u2019s Copilot Studio, en\u2026 [+4168 chars]"
     },
     {
         "source": {
@@ -69,13 +264,26 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: Snowflake, Cisco and the race to control the AI stack",
+        "description": "Artificial intelligence companies are competing for dominance over the emerging AI stack, and it\u2019s anyone\u2019s game. The AI market is maturing. SpaceX Corp. wants to raise $75 billion to go public, and Anthropic PBC filed for an initial public offering of stock \u2026",
+        "url": "https://siliconangle.com/2026/06/08/snowflake-ai-stack-cisco-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/John-Furrier-and-Dave-Vellante-theCUBE-Pod-130.png",
+        "publishedAt": "2026-06-08T14:59:16Z",
+        "content": "Artificial intelligence companies are competing for dominance over the emerging AI stack, and its anyones game.\r\nThe AI market is maturing. SpaceX Corp. wants to raise $75 billion to go public, and A\u2026 [+6126 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
         "author": "Mike Wheatley",
-        "title": "OpenAI\u2019s planned \u2018superapp\u2019 gets closer as one employee says \u2018chat is dead\u2019",
-        "description": "OpenAI Group PBC is still focused on its plans to transform ChatGPT into some kind of \u201csuperapp,\u201d and it will have a heavy focus on artificial intelligence agents and autonomous coding bots, according to a new report in the Financial Times this weekend. By la\u2026",
-        "url": "https://siliconangle.com/2026/06/07/openais-planned-superapp-gets-closer-one-employee-says-chat-dead/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-05-06-07-26-05.png",
-        "publishedAt": "2026-06-07T23:40:15Z",
-        "content": "OpenAI Group PBC is still focused on its plans to transform ChatGPT into some kind of superapp, and it will have a heavy focus on artificial intelligence agents and autonomous coding bots, according \u2026 [+4624 chars]"
+        "title": "AI infrastructure cost control startup PointFive gets $60M to help enterprises save",
+        "description": "FinOps startup PointFive Inc. said today it has raised $60 million from investors who are betting on its ability to help companies keep a lid on the spiralling costs of running artificial intelligence infrastructure. Accel led the round and it was joined by v\u2026",
+        "url": "https://siliconangle.com/2026/06/08/ai-infrastructure-cost-control-startup-pointfive-gets-60m-help-enterprises-save/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-09-09-32-17.png",
+        "publishedAt": "2026-06-09T02:35:21Z",
+        "content": "FinOps startup PointFive Inc. said today it has raised $60 million from investors who are betting on its ability to help companies keep a lid on the spiralling costs of running artificial intelligenc\u2026 [+6061 chars]"
     },
     {
         "source": {
@@ -95,13 +303,104 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dave Vellante and George Gilbert",
-        "title": "Snowflake, Databricks and the model makers: The battle for the agentic client and AI back end",
-        "description": "Agentic artificial intelligence is being misread as a set of separate battles \u2013 for example, Snowflake Inc. versus Databricks Inc., copilots versus agents, model makers versus application vendors. We believe the larger fight is converging around a single ques\u2026",
-        "url": "https://siliconangle.com/2026/06/07/snowflake-databricks-model-makers-battle-agentic-client-ai-back-end/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/317-_-Breaking-Analysis-_-Snowflake-Databricks-and-the-Model-Makers_-The-Battle-for-the-Agentic-Client-and-AI-Backend.jpg",
-        "publishedAt": "2026-06-07T16:39:01Z",
-        "content": "Agentic artificial intelligence is being misread as a set of separate battles for example, Snowflake Inc. versus Databricks Inc., copilots versus agents, model makers versus application vendors. We b\u2026 [+65270 chars]"
+        "author": "Mike Wheatley",
+        "title": "OpenAI confidentially files its IPO paperwork as it inches closer to stock market debut",
+        "description": "ChatGPT maker OpenAI Group PBC today filed for an initial public offering ahead of what is sure to be one of the most anticipated stock market debuts in recent history, and a huge payday for early investors. The artificial intelligence company, which is curre\u2026",
+        "url": "https://siliconangle.com/2026/06/08/openai-confidentially-files-ipo-paperwork-inches-closer-stock-market-debut/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-09-08-26-36.png",
+        "publishedAt": "2026-06-09T01:27:09Z",
+        "content": "ChatGPT maker OpenAI Group PBC today filed for an initial public offering ahead of what is sure to be one of the most anticipated stock market debuts in recent history, and a huge payday for early in\u2026 [+5571 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kelly Knight",
+        "title": "FinOps FOCUS specification becomes the common language for AI cost accountability",
+        "description": "As artificial intelligence drives a new wave of token-based spend across cloud and on-premises environments, enterprises are discovering that understanding what they actually owe \u2014 and to whom \u2014 is harder than ever. The FinOps FOCUS specification is emerging \u2026",
+        "url": "https://siliconangle.com/2026/06/08/focus-specification-ai-cost-accountability-finopsx/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_0474.jpg",
+        "publishedAt": "2026-06-09T02:07:12Z",
+        "content": "As artificial intelligence drives a new wave of token-based spend across cloud and on-premises environments, enterprises are discovering that understanding what they actually owe and to whom is harde\u2026 [+5010 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "PhysicsX reels in $300M to speed up hardware design with AI",
+        "description": "PhysicsX Ltd, a startup using artificial intelligence to speed up hardware design projects, today announced that it has raised $300 million in funding. Returning investor Temasek led the Series C round. It was joined by Nvidia Corp., chipmaking equipment supp\u2026",
+        "url": "https://siliconangle.com/2026/06/08/physicsx-reels-300m-speed-hardware-design-ai/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/unsplash-1.png",
+        "publishedAt": "2026-06-08T20:50:57Z",
+        "content": "PhysicsX Ltd, a startup using artificial intelligence to speed up hardware design projects, today announced that it has raised $300 million in funding.\r\nReturning investor Temasek led the Series C ro\u2026 [+4511 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Google upgrades NotebookLM to Gemini 3.5, adds more coding features",
+        "description": "Google LLC today updated its NotebookLM service with a set of online research and coding features designed to save time for users. NotebookLM is part note-taking app, part data analysis tool. Workers can upload a collection of business documents and have the \u2026",
+        "url": "https://siliconangle.com/2026/06/08/google-upgrades-notebooklm-gemini-3-5-adds-coding-features/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/NotebookLM.png",
+        "publishedAt": "2026-06-09T00:49:22Z",
+        "content": "Google LLC today updated its NotebookLM service with a set of online research and coding features designed to save time for users.\r\nNotebookLM is part note-taking app, part data analysis tool. Worker\u2026 [+3813 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Jeff Carlson",
+        "title": "Apple's Spatial Reframing Is Generative AI I Can Get Behind as a Photographer",
+        "description": "Commentary: Apple's new feature for adjusting the composition of a photo could be genuinely useful.",
+        "url": "https://www.cnet.com/tech/services-and-software/apple-spatial-reframing-generative-ai-as-a-photographer/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/39c094c2f3b596b4e65333b0cc7fb38f820c1f48/hub/2026/06/08/fd4faa5b-eedc-4b0e-ad15-69023168e49a/screenshot-2026-06-08-at-2-06-42pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-08T22:15:03Z",
+        "content": "We knew Apple's Worldwide Developers Conference would be full of AI, but I didn't expect to see a photo feature that would make me think: \"This is wild.\"\r\nDuring the WWDC keynote on Monday, Apple sho\u2026 [+3754 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Apple refines Liquid Glass design and expands child safety tools at WWDC",
+        "description": "Apple Inc.\u2019s WWDC 2026 keynote focused on making its software platform feel more polished, more responsive and more tightly managed across the company\u2019s device ecosystem with refinements to the user interface and operating system. At the forefront, the most v\u2026",
+        "url": "https://siliconangle.com/2026/06/08/apple-refines-liquid-glass-design-expands-child-safety-tools-wwdc/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/06/Apple-WWDC25-iOS-26-Home-Screen-customization-250609_big.jpg.large_2x.jpg",
+        "publishedAt": "2026-06-08T22:20:36Z",
+        "content": "Apple Inc.s WWDC 2026 keynote focused on making its software platform feel more polished, more responsive and more tightly managed across the companys device ecosystem with refinements to the user in\u2026 [+5124 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Liam Proven",
+        "title": "Canonical sends Ubuntu into the AI agent era",
+        "description": "Sandboxed LLM dev environments lead the show, but accessibility may be the real prize",
+        "url": "https://www.theregister.com/software/2026/06/08/canonical-sends-ubuntu-into-the-ai-agent-era/5252373",
+        "urlToImage": "https://image.theregister.com/5252431.jpg?imageId=5252431&x=0&y=4.72&cropw=100&croph=71.67&panox=0&panoy=4.72&panow=100&panoh=71.67&width=1200&height=683",
+        "publishedAt": "2026-06-08T16:34:02Z",
+        "content": "UBUNTU SUMMIT Canonical is still experimenting with the format of the Ubuntu Summit series of free conferences, and its most recent instance, the\u00a026.04\u00a0edition, was a primarily online event. There wa\u2026 [+5666 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Andrew E. Freedman",
+        "title": "Apple demonstrates cross-platform Siri upgrades in macOS 27 Golden Gate at WWDC \u2014 update brings Liquid Glass improvements and unifies AI strategy",
+        "description": "At WWDC, Apple revealed its upcoming macOS update, macOS 27 Golden Gate, with a more refined Liquid Glass design and cross-platform Siri and Apple Intelligence features.",
+        "url": "https://www.tomshardware.com/software/macos/apple-demonstrates-cross-platform-siri-upgrades-in-macos-27-golden-gate-at-wwdc-update-brings-liquid-glass-improvements-and-unifies-ai-strategy",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/xNdgYcEkuxfpE9e4wFSDDb-1351-80.jpg",
+        "publishedAt": "2026-06-08T18:40:17Z",
+        "content": "Apple introduced its next major macOS release, macOS 27 Golden Gate, at its WWDC developers conference. The new operating system update, coming this fall, includes a series of new artificial intellig\u2026 [+11194 chars]"
     },
     {
         "source": {
@@ -115,6 +414,84 @@
         "urlToImage": "https://www.cnet.com/a/img/resize/5257465e63ae4c93a7a653f818d58702dbe8b4ca/hub/2026/06/04/03fcbaf2-1b7e-4739-a62e-43ce81163909/tim-cook-wwdc-2026.png?auto=webp&fit=crop&height=675&width=1200",
         "publishedAt": "2026-06-08T08:00:46Z",
         "content": "Apple's Worldwide Developers Conference\u00a0kicks off today at Apple Park in Cupertino, California. The annual software event, geared toward developers, is also a preview of software (and sometimes hardw\u2026 [+6476 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Aisha Malik",
+        "title": "Apple\u2019s Photos app is getting new AI editing features",
+        "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+        "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?resize=1200,675",
+        "publishedAt": "2026-06-08T18:36:04Z",
+        "content": "Apple announced at WWDC 2026 on Monday that its Photos app is getting a few new AI features that leverage Apple Intelligence. \r\nA new spatial \u201cReframe\u201d feature will let users use AI to reframe images\u2026 [+1393 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Snowflake and 1Password tackle the growing challenge of securing AI agents at scale",
+        "description": "As AI agents gain access to sensitive enterprise data, AI agent security is becoming a top priority for organizations. The challenge is no longer just protecting systems, but ensuring autonomous agents can be trusted, governed and controlled at scale. For the\u2026",
+        "url": "https://siliconangle.com/2026/06/08/ai-agent-security-snowflakesummit/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Nancy-Wang-chief-technology-officer-at-AgileBits-Inc.-doing-business-as-1Password-and-Artin-Avanes-senior-director-of-product-management-at-Snowflake-Inc-Snowflake-Summit-2026.jpg",
+        "publishedAt": "2026-06-08T15:24:54Z",
+        "content": "As AI agents gain access to sensitive enterprise data, AI agent security is becoming a top priority for organizations. The challenge is no longer just protecting systems, but ensuring autonomous agen\u2026 [+3678 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Amazon inks multibillion-dollar optical manufacturing deal with Corning",
+        "description": "Amazon.com Inc. is partnering with glass manufacturer Corning Inc. to make optical network components for its data centers. The cloud and retail giant stated today that the deal is worth several billion dollars. Corning will use some of the funds to expand it\u2026",
+        "url": "https://siliconangle.com/2026/06/08/amazon-inks-multibillion-dollar-optical-manufacturing-deal-corning/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Corning.png",
+        "publishedAt": "2026-06-08T23:14:17Z",
+        "content": "Amazon.com Inc. is partnering with glass manufacturer Corning Inc. to make optical network components for its data centers.\r\nThe cloud and retail giant stated today that the deal is worth several bil\u2026 [+4072 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Jonathan Anthony",
+        "title": "FOCUS specification eyes AI token economics as AI billing complexity hits a new frontier",
+        "description": "AI token economics is creating a data normalization crisis across the technology stack as enterprises scramble to apply consistent financial controls to GPU clusters, AI factories and token-based consumption that existing cloud billing frameworks were never d\u2026",
+        "url": "https://siliconangle.com/2026/06/08/ai-token-economics-focus-specification-updates-finopsx/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_0446.jpg",
+        "publishedAt": "2026-06-09T01:30:24Z",
+        "content": "AI token economics is creating a data normalization crisis across the technology stack as enterprises scramble to apply consistent financial controls to GPU clusters, AI factories and token-based con\u2026 [+4981 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Sports organizations turn to AI to deliver more personalized fan experiences",
+        "description": "As AI capabilities mature, sports organizations are using AI-powered fan personalization to move beyond broad audience targeting and deliver experiences shaped by real-time data and deeper audience understanding. At the same time, the industry is grappling wi\u2026",
+        "url": "https://siliconangle.com/2026/06/08/ai-powered-fan-personalization-snowflakesummit/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Kevin-Longo-vice-president-of-commercial-at-Fanatics-Inc-and-Denise-Persson-chief-marketing-officer-of-Snowflake-Inc-Snowflake-Summit-2026.jpg",
+        "publishedAt": "2026-06-08T15:12:56Z",
+        "content": "As AI capabilities mature, sports organizations are using AI-powered fan personalization to move beyond broad audience targeting and deliver experiences shaped by real-time data and deeper audience u\u2026 [+5109 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Katelyn Chedraoui",
+        "title": "Apple AI Just Got a Huge Overhaul at WWDC 2026. Here's the Lowdown",
+        "description": "Apple is ready to fulfill many of its years-long promises for AI. This is everything you need to know about the new and hopefully improved Apple Intelligence.",
+        "url": "https://www.cnet.com/tech/services-and-software/every-apple-intelligence-reveal-apple-wwdc-2026-news/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d8119e51afed11f8e0526e342157a3e2314ad80d/hub/2026/06/08/0cf280fd-0064-4b2e-9268-0c4ad048405c/apple-wwdc-2026-apple-intelligence-endcard-01.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-08T21:53:26Z",
+        "content": "Apple's WWDC 2026 had its biggest moment yet for artificial intelligence. And that includes the software conference two years ago when the company first dropped its AI, named Apple Intelligence.\u00a0\r\nTh\u2026 [+5871 chars]"
     },
     {
         "source": {
@@ -132,28 +509,28 @@
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Jada Jones",
-        "title": "The feature Apple needs to make HomePod stand out isn't audio-related",
-        "description": "Few smart speakers have assistants with as much potential as Siri. A meaningful upgrade would make the HomePod my first choice.",
-        "url": "https://www.zdnet.com/home-and-office/home-entertainment/the-feature-apple-needs-to-make-homepod-stand-out-isnt-audio-related/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/9398933a65a38733eaac52608f6dec4509f6d413/2023/06/21/fa075827-0c25-4631-93eb-dc858c021089/homepod.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-07T11:35:41Z",
-        "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Gen AI Siri upgrades are expected at WWDC. </li><li> A smarter Siri could make HomePod more us\u2026 [+4472 chars]"
+        "author": "Etiido Uko",
+        "title": "Executives are cutting jobs for an AI future that hasn't fully arrived yet, even as productivity gains remain difficult to prove \u2014 data neither confirms nor refutes an AI unemployment apocalypse",
+        "description": "A growing number of CEOs expect AI-driven layoffs, but economic data paints a more complex picture as companies cut junior roles before proving AI delivers meaningful productivity gains.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/executives-are-cutting-jobs-for-an-ai-future-that-hasnt-fully-arrived-yet-even-as-productivity-gains-remain-difficult-to-prove-data-neither-confirms-nor-refutes-an-ai-unemployment-apocalypse",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/RuKxLbmpevQWEgBjvLLEzM-1920-80.jpg",
+        "publishedAt": "2026-06-08T11:20:00Z",
+        "content": "A recent Mercer survey of nearly 12,000 C-suite executives, HR leaders, investors, and employees found that 99% of CEOs expect AI and automation to drive at least some headcount reduction in the next\u2026 [+7925 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Theregister.com"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Carly Page",
-        "title": "England's exam watchdog frets over smart specs turning GCSEs into Google searches",
-        "description": "Ofqual says smart glasses, hidden earpieces, and AI tools are creating a new generation of cheating headaches",
-        "url": "https://www.theregister.com/personal-tech/2026/06/07/englands-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
-        "urlToImage": "https://image.theregister.com/5251523.jpg?imageId=5251523&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-07T08:30:00Z",
-        "content": "England's exams watchdog is warning that the next generation of school cheating may arrive not in a student's pocket, but perched on their face.\r\nIn a new podcast, Ofqual chief regulator Sir Ian Bauc\u2026 [+2264 chars]"
+        "author": "Reece Rogers",
+        "title": "Apple\u2019s New Siri AI Is Ready to Get Personal",
+        "description": "From a standalone app to a Google Gemini partnership, here\u2019s everything you need to know from WWDC 2026 about Apple\u2019s upcoming overhaul of Siri.",
+        "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+        "urlToImage": "https://media.wired.com/photos/6a26fcf0c80531d76bc860e2/191:100/w_1280,c_limit/Whats-New-With-Siri-Gear-2255802491.jpg",
+        "publishedAt": "2026-06-08T18:17:44Z",
+        "content": "Apples drastic overhaul of Siri, announced Monday at WWDC 2026, attempts to make the smartphone voice assistant more helpful, attuned to iPhone users personal data, and action-oriented. A major aspec\u2026 [+4004 chars]"
     },
     {
         "source": {
@@ -170,16 +547,42 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Andrew Lanxon",
+        "title": "Apple Did What Google Couldn't: Talk to Me Like a Real Person. I'm Impressed",
+        "description": "Commentary: By simply talking to me like I'm not a baffling millionaire Apple showed it has more sense than Google.",
+        "url": "https://www.cnet.com/tech/mobile/apple-did-what-google-couldnt-talk-to-me-like-a-real-person-im-impressed/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/76868e2cc9e79e278cfae0e3de4c2a78fd87d510/hub/2026/06/08/cd485fba-2d61-42d6-8530-cf5b6710007f/screenshot-2026-06-08-at-22-32-38.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-08T21:55:45Z",
+        "content": "Apple's WWDC 2026 keynote touched on a number of things from its fresh MacOS Golden Gate to new Siri AI. Honestly, it wasn't a riot of excitement but Apple absolutely nailed one thing: it knew how to\u2026 [+5491 chars]"
+    },
+    {
+        "source": {
             "id": "wired",
             "name": "Wired"
         },
         "author": "Boone Ashworth",
-        "title": "How to Watch Apple\u2019s WWDC 2026 Keynote\u2014and What to Expect",
-        "description": "The annual developer event is where Apple announces operating system updates\u2014like iOS 27\u2014and maybe even teases future hardware. Here\u2019s how to see it all.",
-        "url": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
-        "urlToImage": "https://media.wired.com/photos/6a202a61b10c1400bea9fbfd/191:100/w_1280,c_limit/GettyImages-2218819259.jpg",
-        "publishedAt": "2026-06-07T09:30:00Z",
-        "content": "Apple CEO Tim Cooks final time hosting the companys annual Worldwide Developers Conference (WWDC) is just about here.\r\nThe outgoing Apple leader will shepherd a keynote address announcing new softwar\u2026 [+2294 chars]"
+        "title": "Everything Apple Announced at WWDC 2026",
+        "description": "Updates include a new souped-up Siri, lots of iOS enhancements, and some inkling on how an AI partnership with Google has come to power Apple\u2019s products.",
+        "url": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
+        "urlToImage": "https://media.wired.com/photos/6a2711ca623237895b48fb9d/191:100/w_1280,c_limit/Everything-Announced-WWDC-Gear-2279910888.jpg",
+        "publishedAt": "2026-06-08T20:00:10Z",
+        "content": "Apple held its annual Worldwide Developer Conference today. WWDC is the event in which the company uses its keynote address to announce lots of changes coming to its software platforms on iPhone, iPa\u2026 [+2146 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Callum Turner",
+        "title": "The growing divide between surface-level AI adoption and meaningful impact across safety-critical industries",
+        "description": "Artificial intelligence has rapidly moved from experimentation to mainstream business adoption. Around\u00a078% of organizations reported using AI in 2025, reflecting\u00a0how quickly the technology has become embedded across business operations. Yet,\u00a0only 25% of organ\u2026",
+        "url": "https://thenextweb.com/news/ai-adoption-divide-safety-critical-dan-macdonald/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/BIS-Safety-Software-CEO-Dan-MacDonald.avif",
+        "publishedAt": "2026-06-08T16:56:44Z",
+        "content": "Artificial intelligence has rapidly moved from experimentation to mainstream business adoption. Around\u00a078% of organizations reported using AI in 2025, reflecting\u00a0how quickly the technology has become\u2026 [+4670 chars]"
     },
     {
         "source": {
@@ -212,51 +615,25 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Ana Maria Constantin",
-        "title": "Trump\u2019s top AI adviser Sriram Krishnan is stepping down from the White House",
-        "description": "Sriram Krishnan, the White House\u2019s senior policy adviser on artificial intelligence, is stepping down. The former Andreessen Horowitz partner was tapped by President Donald Trump to help shape the administration\u2019s AI strategy during his second term. He will l\u2026",
-        "url": "https://thenextweb.com/news/sriram-krishnan-leaves-white-house-ai-adviser/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/sriram-krishnan-leaves-white-house-ai-adviser.avif",
-        "publishedAt": "2026-06-07T08:36:49Z",
-        "content": "TL;DR\r\nWhite House AI adviser Sriram Krishnan is leaving at the end of June. He plans to start an outside institution to continue influencing AI policy.\r\nSriram Krishnan, the White Houses senior poli\u2026 [+2223 chars]"
+        "author": "Nathan Simpson",
+        "title": "AI will make content infinite. Human taste will decide what matters.",
+        "description": "Artificial intelligence is accelerating content creation at a pace few people could have imagined even a few years ago, yet the brands that earn lasting relevance in the years ahead will not be distinguished by how much content they produce. They will be dist\u2026",
+        "url": "https://thenextweb.com/news/ai-will-make-content-infinite-human-taste-will-decide-what-matters/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/ai-content-infinite-human-taste-nathan-simpson.avif",
+        "publishedAt": "2026-06-08T18:14:02Z",
+        "content": "Artificial intelligence is accelerating content creation at a pace few people could have imagined even a few years ago, yet the brands that earn lasting relevance in the years ahead will not be disti\u2026 [+7007 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Brandon Vigliarolo",
-        "title": "Our systems editor flew all the way to Taiwan and still couldn't get away from AI",
-        "description": "Every show now is an AI show, and that included this year's Computex",
-        "url": "https://www.theregister.com/systems/2026/06/08/our-systems-editor-flew-all-the-way-to-taiwan-and-still-couldnt-get-away-from-ai/5251877",
-        "urlToImage": "https://image.theregister.com/5251903.jpg?imageId=5251903&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-07T23:00:00Z",
-        "content": "KETTLE\u00a0El Reg's\u00a0systems editor Tobias Mann\u00a0has been in Taipei for the past week getting the skinny on the hottest new chips, and what he's heard has been less about actual hardware announcements and \u2026 [+25145 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Carly Page",
-        "title": "UK gov's answer to AI job fears: An AI bot to polish your CV",
-        "description": "Whitehall's latest response to AI-driven job anxiety is, naturally, more AI",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983",
-        "urlToImage": "https://image.theregister.com/5252012.jpg?imageId=5252012&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-08T10:02:00Z",
-        "content": "The UK government is about to unleash an AI-powered CV writer on jobseekers in the hope that the technology taking jobs can also help people to find them.\r\nPrime minister Keir Starmer used London Tec\u2026 [+3212 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "WIRED",
-        "title": "Apple WWDC 2026 Live Blog: All the Updates, as They Happen",
-        "description": "Follow our WWDC 2026 live blog for all of the updates coming to iOS, macOS, watchOS, and more.",
-        "url": "https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/",
-        "urlToImage": "https://media.wired.com/photos/6a21a895f98cdf68f8042dbe/191:100/w_1280,c_limit/GettyImages-2218819408.jpg",
-        "publishedAt": "2026-06-08T10:00:00Z",
-        "content": "Apple's annual software event, the Worldwide Developer Conference, is back. The WWDC26 keynote will begin at 10 am Pacific, 1 pm Eastern, and 6 pm British Summer Time.\r\nThis is a livestreamed event, \u2026 [+1566 chars]"
+        "author": "ZTE null",
+        "title": "ZTE Demonstrates Integrated AI, Connectivity and Digital Utility Technologies at TNB Energy Transition Conference",
+        "description": "PARTNER CONTENT: Driving Grid Modernization and Energy Transition in Malaysia Through Advanced AI and Smart Infrastructure Solutions",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/08/zte-demonstrates-integrated-ai-connectivity-and-digital-utility-technologies-at-tnb-energy-transition-conference/5252434",
+        "urlToImage": "https://image.theregister.com/5252449.jpg?imageId=5252449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-08T16:25:02Z",
+        "content": "At the recent TNB Energy Transition Conference, ZTE showcased an integrated portfolio of digital utility, Artificial Intelligence (AI), and intelligent infrastructure technologies. The display highli\u2026 [+4382 chars]"
     }
 ]

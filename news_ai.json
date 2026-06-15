@@ -2,106 +2,28 @@
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Dan Robinson",
-        "title": "Amazon owns up to using 2.5bn gallons of H2O in its bit barns last year",
-        "description": "The West's biggest online shopping mall comes clean about its datacenter water usage",
-        "url": "https://www.theregister.com/on-prem/2026/06/12/amazon-owns-up-to-using-25bn-gallons-of-h2o-in-its-bit-barns-last-year/5254748",
-        "urlToImage": "https://image.theregister.com/230800.jpg?imageId=230800&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-12T13:08:59Z",
-        "content": "Amazon says its datacenters used about 2.5 billion gallons of water last year, but claims that's far less than rival hyperscalers and that it remains on track to become \"water positive\" by 2030.\r\nIn \u2026 [+2497 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Carly Page",
-        "title": "KPMG's AI report becomes an accidental demo of AI hallucinations",
-        "description": "GPTZero claims only 5 of the report's 45 citations matched their sources, raising questions about how the Big Four's AI study was assembled",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
-        "urlToImage": "https://image.theregister.com/5255040.jpg?imageId=5255040&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-12T15:38:53Z",
-        "content": "KPMG's October 2025 report on the wonders of agentic AI has been accused of demonstrating one of the tech's less desirable talents: making things up.\r\nResearch outfit GPTZero claims a forensic review\u2026 [+2713 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Corinne Reichert",
-        "title": "Mozilla's CEO Knows You Might Not Want AI in Firefox",
-        "description": "We talked to the browser maker's new boss about privacy, choice and his vision for the internet's future.",
-        "url": "https://www.cnet.com/tech/services-and-software/mozillas-ceo-knows-you-might-not-want-ai-in-firefox/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/0e7914294a79d8174f57d17860fcd87108ac5206/hub/2026/06/11/08f9035f-148b-47a8-84f8-c05a2f1a376f/firefox-smartwindow-02.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-12T17:05:09Z",
-        "content": "When Mozilla announced that its Firefox browser would have a built-in artificial intelligence kill switch, it separated itself from the crowd of tech giants eagerly adding an onslaught of AI features\u2026 [+6586 chars]"
+        "author": "Etiido Uko",
+        "title": "AI cryptomining network's 320,000 RTX 3090-class GPUs allegedly burn 112 megawatts of power on \u2018zero useful AI computation\u2019 \u2014 GPU rental costs jump 38%, but Pearl\u2019s cards are doing random matrix math, study claims",
+        "description": "A preprint claims Pearl\u2019s AI mining network consumes 320,000 GPU-equivalents and 112 MW while producing no verified useful AI computation.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cryptomining-networks-320-000-rtx-3090-class-gpus-allegedly-burn-112-megawatts-of-power-on-zero-useful-ai-computation-pearls-gpus-are-doing-random-matrix-math-study-claims",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/YjX8TJVFkFDKzjssdLLNod-1920-80.png",
+        "publishedAt": "2026-06-14T11:30:00Z",
+        "content": "A new research preprint claims that Pearl, a Layer-1 blockchain marketed as turning cryptocurrency mining into useful artificial intelligence (AI) computation, is doing nothing of the sort, despite h\u2026 [+5641 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "OpenAI acquires AI agent orchestration startup Ona",
-        "description": "OpenAI Group PBC today announced plans to acquire Ona, a startup with a platform for managing long-running artificial intelligence agents. The terms of the deal were not disclosed. Developers often run the AI agents they use to write code on their local machi\u2026",
-        "url": "https://siliconangle.com/2026/06/11/openai-acquires-ai-agent-orchestration-startup-ona/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/OpenAI-1.png",
-        "publishedAt": "2026-06-12T00:41:43Z",
-        "content": "OpenAI Group PBC today announced plans to acquire Ona, a startup with a platform for managing long-running artificial intelligence agents.\r\nThe terms of the deal were not disclosed.\r\nDevelopers often\u2026 [+3994 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "ChatSee raises $6.5M to build \u2018failure memory\u2019 for enterprise AI agents",
-        "description": "ChatSee.AI Inc., a company that provides a failure intelligence layer for autonomous artificial intelligence systems, today announced it raised $6.5 million in seed funding. True Ventures led the round, with participation from First Rays Venture Partners, Sev\u2026",
-        "url": "https://siliconangle.com/2026/06/12/chatsee-raises-6-5m-build-failure-memory-enterprise-ai-agents/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/A-digital-AI-agent-depicted-as-a-guiding-presence-in-a-software-project-environment-connecting-line.jpeg",
-        "publishedAt": "2026-06-12T15:30:12Z",
-        "content": "ChatSee.AI Inc., a company that provides a failure intelligence layer for autonomous artificial intelligence systems, today announced it raised $6.5 million in seed funding.\r\nTrue Ventures led the ro\u2026 [+6270 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Aaron Pruner",
-        "title": "Debating the Future of Filmmaking: Can AI Break (or Truly Remake) Hollywood?",
-        "description": "Commentary: I went to the world's biggest AI and media conference to find out whether the technology can save the entertainment industry. The answer is complicated.",
-        "url": "https://www.cnet.com/tech/can-ai-tech-break-remake-hollywood/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/fba8b0148808fd58b888d43fa179f06a70a9b6bf/hub/2025/05/29/ba58492d-abe0-4230-b813-e9c8b2cffe63/ai-in-hollywood-cnet-ck-3-1.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-12T10:01:00Z",
-        "content": "Everyone is talking about AI, whether they want to or not. Every day, it feels like there's a news story about how the tech is improving/ruining our lives, and many conversations about artificial int\u2026 [+9553 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Omar Gallaga",
-        "title": "On SpaceX IPO Eve, Protesters Roast Grok With Giant Elon Musk Inflatable",
-        "description": "Activists say the high-profile IPO shifts attention and responsibility away from sexualized images of children that Grok generated, which spread on social media.",
-        "url": "https://www.cnet.com/tech/services-and-software/grok-protest-giant-elon-musk-inflatable-spacex-ipo/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/d37fa843d8f69b75870e75b5289875b42dc502c8/hub/2026/06/12/f260f2f0-55a9-4ebd-9ccc-6e6b49c65bd9/gettyimages-2280474025.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-12T17:55:00Z",
-        "content": "A day before\u00a0SpaceX's initial public offering, which set stock market records, a giant inflatable figure of the company's CEO, Elon Musk, appeared in Times Square.\r\nAn unflattering caricature of a ba\u2026 [+2512 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Adobe beats expectations but another top executive leaves, putting pressure on its stock",
-        "description": "A bad day for the creative software company Adobe Inc. was made even worse after it revealed another top executive is departing. The news overshadowed a solid earnings and revenue beat. The company said today that its Chief Financial Officer Dan Durn is going\u2026",
-        "url": "https://siliconangle.com/2026/06/11/adobe-beats-expectations-another-top-executive-leaves-putting-pressure-stock/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Shantanu-Narayen-CEO-Adobe.jpg",
-        "publishedAt": "2026-06-12T01:25:53Z",
-        "content": "A bad day for the creative software company Adobe Inc. was made even worse after it revealed another top executive is departing. The news overshadowed a solid earnings and revenue beat.\r\nThe company \u2026 [+5363 chars]"
+        "author": "Paul Gillin",
+        "title": "Mozilla Data Collective seeks to build AI\u2019s data economy around trust",
+        "description": "Generative artificial intelligence has a data problem. For years, the typical approach to building gen AI models has been to gather as much data as possible by scraping vast swaths of the internet, training at an enormous scale and dealing with the consequenc\u2026",
+        "url": "https://siliconangle.com/2026/06/13/mozilla-data-collective-seeks-build-ais-data-economy-around-trust/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Mozilla-Data-Collective-logo.png",
+        "publishedAt": "2026-06-13T19:23:15Z",
+        "content": "Generative artificial intelligence has a data problem.\r\nFor years, the typical approach to building gen AI models has been to gather as much data as possible by scraping vast swaths of the internet, \u2026 [+8149 chars]"
     },
     {
         "source": {
@@ -115,71 +37,6 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Mistral1.png",
         "publishedAt": "2026-06-13T00:03:27Z",
         "content": "French foundation model developer Mistral AI SAS is reportedly in talks to raise 3 billion, or about $3.5 billion, from investors.\r\nBloomberg today cited sources as saying that the round could value \u2026 [+4304 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "Connecting the front line: How 8\u00d78 Pulse and Resolve fix corporate blind spots",
-        "description": "Enterprise software architecture has long suffered from what can be called an \u201cintegration tax.\u201d When an organization deploys a communications platform, it rarely stops at the basic functions, such as calling and messaging. To extract operational value, it mu\u2026",
-        "url": "https://siliconangle.com/2026/06/12/connecting-front-line-8x8-pulse-resolve-fix-corporate-blind-spots/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-2026-06-12-at-3.58.20\u202fPM.png",
-        "publishedAt": "2026-06-12T23:00:41Z",
-        "content": "Enterprise software architecture has long suffered from what can be called an \u201cintegration tax.\u201d\r\nWhen an organization deploys a communications platform, it rarely stops at the basic functions, such \u2026 [+8960 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Charles Pulliam-Moore",
-        "title": "The future of Hollywood isn\u2019t feeding prompts into vanilla gen AI models",
-        "description": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' \u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "publishedAt": "2026-06-12T20:43:35Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nAI wasnt just slop at this years Tribeca Film Festival.\r\nby\r\nCharles Pulliam-MooreClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+8775 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Alina Maria Stan",
-        "title": "Google sues suspected Chinese cybercrime ring that used Gemini to build scam websites",
-        "description": "Google has filed a lawsuit against a suspected Chinese cybercrime operation it calls the Outsider Enterprise, alleging the group sent more than 2.5 million fraudulent text messages to Android users over a two-week period in May. The messages contained links t\u2026",
-        "url": "https://thenextweb.com/news/google-gemini-outsider-enterprise-scam-lawsuit/",
-        "urlToImage": "https://media.thenextweb.com/2026/05/google-io-2026-gemini-intelligence-android-xr-glasses.avif",
-        "publishedAt": "2026-06-12T10:38:43Z",
-        "content": "TL;DR\r\nGoogle has sued a suspected Chinese cybercrime group called the Outsider Enterprise for sending 2.5 million fraudulent text messages to Android users. The scammers allegedly used Googles Gemin\u2026 [+4870 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Julian Chokkattu",
-        "title": "Apple\u2019s Camera Chief Thinks AI Can Give You Superpowers",
-        "description": "The generative features in iOS 27\u2019s new Photos app will add fake pixels to some of your shots, but Apple\u2019s Jon McCormack says the company isn\u2019t using AI \u201cfor the sake of AI.\u201d",
-        "url": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
-        "urlToImage": "https://media.wired.com/photos/6a2991038b88eda4e0bec24e/191:100/w_1280,c_limit/Siri%20AI%20in%20Camera%20SOURCE%20Julian%20Chokkattu%20(1).jpg",
-        "publishedAt": "2026-06-12T01:00:00Z",
-        "content": "What even is a photograph these days?\r\nAs tech giants pack generative AI capabilities into our phones and their camera software, the line between what is a real image and what isn't continues to blur\u2026 [+2875 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana Maria Constantin",
-        "title": "Altman, Amodei, and Hassabis are heading to the G7. The rivals have a lot to discuss.",
-        "description": "The chief executives of the three most powerful artificial intelligence companies on Earth are about to sit in the same room as the leaders of the world\u2019s seven largest advanced economies. OpenAI\u2019s Sam Altman, Anthropic\u2019s Dario Amodei, and Google DeepMind\u2019s D\u2026",
-        "url": "https://thenextweb.com/news/g7-ai-summit-altman-amodei-hassabis/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/g7-ai-summit-altman-amodei-hassabis.avif",
-        "publishedAt": "2026-06-12T10:16:39Z",
-        "content": "The chief executives of the three most powerful artificial intelligence companies on Earth are about to sit in the same room as the leaders of the worlds seven largest advanced economies. OpenAIs Sam\u2026 [+3873 chars]"
     },
     {
         "source": {
@@ -197,170 +54,27 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "AI economics reshape FinOps as enterprises seek greater visibility and control",
-        "description": "As AI spending accelerates across the enterprise, organizations are grappling with a new generation of cost and optimization challenges while seeking greater AI spend visibility. The next phase of FinOps is increasingly focused on improving visibility and emb\u2026",
-        "url": "https://siliconangle.com/2026/06/12/ai-spend-visibility-finopsx/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_1109-2.jpg",
-        "publishedAt": "2026-06-12T13:22:06Z",
-        "content": "As AI spending accelerates across the enterprise, organizations are grappling with a new generation of cost and optimization challenges while seeking greater AI spend visibility. The next phase of Fi\u2026 [+4315 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Aaron Pruner",
-        "title": "Debating the Future of Filmmaking: Can AI Break (or Truly Remake) Hollywood?",
-        "description": "Commentary: I went to the world's biggest AI and media conference to find out whether the technology can save the entertainment industry. The answer is complicated.",
-        "url": "https://www.cnet.com/culture/entertainment/can-ai-tech-break-remake-hollywood/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/fba8b0148808fd58b888d43fa179f06a70a9b6bf/hub/2025/05/29/ba58492d-abe0-4230-b813-e9c8b2cffe63/ai-in-hollywood-cnet-ck-3-1.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-12T10:01:00Z",
-        "content": "Everyone is talking about AI, whether they want to or not. Every day, it feels like there's a news story about how the tech is improving/ruining our lives, and many conversations about artificial int\u2026 [+9576 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Mark Samuels",
-        "title": "40% of enterprises will scrap AI agents - 3 ways to ensure yours don't fail",
-        "description": "How do you create real ROI from autonomous AI? Three digital leaders share lessons they've learned in the field.",
-        "url": "https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/a3758cd6ce6eedf92ffe62a5737f36ce87c6c9a9/2026/06/12/bcbc932b-3ee5-41d0-b202-82bbc5146be8/scrapheapgettyimages-1486439320.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-12T16:14:33Z",
-        "content": "Visoot Uthairam/Moment via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Moving AI agents into production can be a tough ask.</li><li>Smart profe\u2026 [+8005 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Darius Popa",
-        "title": "Starlink is SpaceX\u2019s cash machine, but the maths is getting harder",
-        "description": "SpaceX\u2019s satellite internet service had 10.3 million subscribers at the end of the first quarter of 2026, more than double the 4.4 million it reported a year earlier. That growth rate is extraordinary by any standard in telecommunications, let alone for a bus\u2026",
-        "url": "https://thenextweb.com/news/starlink-is-spacexs-cash-machine-but-the-maths-is-getting-harder/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/spacex-starlink-growth-challenges-ipo.avif",
-        "publishedAt": "2026-06-12T10:46:35Z",
-        "content": "SpaceXs satellite internet service had 10.3 million subscribers at the end of the first quarter of 2026, more than double the 4.4 million it reported a year earlier. That growth rate is extraordinary\u2026 [+6085 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "SpaceX\u2019s record IPO, Bezos\u2019 Prometheus rising and Anthropic\u2019s controversial call for AI limits",
-        "description": "Blastoff! Elon Musk\u2019s SpaceX went public Thursday evening and raised a stunning $75 billion, easily an all-time record. The IPO is just the first of the triumvirate of AI leaders \u2014 yes, SpaceX owns xAI, surely a large part of SpaceX\u2019s valuation. OpenAI filed \u2026",
-        "url": "https://siliconangle.com/2026/06/12/spacexs-record-ipo-bezos-prometheus-rising-anthropics-controversial-call-ai-limits/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Elon-rides-the-rocket-1.png",
-        "publishedAt": "2026-06-12T14:00:02Z",
-        "content": "Blastoff! Elon Musk\u2019s SpaceX went public Thursday evening and raised a stunning $75 billion, easily an all-time record.\r\nThe IPO is just the first of the triumvirate of AI leaders \u2014 yes, SpaceX owns \u2026 [+10997 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Paresh Dave",
-        "title": "Elon Musk Is the World's First Trillionaire",
-        "description": "SpaceX\u2019s stock market debut has thrust the richest man in the universe into an unexplored frontier of wealth.",
-        "url": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/",
-        "urlToImage": "https://media.wired.com/photos/6a2c365a14f8a13c2f9c4aa1/191:100/w_1280,c_limit/Elon-First-Trillionaire-Business-2280565336.jpg",
-        "publishedAt": "2026-06-12T17:54:45Z",
-        "content": "There are thousands of billionaires across the world. But there is only one trillionaire.\r\nElon Musk became the first person to amass a personal fortune of over $1,000,000,000,000thats 12 zerosafter \u2026 [+2214 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Theregister.com"
         },
         "author": "Liam Proven",
-        "title": "MX Linux 25.2 provides possible refuge from AI as well as systemd",
-        "description": "Plus, Raspberry Pi edition finally catches up",
-        "url": "https://www.theregister.com/software/2026/06/12/mx-linux-252-arrives-with-switchable-init-and-pi-refresh/5255017",
-        "urlToImage": "https://image.theregister.com/5255113.jpg?imageId=5255113&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-12T19:10:33Z",
-        "content": "MX Linux 25.2 is here, now with kernel 7.0 if you choose although the Raspberry Pi edition still needs some work.\r\nMX Linux has been quietly turning into one of the Reg FOSS desks favorite distros fo\u2026 [+5014 chars]"
+        "title": "AI is code \u2013 and can't be prompted into being smarter",
+        "description": "From Java tests to Shai-Hulud, bots keep proving they'll swallow anything you feed them",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+        "urlToImage": "https://image.theregister.com/227602.jpg?imageId=227602&x=0&y=11.03&cropw=100&croph=88.97&panox=0&panoy=11.03&panow=100&panoh=88.97&width=1200&height=683",
+        "publishedAt": "2026-06-14T12:30:00Z",
+        "content": "The author of Java property-testing tool jqwik did not want AI coding agents using his project. So he told them not to.\r\nThen he went one step further: he added a message to the tool's output telling\u2026 [+8481 chars]"
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Alina Maria Stan",
-        "title": "From AI deals to streaming fraud, the music industry is wrestling with four existential battles at once",
-        "description": "The music industry descended on New York this week for Indie Week and a flurry of parallel gatherings. The conversations kept circling back to the same handful of anxieties: generative AI, streaming fraud, underpaid songwriters, and the organisations meant to\u2026",
-        "url": "https://thenextweb.com/news/music-industry-ai-deals-streaming-fraud-royalties-pro-crackdown/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/AI-music-licensing.avif",
-        "publishedAt": "2026-06-12T17:22:23Z",
-        "content": "TL;DR\r\nThe music industry faces four converging crises: AI licensing deals are going live, publishers are challenging performing rights organisations, AI-powered streaming fraud is surging, and a roy\u2026 [+5924 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "David Gewirtz",
-        "title": "Claude Fable 5 secretly throttled AI researchers, and the internet went wild",
-        "description": "Claude Fable 5 gave users access to Mythos-class power, but its hidden safeguards turned a safety feature into a trust problem for Anthropic.",
-        "url": "https://www.zdnet.com/article/claude-fable-5-secretly-throttled/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/d3194e7442b80ed2413e5f135d979bc1cdfbffae/2026/06/12/1f7f4659-692e-4fc9-ac81-284cd69c0860/claude.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-12T17:03:59Z",
-        "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Fable 5's backlash is about transparency, not raw AI power.</li><li>Hidden safegua\u2026 [+12665 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana Maria Constantin",
-        "title": "Anthropic\u2019s Claude Fable 5 curbs target China. The backlash came from its own side.",
-        "description": "Anthropic built the Claude Fable 5 curbs to keep China\u2019s AI labs out of its most powerful public model. The loudest complaints came from its own side of the firewall. On 9 June, Anthropic released Claude Fable 5, a tamed, public-facing version of Mythos, the \u2026",
-        "url": "https://thenextweb.com/news/claude-fable-5-curbs-china-ai-labs/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/claude-fable-5-mythos-5.avif",
-        "publishedAt": "2026-06-12T10:30:55Z",
-        "content": "Anthropic built the Claude Fable 5 curbs to keep Chinas AI labs out of its most powerful public model. The loudest complaints came from its own side of the firewall.\r\nOn 9 June, Anthropic released Cl\u2026 [+3349 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Cristian Dina",
-        "title": "SpaceX raised $75 billion in the largest IPO in history. Japanese retail investors got $2.2 billion of it.",
-        "description": "SpaceX begins trading on Nasdaq today under the ticker SPCX after raising $75 billion in the largest initial public offering ever completed. The previous record holder, Saudi Aramco\u2019s 2019 listing, raised $29.4 billion, making SpaceX\u2019s offering roughly 2.5 ti\u2026",
-        "url": "https://thenextweb.com/news/spacex-raised-75-billion-in-the-largest-ipo-in-history-japanese-retail-investors-got-2-2-billion-of-it/",
-        "urlToImage": "https://media.thenextweb.com/2026/03/xai-all-cofounders-departed-musk-spacex-rebuild.avif",
-        "publishedAt": "2026-06-12T09:00:03Z",
-        "content": "TL;DR\r\nSpaceX raised $75 billion in the largest IPO in history, pricing 555.6 million shares at $135 each for a $1.77 trillion valuation. Japanese retail investors bought $2.2 billion of the offering\u2026 [+4060 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Alina Maria Stan",
-        "title": "SpaceX IPO makes Elon Musk the world\u2019s first trillionaire, but your retirement fund is picking up the tab",
-        "description": "Elon Musk is now worth more than $1 trillion. The SpaceX IPO, which\u00a0priced 555.6 million shares at $135 each on 12 June, valued the company at roughly $1.77 trillion and pushed Musk past a threshold no individual has ever crossed. His SpaceX stake alone is wo\u2026",
-        "url": "https://thenextweb.com/news/spacex-ipo-musk-trillionaire-index-fund-wealth-transfer/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/spacex-ipo-musk-trillionaire-index-fund-wealth-transfer.avif",
-        "publishedAt": "2026-06-12T10:52:30Z",
-        "content": "TL;DR\r\nSpaceXs $75 billion IPO made Elon Musk the worlds first trillionaire, with a net worth above $1.1 trillion. But Nasdaqs fast-tracked index inclusion means retirement savers in passive funds ar\u2026 [+6584 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "VentureBeat"
-        },
-        "author": "Ben Dickson",
-        "title": "Google researchers introduce 'faithful uncertainty', allowing LLMs to offer best guesses instead of hallucinations",
-        "description": "Chasing zero hallucinations is costing you valid answers. Google researchers propose a \"metacognitive\" approach to save enterprise AI.",
-        "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
-        "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/yz9h2aiBuc13gCjhvzQon/240a640f913673b6f56d4922639cd4ac/ai_metacognition.jpg?w=800&q=75",
-        "publishedAt": "2026-06-12T21:27:57Z",
-        "content": "Large language models continue to struggle with hallucinations, presenting a major roadblock for real-world enterprise applications. Reducing these errors is a messy business, forcing model developer\u2026 [+10084 chars]"
+        "author": "Jagmeet Singh",
+        "title": "As Anthropic suspends access to new models, India debates its AI future | TechCrunch",
+        "description": "As Anthropic suspends access to new models, India debates its AI future | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+        "publishedAt": "2026-06-14T03:00:00Z",
+        "content": "Anthropic\u2019s sudden move to suspend access to its newest AI models following a U.S. government directive has raised fresh questions across the global technology industry. In India, the decision has re\u2026 [+8314 chars]"
     }
 ]

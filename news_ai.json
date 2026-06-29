@@ -2,132 +2,80 @@
     {
         "source": {
             "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Justin Carter",
+        "title": "A24 Wants You to Be Nice About Its Google AI Deal",
+        "description": "The fan-favorite indie studio is on the defense for its expensive, research-heavy teamup with DeepMind.",
+        "url": "https://gizmodo.com/a24-wants-you-to-be-nice-about-its-google-ai-deal-2000778542",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Backrooms-1200x675.jpg",
+        "publishedAt": "2026-06-27T16:25:54Z",
+        "content": "Earlier this week, we learned A24 entered a research partnership with Google\u2019s DeepMind unit. The reactions were\u2026 not happy,\u00a0to say the least. And like many who\u2019ve let generative AI into their hearts\u2026 [+1801 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Fernanda Gonz\u00e1lez",
+        "title": "China Defies US Restrictions and Builds the World\u2019s Fastest Supercomputer",
+        "description": "The Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs.",
+        "url": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
+        "urlToImage": "https://media.wired.com/photos/6a3e912435a32ef4cd784d63/191:100/w_1280,c_limit/supercomputadora%20china%20EE%20UU%201228298015.jpg",
+        "publishedAt": "2026-06-28T09:00:00Z",
+        "content": "China now has the world's fastest supercomputer, overtaking the United States. The system, known as LineShine and installed at the National Supercomputing Center in Shenzhen, displaced the US system \u2026 [+3270 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNET"
         },
-        "author": "Lori Grunin",
-        "title": "Whew! Windows 10 Users Get a Year's Extension for Security Updates",
-        "description": "The company has quietly extended its Extended Security Update coverage until October 2027.",
-        "url": "https://www.cnet.com/tech/services-and-software/windows-10-users-extended-security-updates-through-october-2027/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/b4064f0f875da00057c3fa94f073d782ba29b0d7/hub/2020/09/21/d68d1900-0bc0-4ce4-bd1c-a30206ea031e/hp-envy-x360-13-08.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-26T18:45:11Z",
-        "content": "If I still had to use a PC running Windows 10, I'd be thrilled that Microsoft is extending its Extended Security Updates program for that operating system until Oct.14, 2027. Its original end-of-life\u2026 [+2379 chars]"
+        "author": "Laura Michelle Davis",
+        "title": "Apple's Price Hikes Aren't Just an AI Problem",
+        "description": "Commentary: The boom in artificial intelligence is causing a memory chip shortage. Apple decided to make us pay for it.",
+        "url": "https://www.cnet.com/news/apple-price-hikes-not-unavoidable-blame-ai-boom/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e8259dabefcc29629d9022bb8f2c77ce339c7080/hub/2026/06/26/5ef508bf-d098-42f6-949e-a5ab304d9fa0/image-8.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-28T11:01:09Z",
+        "content": "Last week, in an exclusive interview with the Wall Street Journal, outgoing Apple CEO Tim Cook warned that the memory chip crunch made price increases \"unavoidable.\" He also made what seemed like a p\u2026 [+10095 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Andrew Lanxon",
+        "title": "No, My Phone Will Never Replace My Camera. Here's Why",
+        "description": "Commentary: Phone cameras are amazing, but as a professional photographer, I need more from my camera.",
+        "url": "https://www.cnet.com/tech/mobile/no-my-phone-will-never-replace-my-camera/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/0514c8c0e83890b9052085878c35e01b420a12de/hub/2026/02/25/8183c716-4698-4964-b3ea-c2e378ebb480/leica-xiaomi-leitzphone-review-cnet-05.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-28T12:01:10Z",
+        "content": "Today's best phone cameras are astonishingly capable when it comes to taking pictures. With large sensors, wide apertures and a wealth of extra software features, they can take images that rival what\u2026 [+12539 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Dave Vellante and George Gilbert",
+        "title": "Forget AGI. The prize is enterprise AGI",
+        "description": "We believe much of the artificial intelligence industry is chasing the wrong prize. Frontier model vendors such as Anthropic PBC and OpenAI Group PBC, they may have shifted their commercial focus toward enterprise customers, but they\u2019ve not changed their fund\u2026",
+        "url": "https://siliconangle.com/2026/06/27/forget-agi-prize-enterprise-agi/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Slide1.jpg",
+        "publishedAt": "2026-06-27T20:25:57Z",
+        "content": "We believe much of the artificial intelligence industry is chasing the wrong prize. Frontier model vendors such as Anthropic PBC and OpenAI Group PBC, they may have shifted their commercial focus tow\u2026 [+95003 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Bruce Gil",
-        "title": "Data Centers Were the Biggest Losers of the Week",
-        "description": "From pro-AI candidates losing primaries in Utah to bans in New Jersey, the backlash against data centers is growing.",
-        "url": "https://gizmodo.com/data-centers-were-the-biggest-losers-of-the-week-2000778326",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/11/data-center-interior-1200x675.jpg",
-        "publishedAt": "2026-06-26T17:10:17Z",
-        "content": "Billionaire Mark Cuban tried to give the AI industry some advice this week on how to win the public relations war over data centers.\r\nIts time for everyone to realize that the fight against data cent\u2026 [+4698 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Unconventional AI debuts oscillator-based Un-0 model series",
-        "description": "Unconventional AI Inc. has developed an artificial intelligence architecture that could improve the power efficiency of image generation models.\u00a0 The technology is the basis of a new neural network series, Un-1, that the company released on Thursday. Unconven\u2026",
-        "url": "https://siliconangle.com/2026/06/26/unconventional-ai-debuts-oscillator-based-un-0-model-series/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Unconventional-AI.png",
-        "publishedAt": "2026-06-26T20:59:38Z",
-        "content": "Unconventional AI Inc. has developed an artificial intelligence architecture that could improve the power efficiency of image generation models.\u00a0\r\nThe technology is the basis of a new neural network \u2026 [+4517 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jason Bloomberg",
-        "title": "Challenges to AI innovation in telecom: Insights from TM Forum DTW Ignite",
-        "description": "At this week\u2019s\u00a0TM Forum DTW Ignite conference in Copenhagen, industry leaders gathered to evaluate how agentic AI \u2014 the autonomous artificial intelligence systems capable of executing complex workflows within environments such as telecommunications \u2014 are tran\u2026",
-        "url": "https://siliconangle.com/2026/06/26/challenges-ai-innovation-telecom-insights-tm-forum-dtw-ignite/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/dtw-jasonbloomberg.jpg",
-        "publishedAt": "2026-06-26T17:42:16Z",
-        "content": "At this week\u2019s\u00a0TM Forum DTW Ignite conference in Copenhagen, industry leaders gathered to evaluate how agentic AI \u2014 the autonomous artificial intelligence systems capable of executing complex workflo\u2026 [+12176 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Analog chipmaker Onsemi buys Synaptics in $7B all-stock deal to push into physical AI",
-        "description": "Arizona-based chipmaker Onsemi today announced plans to acquire the \u201cInternet of Things\u201d and computer interface technology firm Synaptics Inc. in a deal valued at around $7 billion. The deal will help Onsemi, officially known as Semiconductor Components Indus\u2026",
-        "url": "https://siliconangle.com/2026/06/25/analog-chipmaker-onsemi-buys-synaptics-7b-stock-deal-push-physical-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-26-09-00-48.png",
-        "publishedAt": "2026-06-26T02:03:29Z",
-        "content": "Arizona-based chipmaker Onsemi today announced plans to acquire the Internet of Things and computer interface technology firm Synaptics Inc. in a deal valued at around $7 billion.\r\nThe deal will help\u2026 [+4251 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "OpenAI introduces GPT-5.6 to challenge Claude Mythos 5",
-        "description": "OpenAI Group PBC today introduced GPT-5.6, a new series of large language models that it says can outperform Claude Mythos 5 across certain coding tasks. The most advanced algorithm in the lineup is known as Sol. It\u2019s available alongside a mid-range option ca\u2026",
-        "url": "https://siliconangle.com/2026/06/26/openai-introduces-gpt-5-6-challenge-claude-mythos-5/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/52660764045_a9fd79f194_c-1-1.jpg",
-        "publishedAt": "2026-06-26T23:32:56Z",
-        "content": "OpenAI Group PBC today introduced GPT-5.6, a new series of large language models that it says can outperform Claude Mythos 5 across certain coding tasks.\r\nThe most advanced algorithm in the lineup is\u2026 [+3950 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Sail Research raises $80M to optimize long-horizon AI agents",
-        "description": "Inference startup Sail Research Inc. today announced that it has raised $80 million in funding at a $450 million valuation. The company received the bulk of the capital in the form of a Series A round led by Sequoia. It earlier raised a seed round led by Klei\u2026",
-        "url": "https://siliconangle.com/2026/06/25/sail-research-raises-80m-optimize-long-horizon-ai-agents/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Sail.png",
-        "publishedAt": "2026-06-26T01:30:20Z",
-        "content": "Inference startup Sail Research Inc. today announced that it has raised $80 million in funding at a $450 million valuation.\r\nThe company received the bulk of the capital in the form of a Series A rou\u2026 [+3844 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Patronus AI grabs $50M in funding to stress-test AI agents in simulated environments",
-        "description": "Fast-growing world model startup Patronus AI Inc. is priming itself for even more rapid growth after raising $50 million in Series B funding today. The round was led by Greenfield Partners and saw the participation of Lightspeed Venture Partners, Notable Capi\u2026",
-        "url": "https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-26-09-49-56.png",
-        "publishedAt": "2026-06-26T02:51:55Z",
-        "content": "Fast-growing world model startup Patronus AI Inc. is priming itself for even more rapid growth after raising $50 million in Series B funding today. The round was led by Greenfield Partners and saw th\u2026 [+5910 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Nelson Aguilar",
-        "title": "15 Hidden iOS 27 Features You Can Check Out in the Developer Beta",
-        "description": "Apple spent plenty of time talking about Siri AI at WWDC, but some of iOS 27's most useful changes are much smaller.",
-        "url": "https://www.cnet.com/tech/services-and-software/15-hidden-ios-27-features-you-can-check-out-in-the-developer-beta/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/d7abfb336a5ff6fa0523ff7a802305304de8d587/hub/2026/05/29/e488535f-d22c-4028-9ade-6b066aeac172/cnet-ios27-6.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-26T12:01:09Z",
-        "content": "Apple spent a lot of time talking about artificial intelligence at WWDC this year, including how Apple Intelligence is getting a boost from Google's Gemini models. Apple unveiled Siri AI, a major ove\u2026 [+8902 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Maria Diaz",
-        "title": "With Apple prices going up, this is the last chance to get a MacBook Neo at $590",
-        "description": "If you've been looking at buying a MacBook Neo, now is the time.",
-        "url": "https://www.zdnet.com/article/apple-macbook-neo-at-590-amazon-prime-day-2026/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/038f1436c4c4321c215b3d84b2794b8215af0822/2026/03/18/63c335a7-512a-4f12-b170-c241bcc30cda/dsc09823.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-26T00:18:14Z",
-        "content": "Kerry Wan/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nApple is raising the prices of its products, including the MacBook Neo. For now, however, you can still buy one for $590 on Ama\u2026 [+2690 chars]"
+        "author": "Matt Novak",
+        "title": "Every State\u2019s \u2018America 250\u2019 Time Capsule Contributions, Ranked",
+        "description": "Where did your state rank?",
+        "url": "https://gizmodo.com/every-states-america-250-time-capsule-contributions-ranked-2000776096",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/06/shovel_america250-1200x675.jpg",
+        "publishedAt": "2026-06-27T12:00:42Z",
+        "content": "A time capsule to celebrate America\u2019s Semiquincentennial, the 250th anniversary of the country\u2019s founding, was recently sealed and will be buried at Independence National Historical Park in Philadelp\u2026 [+45577 chars]"
     },
     {
         "source": {
@@ -145,97 +93,6 @@
     {
         "source": {
             "id": null,
-            "name": "CNET"
-        },
-        "author": "Rachel Kane",
-        "title": "Yeet: The AI Dating App for Gen Z Built to Save You From Bad Chats",
-        "description": "Can a chatbot be the best wingman?",
-        "url": "https://www.cnet.com/tech/services-and-software/yeet-the-ai-dating-app-built-to-save-you-from-bad-chats/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/c6b6f1995dcc186cf4846c8ad6a085d46076dc3a/hub/2026/06/26/bca2c7f7-1ca9-4600-945f-0fe0d0db522f/screenshot-2026-06-26-at-16-01-22.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-26T14:52:00Z",
-        "content": "Online dating has rapidly progressed from a little secret reserved for casual encounters into an everyday, booming business. Tinder, Hinge, Grindr, Bumble, Raya, Match and OKCupid are only a handful \u2026 [+8776 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Alina Maria Stan",
-        "title": "Samsung\u2019s $647bn home investment heads for the chip-starved southwest",
-        "description": "Numbers in the trillions have a way of losing their edges, so it is worth holding this one still for a moment. Samsung is expected to announce plans to invest 1,000 trillion won, around $647.5bn, in South Korea over the next 10 years, according to local media\u2026",
-        "url": "https://thenextweb.com/news/samsung-647bn-south-korea-investment/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/Samsung.avif",
-        "publishedAt": "2026-06-26T10:00:46Z",
-        "content": "Numbers in the trillions have a way of losing their edges, so it is worth holding this one still for a moment.\r\nSamsung is expected to announce plans to invest 1,000 trillion won, around $647.5bn, in\u2026 [+3564 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "What to expect during RAISE Summit: Join theCUBE July 8-9",
-        "description": "The AI industry is entering a phase where the race for more capable models is taking a back seat to the economics of building and deploying AI infrastructure. This has resulted in a focus on application modernization as enterprises continue to invest in auton\u2026",
-        "url": "https://siliconangle.com/2026/06/26/raise-summit-ai-infrastructure-thecube-raisesummit/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/RAISE-Summit-2026.png",
-        "publishedAt": "2026-06-26T20:53:45Z",
-        "content": "The AI industry is entering a phase where the race for more capable models is taking a back seat to the economics of building and deploying AI infrastructure.\r\nThis has resulted in a focus on applica\u2026 [+5948 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "ZTE null",
-        "title": "ZTE presents full-stack intelligent energy storage solutions at the Smarter E Europe 2026, powering Europe's energy transition",
-        "description": "PARTNER CONTENT: ZTE introduces full-stack, AI-driven energy storage solutions in Munich to address the rising power demands of the digital infrastructure era",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/26/zte-presents-full-stack-intelligent-energy-storage-solutions-at-the-smarter-e-europe-2026-powering-europes-energy-transition/5263063",
-        "urlToImage": "https://image.theregister.com/5263067.jpg?imageId=5263067&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-06-26T11:56:10Z",
-        "content": "ZTE showcased its end-to-end capabilities in project delivery, technology innovation and intelligent energy at The Smarter E Europe 2026, to support Europes accelerating energy transition.\r\nAs Europe\u2026 [+4319 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "AI prompts a memory-chip boom \u2014 and electronics inflation. Get used to it.",
-        "description": "Even though investors are getting wary of chip stocks, prompting a two-day tech selloff this week, memory-chip maker Micron had a monster quarter and its shares jumped almost 16% Thursday.\u00a0On top of that, South Korean memory chipmaker SK hynix filed for a U.S\u2026",
-        "url": "https://siliconangle.com/2026/06/26/ai-prompts-memory-chip-boom-electronics-inflation-get-used/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/micron-ai.png",
-        "publishedAt": "2026-06-26T14:00:42Z",
-        "content": "Even though investors are getting wary of chip stocks, prompting a two-day tech selloff this week, memory-chip maker Micron had a monster quarter and its shares jumped almost 16% Thursday.\u00a0On top of \u2026 [+10781 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Alina Maria Stan",
-        "title": "Malaysia intercepts $13M AI chip shipment bound for re-export",
-        "description": "The shipment passed through Kuala Lumpur declared as ordinary computer components. Inside the 72 server units, Malaysian customs officers found something the paperwork did not mention: advanced artificial-intelligence chips worth 52.9 million ringgit, or abou\u2026",
-        "url": "https://thenextweb.com/news/malaysia-customs-ai-chip-seizure-klia/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/Malaysia.avif",
-        "publishedAt": "2026-06-26T12:38:39Z",
-        "content": "The shipment passed through Kuala Lumpur declared as ordinary computer components. Inside the 72 server units, Malaysian customs officers found something the paperwork did not mention: advanced artif\u2026 [+3979 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana-Maria Stanciuc",
-        "title": "Kobo rejected 45% of self-published books last year, mostly over AI",
-        "description": "A self-publishing platform exists to say yes. Kobo\u2019s, last year, spent a remarkable share of its time saying no. Rakuten Kobo rejected 45% of the titles submitted to Kobo Writing Life, its self-publishing service, in 2025, and chief executive Michael Tamblyn \u2026",
-        "url": "https://thenextweb.com/news/kobo-rejects-45-percent-self-published-books-ai/",
-        "urlToImage": "https://media.thenextweb.com/2026/06/Chief-executive-Michael-Tamblyn.avif",
-        "publishedAt": "2026-06-26T10:15:13Z",
-        "content": "A self-publishing platform exists to say yes. Kobos, last year, spent a remarkable share of its time saying no.\r\nRakuten Kobo rejected 45% of the titles submitted to Kobo Writing Life, its self-publi\u2026 [+3000 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "ZDNet"
         },
         "author": "Elyse Betters Picaro",
@@ -248,54 +105,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Liam Proven",
-        "title": "One man, two kernels, and a lot of RISC-V",
-        "description": "A homebrew PC and mini-mainframe were only the warm-up for Yuri Zaporozhets' latest operating system",
-        "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-        "urlToImage": "https://image.theregister.com/5262971.jpg?imageId=5262971&x=0&y=28.33&cropw=100&croph=71.67&panox=0&panoy=28.33&panow=100&panoh=71.67&width=1200&height=683",
-        "publishedAt": "2026-06-26T13:46:00Z",
-        "content": "Yuri Zaporozhets of QRV Systems is a busy chap.\u00a0He's built a new RISC-V-based personal computer, a mainframe on an FPGA, and rewritten QNX twice.\r\nSeemingly every month or two, The Reg FOSS desk gets\u2026 [+7831 chars]"
-    },
-    {
-        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Jagmeet Singh",
-        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S. | TechCrunch",
-        "description": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S. | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
-        "publishedAt": "2026-06-26T18:20:40Z",
-        "content": "OpenAI is making yet another big, visible bet on India. It has appointed former Uber India and South Asia president Prabhjeet Singh as its first managing director for the country to scale its presenc\u2026 [+2091 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Liam Proven",
-        "title": "Three FOSS projects for developers, procrastinators, and media wranglers",
-        "description": "Prism tracks AI emissions, Super Productivity keeps tasks local, and TAMOSS brings the BBC's media API to Kubernetes",
-        "url": "https://www.theregister.com/software/2026/06/26/three-foss-projects-for-developers-procrastinators-and-media-wranglers/5261631",
-        "urlToImage": "https://image.theregister.com/5261648.jpg?imageId=5261648&x=0&y=15.13&cropw=100&croph=84.87&panox=0&panoy=15.13&panow=100&panoh=84.87&width=1200&height=683",
-        "publishedAt": "2026-06-26T09:15:00Z",
-        "content": "As the mercury climbs to disgusting heights, The Reg FOSS desk has picked out a few FOSS highlights from its overflowing mailbox, in case you fancy some Super Productivity while monitoring your AI ha\u2026 [+4676 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Maxwell Zeff",
-        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-        "description": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-        "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-        "urlToImage": "https://media.wired.com/photos/6a3c48b56c59c72c499e0fad/191:100/w_1280,c_limit/Model-Behavior-AI-Safe-Only-With-Anthropic-Business.jpg",
-        "publishedAt": "2026-06-26T00:49:13Z",
-        "content": "Anthropic has spent the last five years warning the world about how advanced artificial intelligence could enable mass destruction, destabilize society, and cause a litany of other grave harms. But s\u2026 [+3640 chars]"
+        "author": "Kate Park",
+        "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on | TechCrunch",
+        "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+        "publishedAt": "2026-06-27T12:00:00Z",
+        "content": "On Wednesday, Chinese cybersecurity firm 360 reportedly unveiled Tulongfeng, an AI tool it says can go head-to-head with Anthropics Mythos. That\u2019s the cybersecurity-focused AI model that is reportedl\u2026 [+4493 chars]"
     }
 ]

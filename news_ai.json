@@ -1,81 +1,328 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNET"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Laura Michelle Davis",
-        "title": "Apple's Price Hikes Aren't Just an AI Problem",
-        "description": "Commentary: The boom in artificial intelligence is causing a memory chip shortage. Apple decided to make us pay for it.",
-        "url": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/e8259dabefcc29629d9022bb8f2c77ce339c7080/hub/2026/06/26/5ef508bf-d098-42f6-949e-a5ab304d9fa0/image-8.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-28T11:01:00Z",
-        "content": "Last week, in an exclusive interview with the Wall Street Journal, outgoing Apple CEO Tim Cook warned that the memory chip crunch made price increases \"unavoidable.\" He also made what seemed like a p\u2026 [+10098 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Fernanda Gonz\u00e1lez",
-        "title": "China Defies US Restrictions and Builds the World\u2019s Fastest Supercomputer",
-        "description": "The Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs.",
-        "url": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
-        "urlToImage": "https://media.wired.com/photos/6a3e912435a32ef4cd784d63/191:100/w_1280,c_limit/supercomputadora%20china%20EE%20UU%201228298015.jpg",
-        "publishedAt": "2026-06-28T09:00:00Z",
-        "content": "China now has the world's fastest supercomputer, overtaking the United States. The system, known as LineShine and installed at the National Supercomputing Center in Shenzhen, displaced the US system \u2026 [+3270 chars]"
+        "author": "Elizabeth Lopatto",
+        "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
+        "description": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. \u2026",
+        "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-06-30T00:26:38Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nWalk softly and carry a Fender Telecaster.\r\nWalk softly and carry a Fender Telecaster.\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be added to your \u2026 [+15981 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "Gizmodo.com"
         },
-        "author": "Laura Michelle Davis",
-        "title": "Apple's Price Hikes Aren't Just an AI Problem",
-        "description": "Commentary: The boom in artificial intelligence is causing a memory chip shortage. Apple decided to make us pay for it.",
-        "url": "https://www.cnet.com/news/apple-price-hikes-not-unavoidable-blame-ai-boom/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/e8259dabefcc29629d9022bb8f2c77ce339c7080/hub/2026/06/26/5ef508bf-d098-42f6-949e-a5ab304d9fa0/image-8.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-28T11:01:09Z",
-        "content": "Last week, in an exclusive interview with the Wall Street Journal, outgoing Apple CEO Tim Cook warned that the memory chip crunch made price increases \"unavoidable.\" He also made what seemed like a p\u2026 [+10095 chars]"
+        "author": "Ece Yildirim",
+        "title": "Scientists Think This Is the Best Way to Detect AI Slop Imagery",
+        "description": "By focusing on six characteristics, the study claims you could reach \"near-perfect accuracy\" at detecting AI deepfakes.",
+        "url": "https://gizmodo.com/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery-2000777919",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/06/hotdog-slop-1200x675.jpg",
+        "publishedAt": "2026-06-29T19:00:32Z",
+        "content": "Scientists think they have discovered a much better way to determine if a photo you\u2019ve seen was AI-generated, and no, it\u2019s not via AI detection software.\r\nIn a study published today in the Proceeding\u2026 [+5035 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "Andrew Lanxon",
-        "title": "No, My Phone Will Never Replace My Camera. Here's Why",
-        "description": "Commentary: Phone cameras are amazing, but as a professional photographer, I need more from my camera.",
-        "url": "https://www.cnet.com/tech/mobile/no-my-phone-will-never-replace-my-camera/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/0514c8c0e83890b9052085878c35e01b420a12de/hub/2026/02/25/8183c716-4698-4964-b3ea-c2e378ebb480/leica-xiaomi-leitzphone-review-cnet-05.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-06-28T12:01:10Z",
-        "content": "Today's best phone cameras are astonishingly capable when it comes to taking pictures. With large sensors, wide apertures and a wealth of extra software features, they can take images that rival what\u2026 [+12539 chars]"
+        "author": "Ty Pendlebury",
+        "title": "Tidal to Label AI-Generated Music and Remove Fraudulent Material",
+        "description": "The company said listeners should know whether the content they are listening to is AI-generated.",
+        "url": "https://www.cnet.com/tech/services-and-software/tidal-will-label-ai-generated-music-and-remove-fraudulent-material/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/b7796bba988d4574a5a18fd77842d5c6724e2e25/hub/2026/02/23/26837045-bcc4-452c-babb-ea159b7f78af/og-image-onlylogo-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-29T22:46:08Z",
+        "content": "Music streaming service Tidal says it will start labeling music that's wholly generated by artificial intelligence and will also remove tracks that are fraudulent or deceptive. The company will imple\u2026 [+2269 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Stephanie Barnes",
+        "title": "xTool's New Printer Is Going to Make It Easier Than Ever to Be Creative and the Preorder Is Live Today",
+        "description": "The O1 Omni printer is an all-in-one desktop printer capable of printing on \u201cvirtually any material.\u201d Preorders are now live and include special perks.",
+        "url": "https://www.cnet.com/tech/xtool-o1-omni-uv-printer-preorder/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/8f752d38ae40a0427137626425785df5699e69a5/hub/2026/06/28/3589045d-fb69-4280-a465-eac69a8de0e4/xtool-omni-printer.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-29T12:42:00Z",
+        "content": "While I understand the technology behind it, UV printing will always feel like magic. Being able to purchase a box and have it bring all your magnificent ideas to reality? It\u2019s magical, and it\u2019s only\u2026 [+2261 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection",
+        "description": "If you want a picture of the future of LLM security, imagine Whac-a-Mole meets Groundhog Day",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/30/security-researchers-tricked-llms-into-giving-them-cocaine-recipes-by-abusing-role-models-for-prompt-injection/5264115",
+        "urlToImage": "https://image.theregister.com/5264140.jpg?imageId=5264140&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-29T23:33:09Z",
+        "content": "Researchers say that machine learning models cannot reliably distinguish between authorized and unauthorized input, ensuring that prompt injection will continue to present a threat until developers f\u2026 [+4679 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Richard Boyd",
-        "title": "Don\u2019t surrender data control in pursuit of intelligence",
-        "description": "With organizations reorganizing themselves to put artificial intelligence at the center, we\u2019ve seen a shift from information being valuable to being a means of achieving intelligence, which is far more important. But what happens to organizations\u2019 data when t\u2026",
-        "url": "https://siliconangle.com/2026/06/28/dont-surrender-data-control-pursuit-intelligence/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Broadcom-Modern-Private-Cloud-A-Secure-Foundation-for-Production-AI-2026.png",
-        "publishedAt": "2026-06-28T14:15:40Z",
-        "content": "With organizations reorganizing themselves to put artificial intelligence at the center, weve seen a shift from information being valuable to being a means of achieving intelligence, which is far mor\u2026 [+5985 chars]"
+        "author": "Kyt Dotson",
+        "title": "Chinese robotics outfits AI2 Robotics and X Square Robots each secure funding at $2.8B valuation",
+        "description": "Two Chinese general-purpose and embodied artificial intelligence firms, AI2 Robotics and X Square Robots, today announced funding rounds that pushed their respective valuations beyond 50 billion RMB, or about $2.8 billion. Chinese general-purpose and embodied\u2026",
+        "url": "https://siliconangle.com/2026/06/29/chinese-robotics-outfits-ai2-robotics-x-square-robots-secure-funding-2-8b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/about-scaled.jpg",
+        "publishedAt": "2026-06-29T16:00:27Z",
+        "content": "Two Chinese general-purpose and embodied artificial intelligence firms, AI2 Robotics and X Square Robots, today announced funding rounds that pushed their respective valuations beyond 50 billion RMB,\u2026 [+5102 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Hannah Maldonado",
-        "title": "Geopolitical tension highlights the need for risk intelligence",
-        "description": "Within hours of the first U.S.-Israel strikes against Iran in February 2026, hacktivists went to work launching massive distributed denial-of-service attacks. Both pro- and anti-Iranian groups targeted oil and gas providers, telecommunications companies, mili\u2026",
-        "url": "https://siliconangle.com/2026/06/28/geopolitical-tension-highlights-need-risk-intelligence/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/AI-and-the-Attackers.jpeg",
-        "publishedAt": "2026-06-28T14:14:49Z",
-        "content": "Within hours of the first U.S.-Israel strikes against Iran in February 2026, hacktivists went to work launching massive distributed denial-of-service attacks. Both pro- and anti-Iranian groups target\u2026 [+6237 chars]"
+        "author": "Kyt Dotson",
+        "title": "Chinese robotics outfits AI2 Robotics and X Square Robots each secure funding at around $2.8B valuation",
+        "description": "Today, two Chinese general-purpose and embodied artificial intelligence firms, AI2 Robotics and X Square Robots, announced funding rounds that pushed their respective valuations beyond 50 billion RMB, or around $2.8 billion. Chinese general-purpose and embodi\u2026",
+        "url": "https://siliconangle.com/2026/06/29/chinese-robotics-outfits-ai2-robotics-x-square-robots-secure-funding-around-2-8b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/about-scaled.jpg",
+        "publishedAt": "2026-06-29T16:00:27Z",
+        "content": "Today, two Chinese general-purpose and embodied artificial intelligence firms, AI2 Robotics and X Square Robots, announced funding rounds that pushed their respective valuations beyond 50 billion RMB\u2026 [+5104 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Straiker lands $64M to defend enterprise AI agents from attack",
+        "description": "Agentic security company Straiker Inc. today revealed that it had raised $64 million in new funding to expand a platform built to secure the artificial intelligence agents now spreading across enterprise systems. The Mountain View, California-based company se\u2026",
+        "url": "https://siliconangle.com/2026/06/29/straiker-lands-64m-defend-enterprise-ai-agents-attack/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/straiker.png",
+        "publishedAt": "2026-06-29T22:30:42Z",
+        "content": "Agentic security company Straiker Inc. today revealed that it had raised $64 million in new funding to expand a platform built to secure the artificial intelligence agents now spreading across enterp\u2026 [+3922 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Groundcover lets AI agents work in Slack, Linear and GitHub with new connectors",
+        "description": "Application observability startup groundcover Ltd. today announced a major expansion of Agent Mode that lets artificial intelligence agents act on a team\u2019s observability data across the development tools they already use. The update allows engineers to direct\u2026",
+        "url": "https://siliconangle.com/2026/06/29/groundcover-lets-ai-agents-work-slack-linear-github-new-connectors/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/groundcover2.png",
+        "publishedAt": "2026-06-29T13:00:54Z",
+        "content": "Application observability startup groundcover Ltd. today announced a major expansion of Agent Mode that lets artificial intelligence agents act on a team\u2019s observability data across the development t\u2026 [+4051 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "South Korea launches $584B chip manufacturing initiative with Samsung, SK hynix",
+        "description": "The South Korean government today announced a 900 trillion won, or $584 billion, initiative to grow the country\u2019s chip manufacturing capacity. Officials also plan to build about $357 billion worth of artificial intelligence data centers.\u00a0 The chip manufacturi\u2026",
+        "url": "https://siliconangle.com/2026/06/29/south-korea-launches-584b-chip-manufacturing-initiative-samsung-sk-hynix/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Samsung.png",
+        "publishedAt": "2026-06-29T20:52:27Z",
+        "content": "The South Korean government today announced a 900 trillion won, or $584 billion, initiative to grow the countrys chip manufacturing capacity.\r\nOfficials also plan to build about $357 billion worth of\u2026 [+3949 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Software testing startup Arato gets $10M to try and stop businesses deploying AI systems blind",
+        "description": "Israeli startup Arato Software Ltd. is developing tools for developers to test and evaluate their artificial intelligence applications, and it has just gotten $10 million in seed funding to pursue that goal. Today\u2019s round was led by TLV Partners and saw parti\u2026",
+        "url": "https://siliconangle.com/2026/06/29/software-testing-startup-arato-gets-10m-try-stop-businesses-deploying-ai-systems-blind/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-30-07-35-50.png",
+        "publishedAt": "2026-06-30T00:39:27Z",
+        "content": "Israeli startup Arato Software Ltd. is developing tools for developers to test and evaluate their artificial intelligence applications, and it has just gotten $10 million in seed funding to pursue th\u2026 [+5055 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "LeapXpert lands $180M to extract more intelligence from governed enterprise communications",
+        "description": "Secure business communications startup LeapXpert Inc. said today it has bagged $180 million in a growth round of funding to build out its artificial intelligence capabilities and generate valuable intelligence for enterprises. Riverwood Capital led the round,\u2026",
+        "url": "https://siliconangle.com/2026/06/30/leapxpert-lands-180m-extract-intelligence-governed-enterprise-communications/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-23-09-01-44.png",
+        "publishedAt": "2026-06-30T10:00:27Z",
+        "content": "Secure business communications startup LeapXpert Inc. said today it has bagged $180 million in a growth round of funding to build out its artificial intelligence capabilities and generate valuable in\u2026 [+4802 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "CoreWeave debuts ARIA agent to automate AI research in Weights & Biases",
+        "description": "Artificial intelligence cloud operator CoreWeave Inc. today launched ARIA, an AI research agent built into the Weights & Biases platform. The agent reads experiment data and surfaces insights researchers might miss, then recommends ways to improve their model\u2026",
+        "url": "https://siliconangle.com/2026/06/29/coreweave-debuts-aria-agent-automate-ai-research-weights-biases/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/coreweave.png",
+        "publishedAt": "2026-06-29T12:00:56Z",
+        "content": "Artificial intelligence cloud operator CoreWeave Inc. today launched ARIA, an AI research agent built into the Weights &amp; Biases platform.\r\nThe agent reads experiment data and surfaces insights re\u2026 [+4497 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Arcova promises to strip 18 months and up to $200M from AI data center builds",
+        "description": "Cybersecurity and artificial intelligence consulting firm Arcova today launched an end-to-end data center development offering that brings engineering, cybersecurity, regulatory compliance and grid-planning coordination under one team. The offering is designe\u2026",
+        "url": "https://siliconangle.com/2026/06/29/arcova-promises-strip-18-months-200m-ai-data-center-builds/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/arcova.png",
+        "publishedAt": "2026-06-29T13:00:21Z",
+        "content": "Cybersecurity and artificial intelligence consulting firm Arcova today launched an end-to-end data center development offering that brings engineering, cybersecurity, regulatory compliance and grid-p\u2026 [+4531 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Software testing startup Arato gets $10M to stop businesses deploying AI systems blind",
+        "description": "Israeli startup Arato Software Ltd. is developing tools for developers to test and evaluate their artificial intelligence applications, and it has just gotten $10 million in seed funding to pursue that goal. Today\u2019s round was led by TLV Partners and saw parti\u2026",
+        "url": "https://siliconangle.com/2026/06/29/software-testing-startup-arato-gets-10m-stop-businesses-deploying-ai-systems-blind/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-30-07-35-50.png",
+        "publishedAt": "2026-06-30T00:39:27Z",
+        "content": "Israeli startup Arato Software Ltd. is developing tools for developers to test and evaluate their artificial intelligence applications, and it has just gotten $10 million in seed funding to pursue th\u2026 [+5055 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Omen AI raises $31M to help data centers avoid costly downtime with continuous liquid coolant monitoring",
+        "description": "Data center coolant monitoring startup Omen AI Inc. is trying to fix one of the most pressing, yet little-known challenges in the artificial intelligence industry after raising $31 million in Series A funding today. The round was led by Nava Ventures and saw \u2026",
+        "url": "https://siliconangle.com/2026/06/29/omen-ai-raises-31m-help-data-centers-avoid-costly-downtime-continuous-liquid-coolant-monitoring/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-30-08-55-27.png",
+        "publishedAt": "2026-06-30T01:56:16Z",
+        "content": "Data center coolant monitoring startup Omen AI Inc. is trying to fix one of the most pressing, yet little-known challenges in the artificial intelligence industry after raising $31 million in Series \u2026 [+6333 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Etiido Uko",
+        "title": "South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance \u2014 plan includes four new fabs and HBM facilities, amid strong government support",
+        "description": "President Lee unveiled an 800 trillion won ($520B) public-private plan for four new Samsung and SK Hynix fabs, dwarfing the US CHIPS Act tenfold.",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/5xJwye5hABFYvUdMRsTh6a-2000-80.jpg",
+        "publishedAt": "2026-06-29T14:12:23Z",
+        "content": "South Korean President Lee Jae Myung on Monday, June 29, announced an 800 trillion won ($520 billion) public-private investment plan alongside Samsung Electronics and SK Hynix to expand the country's\u2026 [+5610 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "AI software development startup 8090 nabs $135M funding round",
+        "description": "Software development automation startup 8090 Solutions Inc. today announced that it has raised $135 million in funding. Salesforce Ventures led the Series A round. It was joined by Palo Alto Networks Inc. Chief Executive Nikesh Arora, Quora Inc. co-founder Ad\u2026",
+        "url": "https://siliconangle.com/2026/06/29/ai-software-development-startup-8090-nabs-135m-funding-round/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/unsplash.png",
+        "publishedAt": "2026-06-29T22:52:02Z",
+        "content": "Software development automation startup 8090 Solutions Inc. today announced that it has raised $135 million in funding.\r\nSalesforce Ventures led the Series A round. It was joined by Palo Alto Network\u2026 [+4425 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "Supreme court rules constitutional privacy protections apply to geofence warrants",
+        "description": "The U.S. supreme court today ruled that law enforcement\u2019s use of warrants to collect large amounts of cellphone location data requires privacy protections under the fourth amendment. The case centered on a bank robbery, where prosecutors relied in part on cel\u2026",
+        "url": "https://siliconangle.com/2026/06/29/supreme-court-rules-constitutional-privacy-protections-apply-geofence-warrants/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/gilles-lambert-pb_lF8VWaPU-unsplash.jpg",
+        "publishedAt": "2026-06-30T01:11:22Z",
+        "content": "The U.S. supreme court today ruled that law enforcements use of warrants to collect large amounts of cellphone location data requires privacy protections under the fourth amendment.\r\nThe case centere\u2026 [+3791 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Space launch provider Rocket Lab to buy satellite operator Iridium for $8B",
+        "description": "Rocket Lab Corp. today announced plans to acquire Iridium Communications Inc., a major satellite operator, for $8 billion in cash and stock. The companies expect to complete the transaction in mid-2027. Rocket Lab is the developer of Electron, a 60-foot launc\u2026",
+        "url": "https://siliconangle.com/2026/06/29/space-launch-provider-rocket-lab-buy-satellite-operator-iridium-8b/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Iridium.png",
+        "publishedAt": "2026-06-30T00:37:34Z",
+        "content": "Rocket Lab Corp. today announced plans to acquire Iridium Communications Inc., a major satellite operator, for $8 billion in cash and stock.\r\nThe companies expect to complete the transaction in mid-2\u2026 [+4003 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "What to expect at AWS Summit DC: Join theCUBE June 30-July 1",
+        "description": "Amazon Web Services\u2019 new mandate is turning agentic hype into practical applications for the public sector. That will be the focus of the company\u2019s upcoming event, AWS Summit Washington, D.C. Kicking off with a keynote from Dave Levy, vice president of worldw\u2026",
+        "url": "https://siliconangle.com/2026/06/29/agentic-ai-public-sector-awssummitdc/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/AWS-Summit-Washington-DC-2026.png",
+        "publishedAt": "2026-06-29T21:52:38Z",
+        "content": "Amazon Web Services new mandate is turning agentic hype into practical applications for the public sector.\r\nThat will be the focus of the companys upcoming event, AWS Summit Washington, D.C. Kicking \u2026 [+5135 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Exclusive: Agentic coding startup Baz brings code reviews to the planning stage as it extends seed funding to $17M",
+        "description": "Agentic coding startup Baz Technologies Inc. said today it\u2019s launching a new platform that sits between developers and the code bases they\u2019re working on in order to catch software vulnerabilities before they enter production workflows. The launch came as the \u2026",
+        "url": "https://siliconangle.com/2026/06/29/exclusive-agentic-coding-startup-baz-brings-code-reviews-planning-stage-extends-seed-funding-17m/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-29-07-21-33.png",
+        "publishedAt": "2026-06-29T16:00:52Z",
+        "content": "Agentic coding startup Baz Technologies Inc. said today its launching a new platform that sits between developers and the code bases theyre working on in order to catch software vulnerabilities befor\u2026 [+5326 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mark Albertson",
+        "title": "Trend spotting: HPE, Aible and Nvidia teach AI agents to spot the next big signal",
+        "description": "Many organizations today are floating in a ton of data. This is good for powering AI agents, but less favorable when it comes to identifying which signals from all of that data actually matter. The solution is AI-powered trend detection, and Hewlett Packard E\u2026",
+        "url": "https://siliconangle.com/2026/06/29/ai-agents-hpe-aible-trend-analyzer-tool-hpeaimomentum/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/HPE-Unleashed.jpg",
+        "publishedAt": "2026-06-29T17:02:04Z",
+        "content": "Many organizations today are floating in a ton of data. This is good for powering AI agents, but less favorable when it comes to identifying which signals from all of that data actually matter.\r\nThe \u2026 [+6925 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Barbara Pazur",
+        "title": "Think Twice Before Using That Unsanctioned AI App at Work",
+        "description": "So-called \"shadow AI\" can do more than cause headaches for your friends in IT.",
+        "url": "https://www.cnet.com/tech/services-and-software/shadow-ai-work-approval/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/03790fe89a0dc3f10f7e60b0ee454a7a6b5625a5/hub/2026/06/26/a051a6cc-97e8-4dde-b431-481baf171fd8/adobestock-569114739.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-06-30T11:00:50Z",
+        "content": "You know that moment when you ask ChatGPT to polish a work email or summarize meeting notes? It may seem harmless at first, but using the wrong tool or giving it the wrong information can create a mu\u2026 [+8005 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Cristian Dina",
+        "title": "China\u2019s Nexchip seeks up to $890m in Hong Kong share sale",
+        "description": "Nexchip Semiconductor is China\u2019s third-largest pure-play foundry, a sentence that until recently would not have led to a Hong Kong listing. It does now. The Hefei-based, state-backed chipmaker is seeking to raise up to HK$6.98 billion, or roughly $890 million\u2026",
+        "url": "https://thenextweb.com/news/chinas-nexchip-seeks-up-to-890m-in-hong-kong-share-sale/",
+        "urlToImage": "https://media.thenextweb.com/2026/04/nexchip-hong-kong-listing-chip.avif",
+        "publishedAt": "2026-06-30T10:21:43Z",
+        "content": "Nexchip Semiconductor is Chinas third-largest pure-play foundry, a sentence that until recently would not have led to a Hong Kong listing. It does now. The Hefei-based, state-backed chipmaker is seek\u2026 [+3574 chars]"
     },
     {
         "source": {
@@ -105,6 +352,58 @@
     },
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Dhruv Mehrotra, Joel Khalili",
+        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+        "description": "Hundreds of contractors working on a project for Meta pretended to be kids\u2014and then prompted rival chatbots like Gemini and ChatGPT to discuss high-risk subjects.",
+        "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+        "urlToImage": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/191:100/w_1280,c_limit/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg",
+        "publishedAt": "2026-06-29T21:49:26Z",
+        "content": "Hundreds of contractors working on a project for Meta were instructed to pose as minors online and probe how competitor chatbots responded to prompts involving suicide, sex, eating disorders, and oth\u2026 [+3787 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Cristian Dina",
+        "title": "RELX lines up another \u00a3100M buyback as its 2026 repurchases roll on",
+        "description": "RELX does not make headlines the way a chip foundry or an AI lab does, which is rather the point of the business. It sells data, analytics, and the dull certainty of recurring revenue, and it returns the proceeds to shareholders on a metronome. The latest bea\u2026",
+        "url": "https://thenextweb.com/news/relx-100-million-share-buyback-july/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/RELX.avif",
+        "publishedAt": "2026-06-29T13:33:35Z",
+        "content": "RELX does not make headlines the way a chip foundry or an AI lab does, which is rather the point of the business. It sells data, analytics, and the dull certainty of recurring revenue, and it returns\u2026 [+2890 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "Taiwan\u2019s drone defence debate heats up as opposition pushes rival plan",
+        "description": "The opposition KMT is proposing NT$240bn for unmanned systems just days after stalling the government\u2019s plan, in a fight with real implications for the island\u2019s defence. Few militaries have watched the war in Ukraine more closely than Taiwan\u2019s, and the lesson\u2026",
+        "url": "https://thenextweb.com/news/taiwan-drone-defense-budget-debate/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/Taiwan-flag.avif",
+        "publishedAt": "2026-06-30T11:16:07Z",
+        "content": "The opposition KMT is proposing NT$240bn for unmanned systems just days after stalling the governments plan, in a fight with real implications for the islands defence.\r\nFew militaries have watched th\u2026 [+3858 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Darius Popa",
+        "title": "Apple says it is shipping security updates early as AI speeds up hacking",
+        "description": "For years Apple released most of its security fixes the way it releases everything else, on a schedule, bundled into the next big version of iOS and delivered when the company was ready rather than when the flaw was found. That timetable now has a new constra\u2026",
+        "url": "https://thenextweb.com/news/apple-early-security-updates-ai/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/apple-lobbying-us-approval-cxmt-blacklisted-memory-chips.avif",
+        "publishedAt": "2026-06-30T09:37:16Z",
+        "content": "For years Apple released most of its security fixes the way it releases everything else, on a schedule, bundled into the next big version of iOS and delivered when the company was ready rather than w\u2026 [+3390 chars]"
+    },
+    {
+        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
@@ -121,12 +420,12 @@
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short | TechCrunch",
-        "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\u201d",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
-        "publishedAt": "2026-06-28T19:05:39Z",
-        "content": "Ford executives said they have hired 350 veteran engineers some of them were former employees, while others had been working at suppliers after artificial intelligence and automated systems failed to\u2026 [+1049 chars]"
+        "author": "Anna Heim",
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility | TechCrunch",
+        "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
+        "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
+        "publishedAt": "2026-06-30T02:34:39Z",
+        "content": "Base44, the vibe coding platform that Wix acquired for $80 million just one year ago when the company was barely six moths old and had a team of eight has started rolling out its own AI model to supp\u2026 [+4732 chars]"
     }
 ]

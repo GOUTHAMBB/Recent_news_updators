@@ -1,32 +1,6 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "lvaranasi@businessinsider.com (Lakshmi Varanasi)",
-        "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-        "description": "Apple sued OpenAI on Friday, accusing the AI startup of orchestrating a campaign to steal trade secrets from iPhone maker.",
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a52a04ddaf4d560957bfd06?width=1200&format=jpeg",
-        "publishedAt": "2026-07-11T20:23:05Z",
-        "content": "The AI talent war may now be worthy of a Hollywood adaptation.\r\nIn a new lawsuit that reads like a corporate crime thriller, Apple accused OpenAI of poaching former Apple employees, conducting \"show \u2026 [+8126 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sheryl Estrada",
-        "title": "Why the 2026 IPO boom is about to broaden beyond AI mega-deals",
-        "description": "After SpaceX\u2019s record IPO, investors are starting to eye new sectors.",
-        "url": "https://fortune.com/2026/07/11/why-2026-ipo-boom-broaden-beyond-ai-mega-deals/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280561039.jpg?resize=1200,600",
-        "publishedAt": "2026-07-11T08:00:00Z",
-        "content": "After a first half of 2026 dominated by blockbuster AI, semiconductor, and space IPOs, the market is entering a new phase. Strategists say the back half is shaping up as a rebalancing: mid-cap and ov\u2026 [+3358 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -43,12 +17,25 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Nicholas Gordon",
-        "title": "How SK Hynix just pulled off the second-largest U.S. share sale by quietly powering the AI boom",
-        "description": "With a $26.5 billion Nasdaq debut, the South Korean manufacturer caps off a long, strange path from memory-chip also-ran to AI powerhouse",
-        "url": "https://fortune.com/2026/07/11/sk-hynix-us-stock-listing-nasdaq-second-largest-us-share-sale-ai-boom-hbw-memory/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284869101-e1783697903997.jpg?resize=1200,600",
-        "publishedAt": "2026-07-11T09:00:00Z",
-        "content": "SK Hynix, the worlds leading manufacturer of high-bandwidth memory, debuted on the Nasdaq yesterday, after raising $26.5 billion in the largest U.S. listing ever by a foreign company and the second-l\u2026 [+9264 chars]"
+        "author": "Angelica Ang",
+        "title": "\u2018Without our money, people will struggle\u2019: Muangthai Capital\u2019s new CEO Parithad Petampai defends the role of microfinance in Thailand",
+        "description": "Parithad became CEO last August after a court deemed the previous occupant\u2014his father, Chuchat Patcharachai\u2014as legally incapacitated.",
+        "url": "https://fortune.com/2026/07/13/muangthai-ceo-parithad-petampai-thailand-microfinance/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-968046510.jpg?resize=1200,600",
+        "publishedAt": "2026-07-13T06:57:57Z",
+        "content": "Parithad Petampai wasnt sure hed be ready to take over the CEO role at Muangthai Capital, Thailands largest microlender. Parithads parentshis father Chuchat Patcharachai and his mother Daonapa Petamp\u2026 [+6226 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Diane Brady",
+        "title": "The escalating U.S.\u2013Iran war is rewriting the CEO playbook again",
+        "description": "Also: All the news and watercooler chat from Fortune.",
+        "url": "https://fortune.com/2026/07/13/us-iran-war-ceo-playbook/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284745834-e1783931429197.jpg?resize=1200,600",
+        "publishedAt": "2026-07-13T08:40:42Z",
+        "content": "Good morning. If you thought geopolitical risk was fading from your strategic planning picture, think again. The U.S.Iran war escalated over the weekend, and crude prices are already reacting. Heres \u2026 [+4684 chars]"
     }
 ]

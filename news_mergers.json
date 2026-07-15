@@ -1,16 +1,107 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Alistair Barr",
+        "title": "OpenAI is breaking Silicon Valley's unwritten code. That's why Apple is so angry.",
+        "description": "OpenAI is defying Silicon Valley's oldest playbook, helping explain why Apple is fighting so hard.",
+        "url": "https://www.businessinsider.com/openai-breaking-silicon-valley-unspoken-rule-apple-talent-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a55729cee481f523866decd?width=1200&format=jpeg",
+        "publishedAt": "2026-07-14T09:00:02Z",
+        "content": "OpenAI CEO Sam AltmanKevin Dietsch/Getty Images\r\n<ul><li>OpenAI refuses to play by Silicon Valley's unspoken rule.</li><li>In Facebook's early days, Sheryl Sandberg pushed back in similar ways.</li><\u2026 [+6290 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lara O'Reilly,Sydney Bradley,Lucia Moses",
+        "title": "Meta is pushing AI ads hard \u2014 and causing chaos for brands",
+        "description": "Meta has inserted a slew of AI features into its ad products. Brands say the tools are clunky and generate misrepresentations and absurdities.",
+        "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a51705adaf4d560957bfac7?width=1200&format=jpeg",
+        "publishedAt": "2026-07-13T14:16:39Z",
+        "content": "Meta is pushing advertisers to use its AI tools and results are proving chaotic: strangely twisted limbs, gibberish writing, or entirely changed products.\r\nMeta's response to brands: That's on you, n\u2026 [+8264 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "Iran closes Strait of Hormuz. SK Hynix loses IPO gains. Bank earnings up next",
+        "description": "The U.S. and Iran returned to the brink of full-on war, with Iranian forces hitting American facilities and saying the Strait of Hormuz was closed again",
+        "url": "https://qz.com/kospi-iran-strait-hormuz-sk-hynix-wall-street-071326",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/F2A4425A5127AA191EE1A379EB95DE899DFEC9E302EA73732A0E7221D7701999/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fb385efaaced39e78279e2fcb3f1b43fd",
+        "publishedAt": "2026-07-13T11:34:10Z",
+        "content": "Global markets slid Monday after Iran declared the Strait of Hormuz closed following a weekend of airstrikes between Tehran and Washington. South Korea's Kospi fell close to 9%, dragged by a 15% coll\u2026 [+1991 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Paul Iddon, Senior Contributor, \n Paul Iddon, Senior Contributor\n https://www.forbes.com/sites/pauliddon/",
+        "title": "S-400 Acquisition Will Give UAE Most Diversified Air Defense In Region",
+        "description": "Any timely transfer of ex-Turkish S-400s to the UAE would further reinforce its status as possessing the most diversified air defense in the region and even worldwide.",
+        "url": "https://www.forbes.com/sites/pauliddon/2026/07/13/s-400-acquisition-will-give-uae-most-diversified-air-defense-in-region/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63f5f5b596635d86e8d51cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-13T15:20:23Z",
+        "content": "S-400 surface-to-air missile launcher is seen at 'ARMY-2019 International Military and Technical Forum' in Moscow, Russia on June 25, 2019. (Photo by Sefa Karacan/Anadolu Agency/Getty Images)\r\nGetty \u2026 [+8498 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
+        "title": "Elon Musk\u2019s Fortune Falls Below $900 Billion As SpaceX Slide Worsens",
+        "description": "Wall Street remains overwhelmingly bullish on Musk\u2019s rocket maker, despite its stock pulling back sharply.",
+        "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/elon-musks-fortune-falls-below-900-billion-as-spacex-slide-worsens/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a1090b7bde9619e1f0cb1e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-13T16:19:54Z",
+        "content": "Elon Musks net worth dipped below $900 billion on Monday as shares in his SpaceX slid toward their initial public offering price, even as analysts remain overwhelmingly bullish on the rocket maker.\r\n\u2026 [+2079 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jim Edwards",
-        "title": "James Murdoch may have reaped as much as $7.5 billion from his pre-IPO investment in Elon Musk\u2019s SpaceX",
-        "description": "His early bet on the rocket company has likely made him much richer than his father Rupert Murdoch ever did.",
-        "url": "https://fortune.com/2026/07/12/james-murdoch-7-5-billion-ipo-elon-musk-spacex/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2267145665.jpg?resize=1200,600",
-        "publishedAt": "2026-07-12T10:31:29Z",
-        "content": "James Murdoch appears poised to reap a fortune from his investments in SpaceX that could far exceed what he gained from his fathers media empire.James, the estranged 53-year-old son of Rupert Murdoch\u2026 [+7564 chars]"
+        "author": "Marco Quiroz-Gutierrez",
+        "title": "Elon Musk and Sam Altman are accusing each other of scamming investors as SpaceX and OpenAI jockey to lead AI revolution",
+        "description": "A social media fight erupted after their companies launched competing AI models one day apart.",
+        "url": "https://fortune.com/2026/07/13/elon-musk-sam-altman-feud-scam-accusations-spacex-openai-ipos-grok-gpt-apple-lawsuit/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-491588398-1-e1783970627915.jpg?resize=1200,600",
+        "publishedAt": "2026-07-13T19:42:06Z",
+        "content": "Elon Musk and Sam Altman have renewed their billionaire brawl as both seek to sell investors on their own vision of the AI revolution.The longstanding feud between the OpenAI cofounders reignited ove\u2026 [+4351 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Bill Hochberg, Contributor, \n Bill Hochberg, Contributor\n https://www.forbes.com/sites/williamhochberg/",
+        "title": "How Major Labels Are Eating The Indies\u2019 Share Of The Record Biz",
+        "description": "Major labels are hungry for a bigger slice of global recording revenue and the indie sector \u2013 now one-third of the total \u2013 is where they're hunting for it.",
+        "url": "https://www.forbes.com/sites/williamhochberg/2026/07/14/how-major-labels-are-eating-the-indies-share-of-the-record-biz/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a53c1492ed25d8e067f4c4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-14T10:00:00Z",
+        "content": "An excited adult man gets ready to take a bite out of a ridiculously large slice of pepperoni pizza, a look of excitement and joy on his face. Horizontal image with copy space.\r\ngetty\r\nMajor music la\u2026 [+6326 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "sobrient@insider.com (Samuel O'Brient)",
+        "title": "Retail traders are 'a different beast' in 2026 as they flee tech winners and rush to take profits",
+        "description": "Retail traders are behaving differently this year, picking winners and losers among tech favorites and showing more willingness to sell their holdings",
+        "url": "https://www.businessinsider.com/retail-traders-tesla-nvidia-elon-musk-spacex-tsla-nvda-spcx-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a552c6b80a5c1b5dc310029?width=1200&format=jpeg",
+        "publishedAt": "2026-07-13T18:20:56Z",
+        "content": "It's not as catchy as \"buy the dip\" or \"sell the rip\", but \"picking winners and losers and opportunistically taking profits\" might be the most succinct description of what retail traders are up to in\u2026 [+3011 chars]"
     },
     {
         "source": {
@@ -30,6 +121,19 @@
             "id": "fortune",
             "name": "Fortune"
         },
+        "author": "Ruth Umoh",
+        "title": "TIAA\u2019s CEO shares her advice for separating your personal identity from your title",
+        "description": "TIAA\u2019s CEO shares the mindset that helps her separate her personal identity from her CEO position",
+        "url": "https://fortune.com/article/tiaa-ceo-thasunda-duckett-identity-character-title/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1954686511.jpg?resize=1200,600",
+        "publishedAt": "2026-07-13T11:28:20Z",
+        "content": "For executives with C-suite ambitions, the question is often how to earn the title. TIAA CEO Thasunda Duckett argues the more consequential challenge is ensuring the title never becomes the center of\u2026 [+3981 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
         "author": "Diane Brady",
         "title": "The escalating U.S.\u2013Iran war is rewriting the CEO playbook again",
         "description": "Also: All the news and watercooler chat from Fortune.",
@@ -37,5 +141,57 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284745834-e1783931429197.jpg?resize=1200,600",
         "publishedAt": "2026-07-13T08:40:42Z",
         "content": "Good morning. If you thought geopolitical risk was fading from your strategic planning picture, think again. The U.S.Iran war escalated over the weekend, and crude prices are already reacting. Heres \u2026 [+4684 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Evelyn Cheng",
+        "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+        "description": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
+        "url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333790-1783901895793-20260703_101521_limx.jpg?v=1783902013&w=1920&h=1080",
+        "publishedAt": "2026-07-14T00:31:01Z",
+        "content": "BEIJING Humanoid startup LimX Dynamics is getting ready to go public, just over four years after it was founded during the pandemic.\r\n\"Listing is a must,\" said founder Will Zhang, emphasizing the imp\u2026 [+2391 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "jsor@businessinsider.com (Jennifer Sor)",
+        "title": "The US stock market's hottest new offerings are having a rough go",
+        "description": "SK Hynix is the latest example of buzzy new offering struggling after its trading debut. ADRs of the Korean chip maker plunged on Monday.",
+        "url": "https://www.businessinsider.com/stock-market-skhy-adrs-spcx-cbrs-ipo-calendar-ai-tech-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a54f4889d0a41df475c98d2?width=1200&format=jpeg",
+        "publishedAt": "2026-07-13T16:50:14Z",
+        "content": "Some of the hottest new listings are having trouble keeping the momentum going after much-hyped debuts. \r\nSK Hynix is the latest example of a stock struggling after a splashy initial offering. While \u2026 [+2666 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jim Edwards",
+        "title": "Ships go dark as the clock runs out on Trump\u2019s \u2018undeclared naval war\u2019 in the Strait of Hormuz",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/07/13/ships-go-dark-clock-runs-out-trump-undeclared-naval-war-strait-of-hormuz/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2262945760.jpg?resize=1200,600",
+        "publishedAt": "2026-07-13T10:16:28Z",
+        "content": "Would you prefer to receive this information in your email inbox every morning before the markets open in New York? Sign up here.ONE BIG THING\r\nShips go dark in \"undeclared naval war\" in the Strait o\u2026 [+8374 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leonie Kidd",
+        "title": "CNBC Daily Open: The Hormuz blockade is back and Trump is tolling",
+        "description": "Oil markets reel as President Trump revives his naval blockade in the Strait of Hormuz and demands a 20% toll charge.",
+        "url": "https://www.cnbc.com/2026/07/14/cnbc-daily-open-hormuz-blockade-iran-trump-oil-tolls.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334226-1783968245820-108334226-1783966848473-260630-N-D0477-1132.jpg?v=1783968258&w=1920&h=1080",
+        "publishedAt": "2026-07-14T06:02:18Z",
+        "content": "U.S. Navy warships transit the Arabian Sea in close formation as CENTCOM forces continue to promote regional security and stability, June 30, 2026.\r\nHello, this is Leonie Kidd coming to you from Lond\u2026 [+3668 chars]"
     }
 ]

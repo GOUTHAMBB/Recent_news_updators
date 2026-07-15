@@ -1,16 +1,42 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, Peggy Weil",
+        "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+        "description": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+        "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+        "urlToImage": "https://media.wired.com/photos/6a50305c2d9a50a68798f001/191:100/w_1280,c_limit/inventing_eliza_chatbot_book.jpg",
+        "publishedAt": "2026-07-14T10:00:00Z",
+        "content": "In the 60 years that ELIZA has been influencing computation and culture, conventional accounts portray it as the earliest example of what we now call chatbots, one that could converse as an automated\u2026 [+4520 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "Alex Valdes",
-        "title": "Back-to-School Shoppers Are Using More Tech Tools but Buying Fewer Tech Goods",
-        "description": "A survey found that parents are increasingly going online to find deals in a tough economy.",
-        "url": "https://www.cnet.com/tech/computing/back-to-school-shoppers-buying-less-tech/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/ca0e77778003740c1f5cc3931553744f38116254/hub/2024/07/30/76c7b206-aa73-4b0a-9aef-9306985d2907/gettyimages-1302654529.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-07-12T21:13:32Z",
-        "content": "Back to school doesn't mean back to tech upgrades. As inflation rises without wage growth matching it, and consumer confidence worsens, parents are going online more to find deals, even if they aren'\u2026 [+3857 chars]"
+        "author": "Omar Gallaga",
+        "title": "Apple Is Reportedly Accelerating Chip Releases Due to AI Pressure",
+        "description": "According to a report, the company plans to skip higher-performance versions of some of its processors along the way.",
+        "url": "https://www.cnet.com/tech/computing/apple-chip-releases-m6-m7-m8-ai-timeline/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/5597755d16c7e46e1067c55a5ac1207af9dd89aa/hub/2025/10/21/5fbd088e-245d-48b2-b744-9a7b4a3b40b2/apple-macbook-pro-14-m5-7785.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-13T21:05:14Z",
+        "content": "Apple is changing the way it will handle the release of its next flagship M processors going forward, according to a report from Bloomberg's Power On newsletter.\r\nPower On author Mark Gurman wrote th\u2026 [+3159 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Antuan Goodwin",
+        "title": "Waze Gets a 'Less Chatty' Update, Personalized Routes",
+        "description": "The update also expands Gemini-powered voice search and reporting -- though a new motorcycle mode skips the US for now.",
+        "url": "https://www.cnet.com/roadshow/news/new-less-chatty-waze-update-personalized-routes-roll-out-globally/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/16920489267d9f6b9fc3ab45954eb98486d488fd/hub/2020/08/13/dfd28e8d-ee92-47c7-91d3-34e66b149472/logolockup-02-04.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-13T22:00:48Z",
+        "content": "Waze, Google's other navigation app, has announced a batch of updates this week that will make it \"less chatty,\" encourage drivers to talk more and personalize your most frequently driven routes. In \u2026 [+3669 chars]"
     },
     {
         "source": {
@@ -28,28 +54,171 @@
     {
         "source": {
             "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "James O'Donnell",
+        "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
+        "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Anthropic\u2014currently the world\u2019s most valuable AI company, with a nearly $1 trillion valuation\u2014has a reputation for publis\u2026",
+        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "publishedAt": "2026-07-13T18:00:00Z",
+        "content": "One niche that Anthropic spends more time and money on than other AI companies is called mechanistic interpretability, which means looking inside the complex math of an AI model to learn why it comes\u2026 [+2479 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Even Nvidia\u2019s head of automotive fights with Nvidia for compute",
+        "description": "Today, I\u2019m talking with Xinzhou Wu, who is the head of automotive at Nvidia.\u00a0 Nvidia is obviously in the news constantly because of the AI boom \u2014 it\u2019s one of the most valuable companies in the world, because the AI industry can\u2019t get enough of the company\u2019s G\u2026",
+        "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_20260713_XinzhouWu.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-13T14:17:48Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nXinzhou Wu on autonomy, Chinese cars, and if we really need lidar\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+58211 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Justin Carter",
-        "title": "Christopher Nolan Has No Time for \u2018The Odyssey\u2019 Backlash or GenAI",
-        "description": "All Nolan wants is for people to see 'The Odyssey' with an open mind and recognize the sincere effort on display.",
-        "url": "https://gizmodo.com/christopher-nolan-has-no-time-for-the-odyssey-backlash-or-genai-2000784424",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Odyssey-Christopher-Nolan-2-1200x675.jpg",
-        "publishedAt": "2026-07-12T14:45:00Z",
-        "content": "As part of the ongoing press circuit for\u00a0The Odyssey,\u00a0director Christopher Nolan is speaking his mind on some topics.\r\nFirst and foremost is the \u201ccasting controversy\u201d drummed up by racists and transp\u2026 [+2670 chars]"
+        "author": "Raymond Wong",
+        "title": "Apple F*cking Did It: One Month With Siri AI",
+        "description": "The new Siri AI is a quiet game-changer.",
+        "url": "https://gizmodo.com/apple-fcking-did-it-one-month-with-siri-ai-2000784845",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3-1200x675.jpg",
+        "publishedAt": "2026-07-13T21:55:59Z",
+        "content": "The first public beta for iOS 27 is now available for download, which means if you have a supported iPhone, you can try out the new Siri AI before it officially rolls out this fall.\r\nThis public beta\u2026 [+9415 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mark Albertson",
-        "title": "Faith Tech: Pat Gelsinger steers Gloo\u2019s platform to lead faith-based organizations into the age of AI",
-        "description": "After eight years as the chief executive of VMware Inc. and nearly four more leading Intel Corp., Pat Gelsinger suddenly found himself retired. Then the phone rang. \u201cLess than two seconds after the Intel departure was announced, Scott called,\u201d Gelsinger (pict\u2026",
-        "url": "https://siliconangle.com/2026/07/12/faith-tech-pat-gelsinger-steers-gloos-platform-lead-faith-based-organizations-age-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Pat-Gelsinger.jpg",
-        "publishedAt": "2026-07-12T15:23:21Z",
-        "content": "After eight years as the chief executive of VMware Inc. and nearly four more leading Intel Corp., Pat Gelsinger suddenly found himself retired. Then the phone rang.\r\nLess than two seconds after the I\u2026 [+10651 chars]"
+        "author": "Maria Deutscher",
+        "title": "Meta boosts investment in Hyperion data center campus to $50B+",
+        "description": "Meta Platforms Inc. today announced plans to significantly expand the scope of its Hyperion data center project. The Facebook parent is seeking to build a sprawling artificial intelligence hub in Richland Parish, Louisiana. When Meta first disclosed the initi\u2026",
+        "url": "https://siliconangle.com/2026/07/13/meta-boosts-investment-hyperion-data-center-campus-50b/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Meta-3.png",
+        "publishedAt": "2026-07-14T00:59:37Z",
+        "content": "Meta Platforms Inc. today announced plans to significantly expand the scope of its Hyperion data center project.\r\nThe Facebook parent is seeking to build a sprawling artificial intelligence hub in Ri\u2026 [+3745 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Prominent economists, tech executives call for new regulatory approach to AI",
+        "description": "A group of economists and tech industry figures has called on policymakers to more directly address the risks posed by artificial intelligence. The signatories outlined their concerns in a public letter published today. The initiative was organized by economi\u2026",
+        "url": "https://siliconangle.com/2026/07/13/prominent-economists-tech-executives-call-new-regulatory-approach-ai/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Unsplash2.png",
+        "publishedAt": "2026-07-13T20:49:03Z",
+        "content": "A group of economists and tech industry figures has called on policymakers to more directly address the risks posed by artificial intelligence.\r\nThe signatories outlined their concerns in a public le\u2026 [+3952 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Spatial AI startup Augmodo raises $21M to expand beyond retail stores",
+        "description": "Spatial artificial intelligence startup Augmodo Inc. said today it has raised $21 million in an impromptu funding round that lifts its valuation to $350 million. TQ Ventures served as the lead investors, with participation from Lerer Hippeau, Jefferson River \u2026",
+        "url": "https://siliconangle.com/2026/07/13/spatial-ai-startup-augmodo-raises-21m-expand-beyond-retail-stores/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-14-06-29-31.png",
+        "publishedAt": "2026-07-13T23:34:22Z",
+        "content": "Spatial artificial intelligence startup Augmodo Inc. said today it has raised $21 million in an impromptu funding round that lifts its valuation to $350 million. TQ Ventures served as the lead invest\u2026 [+5094 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Ty Pendlebury",
+        "title": "Smartphone Shipments Crash to 13-Year Low Due to RAMageddon",
+        "description": "The memory shortage is likely to lead to fewer budget devices and more refurbished models, a report says, as Apple and Samsung gain market share.",
+        "url": "https://www.cnet.com/tech/mobile/smartphone-shipments-13-year-low-ramageddon-chip-shortage/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/77276e55a7045b91e2357897f6f60915d71e02ec/hub/2026/06/22/46c3f5a5-4a71-4d8e-a21f-27ce3a36d4b0/find-x9-ultra-vs-leitzphone-7.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-13T21:32:17Z",
+        "content": "Global smartphone shipments just got kneecapped, falling by 11% over the past three months to the lowest levels since 2013. The memory-chip shortage is to blame for pushing up prices and squeezing de\u2026 [+2023 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Cloudflare launches Precursor to catch bots by watching entire sessions",
+        "description": "Cloudflare Inc. today opened general availability for Precursor, a bot detection system that tracks how a visitor behaves across an entire browsing session instead of testing them once on arrival. Precursor runs inside the browser. It streams interaction sign\u2026",
+        "url": "https://siliconangle.com/2026/07/13/cloudflare-launches-precursor-catch-bots-watching-entire-sessions/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/cloudflareprecursor.png",
+        "publishedAt": "2026-07-13T13:00:17Z",
+        "content": "Cloudflare Inc. today opened general availability for Precursor, a bot detection system that tracks how a visitor behaves across an entire browsing session instead of testing them once on arrival.\r\nP\u2026 [+3955 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Defense technology startup Helsing raises $1.8B at $18B valuation",
+        "description": "German defense technology startup Helsing SE today announced that it has closed a $1.8 billion Series E investment. The capital was provided by a group of 10 new and returning investors. JPMorganChase, General Catalyst, Lightspeed and Iconiq were among the pa\u2026",
+        "url": "https://siliconangle.com/2026/07/13/defense-technology-startup-helsing-raises-1-8b-18b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Helsing.jpg",
+        "publishedAt": "2026-07-13T23:21:22Z",
+        "content": "German defense technology startup Helsing SE today announced that it has closed a $1.8 billion Series E investment.\r\nThe capital was provided by a group of 10 new and returning investors. JPMorganCha\u2026 [+4418 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "DeepSeek\u2019s Liang Wenfeng overtakes Amodei and Brockman as AI\u2019s richest founder",
+        "description": "Liang Wenfeng is now the wealthiest founder in artificial intelligence, according to the Bloomberg Billionaires Index, which revalued his stake in DeepSeek on 13 July and added roughly $19bn to his fortune overnight. His net worth is put at about $36bn, up fr\u2026",
+        "url": "https://thenextweb.com/news/liang-wenfeng-richest-ai-founder-deepseek-valuation/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Liang-Wenfeng.avif",
+        "publishedAt": "2026-07-14T08:59:33Z",
+        "content": "Liang Wenfeng is now the wealthiest founder in artificial intelligence, according to the Bloomberg Billionaires Index, which revalued his stake in DeepSeek on 13 July and added roughly $19bn to his f\u2026 [+3756 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "EU paves way for social media for children",
+        "description": "The European Union today moved closer to a ban on social media for children across its 27 member states in what will become the most meaningful effort so far to protect young people from the dangers of spending too much time online. Ursula von der Leyen, the \u2026",
+        "url": "https://siliconangle.com/2026/07/13/eu-paves-way-social-media-children/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/sanket-mishra-R7aBdi5OHtA-unsplash.jpg",
+        "publishedAt": "2026-07-14T01:44:50Z",
+        "content": "The European Union today moved closer to a ban on social media for children across its 27 member states in what will become the most meaningful effort so far to protect young people from the dangers \u2026 [+3601 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "EU paves way for banning social media for children",
+        "description": "The European Union today moved closer to a ban on social media for children across its 27 member states in what will become the most meaningful effort so far to protect young people from the dangers of spending too much time online. Ursula von der Leyen, the \u2026",
+        "url": "https://siliconangle.com/2026/07/13/eu-paves-way-banning-social-media-children/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/sanket-mishra-R7aBdi5OHtA-unsplash.jpg",
+        "publishedAt": "2026-07-14T01:44:50Z",
+        "content": "The European Union today moved closer to a ban on social media for children across its 27 member states in what will become the most meaningful effort so far to protect young people from the dangers \u2026 [+3616 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Brandon Vigliarolo",
+        "title": "Sticker shock has execs rethinking this whole AI thing",
+        "description": "This week on The Reg's Kettle podcast, we wonder whether tokenminning is going to bring the industry back down to Earth",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sticker-shock-has-execs-rethinking-this-whole-ai-thing-1/5270073",
+        "urlToImage": "https://image.theregister.com/260052.jpg?imageId=260052&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-13T14:16:00Z",
+        "content": "KETTLE Like a drug dealer who's hooked you and raised their prices, business leaders are simply shocked to learn the AI their organizations are becoming dependent on is suddenly a lot more expensive.\u2026 [+20159 chars]"
     },
     {
         "source": {
@@ -63,6 +232,19 @@
         "urlToImage": "https://media.thenextweb.com/2025/03/Untitled-design-44.avif",
         "publishedAt": "2026-07-13T09:38:23Z",
         "content": "Xi Jinping will attend the opening ceremony of the 2026 World Artificial Intelligence Conference in Shanghai and deliver a keynote speech, a Chinese foreign ministry spokesperson\u00a0announced on Monday.\u2026 [+3834 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Katelyn Chedraoui",
+        "title": "Meta Pulls Instagram AI Update After Everyone Said They Didn't Want to Be Deepfaked",
+        "description": "\"We've heard the feedback that this feature missed the mark,\" Meta wrote in a blog post.",
+        "url": "https://www.cnet.com/tech/services-and-software/meta-pulls-instagram-ai-deepfake-update-backlash-news/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/aa678952deba07f707285a229f4a739bb3ebf881/hub/2026/07/13/45b5adb8-b642-4cbb-bfe8-e13400216162/adobestock-2066132863-editorial-use-only.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-13T13:43:52Z",
+        "content": "After intense user backlash last week, Meta pulled the most troubling part of its newest AI update on Instagram. You will no longer be easily able to create deepfakes of other Instagram users.\r\n\"We'v\u2026 [+1330 chars]"
     },
     {
         "source": {
@@ -80,15 +262,28 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "Theregister.com"
         },
-        "author": "Etiido Uko",
-        "title": "Ireland\u2019s data centers consumed nearly as much electricity as every home in the country combined in 2025 \u2014 server farms gulped 23% of national power despite years of grid restrictions",
-        "description": "Ireland\u2019s data centers consumed 23% of the country\u2019s electricity in 2025, rising 10% in one year despite restrictions on new grid connections.",
-        "url": "https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y3oTnzWpqVWpTpwua8KH7Q-1920-80.jpg",
-        "publishedAt": "2026-07-12T15:12:09Z",
-        "content": "Data centers accounted for 23% of Ireland's total electricity consumption in 2025, according to data released by the country's Central Statistics Office last week. The report revealed that data cente\u2026 [+4200 chars]"
+        "author": "Brandon Vigliarolo",
+        "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
+        "description": "Lock it down, warns Satya Nadella, seemingly forgetting the billions Redmond chipped in to OpenAI back in the good old days",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+        "urlToImage": "https://image.theregister.com/5270652.jpg?imageId=5270652&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-13T17:20:00Z",
+        "content": "Seemingly unaware of the concept of irony, Satya Nadella is warning AI-using enterprises to take care not to give away their business secrets alongside the massive piles of cash theyre forking over t\u2026 [+5121 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "The price is wrong: AI cost calculation has to consider task completion rates, not just token costs",
+        "description": "Cheap can be expensive",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/13/the-price-is-wrong-ai-cost-calculation-has-to-consider-task-completion-rates-not-just-token-costs/5270683",
+        "urlToImage": "https://image.theregister.com/5270706.jpg?imageId=5270706&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-13T19:26:24Z",
+        "content": "When it comes to AI services, you don't necessarily get what you pay for.\r\nIt turns out that AI models with expensive tokens may cost less than models with cheap tokens for particular tasks. And the \u2026 [+3240 chars]"
     },
     {
         "source": {
@@ -96,12 +291,64 @@
             "name": "The Next Web"
         },
         "author": "Ana Maria Constantin",
-        "title": "Cure cancer, cage the chatbots: Congress\u2019s contradictory week on AI",
-        "description": "In the space of about ten days, US lawmakers introduced a small mountain of artificial-intelligence legislation. The bills, rounded up by\u00a0Nextgov/FCW, pull in two opposite directions at once. One set treats AI as a tool the government should be deploying fast\u2026",
-        "url": "https://thenextweb.com/news/cure-cancer-cage-the-chatbots-congresss-contradictory-week-on-ai/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/congress-ai-bills-week-chatbots-cancer-labelling.avif",
-        "publishedAt": "2026-07-12T14:03:05Z",
-        "content": "TL;DR\r\nUS lawmakers introduced a cluster of AI bills in the days around 4 July, pulling in two directions at once. Some would deploy AI for paediatric cancer research, tax-fraud detection, border sur\u2026 [+4603 chars]"
+        "title": "Nvidia builds a white list: more than half of its Asian customers are off it",
+        "description": "Nvidia has more than halved the number of customers in Asia cleared to buy its artificial intelligence chips, according to the Financial Times, which cited three people with knowledge of the matter. The company has built a new white list of approved regional \u2026",
+        "url": "https://thenextweb.com/news/nvidia-halves-asia-buyer-list-china-crackdown/",
+        "urlToImage": "https://media.thenextweb.com/2026/03/NVIDIA-is-reportedly-building-an-enterprise-AI-agent-platform.avif",
+        "publishedAt": "2026-07-14T07:17:09Z",
+        "content": "Nvidia has more than halved the number of customers in Asia cleared to buy its artificial intelligence chips, according to the Financial Times, which cited three people with knowledge of the matter.\r\u2026 [+3719 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Joab Jackson",
+        "title": "Zig creator calls Bun\u2019s Claude Rust rewrite \u2018unreviewed slop\u2019",
+        "description": "The port took just 11 days and about $165,000 at API pricing",
+        "url": "https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743",
+        "urlToImage": "https://image.theregister.com/5270789.jpg?imageId=5270789&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-13T23:21:17Z",
+        "content": "An AI rewrite of a popular Anthropic-owned JavaScript runtime and toolchain has sparked praise for the speed of its execution, but also criticism of the coding practices behind the project itself.\u00a0\r\n\u2026 [+5511 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Masayoshi Son says AI will cost $5tn a year by 2040, and calls bubble talk absurd",
+        "description": "\u201cEvery year $5 trillion, or 800 trillion yen, you might think that\u2019s a lie, but I am confident that\u2019s what it will cost.\u201d That was Masayoshi Son on Tuesday, at SoftBank\u2019s annual corporate conference in Tokyo,\u00a0telling the room what building artificial intellig\u2026",
+        "url": "https://thenextweb.com/news/masayoshi-son-ai-5-trillion-year-2040-bubble/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/Masayoshi-Son.avif",
+        "publishedAt": "2026-07-14T08:13:10Z",
+        "content": "Every year $5 trillion, or 800 trillion yen, you might think thats a lie, but I am confident thats what it will cost. That was Masayoshi Son on Tuesday, at SoftBanks annual corporate conference in To\u2026 [+3540 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Tobias Mann",
+        "title": "Zuck's AI ambitions put Meta on course to become America's next big cloud provider",
+        "description": "Renting out spare compute is simply the natural progression for any sufficiently large infra company",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/14/zucks-ai-ambitions-put-meta-on-course-to-become-americas-next-big-cloud-provider/5270758",
+        "urlToImage": "https://image.theregister.com/256736.jpg?imageId=256736&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-13T23:37:22Z",
+        "content": "Meta seems to be having a bit of an identity crisis. On Monday, the social networking singularity said it would spend $50 billion to expand its Hyperion datacenter project in Richland Parish, Louisia\u2026 [+6979 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "TNW Deals",
+        "title": "The most innovative calorie tracking apps of 2026",
+        "description": "Back in the mid-2000s, calorie and macro tracking was a niche practice. You weighed your food, looked it up in a database, and wrote down how many calories and how many grams of protein, fat, and carbohydrates you were eating each day. It was the domain of bo\u2026",
+        "url": "https://thenextweb.com/news/nnovative-calorie-tracking-apps-2026/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/innovative-calorie-tracking-apps-2026.avif",
+        "publishedAt": "2026-07-13T10:31:27Z",
+        "content": "Back in the mid-2000s, calorie and macro tracking was a niche practice. You weighed your food, looked it up in a database, and wrote down how many calories and how many grams of protein, fat, and car\u2026 [+6902 chars]"
     },
     {
         "source": {
@@ -121,25 +368,77 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Darius Popa",
-        "title": "Netflix is reportedly considering always-on channels and bundles, which is to say, cable",
-        "description": "Netflix executives have reportedly discussed adding always-on live channels to the service. The channels would run genre-based programming around the clock, all comedies or all action films, according to a Wall Street Journal report relayed by\u00a0The Verge. They\u2026",
-        "url": "https://thenextweb.com/news/netflix-always-on-channels-bundles-cable/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/netflix-always-on-channels-bundles-cable.avif",
-        "publishedAt": "2026-07-12T15:29:56Z",
-        "content": "TL;DR\r\nNetflix executives have reportedly discussed adding always-on, genre-based live channels and folding rival subscriptions such as Peacock into Netflix as billed add-on tiles, per a Wall Street \u2026 [+3345 chars]"
+        "author": "Alina Maria Stan",
+        "title": "France thinks cheap power is its AI edge. Now it must decide who plugs in",
+        "description": "France believes its cheap, low-carbon electricity is Europe\u2019s overlooked advantage in AI. A debate has now opened over that power. Should it go to homegrown AI firms, or to the American giants building data centres on French soil? When the head of Europe\u2019s bi\u2026",
+        "url": "https://thenextweb.com/news/france-energy-advantage-ai-data-centres/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Arthur-Mensch.avif",
+        "publishedAt": "2026-07-13T16:26:16Z",
+        "content": "France believes its cheap, low-carbon electricity is Europes overlooked advantage in AI. A debate has now opened over that power. Should it go to homegrown AI firms, or to the American giants buildin\u2026 [+4139 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "AI is ending older workers\u2019 careers early, and it is coming for the well-paid ones first",
+        "description": "The debate about AI and jobs has focused on graduates. New research suggests it should also be looking at people in their late fifties,\u00a0CNBC reports. Workers aged 55 and over in AI-exposed occupations are now exiting work at higher rates than before ChatGPT l\u2026",
+        "url": "https://thenextweb.com/news/ai-older-workers-careers-cut-short-research/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/ai-older-workers-careers-cut-short-research.avif",
+        "publishedAt": "2026-07-13T18:56:20Z",
+        "content": "The debate about AI and jobs has focused on graduates. New research suggests it should also be looking at people in their late fifties,\u00a0CNBC reports.\r\nWorkers aged 55 and over in AI-exposed occupatio\u2026 [+4930 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "Twelve states are suing to stop the Paramount-Warner deal that Washington already waved through",
+        "description": "A dozen states have sued to block Paramount Skydance\u2019s takeover of Warner Bros. Discovery. The suit, led by California attorney general Rob Bonta, was filed in federal court in California\u2019s Northern District,\u00a0CNBC reports. The timing is pointed. The Justice D\u2026",
+        "url": "https://thenextweb.com/news/states-sue-block-paramount-warner-bros-merger/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Paramount.avif",
+        "publishedAt": "2026-07-13T20:18:52Z",
+        "content": "A dozen states have sued to block Paramount Skydances takeover of Warner Bros. Discovery. The suit, led by California attorney general Rob Bonta, was filed in federal court in Californias Northern Di\u2026 [+4733 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Thomson Reuters is cutting engineers and hiring AI-native ones",
+        "description": "The meeting was a technology all-hands, held on Monday, and the phrase the company used afterwards was \u201ca small number of roles\u201d. The number an employee who attended gave to Reuters was up to 500. Thomson Reuters, the Canadian content and technology group tha\u2026",
+        "url": "https://thenextweb.com/news/thomson-reuters-engineering-layoffs-ai/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Thomson-Reuters.avif",
+        "publishedAt": "2026-07-14T07:27:09Z",
+        "content": "The meeting was a technology all-hands, held on Monday, and the phrase the company used afterwards was a small number of roles. The number an employee who attended gave to Reuters was up to 500.\r\nTho\u2026 [+3924 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Canada\u2019s banking regulator named Claude Mythos in a warning to banks",
+        "description": "An April email to bank technology chiefs, released under access-to-information rules, shows OSFI naming Anthropic\u2019s frontier model as a reason the window for fixing flaws is closing. Regulators do not usually name products. They write about \u201cemerging technolo\u2026",
+        "url": "https://thenextweb.com/news/osfi-canada-banks-claude-mythos-warning/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/carney-canada-ai-strategy-pope-leo.avif",
+        "publishedAt": "2026-07-14T07:11:09Z",
+        "content": "An April email to bank technology chiefs, released under access-to-information rules, shows OSFI naming Anthropics frontier model as a reason the window for fixing flaws is closing.\r\nRegulators do no\u2026 [+4359 chars]"
     },
     {
         "source": {
             "id": "wired",
             "name": "Wired"
         },
-        "author": "Isabella Ward",
-        "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-        "description": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
-        "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-        "urlToImage": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg",
-        "publishedAt": "2026-07-12T10:00:00Z",
-        "content": "Scientists have successfully shown a quantum computer can improve the accuracy and reach of generative artificial intelligence drug discovery models. And they did it using their spare time and money \u2026 [+3976 chars]"
+        "author": "Vittoria Elliott",
+        "title": "DOGE Used AI for Housing Policy. The Government Won\u2019t Say How",
+        "description": "In response to a public records request, HUD has withheld documents about DOGE\u2019s use of AI\u2014in part by citing a privilege that doesn\u2019t exist.",
+        "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+        "urlToImage": "https://media.wired.com/photos/6a54c2f2fb247c83ade3f957/191:100/w_1280,c_limit/GettyImages-2269243394.jpg",
+        "publishedAt": "2026-07-14T09:00:00Z",
+        "content": "Members of the so-called Department of Government Efficiency (DOGE) who were working at the Department of Housing and Urban Development (HUD) used artificial intelligence to inform policy decisions. \u2026 [+3431 chars]"
     }
 ]

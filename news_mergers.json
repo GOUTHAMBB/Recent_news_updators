@@ -1,42 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Entrepreneur"
-        },
-        "author": "Jonathan Small",
-        "title": "The Altman-Musk Feud Is Back: Musk Says Altman \u2018Takes Scamming to a Whole New Level,\u2019 Altman Mocks His SpaceX IPO",
-        "description": "The tech moguls took to X to rip each other apart again, this time over Apple's lawsuit and Musk's SpaceX IPO.",
-        "url": "https://www.entrepreneur.com/business-news/the-altman-musk-feud-is-back-musk-says-altman-takes-scamming-to-a-whole-new-level",
-        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/altman-v-musk-0726_g2256970160-2265991640.jpg?resize=1024,683",
-        "publishedAt": "2026-07-14T14:30:00Z",
-        "content": "Days after Apple sued OpenAI for allegedly stealing its trade secrets, Elon Musk and Sam Altman are back to beefing, the New York Post reports. Musk revived his longtime nickname for his rival on X, \u2026 [+1852 chars]"
-    },
-    {
-        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Alistair Barr",
-        "title": "OpenAI is breaking Silicon Valley's unwritten code. That's why Apple is so angry.",
-        "description": "OpenAI is defying Silicon Valley's oldest playbook, helping explain why Apple is fighting so hard.",
-        "url": "https://www.businessinsider.com/openai-breaking-silicon-valley-unspoken-rule-apple-talent-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a55729cee481f523866decd?width=1200&format=jpeg",
-        "publishedAt": "2026-07-14T09:00:02Z",
-        "content": "OpenAI CEO Sam AltmanKevin Dietsch/Getty Images\r\n<ul><li>OpenAI refuses to play by Silicon Valley's unspoken rule.</li><li>In Facebook's early days, Sheryl Sandberg pushed back in similar ways.</li><\u2026 [+6290 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "James Faris",
-        "title": "California AG says Paramount's Netflix defense misses the point",
-        "description": "Rob Bonta, California's attorney general, said he wants to keep Paramount Skydance from being able to \"dictate terms\" with movie theaters.",
-        "url": "https://www.businessinsider.com/rob-bonta-interview-paramount-wbd-lawsuit-movie-theaters-cable-tv-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a568587eae3978eb7e5dddc?width=1200&format=jpeg",
-        "publishedAt": "2026-07-14T21:05:37Z",
-        "content": "Rob Bonta is leading California and 11 other states in a lawsuit against David Ellison's Paramount Skydance.Sarah Reingewirtz/MediaNews Group/Los Angeles Daily News via Getty Images; Patrick T. Fallo\u2026 [+3541 chars]"
+        "author": "Tom Carter",
+        "title": "Blue Origin's new stock option plan comes with a catch",
+        "description": "Blue Origin's new equity plan has an unusual clause meant to retain employees tempted by SpaceX's money machine.",
+        "url": "https://www.businessinsider.com/blue-origin-new-employee-stock-option-plan-non-compete-spacex-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a578d27121f0039668a01bc?width=1200&format=jpeg",
+        "publishedAt": "2026-07-16T08:48:27Z",
+        "content": "Blue Origin has lagged behind Elon Musk's SpaceX in the race to dominate the space industry.Paul Hennesy/Anadolu via Getty Images\r\n<ul><li>Blue Origin has a new stock option plan, after a previous ve\u2026 [+6521 chars]"
     },
     {
         "source": {
@@ -53,81 +27,185 @@
     },
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Arielle Pardes",
+        "title": "San Francisco is totally unprepared for the coming wealth tsunami",
+        "description": "San Francisco has seen wealth tsunamis before. The AI boom is different.",
+        "url": "https://www.businessinsider.com/san-francisco-billionaires-anthropic-openai-wealth-gap-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a57d41b54f98752617750b9?width=1200&format=jpeg",
+        "publishedAt": "2026-07-16T08:17:01Z",
+        "content": "Say you joined Anthropic in 2024. The company offers you a competitive compensation package: a $400,000 salary and $1.3 million in equity. You're feeling pretty cush.\r\nFlash forward to July 2026. In \u2026 [+15014 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Arielle Pardes",
+        "title": "San Francisco is totally unprepared for the coming wealth tsunami",
+        "description": "San Francisco has seen wealth tsunamis before. The AI boom is different.",
+        "url": "https://www.businessinsider.com/san-francisco-billionaires-anthropic-openai-wealth-gap-2026-7",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/547931A58C115E6C6402346447756BA6C7847ADA6CA5816093A2E2FBF746A7DA/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F1d2adae2c3f5fefb7087f296e3df66fc",
+        "publishedAt": "2026-07-16T08:17:01Z",
+        "content": "The net effect is a surreal distortion of money in San Francisco. \"Depending on your position, it could be the best of times or a time of great anxiety,\" says Vijay Chattha, who owns VSC, a public re\u2026 [+12138 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Ben Bergman",
+        "title": "From 'heartburn' to $14 billion: Inside Menlo's early Anthropic investment that broke all the rules.",
+        "description": "As Anthropic prepares to go public, Menlo Ventures will be one of the biggest winners, turning an estimated $1 billion stake into around $14 billion.",
+        "url": "https://www.businessinsider.com/inside-menlos-early-anthropic-investment-that-broke-all-the-rules-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a56e2b3ee481f523866edd0?width=1200&format=jpeg",
+        "publishedAt": "2026-07-16T09:00:01Z",
+        "content": "Anthropic co-founder and CEO Dario Amodei (left) with Menlo Ventures partner Matt Murphy last year.Menlo Ventures\r\n<ul><li>As Anthropic prepares to go public later this year, Menlo Ventures will be o\u2026 [+5535 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Amy Feldman, Forbes Staff, \n Amy Feldman, Forbes Staff\n https://www.forbes.com/sites/amyfeldman/",
+        "title": "Founder Of $1 Billion Cancer Care Startup Steps Down As CEO",
+        "description": "In this week\u2019s edition of InnovationRx, Thyme Care gets new leadership, the intestinal illness spreads, Chai Discovery confirms its $400 million raise, and more.",
+        "url": "https://www.forbes.com/sites/innovationrx/2026/07/15/founder-of-1-billion-cancer-care-startup-steps-down-as-ceo/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4fd370ddbacd0979b06b12/0x0.jpg?format=jpg&crop=806,453,x296,y665,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-15T16:00:00Z",
+        "content": "In this weeks edition of InnovationRx, Thyme Care gets new leadership, the intestinal illness spreads, Chai Discovery confirms its $400 million raise, and more. To get it in your inbox, subscribe her\u2026 [+8147 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Joe Stonor",
+        "title": "PayPal Shares Surge Premarket on Reports of $53 Billion Takeover",
+        "description": "PayPal shares climbed in premarket trade on reports that payments start-up Stripe and private equity group Advent International jointly offered to buy the co...",
+        "url": "https://www.wsj.com/finance/investing/paypal-shares-surge-premarket-on-reports-of-53-billion-takeover-offer-27d3a619",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/F507963E5819A5615BCABE8E46BCB29C42C3300AC40B1FE2624806F9A8DDD5C9/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_wall_street_journal_hosted_996%2Fc48d987a42f7c7886f9ee12476125324",
+        "publishedAt": "2026-07-15T13:18:00Z",
+        "content": "Stripe and Advent tabled an offer to buy PayPal for $60.50 a share earlier this month, according to reports. - Fabrizio Bensch/Reuters\r\nPayPal shares climbed in premarket trade on reports that paymen\u2026 [+1819 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "ghennessy@businessinsider.com (Georgia Hennessy)",
+        "title": "PayPal stock surges 18% on report of a $53 billion takeover offer from Stripe and Advent",
+        "description": "PayPal shares soar as Stripe and Advent International reportedly propose a $53 billion acquisition, marking a major M&A offer in the payments sector.",
+        "url": "https://www.businessinsider.com/paypal-stock-surge-stripe-advent-acquisition-bid-report-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a5752c2eae3978eb7e5e167?width=1200&format=jpeg",
+        "publishedAt": "2026-07-15T10:16:02Z",
+        "content": "PayPal shares jumped about 18% in premarket trading on Wednesday following a report that Stripe and the private equity firm Advent International had made a joint offer to buy the payments giant.\r\nThe\u2026 [+1643 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Wyatte Grantham-Philips",
-        "title": "Twelve states sue Paramount over $81 billion Warner Bros. merger, arguing it would \u2018extinguish competition\u2019 and lead to lower quality shows",
-        "description": "Paramount and Warner Bros. Discovery received legal backlash over their merger in efforts to consolidate their services.",
-        "url": "https://fortune.com/2026/07/14/paramount-sued-over-81-billion-merger-with-warner-bros-discovery-amid-critic-outcry/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2250738710-e1784059363125.jpg?resize=1200,600",
-        "publishedAt": "2026-07-14T20:03:00Z",
-        "content": "Twelve states sued to block Paramounts\u00a0takeover of Warner Bros. Discovery\u00a0on Monday, arguing that the $81 billion merger would extinguish competition in Hollywood and lead to fewer choices for consum\u2026 [+6362 chars]"
+        "author": "Marco Quiroz-Gutierrez",
+        "title": "OpenAI wants its speaker to feel alive. Apple says it\u2019s a stolen idea",
+        "description": "The device designed by former iPhone guru Jony Ive would reportedly use ChatGPT to answer questions and make the device \u201chuman-like.\u201d",
+        "url": "https://fortune.com/2026/07/15/openai-building-human-like-chatgpt-device-apple-jony-ive/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285138959-e1784140033257.jpg?resize=1200,600",
+        "publishedAt": "2026-07-15T18:48:37Z",
+        "content": "Its been just over a year since OpenAI CEO Sam Altman announced the company would build an AI-first device with the help of legendary Apple designer Jony Ive. Now we may have an idea of what it might\u2026 [+4678 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeff John Roberts",
+        "title": "Cantor Fitzgerald eyes blockchain-based IPO shares in new tie-up with Securitize",
+        "description": "The move is likely to provide a boost for those pushing for companies to issue some of their stock on blockchain.",
+        "url": "https://fortune.com/2026/07/15/cantor-fitzgerald-eyes-blockchain-based-ipo-shares-in-new-tie-up-with-securitize/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2149563700.jpg?resize=1200,600",
+        "publishedAt": "2026-07-15T13:15:00Z",
+        "content": "There is a movement afoot to redesign the U.S. equities market by issuing shares in the form of digital tokens that can be traded around the clock, and where trades are cleared and settled instantly.\u2026 [+3532 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Forbes"
         },
-        "author": "Kara Trott, Forbes Books Author, \n Kara Trott, Forbes Books Author\n https://www.forbes.com/sites/forbesbooksauthors/people/karatrott/",
-        "title": "The Easter Basket Theory: Why Focus Is A Competitive Advantage",
-        "description": "Shiny object syndrome is one of the biggest threats to business focus. Knowing your core offering is a competitive advantage\u2014and the Easter basket theory can help.",
-        "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/07/14/the-easter-basket-theory-why-focus-is-a-competitive-advantage/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5649c928c462d8cda9855e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-14T14:42:16Z",
-        "content": "Allow your company to stay focused on its core offering.\r\ngetty\r\nWhatever kind of business you run or industry you operate in, there will always be shiny objects to chase. When I was growing my own c\u2026 [+3041 chars]"
+        "author": "Paul Iddon, Senior Contributor, \n Paul Iddon, Senior Contributor\n https://www.forbes.com/sites/pauliddon/",
+        "title": "Turkey\u2019s F-35s Far From First Time Israel Opposed A U.S. Fighter Sale",
+        "description": "While the move marks the first time Israel opposed a U.S. arms sale to a NATO country, it's certainly far from the first time it opposed a U.S. fighter export to the region.",
+        "url": "https://www.forbes.com/sites/pauliddon/2026/07/15/turkeys-f-35s-far-from-first-time-israel-opposed-a-us-fighter-sale/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a576d7812de7b8d149304d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-15T13:52:18Z",
+        "content": "F-35 fighter jets perform in an air show at the graduation ceremony of Israeli pilots at the Hatzerim air force base in the Negev desert near the southern Israeli city of Beersheva, on December 22, 2\u2026 [+9674 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Bill Hochberg, Contributor, \n Bill Hochberg, Contributor\n https://www.forbes.com/sites/williamhochberg/",
-        "title": "How Major Labels Are Eating The Indies\u2019 Share Of The Record Biz",
-        "description": "Major labels are hungry for a bigger slice of global recording revenue and the indie sector \u2013 now one-third of the total \u2013 is where they're hunting for it.",
-        "url": "https://www.forbes.com/sites/williamhochberg/2026/07/14/how-major-labels-are-eating-the-indies-share-of-the-record-biz/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a53c1492ed25d8e067f4c4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-14T10:00:00Z",
-        "content": "An excited adult man gets ready to take a bite out of a ridiculously large slice of pepperoni pizza, a look of excitement and joy on his face. Horizontal image with copy space.\r\ngetty\r\nMajor music la\u2026 [+6326 chars]"
+        "author": "htan@insider.com (Huileng Tan)",
+        "title": "SpaceX drops below its $135 IPO price for the first time since its debut",
+        "description": "SpaceX stock dropped below its IPO price for the first time since it started trading a month ago, as many of the year's hottest listings struggle.",
+        "url": "https://www.businessinsider.com/spacex-stock-price-today-ipo-elon-musk-spcx-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a559fa7eae3978eb7e5d1c9?width=1200&format=jpeg",
+        "publishedAt": "2026-07-15T16:17:20Z",
+        "content": "SpaceX shares slipped below their $135 IPO price for the first time since the company's blockbuster public debut in June.\r\nOn Wednesday, SpaceX stock sank 2% to a low of $132.75. It marks a 41% drop \u2026 [+1825 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Ashley Capoot",
-        "title": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
-        "description": "Palihapitiya is part of a growing chorus of investors and tech executives who are cautioning that the tokenmaxxing era is coming to an end.",
-        "url": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949826-1632950926861-cha.jpg?v=1632950969&w=1920&h=1080",
-        "publishedAt": "2026-07-14T14:47:31Z",
-        "content": "Tech investor Chamath Palihapitiya on Tuesday said artificial intelligence usage could negatively impact some companies' earnings, in part because C-suite executives will have to contend with spendin\u2026 [+2588 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Evelyn Cheng",
-        "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-        "description": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
-        "url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333790-1783901895793-20260703_101521_limx.jpg?v=1783902013&w=1920&h=1080",
-        "publishedAt": "2026-07-14T00:31:01Z",
-        "content": "BEIJING Humanoid startup LimX Dynamics is getting ready to go public, just over four years after it was founded during the pandemic.\r\n\"Listing is a must,\" said founder Will Zhang, emphasizing the imp\u2026 [+2391 chars]"
+        "author": "Angelica Ang",
+        "title": "Klook cofounder Ethan Lin thinks the U.S. can help grow one of Asia\u2019s largest travel platforms",
+        "description": "\"The U.S. is actually one of our largest markets, especially as Americans are taking a growing interest in APAC destinations.\"",
+        "url": "https://fortune.com/2026/07/15/klook-ethan-lin-us-asia-travel-tourism-ipo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Ethan-Lin-Co-Founder-CEO-Klook-1.jpg?resize=1200,600",
+        "publishedAt": "2026-07-15T21:00:00Z",
+        "content": "The inspiration for Klook, one of Asias largest travel platforms, came after Ethan Lin took a trip to Nepal with his friend Eric Gnock Fah. The two were both analysts in Hong Kongs investment scene: \u2026 [+7997 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Samantha Subin",
-        "title": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
-        "description": "TerraFirma on Tuesday said it raised $115 to support new hires and the building of a new factory and mission control center.",
-        "url": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334141-1783960014117-Still_2026-07-10_155949_116.jpg?v=1783960518&w=1920&h=1080",
-        "publishedAt": "2026-07-14T13:00:01Z",
-        "content": "As SpaceX's Elon Musk sells investors on a space economy with life beyond Earth, a two-year-old construction startup founded by two of the company's former engineers is positioning itself for the fut\u2026 [+3159 chars]"
+        "author": "Hugh Son, Ashley Capoot",
+        "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+        "description": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+        "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108269268-1771956503109-gettyimages-2261589230-INDIA_ANTHROPIC.jpeg?v=1778093790&w=1920&h=1080",
+        "publishedAt": "2026-07-15T17:22:51Z",
+        "content": "Anthropic is lining up meetings with investors ahead of a potential initial public offering later this year, a person with knowledge of the plans told CNBC.\r\nBankers leading the offering are scheduli\u2026 [+1280 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "China\u2019s biggest IPO in recent years has global investors getting creative",
+        "description": "Unable to buy directly into ChangXin Memory Technologies Inc\u2019s planned $9.8 billion listing because of various regulatory restrictions on participation in mainland IPOs, investors are finding backdoors",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/nv50sc/article71228842.ece/alternates/LANDSCAPE_1200/PO07_Jumping_ladder.jpg",
+        "publishedAt": "2026-07-16T06:51:10Z",
+        "content": "Global investors largely shut out of Chinas biggest IPO in nearly four years are looking at creative proxy trades as a way to profit from the countrys fast-rising memory-chip leader.\u00a0\r\nUnable to buy \u2026 [+4047 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Anniek Bao",
+        "title": "CNBC Daily Open: Big Tech rally drowns out Iran war fears \u2014 Buffett urges caution",
+        "description": "Stocks closed higher on Big Tech gains and a surprise drop in wholesale prices, shrugging off fresh U.S. strikes on Iran, a naval blockade.",
+        "url": "https://www.cnbc.com/2026/07/16/daily-open-newsletter-fed-warsh-inflation-ppi-spacex-paypal-anthropic-warren-buffett-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335692-1784158455996-gettyimages-2286076368-elx08286_nmrpxal1.jpeg?v=1784158476&w=1920&h=1080",
+        "publishedAt": "2026-07-16T01:06:31Z",
+        "content": "Hello, this is Anniek Bao writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\r\nWall Street looked past geopolitical tensions with benchmark indexes rising on Big Tech stre\u2026 [+3149 chars]"
     },
     {
         "source": {
@@ -147,26 +225,13 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Hugh Son",
-        "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-        "description": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-        "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334926-1784054864249-Solomon_Dimon.jpg?v=1784054958&w=1920&h=1080",
-        "publishedAt": "2026-07-14T19:50:48Z",
-        "content": "American megabanks on Tuesday gave evidence that the global artificial intelligence boom isn't just benefiting tech giants and chip makers.\r\nGoldman Sachs and JPMorgan Chase each posted record quarte\u2026 [+4339 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leonie Kidd",
-        "title": "CNBC Daily Open: The Hormuz blockade is back and Trump is tolling",
-        "description": "Oil markets reel as President Trump revives his naval blockade in the Strait of Hormuz and demands a 20% toll charge.",
-        "url": "https://www.cnbc.com/2026/07/14/cnbc-daily-open-hormuz-blockade-iran-trump-oil-tolls.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334226-1783968245820-108334226-1783966848473-260630-N-D0477-1132.jpg?v=1783968258&w=1920&h=1080",
-        "publishedAt": "2026-07-14T06:02:18Z",
-        "content": "U.S. Navy warships transit the Arabian Sea in close formation as CENTCOM forces continue to promote regional security and stability, June 30, 2026.\r\nHello, this is Leonie Kidd coming to you from Lond\u2026 [+3668 chars]"
+        "author": "Joseph Wilkins, Kai Nicol-Schwarz",
+        "title": "Alibaba\u2019s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence",
+        "description": "The Cyberspace Administration of China on Wednesday included Apple's AI services on a list of approved providers.",
+        "url": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108265736-1771007638830-gettyimages-2260760668-boivin-notitle260212_npazO.jpeg?v=1775638137&w=1920&h=1080",
+        "publishedAt": "2026-07-15T11:55:31Z",
+        "content": "U.S.-listed shares in Chinese conglomerate Alibaba rose 4% in premarket trading on Wednesday after confirming that its Qwen AI model will be integrated into Apple systems in China.\u00a0\r\n\"Qwen will be in\u2026 [+1748 chars]"
     },
     {
         "source": {
@@ -180,5 +245,18 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334506-1784017359554-gettyimages-2285304640-_ar16883_2a4ea77c-31a5-4b63-a5e4-b7d7b0dc662a.jpeg?v=1784017451&w=1920&h=1080",
         "publishedAt": "2026-07-15T07:58:48Z",
         "content": "Hello, this is Priyanka Salve, writing to you from Singapore.\r\nWelcome to the latest edition of \u00a0\"Inside India\"\u00a0 your one-stop destination for stories and developments from the world's fastest-growin\u2026 [+6558 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Cnbc",
+        "title": "Johnson & \u2060Johnson (JNJ) Q2 earnings",
+        "description": "Johnson & \u2060Johnson also increased its full-year sales and \u2060profit \u200cforecast.",
+        "url": "https://www.cnbc.com/2026/07/15/johnson-johnson-jnj-q2-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108247616-1767376954238-gettyimages-2253792620-US_STOCKS.jpeg?v=1767377112&w=1920&h=1080",
+        "publishedAt": "2026-07-15T11:35:33Z",
+        "content": "Johnson &amp; Johnson beat Wall Street estimates for second-quarter sales and profit on Wednesday, as strong growth from immunology drug Tremfya and cancer blockbuster Darzalex more than offset erosi\u2026 [+2052 chars]"
     }
 ]

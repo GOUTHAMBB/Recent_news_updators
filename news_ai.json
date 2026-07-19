@@ -1,42 +1,29 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Ece Yildirim",
-        "title": "China Just Dropped Another Bomb on America\u2019s Frontier AI Companies",
-        "description": "Moonshot's Kimi K3 beat Claude Fable 5 and GPT 5.6 in some benchmarks... and it's an open model.",
-        "url": "https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Sam-altman-china-1200x675.jpg",
-        "publishedAt": "2026-07-16T22:11:55Z",
-        "content": "Alibaba-backed Chinese artificial intelligence startup Moonshot just unveiled its latest model, Kimi K3, and it\u2019s already sending shockwaves through the industry, with some benchmarks showing the mod\u2026 [+3137 chars]"
+        "author": "Dan Goodin, Ars Technica",
+        "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+        "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
+        "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+        "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
+        "publishedAt": "2026-07-18T09:00:00Z",
+        "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Jay Peters",
-        "title": "Fortnite is getting a bunch of AI-powered \u2018personas\u2019",
-        "description": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent v\u2026",
-        "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/uefn-conversations-blog-header-opt-02.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "publishedAt": "2026-07-16T21:31:58Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nCreators can now use 36 Fortnite characters in their experiences.\r\nCreators can now use 36 Fortnite characters in their experiences.\r\nby\r\nJay PetersClose\r\nPosts \u2026 [+2873 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Mike Pearl",
-        "title": "A South Korean Labor Union Is in Revolt Over Robots, or Maybe It\u2019s Surrendering to Them",
-        "description": "As Hyundai threatens automation via Boston Dynamics robots, should organized labor take the bait?",
-        "url": "https://gizmodo.com/a-south-korean-labor-union-is-in-revolt-over-robots-or-maybe-its-surrendering-to-them-2000786194",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/atlas-1200x675.jpg",
-        "publishedAt": "2026-07-16T09:00:44Z",
-        "content": "When you put a giant legion of humanoid robots on the floor of an auto factory, do they actually increase efficiency and replace labor, or is that just a corporate fantasy? An auto workers union in S\u2026 [+5250 chars]"
+        "author": "Matt Burgess",
+        "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
+        "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
+        "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+        "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
+        "publishedAt": "2026-07-17T10:00:00Z",
+        "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]"
     },
     {
         "source": {
@@ -44,51 +31,103 @@
             "name": "Gizmodo.com"
         },
         "author": "Matt Novak",
-        "title": "All the Times Trump Has Falsely Claimed Something Is AI",
-        "description": "\"If something happens really bad, just blame AI,\u201d Trump has said.",
-        "url": "https://gizmodo.com/all-the-times-trump-has-falsely-claimed-something-is-ai-2000786134",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump_hallucination-1200x675.jpg",
-        "publishedAt": "2026-07-16T17:55:48Z",
-        "content": "President Donald Trump claimed during an interview with Fox News on Tuesday that images from the bombing of an Iranian school by U.S. forces at the start of his war against Iran could have been creat\u2026 [+12917 chars]"
+        "title": "Elon Musk Trained Grok Users to Expect Sexual Deepfakes, Now He\u2019s Suing Them",
+        "description": "Musk's company has helped get at least 244 users arrested for CSAM, according to an xAI court filing.",
+        "url": "https://gizmodo.com/elon-musk-trained-grok-users-to-expect-sexual-deepfakes-now-hes-suing-them-2000786696",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/elon_musk_on_red-1-1200x675.jpg",
+        "publishedAt": "2026-07-17T13:40:30Z",
+        "content": "When Elon Musk launched Grok, it was intended to be the AI chatbot without any guardrails. But it turns out that every app needs guardrails of some kind, especially to protect children. And Musk\u2019s co\u2026 [+4021 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "AJ Dellinger",
-        "title": "\u2018Reverse Recruiter\u2019 Startup Wants You to Pay If Its AI Agent Finds You a Job",
-        "description": "The sloppification of life is coming for your paycheck.",
-        "url": "https://gizmodo.com/reverse-recruiter-startup-wants-you-to-pay-if-its-ai-agent-finds-you-a-job-2000786519",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/08/GettyImages-2229210608-1200x675.jpg",
-        "publishedAt": "2026-07-16T18:30:57Z",
-        "content": "Artificial intelligence has already turned the job market into a slop festAI-generated resumes and cover letters getting reviewed by AI screeners who make decisions before a real person even has a ch\u2026 [+2591 chars]"
+        "author": "Bruce Gil",
+        "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
+        "description": "The Oversight Board is trying to branch out and see other people.",
+        "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
+        "publishedAt": "2026-07-17T14:10:37Z",
+        "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "MIT Technology Review"
+            "name": "CNET"
         },
-        "author": "Thomas Macaulay",
-        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-        "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-R\u2026",
-        "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
-        "publishedAt": "2026-07-16T12:10:00Z",
-        "content": "The must-reads\r\nIve combed the internet to find you todays most fun/important/scary/fascinating stories about technology.\r\n1 Elon Musk discreetly bought a $1 billion gas turbine firm\u00a0to power GrokHe \u2026 [+2767 chars]"
+        "author": "Omar Gallaga",
+        "title": "You've Probably Watched One of the 300 Titles on Netflix Produced With AI",
+        "description": "The streaming video company with the world's most subscribers has leaned quickly into AI-assisted production.",
+        "url": "https://www.cnet.com/tech/services-and-software/netflix-300-programs-this-year-ai-production-q2-earnings/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e673552104076ded56ae03d56e1d90977778fd00/hub/2026/07/17/db503972-0c32-402c-8335-d5ff92b5ad0f/netflix-brazil70.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-17T20:37:16Z",
+        "content": "Netflix said last year it was experimenting with and debuting\u00a0some of its first shows produced with artificial intelligence. Now, the company is reporting that generative AI was used in roughly 300 o\u2026 [+3752 chars]"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "CNET"
         },
-        "author": "Nilay Patel",
-        "title": "\u2018No company is going to go to jail for you\u2019: Proton\u2019s CTO on balancing privacy, policy, and trust",
-        "description": "Today on Decoder, we\u2019ve got the first of a two-part series on the systems that run the world: I\u2019m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for Proton Mail, which is\u2026",
-        "url": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD-Bart-Butler.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-        "publishedAt": "2026-07-16T13:59:05Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nBart Butler on encryption, child safety, and why theres no such thing as a backdoor for only the good guys.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be\u2026 [+78861 chars]"
+        "author": "Katelyn Chedraoui",
+        "title": "Meta Used AI to Illegally Fire Pregnant and Disabled People, Lawsuit Alleges",
+        "description": "Former Meta employees allege the company penalized them for taking medical leave.",
+        "url": "https://www.cnet.com/tech/services-and-software/meta-layoffs-lawsuit-discrimination-ai-news/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/b8116bad939330547c0afe749ee178da44943c4d/hub/2026/07/17/810ad90b-c3b4-4141-acd7-82167b791878/gettyimages-2272777092.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-17T18:55:26Z",
+        "content": "Meta laid off thousands of employees to become an \"AI-first company\" in May, and some of those former employees are now alleging that Meta used AI to illegally fire them. Twenty-six former Meta emplo\u2026 [+3364 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "China\u2019s Xi Jinping Wants AI to Be Open to the World\u2014and Out of America\u2019s Control",
+        "description": "Beijing is building an AI coalition with 29 countries, including Russia.",
+        "url": "https://gizmodo.com/chinas-xi-jinping-wants-ai-to-be-open-to-the-world-and-out-of-americas-control-2000787023",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285789352-1200x675.jpg",
+        "publishedAt": "2026-07-17T20:25:33Z",
+        "content": "On Friday, Chinese President Xi Jinping had his first in-person appearance at his country\u2019s biggest artificial intelligence event, the annual World Artificial Intelligence Conference in Shanghai. In \u2026 [+5632 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Omar Gallaga",
+        "title": "AI Chatbot Responses Often Mirror Government Censorship, Report Finds",
+        "description": "When providing information about countries with restricted speech, the AI models behind chatbots and agents often sidestep prompts or offer responses trained on censored materials.",
+        "url": "https://www.cnet.com/tech/services-and-software/ai-chatbot-models-censorship-meta-oversight-board-report/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/893ffb55c86c8ce37dae3d8e69bbea905817d578/hub/2026/07/16/3529a2a5-9d7f-4309-ac2a-e1139e88c0d9/gettyimages-2263493696.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-17T14:52:31Z",
+        "content": "Some of the world's most popular large language models respond inconsistently to questions critical of governments, treating those in countries with stronger free-speech protections differently from \u2026 [+5427 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Zachary McAuliffe",
+        "title": "iOS 27 Public Beta: It's... Fine I Guess?",
+        "description": "Even if you don't use AI, I found some useful features in the iOS 27 beta. They're smaller, quality-of-life changes, but you won't want to skip them.",
+        "url": "https://www.cnet.com/tech/services-and-software/ios-27-public-beta-its-fine-i-guess/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/17374cb933e6eb7caf161dcb8019a8899d1853c8/hub/2026/07/15/90b05c3d-e49f-451e-a645-cd1388978dac/image-9.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-17T16:26:08Z",
+        "content": "Apple released the public beta of iOS 27 on Monday, July 13, about a month after the company announced the upcoming iPhone software at its Worldwide Developers Conference in June. After living with t\u2026 [+10775 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "Despite Its Busted AI, Apple Just Stole Nvidia\u2019s Crown as the Most Valuable Company",
+        "description": "There's more than one type of crown jewels.",
+        "url": "https://gizmodo.com/despite-its-busted-ai-apple-just-stole-nvidias-crown-as-the-most-valuable-company-2000787035",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/tim_cook-orange-1200x675.jpg",
+        "publishedAt": "2026-07-17T14:58:40Z",
+        "content": "Apple, the AI laggard, just briefly became a more valuable company than Nvidia, the AI leader.\r\nOn Friday, Apple\u2019s $4.89 market valuation briefly and barely beat Nvidia\u2019s $4.85, more than a year afte\u2026 [+2928 chars]"
     },
     {
         "source": {
@@ -108,6 +147,19 @@
             "id": null,
             "name": "Theregister.com"
         },
+        "author": "Brandon Vigliarolo",
+        "title": "AI spam filters are getting suckered by old-school text salting",
+        "description": "Turns out decades-old email tricks still work against some LLM-powered email filters",
+        "url": "https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434",
+        "urlToImage": "https://image.theregister.com/5268977.jpg?imageId=5268977&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-17T16:15:22Z",
+        "content": "Notice more spam getting through that corporate email filter lately? Attackers are using a technique known as \"text salting,\" which hides benign-looking words intended to confuse some AI-powered emai\u2026 [+2856 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
         "author": "Simon Sharwood",
         "title": "South Korea making its own security-centric AI model",
         "description": "Adapting existing local LLM project for security and sovereignty purposes and hopes to one day match Mythos",
@@ -119,41 +171,15 @@
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Steven Vaughan-Nichols",
-        "title": "Linus Torvalds puts his foot down, tells anti-AI programmers to 'fork it'",
-        "description": "'AI is a tool, just like other tools we use. And it's clearly a useful one.'",
-        "url": "https://www.zdnet.com/article/linus-torvalds-puts-his-foot-down-tells-anti-ai-programmers-to-fork-it/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/1e341850ca9f9088d031098518141edb740dcdfc/2026/07/16/4ba72f01-ab63-47e3-bdbf-bf06b587e12b/linus-use-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-07-16T12:12:00Z",
-        "content": "Screenshot from GitHub YouTube channel/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Don't like that AI is used to develop and maintain Linux? Torvalds \u2026 [+4580 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Ramp targets AI\u2019s fastest-growing cost with expanded token spend tracking",
-        "description": "Ramp Business Corporation today expanded its AI Token Spend Management product, giving finance teams a single system to see and control what their companies spend on artificial intelligence across providers. Token spend has become one of the fastest-growing c\u2026",
-        "url": "https://siliconangle.com/2026/07/16/ramp-targets-ais-fastest-growing-cost-expanded-token-spend-tracking/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/ramp.png",
-        "publishedAt": "2026-07-16T13:00:25Z",
-        "content": "Ramp Business Corporation today expanded its AI Token Spend Management product, giving finance teams a single system to see and control what their companies spend on artificial intelligence across pr\u2026 [+3815 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Google rebrands NotebookLM as Gemini Notebook, focusing on ecosystem and accessibility",
-        "description": "Google LLC today announced that its popular NotebookLM, the company\u2019s artificial intelligence-powered research assistant, is being rebranded as Gemini Notebook and is getting upgrades aimed at providing secure cloud computing for every notebook. Launched glob\u2026",
-        "url": "https://siliconangle.com/2026/07/16/google-rebrands-notebooklm-gemini-notebook-focusing-ecosystem-accessibility/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/06/A-data-poem-being-written-by-multiple-ghostly-hands-abstract-art-grey-monotone-with-splashes-of-colo.jpeg",
-        "publishedAt": "2026-07-16T16:00:28Z",
-        "content": "Google LLC today announced that its popular NotebookLM, the companys artificial intelligence-powered research assistant, is being rebranded as Gemini Notebook and is getting upgrades aimed at providi\u2026 [+3815 chars]"
+        "title": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs",
+        "description": "The Compute Exchange Inc., a procurement marketplace for reserved graphics processing unit capacity, today launched a dedicated marketplace for used and refurbished GPUs, extending the platform into physical artificial intelligence hardware sourcing. The serv\u2026",
+        "url": "https://siliconangle.com/2026/07/17/compute-exchange-opens-secondary-market-used-nvidia-h100-a100-gpus/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/computeexchange.png",
+        "publishedAt": "2026-07-17T18:00:08Z",
+        "content": "The Compute Exchange Inc., a procurement marketplace for reserved graphics processing unit capacity, today launched a dedicated marketplace for used and refurbished GPUs, extending the platform into \u2026 [+4182 chars]"
     },
     {
         "source": {
@@ -174,155 +200,25 @@
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
-        "title": "AI infrastructure startup Fireworks closes $1.5B round at $17.5B valuation",
-        "description": "Fireworks AI Inc., a startup that helps developers train and run artificial intelligence models, has raised $1.5 billion in funding. Atreides Management, Index Ventures and TCV jointly led the Series D round. Fireworks stated in its funding announcement today\u2026",
-        "url": "https://siliconangle.com/2026/07/16/ai-infrastructure-startup-fireworks-closes-1-5b-round-17-5b-valuation/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Fireworks.png",
-        "publishedAt": "2026-07-16T20:18:44Z",
-        "content": "Fireworks AI Inc., a startup that helps developers train and run artificial intelligence models, has raised $1.5 billion in funding.\r\nAtreides Management, Index Ventures and TCV jointly led the Serie\u2026 [+4176 chars]"
+        "title": "Inference cloud operator General Compute raises $400M in debt financing",
+        "description": "Artificial intelligence infrastructure startup General Compute Inc. today announced that it secured $400 million in debt financing. Upper90, the investment firm that is underwriting the round, will initially provide the company with $100 million. General Comp\u2026",
+        "url": "https://siliconangle.com/2026/07/17/inference-cloud-operator-general-compute-raises-400m-debt-financing/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/cloud.png",
+        "publishedAt": "2026-07-17T20:20:46Z",
+        "content": "Artificial intelligence infrastructure startup General Compute Inc. today announced that it secured $400 million in debt financing.\r\nUpper90, the investment firm that is underwriting the round, will \u2026 [+4117 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "Ledger launches Agent Stack to keep AI agents away from crypto keys",
-        "description": "Ledger SAS today launched Ledger Agent Stack, an open-source toolkit that lets developers build artificial intelligence agents that can read balances and draft crypto transactions but cannot move funds without a human signing off on hardware. The Paris-based \u2026",
-        "url": "https://siliconangle.com/2026/07/16/ledger-launches-agent-stack-keep-ai-agents-away-crypto-keys/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/ledger.png",
-        "publishedAt": "2026-07-16T13:00:04Z",
-        "content": "Ledger SAS today launched Ledger Agent Stack, an open-source toolkit that lets developers build artificial intelligence agents that can read balances and draft crypto transactions but cannot move fun\u2026 [+4036 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "1Password brings secure credential access to Anthropic\u2019s Claude",
-        "description": "Identity security company 1Password today launched 1Password for Claude, a browser integration that lets Anthropic PBC\u2019s Claude use a person\u2019s stored logins to complete online tasks without those credentials ever reaching the artificial intelligence model. Th\u2026",
-        "url": "https://siliconangle.com/2026/07/16/1password-brings-secure-credential-access-anthropics-claude/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/1password.png",
-        "publishedAt": "2026-07-16T13:00:30Z",
-        "content": "Identity security company 1Password today launched 1Password for Claude, a browser integration that lets Anthropic PBC\u2019s Claude use a person\u2019s stored logins to complete online tasks without those cre\u2026 [+4117 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Microagi nabs $55M to teach factory robots how to work",
-        "description": "Munich-based startup Microagi GmbH today announced it raised $55 million in seed funding led by Hummingbird to change how industrial robotics works with artificial intelligence models. Northzone, LocalGlobe, Village Global and Redalpine also participated in t\u2026",
-        "url": "https://siliconangle.com/2026/07/16/microagi-nabs-55m-teach-factory-robots-work/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/A-modern-humanoid-robot-working-alongside-a-person-in-a-warehouse-setting-with-focus-on-the-robot-a.jpeg",
-        "publishedAt": "2026-07-16T15:10:52Z",
-        "content": "Munich-based startup Microagi GmbH today announced it has raised $55 million in seed funding led by Hummingbird to change how industrial robotics works with artificial intelligence models.\r\nNorthzone\u2026 [+5288 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Spectro Cloud wants to ease AI infrastructure management after raising $100M in funding",
-        "description": "Kubernetes software startup Spectro Cloud Inc. has bagged $100 million in a late-stage funding round as it looks to solve a significant and growing problem in artificial intelligence. Powerful processors might be hard to come by, but they are available at a p\u2026",
-        "url": "https://siliconangle.com/2026/07/15/spectro-cloud-wants-ease-ai-infrastructure-management-raising-100m-funding/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-16-08-34-35.png",
-        "publishedAt": "2026-07-16T01:36:36Z",
-        "content": "Kubernetes software startup Spectro Cloud Inc. has bagged $100 million in a late-stage funding round as it looks to solve a significant and growing problem in artificial intelligence.\r\nPowerful proce\u2026 [+6164 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Intel says it\u2019s going to lean on Google\u2019s Gemini to help automate and accelerate silicon development",
-        "description": "Intel Corp. said today it\u2019s expanding its long-running partnership with Google Cloud into the agentic artificial intelligence realm. By deploying the Gemini Enterprise platform across its global workforce, the chipmaker says it will be able to accelerate work\u2026",
-        "url": "https://siliconangle.com/2026/07/16/intel-says-going-lean-googles-gemini-help-automate-accelerate-silicon-development/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-15-08-53-22.png",
-        "publishedAt": "2026-07-16T16:00:58Z",
-        "content": "Intel Corp. said today its expanding its long-running partnership with Google Cloud into the agentic artificial intelligence realm.\r\nBy deploying the Gemini Enterprise platform across its global work\u2026 [+5055 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Cheryl Knight",
-        "title": "Inside Nvidia\u2019s AI factory networking strategy: New theCUBE Research analysis",
-        "description": "As enterprises move artificial intelligence into production, AI factory networking is becoming a core part of the infrastructure equation, shaping performance, scalability and cost. That shift is the focus of a new analysis by\u00a0Bob Laliberte, principal analyst\u2026",
-        "url": "https://siliconangle.com/2026/07/16/ai-factory-networking-nvidia-analysis-cubeconversations/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Nvidia-analysis.png",
-        "publishedAt": "2026-07-16T18:30:14Z",
-        "content": "As enterprises move artificial intelligence into production, AI factory networking is becoming a core part of the infrastructure equation, shaping performance, scalability and cost.\r\nThat shift is th\u2026 [+4672 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Mimic Robotics launches highly capable robotic hand that emulates human movements",
-        "description": "Switzerland-based Mimic Robotics AG today announced it\u2019s launching a new specialized robotic hand that looks and behaves like a human hand, introducing a new architecture for embodied robotics. Physical AI, or embodied artificial intelligence, combines AI mod\u2026",
-        "url": "https://siliconangle.com/2026/07/16/mimic-robotics-launches-highly-capable-robotic-hand-emulates-human-movements/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/mimic-robotics-robot-hands-image.png",
-        "publishedAt": "2026-07-16T13:00:49Z",
-        "content": "Switzerland-based Mimic Robotics AG today announced its launching a new specialized robotic hand that looks and behaves like a human hand, introducing a new architecture for embodied robotics.\r\nPhysi\u2026 [+4518 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Nvidia launches Cosmos 3 Edge model and expands its physical AI push in Japan",
-        "description": "Nvidia Corp. has\u00a0unveiled Cosmos 3 Edge, a compact world model built to run vision reasoning and robot control directly on edge devices, alongside a wave of partnerships that pushes its physical artificial intelligence platform deeper into Japan\u2019s robotics an\u2026",
-        "url": "https://siliconangle.com/2026/07/16/nvidia-launches-cosmos-3-edge-model-expands-physical-ai-push-japan/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/NVIDIA-Cosmos-in-Japan.jpg",
-        "publishedAt": "2026-07-16T22:28:44Z",
-        "content": "Nvidia Corp. has\u00a0unveiled Cosmos 3 Edge, a compact world model built to run vision reasoning and robot control directly on edge devices, alongside a wave of partnerships that pushes its physical arti\u2026 [+4737 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "China\u2019s Moonshot throws down the gauntlet with Kimi K3, the world\u2019s largest open-weights model",
-        "description": "Chinese artificial intelligence lab Moonshot AI has just announced the imminent release of Kimi K3, its latest large language model. Already, it\u2019s sending shockwaves across the AI industry, not only because it\u2019s believed to be the world\u2019s largest open-source \u2026",
-        "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-17-06-37-24.png",
-        "publishedAt": "2026-07-16T23:43:42Z",
-        "content": "Chinese artificial intelligence lab Moonshot AI has just announced the imminent release of Kimi K3, its latest large language model. Already, its sending shockwaves across the AI industry, not only b\u2026 [+6677 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Reece Rogers",
-        "title": "Please Stop Making Me Opt Out of AI",
-        "description": "I\u2019m sick of \u201copt-out\u201d toggles for automatically enabled generative AI features. It\u2019s past time to make \u201copt in\u201d the default setting for sensitive features.",
-        "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-        "urlToImage": "https://media.wired.com/photos/6a581a134de2a00b6b98c804/191:100/w_1280,c_limit/Stop-Making-Me-Opt-Out-Gear.jpg",
-        "publishedAt": "2026-07-16T10:00:00Z",
-        "content": "In early July, Meta rolled out a new feature where anyone using its AI app could tag public Instagram accounts and generate images using their likenesses. Metas decision to turn the feature on by def\u2026 [+3528 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Emma Roth",
-        "title": "Netflix says around 300 titles used generative AI",
-        "description": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools\u2026",
-        "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-07-16T20:31:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nSome titles used AI to create enhanced crowds, historical battle sequences, and worldbuilding establishing shots.\r\nSome titles used AI to create enhanced crowds,\u2026 [+3507 chars]"
+        "author": "Paul Gillin",
+        "title": "EY re-envisions RAG around multimodal knowledge graphs to improve accuracy",
+        "description": "Retrieval-augmented generation is a standard way to ground large language models in enterprise information, but new research from EY, the business name of Ernst & Young LLP, says most implementations overlook a lot of useful data. Conventional RAG systems are\u2026",
+        "url": "https://siliconangle.com/2026/07/17/ey-re-envisions-rag-around-multimodal-knowledge-graphs-improve-accuracy/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Dipanjan-Sengupta-EY.jpg",
+        "publishedAt": "2026-07-17T17:54:01Z",
+        "content": "Retrieval-augmented generation is a standard way to ground large language models in enterprise information, but new research from EY, the business name of Ernst &amp; Young LLP, says most implementat\u2026 [+6673 chars]"
     },
     {
         "source": {
@@ -330,38 +226,51 @@
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
-        "title": "Intel starts using ASML\u2019s High NA EUV technology to produce chips",
-        "description": "Intel Corp. has started using ASML Holding NV\u2019s newest lithography hardware to produce processors. The Dutch chipmaking equipment maker disclosed the milestone today. The announcement coincided with the release of its quarterly earnings report, which topped e\u2026",
-        "url": "https://siliconangle.com/2026/07/15/intel-starts-using-asmls-high-na-euv-technology-produce-chips/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/ASML.png",
-        "publishedAt": "2026-07-16T01:27:08Z",
-        "content": "Intel Corp. has started using ASML Holding NVs newest lithography hardware to produce processors.\r\nThe Dutch chipmaking equipment maker disclosed the milestone today. The announcement coincided with \u2026 [+4631 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Sarah Perez",
-        "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-        "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-        "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
-        "publishedAt": "2026-07-16T13:17:59Z",
-        "content": "Apple Intelligence, the iPhone maker\u2019s generative AI offering, is coming to China. \r\nOn Wednesday, Reuters reported that China\u2019s internet content regulator, the Cyberspace Administration of China, ap\u2026 [+1530 chars]"
+        "title": "Anthropic, Meta reportedly discussing $10B data center leasing deal",
+        "description": "Anthropic PBC is reportedly seeking to lease some of Meta Platforms Inc.\u2019s data center capacity. The New York Times today cited\u00a0three sources as saying that the deal could be worth $10 billion over two years. However, the report noted that the companies\u2019 disc\u2026",
+        "url": "https://siliconangle.com/2026/07/17/anthropic-meta-reportedly-discussing-10b-data-center-leasing-deal/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-01-13-06-34-22.png",
+        "publishedAt": "2026-07-18T01:12:53Z",
+        "content": "Anthropic PBC is reportedly seeking to lease some of Meta Platforms Inc.s data center capacity.\r\nThe New York Times today cited\u00a0three sources as saying that the deal could be worth $10 billion over t\u2026 [+3867 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Victoria Gayton",
-        "title": "Three insights you may have missed from theCUBE\u2019s coverage of RAISE Summit",
-        "description": "Agentic inference is reshaping the center of gravity in AI infrastructure. What began as a race to scale training has shifted into a phase defined by expanding context windows, memory\u2011augmented reasoning and the need to keep graphics processing units continuo\u2026",
-        "url": "https://siliconangle.com/2026/07/15/agentic-inference-reshapes-ai-infrastructure-raise-summit-raisesummit/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_3330.jpg",
-        "publishedAt": "2026-07-16T03:37:38Z",
-        "content": "Agentic inference is reshaping the center of gravity in AI infrastructure. What began as a race to scale training has shifted into a phase defined by expanding context windows, memoryaugmented reason\u2026 [+8742 chars]"
+        "author": "Robert Hof",
+        "title": "The AI backlash intensifies, China gains on the US leaders, and IBM tanks",
+        "description": "You know a technology is getting serious acceptance when even people in the business shift from telling the government to butt out to calling for more regulation. This is where we\u2019re at with artificial intelligence today. A raft of AI leaders and economists t\u2026",
+        "url": "https://siliconangle.com/2026/07/17/ai-backlash-intensifies-china-gains-us-leaders-ibm-tanks/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/AI-Protest-Cartoon.png",
+        "publishedAt": "2026-07-17T14:00:13Z",
+        "content": "You know a technology is getting serious acceptance when even people in the business shift from telling the government to butt out to calling for more regulation. This is where we\u2019re at with artifici\u2026 [+10447 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Databricks raising new funding at $188B valuation",
+        "description": "Databricks Inc. is in the process of finalizing a funding round that will value it at $118 billion. The company announced the deal on Thursday without disclosing the amount that it\u2019s raising. According to the Wall Street Journal, the round will add $3 billion\u2026",
+        "url": "https://siliconangle.com/2026/07/17/databricks-raising-new-funding-188b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Databricks.png",
+        "publishedAt": "2026-07-17T22:54:31Z",
+        "content": "Databricks Inc. is in the process of finalizing a funding round that will value it at $118 billion.\r\nThe company announced the deal on Thursday without disclosing the amount that its raising. Accordi\u2026 [+4017 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Syntetica raises $30M to scale nylon recycling solutions",
+        "description": "Paris-based Syntetica SAS, a company developing advanced technology to recycle nylon fibers, often used in clothing, announced Thursday it raised $30 million in Series A investment to build its first commercial facility. The Ecotechnologies 2 fund, managed on\u2026",
+        "url": "https://siliconangle.com/2026/07/17/syntetica-raises-30m-scale-nylon-recycling-solutions/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/recycling-clothing-image.png",
+        "publishedAt": "2026-07-17T15:50:48Z",
+        "content": "Paris-based Syntetica SAS, a company developing advanced technology to recycle nylon fibers, often used in clothing, announced Thursday it raised $30 million in Series A investment to build its first\u2026 [+5257 chars]"
     },
     {
         "source": {
@@ -375,45 +284,6 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Google.png",
         "publishedAt": "2026-07-17T00:35:17Z",
         "content": "The European Union today directed Google LLC to change some of its business practices in the search and mobile markets.\r\nOfficials outlined the required changes in two documents known as binding spec\u2026 [+4439 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "TSMC boosts Arizona fab investment by $100B after strong second quarter",
-        "description": "Taiwan Semiconductor Manufacturing Co. today posted second-quarter results that handily topped analyst expectations. The company also announced plans to expand its fab complex in Arizona. TSMC intends to build at least four additional facilities at a cost of \u2026",
-        "url": "https://siliconangle.com/2026/07/16/tsmc-boosts-arizona-fab-investment-100b-strong-second-quarter/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/TSMC.png",
-        "publishedAt": "2026-07-16T22:16:17Z",
-        "content": "Taiwan Semiconductor Manufacturing Co. today posted second-quarter results that handily topped analyst expectations.\r\nThe company also announced plans to expand its fab complex in Arizona. TSMC inten\u2026 [+4921 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "QumulusAI\u2019s direct listing: Accelerating the neocloud for enterprise AI",
-        "description": "Neocloud provider QumulusAI said today that it will starting trading Thursday as a publicly traded company on Nasdaq under the ticker symbol QMLS\u00a0via a direct listing. For those unfamiliar with the process, the typical initial public offering takes time and r\u2026",
-        "url": "https://siliconangle.com/2026/07/15/qumulusais-direct-listing-accelerating-neocloud-enterprise-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-2026-07-15-at-6.01.32\u202fPM.png",
-        "publishedAt": "2026-07-16T01:27:57Z",
-        "content": "Neocloud provider QumulusAIsaid today that it will starting trading Thursday as a publicly traded company on Nasdaq under the ticker symbol QMLS\u00a0via a direct listing.\r\nFor those unfamiliar with the p\u2026 [+12349 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Dave Vellante and Bob Laliberte",
-        "title": "Special Breaking Analysis: Nvidia\u2019s AI networking moat is real \u2013 but the lock-in debate continues",
-        "description": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in thi\u2026",
-        "url": "https://siliconangle.com/2026/07/16/special-breaking-analysis-nvidias-ai-networking-moat-real-lock-debate-continues/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/giladshainer-nvidia-2026.jpg",
-        "publishedAt": "2026-07-16T19:34:56Z",
-        "content": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We\u2026 [+37289 chars]"
     },
     {
         "source": {
@@ -433,32 +303,6 @@
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Richard Speed",
-        "title": "Microsoft open-sources Comic Chat, its cartoon IRC curiosity",
-        "description": "Step back three decades to 'a period when software teams were willing to color outside the lines'",
-        "url": "https://www.theregister.com/offbeat/2026/07/16/microsoft-open-sources-comic-chat-its-cartoon-irc-curiosity/5274382",
-        "urlToImage": "https://image.theregister.com/1681406.jpg?imageId=1681406&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-07-16T14:15:00Z",
-        "content": "Microsoft has open-sourced Comic Chat, its short-lived 1990s experiment in turning Internet Relay Chat (IRC) conversations into comic strips and, for many users, their first encounter with Comic Sans\u2026 [+2023 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "title": "Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process, says 'Linux is not one of those anti-AI projects' \u2014 creator embraces AI as just a tool and 'clearly a useful one'",
-        "description": "Linus Torvalds, Linux's creator and kernel manager, has seemingly taken an accepting stance of AI-assisted tooling.",
-        "url": "https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/2X4Y7yST9zumKE45j4EDM8-2048-80.jpg",
-        "publishedAt": "2026-07-16T16:59:13Z",
-        "content": "AI-generated slop code has been a plague for some open-source projects, namely but not only Gentoo Linux, Curl, and Ghostty, limiting or outright banning LLM-created contributions. And yet, just like\u2026 [+3005 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
         "author": "David Gordon",
         "title": "How Gartner can help turn your AI vision into business reality",
         "description": "SPONSORED POST: Feeling stuck with your AI application projects? Gartner has the solution",
@@ -466,6 +310,32 @@
         "urlToImage": "https://image.theregister.com/5262041.jpg?imageId=5262041&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "publishedAt": "2026-07-17T08:00:00Z",
         "content": "For enterprise application, architecture, and software engineering leaders, the artificial intelligence conversation has moved past experimentation.\r\nBoards and finance committees expect pilot projec\u2026 [+2631 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+        "title": "AI data centers must produce as much power as they use, Australia PM says \u2014 new national AI framework will also ensure water efficiency and protect intellectual property rights",
+        "description": "Australian Prime Minister Anthony Albanese announced the \"Australian Standards for A.I.,\" which will serve as a national framework for data center developments related to AI. The government plans to set this legislative agenda as more AI hyperscalers are sett\u2026",
+        "url": "https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/iY9zM7ykPLsWjKZjsArTQm-1920-80.png",
+        "publishedAt": "2026-07-17T12:16:03Z",
+        "content": "Australian Prime Minister Anthony Albanese said that the government is working to establish the \u201cAustralian Standards for A.I.,\u201d which would stand as a national framework that AI companies must follo\u2026 [+2735 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Mick Jagger says AI is fine for musicians, as long as it does not sound like him",
+        "description": "Mick Jagger has given a qualified blessing to musicians who reach for artificial intelligence, on the strict condition that whatever comes out is genuinely their own. \u201cIf someone wants to make music by AI, go ahead,\u201d he told\u00a0Billboard\u00a0in a cover story publish\u2026",
+        "url": "https://thenextweb.com/news/mick-jagger-ai-music-rolling-stones/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Mick-Jagger.avif",
+        "publishedAt": "2026-07-17T09:55:37Z",
+        "content": "Mick Jagger has given a qualified blessing to musicians who reach for artificial intelligence, on the strict condition that whatever comes out is genuinely their own.\r\nIf someone wants to make music \u2026 [+3455 chars]"
     },
     {
         "source": {
@@ -485,19 +355,6 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Alina Maria Stan",
-        "title": "Verizon cuts 3,000 retail jobs as AI replaces customer service and stores move to franchises",
-        "description": "Verizon is cutting about 3,000 employees from its corporate-owned retail stores and transferring 274 locations to independent operators, Bloomberg reported on Thursday. The changes take effect on August 16 and will leave the largest US mobile carrier with 1,0\u2026",
-        "url": "https://thenextweb.com/news/verizon-3000-retail-layoffs-store-reorganization/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/verizon-3000-retail-layoffs-store-reorganization.avif",
-        "publishedAt": "2026-07-16T17:50:01Z",
-        "content": "TL;DR\r\nVerizon is laying off about 3,000 retail workers and transferring 274 corporate stores to independent owners under CEO Dan Schulman.\r\nVerizon is cutting about 3,000 employees from its corporat\u2026 [+2790 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
         "author": "Ana-Maria Stanciuc",
         "title": "Netflix beats on Q2 earnings but a soft Q3 forecast sends the stock down 9%",
         "description": "Netflix cleared the quarter and stumbled on the outlook. The company posted second-quarter revenue of\u00a0$12.56bn\u00a0on Thursday, up 13% on the year, alongside earnings of $0.80 a share, a cent ahead of the $0.79 analysts had pencilled in. Then it guided the next t\u2026",
@@ -508,93 +365,15 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana-Maria Stanciuc",
-        "title": "Nvidia signs up Japan\u2019s robotics establishment for its open world models",
-        "description": "Nvidia has recruited most of Japan\u2019s industrial robotics establishment into the Cosmos Coalition, the open world-model programme it uses to seed its physical AI stack, in announcements timed to Jensen Huang\u2019s week in Tokyo. Twenty-two companies are named: AIR\u2026",
-        "url": "https://thenextweb.com/news/nvidia-japan-cosmos-coalition-robotics/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/NVIDIA-Japan.avif",
-        "publishedAt": "2026-07-16T07:29:45Z",
-        "content": "Nvidia has recruited most of Japans industrial robotics establishment into the Cosmos Coalition, the open world-model programme it uses to seed its physical AI stack, in announcements timed to Jensen\u2026 [+4309 chars]"
-    },
-    {
-        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Maggie Nye",
-        "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product | TechCrunch",
-        "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificia\u2026",
-        "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
-        "publishedAt": "2026-07-16T15:03:58Z",
-        "content": "Andrew Dai left Google DeepMind knowing visual AI was the frontier he wanted to stake his claim in. He pulled off a whirlwind fundraise that resulted in a more aggressive valuation-to-capital ratio t\u2026 [+2885 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Maggie Nye",
-        "title": "How Elorian AI pulled off a $300M pre-seed valuation",
-        "description": "Building an AI startup is one thing. Raising one of the largest seed rounds of the year before launching a product is something else entirely. In this episode of Build Mode, host and Startup Battlefield lead Isabelle Johannessen sits down with Andrew Dai, fou\u2026",
-        "url": "https://techcrunch.com/podcast/how-elorian-ai-pulled-off-a-300m-pre-seed-valuation/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
-        "publishedAt": "2026-07-16T14:07:30Z",
-        "content": "Building an AI startup is one thing. Raising one of the largest seed rounds of the year before launching a product is something else entirely.\r\nIn this episode of Build Mode, host and Startup Battlef\u2026 [+1647 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Amanda Silberling",
-        "title": "Why is OpenAI selling a ChatGPT basketball? | TechCrunch",
-        "description": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-        "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
-        "publishedAt": "2026-07-16T15:31:09Z",
-        "content": "You may have heard that OpenAI released its first piece of hardware this week: a $230 mini keyboard. You may not have heard that alongside this \u201ccommand center for agentic work,\u201d OpenAI also released\u2026 [+2593 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Lauren Forristal",
-        "title": "Roblox launches an AI-powered game creation feature in its mobile app | TechCrunch",
-        "description": "Roblox launches an AI-powered game creation feature in its mobile app | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
-        "publishedAt": "2026-07-16T18:23:57Z",
-        "content": "Roblox announced Thursday a new feature called \u201cBuild,\u201d allowing users to design games from their mobile devices using AI.\u00a0\r\nThe Build feature lets anyone turn simple text prompts into a basic game w\u2026 [+2878 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Kate Park",
-        "title": "Why AMI Labs\u2019 Alexandre LeBrun won't call his AI 'AGI' or 'superintelligence' | TechCrunch",
-        "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word.",
-        "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
-        "publishedAt": "2026-07-16T14:40:00Z",
-        "content": "While the rest of the AI industry races to label its work as AGI or superintelligence, Alexandre LeBrun, the CEO of Yann LeCunsworld model startup, AMI Labs, avoids the terms altogether.\u00a0Lebrun said \u2026 [+5309 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Maxwell Zeff",
-        "title": "Here\u2019s Why Anthropic Is Pushing States to Regulate AI Faster",
-        "description": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-        "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-        "urlToImage": "https://media.wired.com/photos/6a591d287083bdea755df740/191:100/w_1280,c_limit/Model-Behavior-Cesar-Anthropic-Business.jpg",
-        "publishedAt": "2026-07-16T18:35:18Z",
-        "content": "Anthropic threw its support behind the first wave of frontier AI safety laws in the United States last year, securing new transparency requirements in California and New York that much of Silicon Val\u2026 [+3882 chars]"
+        "author": "Tim Fernholz",
+        "title": "Agility Robotics plants its flag in Tesla's backyard | TechCrunch",
+        "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+        "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
+        "publishedAt": "2026-07-17T20:22:47Z",
+        "content": "Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California, just up the highway from the factory where Tesla is expected to start manufacturing its \u2026 [+4120 chars]"
     }
 ]

@@ -1,54 +1,171 @@
 [
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Dan Goodin, Ars Technica",
-        "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-        "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-        "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-        "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-        "publishedAt": "2026-07-18T09:00:00Z",
-        "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
+        "author": "Terrence O\u2019Brien",
+        "title": "I hate that I don\u2019t hate this song made with Suno",
+        "description": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time proces\u2026",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&strip=all&crop=0%2C3.7236463698791%2C100%2C53.407996633678&w=1200",
+        "publishedAt": "2026-07-19T17:35:54Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nI hate that I dont hate this song made with Suno\r\n1010Benjas Semiramis Dream shows it can be more than a slop engine in the right hands.\r\nby\r\nTerrence O'BrienClo\u2026 [+4889 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Tom Hawking",
-        "title": "Your Child\u2019s Next Teacher Could Be a Sex Robot",
-        "description": "Because of course this is a thing that is happening in 2026.",
-        "url": "https://gizmodo.com/your-childs-next-teacher-could-be-a-sex-robot-2000787284",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/realbotix-robot-1200x675.png",
-        "publishedAt": "2026-07-18T16:02:33Z",
-        "content": "Today in dystopia: another story about a school deciding that the one thing their classroom really needs is a weird AI-driven robot. Whos todays lucky winner? Step forward Salamanca City Central Scho\u2026 [+3400 chars]"
+        "author": "Raymond Wong",
+        "title": "What We\u2019re Expecting at Samsung\u2019s July Galaxy Unpacked 2026",
+        "description": "The new shorter and wider, book-style foldable is likely to steal the show.",
+        "url": "https://gizmodo.com/what-were-expecting-at-samsungs-july-galaxy-unpacked-2026-2000787025",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48-1200x675.jpg",
+        "publishedAt": "2026-07-19T12:45:41Z",
+        "content": "Samsung\u2019s mid-year Galaxy Unpacked is always a fun event. Whereas the year\u2019s first Unpacked is focused on the latest Galaxy S series, the summer Unpacked is typically reserved for new foldables and s\u2026 [+5880 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Anthropic, Meta reportedly discussing $10B data center leasing deal",
-        "description": "Anthropic PBC is reportedly seeking to lease some of Meta Platforms Inc.\u2019s data center capacity. The New York Times today cited\u00a0three sources as saying that the deal could be worth $10 billion over two years. However, the report noted that the companies\u2019 disc\u2026",
-        "url": "https://siliconangle.com/2026/07/17/anthropic-meta-reportedly-discussing-10b-data-center-leasing-deal/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-01-13-06-34-22.png",
-        "publishedAt": "2026-07-18T01:12:53Z",
-        "content": "Anthropic PBC is reportedly seeking to lease some of Meta Platforms Inc.s data center capacity.\r\nThe New York Times today cited\u00a0three sources as saying that the deal could be worth $10 billion over t\u2026 [+3867 chars]"
+        "author": "Duncan Riley",
+        "title": "Alibaba previews Qwen3.8, claims it\u2019s second only to Claude Fable 5",
+        "description": "Alibaba Group Holding Ltd. today previewed the most powerful artificial intelligence model in its Qwen family, Qwen3.8, and claimed the system trails only Anthropic PBC\u2019s Claude Fable 5 among the world\u2019s frontier models. The company revealed the model, offere\u2026",
+        "url": "https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/qwen38.png",
+        "publishedAt": "2026-07-19T22:20:36Z",
+        "content": "Alibaba Group Holding Ltd. today previewed the most powerful artificial intelligence model in its Qwen family, Qwen3.8, and claimed the system trails only Anthropic PBC\u2019s Claude Fable 5 among the wor\u2026 [+3921 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "UK finance chiefs are warming to AI, even as they keep spending in check",
+        "description": "Nearly three-quarters of the finance chiefs at Britain\u2019s largest companies now say they are optimistic that artificial intelligence will improve business performance, a striking figure from a group not given to exuberance. In Deloitte\u2019s latest quarterly UK CF\u2026",
+        "url": "https://thenextweb.com/news/uk-cfos-more-optimistic-ai-deloitte-survey/",
+        "urlToImage": "https://media.thenextweb.com/2026/05/UK.avif",
+        "publishedAt": "2026-07-20T08:48:58Z",
+        "content": "Nearly three-quarters of the finance chiefs at Britains largest companies now say they are optimistic that artificial intelligence will improve business performance, a striking figure from a group no\u2026 [+3855 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Theregister.com"
         },
-        "author": "Dave Vellante",
-        "title": "AMD\u2019s next reinvention: A new playbook for the AI era",
-        "description": "Advanced Micro Devices Inc.\u2019s first reinvention rebuilt the company. It was frankly about survival. Its next reinvention must redefine the company. AMD\u2019s resurgence over the past decade came from doing what many thought was improbable \u2013 rebuilding its process\u2026",
-        "url": "https://siliconangle.com/2026/07/18/amds-next-reinvention-new-playbook-ai-era/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/320-_-Breaking-Analysis-_-AMDs-Next-Reinvention-\u2014-A-New-Playbook-for-the-AI-Era.pptx-1.jpg",
-        "publishedAt": "2026-07-18T15:48:11Z",
-        "content": "Advanced Micro Devices Inc.\u2019s first reinvention rebuilt the company. It was frankly about survival. Its next reinvention must redefine the company. AMDs resurgence over the past decade came from doin\u2026 [+24644 chars]"
+        "author": "Simon Sharwood",
+        "title": "Chinese President Xi Jinping wants emergency response systems to keep AI in check",
+        "description": "PLUS: Korean e-tailer Coupang's warehouse burns; Australian Uni expels VMware; India's first private rocket flies first time; And more!",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/20/chinese-president-xi-jinping-wants-emergency-response-systems-to-keep-ai-in-check/5274687",
+        "urlToImage": "https://image.theregister.com/258591.jpg?imageId=258591&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-20T00:38:54Z",
+        "content": "ASIA IN BRIEF Chinese President Xi Jinping has delivered a major speech on AI, which he thinks has enormous potential for good and evil.\r\nXis speech called for AI development to adhere to the princip\u2026 [+4868 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Kolawole Samuel Adebayo",
+        "title": "Rob Gurzeev on Why AI Has Changed Cybersecurity\u2019s Biggest Blind Spot",
+        "description": "Artificial intelligence is transforming how software is built, deployed, and secured. While AI has accelerated innovation across industries, it has also expanded the number of internet-facing assets organizations need to protect. According to Rob Gurzeev, CEO\u2026",
+        "url": "https://thenextweb.com/news/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot2.avif",
+        "publishedAt": "2026-07-19T12:56:01Z",
+        "content": "TL;DR\r\nAI makes it trivially easy for anyone in an organization to deploy internet-facing applications, often outside established security processes. CyCognito CEO Rob Gurzeev says the resulting blin\u2026 [+6345 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Data centre backlash goes national as protests hit 42 US states",
+        "description": "On Saturday, American opposition to data centres stopped being a scatter of zoning-board arguments and started behaving like a movement. More than 140 rallies across 42 states\u00a0unfolded under a single banner, in what organisers billed as the first national day\u2026",
+        "url": "https://thenextweb.com/news/data-centre-protests-go-national-backlash/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Data-centers-protests-US.avif",
+        "publishedAt": "2026-07-20T09:17:12Z",
+        "content": "On Saturday, American opposition to data centres stopped being a scatter of zoning-board arguments and started behaving like a movement.\r\nMore than 140 rallies across 42 states\u00a0unfolded under a singl\u2026 [+3926 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Levi-Neumark Stav",
+        "title": "The Company Brain and the Future of Go-to-Market Strategy",
+        "description": "Founders eagerly bought into the promise of autonomous agents over the past year, and software usage skyrocketed across the industry as teams rushed to adopt the latest tools. Despite this massive investment in new technology, sales pipelines remained complet\u2026",
+        "url": "https://thenextweb.com/news/company-brain-future-go-to-market-strategy/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/company-brain-future-go-to-market-strategy.avif",
+        "publishedAt": "2026-07-19T11:24:00Z",
+        "content": "TL;DR\r\nB2B revenue teams average 23 vendors yet pipelines remain flat. The problem is not the AI models but the fragmented storage architecture underneath them. A Company Brain, a centralized intelli\u2026 [+6980 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "Common Sense Media says Google\u2019s AI Search poses an \u201cunacceptable risk\u201d to students. Google cannot turn it off.",
+        "description": "Common Sense Media concluded that Google\u2019s AI-powered Search poses an \u201cunacceptable risk\u201d to young users and recommended that students stop using it entirely until schools can disable the AI features. The child safety watchdog found that AI Mode readily compl\u2026",
+        "url": "https://thenextweb.com/news/google-ai-search-unsafe-schools-common-sense-media/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/google-ai-search-unsafe-schools-common-sense-media.avif",
+        "publishedAt": "2026-07-19T12:51:50Z",
+        "content": "TL;DR\r\nCommon Sense Media rated Googles AI Search an unacceptable risk for students. AI Mode uses age-gated Gemini models. Google offers no way to disable AI without blocking Search.\r\nCommon Sense Me\u2026 [+2564 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "AI ops tools will create console sprawl and break IT more often: Gartner",
+        "description": "Yet by 2030, a quarter of the IT ops work you do now will be handled by an unsupervised clanker",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/20/ai-ops-tools-will-create-console-sprawl-and-break-it-more-often-gartner/5274712",
+        "urlToImage": "https://image.theregister.com/5274734.jpg?imageId=5274734&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-20T03:28:36Z",
+        "content": "A quarter of the work performed by IT infrastructure and operations people will be handled by AI in the year 2030, according to analyst firm Gartner, despite AI also complicating your environment and\u2026 [+4305 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "An AI agent hacked Hugging Face. Another AI caught it.",
+        "description": "The machines are now hacking each other. Hugging Face, the world\u2019s largest hub for open AI models, says an autonomous AI agent broke into its production infrastructure. Its own AI defences spotted the intrusion and picked it apart. The company disclosed the i\u2026",
+        "url": "https://thenextweb.com/news/hugging-face-ai-agent-breach-glm-forensics/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Hugging-Face-breach.avif",
+        "publishedAt": "2026-07-20T10:25:53Z",
+        "content": "The machines are now hacking each other. Hugging Face, the worlds largest hub for open AI models, says an autonomous AI agent broke into its production infrastructure. Its own AI defences spotted the\u2026 [+4961 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "Netflix paid $587M for Ben Affleck\u2019s AI filmmaking startup | TechCrunch",
+        "description": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Ben-Affleck_0309_R1_c.jpg?resize=1200,675",
+        "publishedAt": "2026-07-19T21:45:00Z",
+        "content": "In a new regulatory filing, Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by actor and director Ben Affleck.\r\nThe streaming company announced the acquisit\u2026 [+749 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019 | TechCrunch",
+        "description": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019 | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
+        "publishedAt": "2026-07-19T14:53:47Z",
+        "content": "Christopher Nolan, the Oscar-winning director whose new version of The Odyssey is currently conquering the box office, said its been pretty encouraging to see deep skepticism of AI, especially from y\u2026 [+2694 chars]"
     }
 ]

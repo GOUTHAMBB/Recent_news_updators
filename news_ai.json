@@ -1,29 +1,133 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Vittoria Elliott",
+        "title": "The Army Is Burning Through Its AI Tokens",
+        "description": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+        "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+        "urlToImage": "https://media.wired.com/photos/6a5a5366ad0fb31ed65fa3d3/191:100/w_1280,c_limit/Politics_ArmyBurningThroughAITokens_v4.jpg",
+        "publishedAt": "2026-07-21T09:30:00Z",
+        "content": "A little over a month after the Department of Defense (DOD) bragged that nearly half of its 3.5 million employees were using AI at work, members of the Armys Combat Capabilities Development Command (\u2026 [+3780 chars]"
+    },
+    {
+        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Terrence O\u2019Brien",
-        "title": "I hate that I don\u2019t hate this song made with Suno",
-        "description": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time proces\u2026",
-        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&strip=all&crop=0%2C3.7236463698791%2C100%2C53.407996633678&w=1200",
-        "publishedAt": "2026-07-19T17:35:54Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nI hate that I dont hate this song made with Suno\r\n1010Benjas Semiramis Dream shows it can be more than a slop engine in the right hands.\r\nby\r\nTerrence O'BrienClo\u2026 [+4889 chars]"
+        "author": "Emma Roth",
+        "title": "Here are the 30,000 songs Sony is suing Udio\u2019s AI music generator over",
+        "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc\u00e9's Say My Name, and Harry Styles' As It Was. The la\u2026",
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-20T22:20:34Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSongs from Beyonc\u00e9, Britney Spears, Johnny Cash, Harry Styles, and many more are on the list.\r\nSongs from Beyonc\u00e9, Britney Spears, Johnny Cash, Harry Styles, and\u2026 [+3316 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Raymond Wong",
-        "title": "What We\u2019re Expecting at Samsung\u2019s July Galaxy Unpacked 2026",
-        "description": "The new shorter and wider, book-style foldable is likely to steal the show.",
-        "url": "https://gizmodo.com/what-were-expecting-at-samsungs-july-galaxy-unpacked-2026-2000787025",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48-1200x675.jpg",
-        "publishedAt": "2026-07-19T12:45:41Z",
-        "content": "Samsung\u2019s mid-year Galaxy Unpacked is always a fun event. Whereas the year\u2019s first Unpacked is focused on the latest Galaxy S series, the summer Unpacked is typically reserved for new foldables and s\u2026 [+5880 chars]"
+        "author": "Ece Yildirim",
+        "title": "Weak AI Regulation Is Worse Than No Regulation, Researchers Claim",
+        "description": "Game theory says the best AI safety regulation is strict and targets everyone in the supply chain, according to the paper.",
+        "url": "https://gizmodo.com/weak-ai-regulation-is-worse-than-no-regulation-researchers-claim-2000787983",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2281424374-1200x675.jpg",
+        "publishedAt": "2026-07-21T09:00:50Z",
+        "content": "Weak AI safety regulations may \u201cbackfire,\u201d creating a product that is potentially more dangerous than AI products created under no regulation, according to a new study published on Monday in the Proc\u2026 [+4304 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "AI Tends to Develop New Stereotypes to Base Hiring Decisions On, Study Says",
+        "description": "LLMs are more likely to develop biases than humans, a new study claims.",
+        "url": "https://gizmodo.com/ai-tends-to-develop-new-stereotypes-to-base-hiring-decisions-on-study-says-2000787777",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-1404709064-1200x675.jpg",
+        "publishedAt": "2026-07-20T22:21:42Z",
+        "content": "AI is increasingly used in hiring processes, even though critics worry that existing biases may be baked into their algorithms. Now, researchers claim that even in the absence of pre-existing biases,\u2026 [+4739 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Carly Page",
+        "title": "UK's seventh prime minister in a decade says he'll ditch digital ID scheme",
+        "description": "One of Labour's biggest technology projects is headed for the bin as Burnham reshuffles Whitehall's priorities",
+        "url": "https://www.theregister.com/public-sector/2026/07/20/uks-seventh-prime-minister-in-a-decade-says-hell-ditch-digital-id-scheme/5274794",
+        "urlToImage": "https://image.theregister.com/5269830.jpg?imageId=5269830&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-20T10:31:00Z",
+        "content": "Andy Burnham is barely through the door at No. 10, and one of Keir Starmer's flagship tech projects is already heading for the shredder, with the incoming prime minister set to scrap the UK's digital\u2026 [+3069 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "YouTube Cracks Down on \u2018Off-Putting Content\u2019 and AI Slop",
+        "description": "Do AI thumbnails next, please.",
+        "url": "https://gizmodo.com/youtube-cracks-down-on-off-putting-content-and-ai-slop-2000787956",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/10/youtube-on-a-phone-e1740147209205.jpg",
+        "publishedAt": "2026-07-20T21:48:42Z",
+        "content": "Future YouTubers, heed this warning: Don\u2019t freak people out with your slop. YouTube recently clarified its policies on what it considers to be \u201cinauthentic content,\u201d effectively cracking down on the \u2026 [+2889 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Bruce Gil",
+        "title": "Hugging Face: We Used AI to Catch the First Confirmed AI Agent Breach of a Major AI Platform",
+        "description": "The company says the attack was carried out end to end by an autonomous AI-agent system.",
+        "url": "https://gizmodo.com/hugging-face-we-used-ai-to-catch-the-first-confirmed-ai-agent-breach-of-a-major-ai-platform-2000787778",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/hacker-in-a-hoodie-smiley-1200x675.jpg",
+        "publishedAt": "2026-07-20T17:10:46Z",
+        "content": "Hugging Face recently disclosed details of what appears to be the first publicly known case of AI-on-AI cybercrime against a major AI platform.\r\nThe popular platform for hosting and sharing AI models\u2026 [+3973 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Google reportedly developing \u2018Frozen v2\u2019 AI chip optimized for Gemini models",
+        "description": "Google LLC is reportedly developing a new chip optimized to run its Gemini series of artificial intelligence models. Sources told The Information today that the processor is codenamed \u201cFrozen v2\u201d. According to the publication, it\u2019s expected to provide between\u2026",
+        "url": "https://siliconangle.com/2026/07/20/google-reportedly-developing-frozen-v2-ai-chip-optimized-gemini-models/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Google-3.png",
+        "publishedAt": "2026-07-21T00:30:12Z",
+        "content": "Google LLC is reportedly developing a new chip optimized to run its Gemini series of artificial intelligence models.\r\nSources told The Information today that the processor is codenamed Frozen v2. Acc\u2026 [+4065 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Jessica Lyons",
+        "title": "Frontier LLMs couldn't help Hugging Face fight off evil agents",
+        "description": "Chinese open-weight model GLM 5.2 happily obliged",
+        "url": "https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168",
+        "urlToImage": "https://image.theregister.com/251593.jpg?imageId=251593&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-20T18:46:47Z",
+        "content": "Apparently, being a leading destination for AI development doesn't mean AI will bail you out. AI agents broke into Hugging Face's production infrastructure, but commercial LLM guardrails blocked the \u2026 [+4169 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Giselle Castro-Sloboda",
+        "title": "Smart Home Gyms Are Getting Smarter: These Expert Picks Are Worth Every Penny",
+        "description": "If you\u2019re unsure whether you should add a smart home gym to your space, let this list of my favorite devices be your guide.",
+        "url": "https://www.cnet.com/health/fitness/best-smart-home-gym-2/",
+        "urlToImage": null,
+        "publishedAt": "2026-07-20T21:51:22Z",
+        "content": "If you\u2019re tired of paying for a gym membership and would rather get the same experience at home, then a smart home gym that offers multiple functions in one device can fit the bill. As CNET\u2019s residen\u2026 [+14353 chars]"
     },
     {
         "source": {
@@ -31,12 +135,116 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Alibaba previews Qwen3.8, claims it\u2019s second only to Claude Fable 5",
-        "description": "Alibaba Group Holding Ltd. today previewed the most powerful artificial intelligence model in its Qwen family, Qwen3.8, and claimed the system trails only Anthropic PBC\u2019s Claude Fable 5 among the world\u2019s frontier models. The company revealed the model, offere\u2026",
-        "url": "https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/qwen38.png",
-        "publishedAt": "2026-07-19T22:20:36Z",
-        "content": "Alibaba Group Holding Ltd. today previewed the most powerful artificial intelligence model in its Qwen family, Qwen3.8, and claimed the system trails only Anthropic PBC\u2019s Claude Fable 5 among the wor\u2026 [+3921 chars]"
+        "title": "ShelterZoom subsidiary Mithra launches AI \u2018trust infrastructure\u2019 platform",
+        "description": "Mithra Technologies Inc., a subsidiary of blockchain and document-security company ShelterZoom Corp., today launched Mithra AI, a product built to vet the data behind an enterprise artificial intelligence answer before the model ever produces it. The setup is\u2026",
+        "url": "https://siliconangle.com/2026/07/20/shelterzoom-subsidiary-mithra-launches-ai-trust-infrastructure-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/mithraai.png",
+        "publishedAt": "2026-07-20T13:00:18Z",
+        "content": "Mithra Technologies Inc., a subsidiary of blockchain and document-security company ShelterZoom Corp., today launched Mithra AI, a product built to vet the data behind an enterprise artificial intelli\u2026 [+4763 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Infinity raises $15M to run AI inference on any chipset",
+        "description": "Early-stage AI infrastructure research company Infinity Inc. said it raised $15 million in seed funding to develop software that automatically prepares new artificial intelligence chips to run inference workloads. The round values the company at $100 million \u2026",
+        "url": "https://siliconangle.com/2026/07/20/infinity-raises-15m-run-ai-inference-chipset/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/rings-684944_1920.jpg",
+        "publishedAt": "2026-07-20T20:15:14Z",
+        "content": "Early-stage AI infrastructure research company Infinity Inc. said it raised $15 million in seed funding to develop software that automatically prepares new artificial intelligence chips to run infere\u2026 [+5252 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "AI materials science startup CuspAI raises $450M in funding",
+        "description": "CuspAI Ltd., a startup using artificial intelligence to discover new materials, today announced\u00a0that it has raised $450 million in funding. The U.K.-based company also formed a chemical research consortium that includes Nvidia Corp. and Samsung Electronics Co\u2026",
+        "url": "https://siliconangle.com/2026/07/20/ai-materials-science-startup-cuspai-raises-450m-funding/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/CuspAI.png",
+        "publishedAt": "2026-07-20T22:56:04Z",
+        "content": "CuspAI Ltd., a startup using artificial intelligence to discover new materials, today announced\u00a0that it has raised $450 million in funding.\r\nThe U.K.-based company also formed a chemical research con\u2026 [+4696 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Cheryl Knight",
+        "title": "On theCUBE Pod: IBM\u2019s AI test, Nvidia\u2019s lead and the race for enterprise intelligence",
+        "description": "Artificial intelligence companies are racing to control the infrastructure, data and software layers that will power enterprise intelligence. Nvidia Corp. remains far ahead in accelerated computing, but AMD Inc., Broadcom Inc. and other challengers are positi\u2026",
+        "url": "https://siliconangle.com/2026/07/20/enterprise-intelligence-ai-race-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/theCUBE-Pod-July-17-2026.png",
+        "publishedAt": "2026-07-20T16:33:13Z",
+        "content": "Artificial intelligence companies are racing to control the infrastructure, data and software layers that will power enterprise intelligence.\r\nNvidia Corp. remains far ahead in accelerated computing,\u2026 [+8455 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Hugging Face uses open weights Z.ai GLM 5.2 to defend against attacker after commercial frontier model refusal",
+        "description": "Hugging Face Inc., an open-source artificial intelligence platform often described as the \u201cGitHub of machine learning,\u201d found itself forced to use an open-weights model to respond to an agentic AI attack after the safety guardrails on commercial AI models blo\u2026",
+        "url": "https://siliconangle.com/2026/07/20/hugging-face-uses-open-weights-z-ai-glm-5-2-defend-attacker-commercial-frontier-model-refusal/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/A-computer-chip-with-a-brain-etched-into-the-surface-at-a-34-angle-with-a-multitude-of-nanowires-ex.jpeg",
+        "publishedAt": "2026-07-20T16:05:58Z",
+        "content": "Hugging Face Inc., an open-source artificial intelligence platform often described as the GitHub of machine learning, found itself forced to use an open-weights model to respond to an agentic AI atta\u2026 [+7433 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "John Furrier",
+        "title": "Why the next battle for technology IPOs begins years before companies go public",
+        "description": "When most people think about the New York Stock Exchange, they think about listing day. The opening bell. CNBC. The trading floor. The moment a private company becomes public. What they don\u2019t see are the years leading up to that moment. Increasingly, that\u2019s w\u2026",
+        "url": "https://siliconangle.com/2026/07/20/next-battle-technology-ipos-begins-years-companies-go-public/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Gemini_Generated_Image_7t3q5s7t3q5s7t3q.png",
+        "publishedAt": "2026-07-20T14:41:55Z",
+        "content": "When most people think about the New York Stock Exchange, they think about listing day. The opening bell. CNBC. The trading floor. The moment a private company becomes public.\r\nWhat they don\u2019t see ar\u2026 [+11222 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
+        "description": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And t\u2026",
+        "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-20T11:18:31Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Indigos new AI Playground update introduces generative filter effects, object removal, and chatbot feedback.\r\nProject Indigos new AI Playground update in\u2026 [+5009 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Neo Security bags $100M to build the secure control layer for enterprise AI agents",
+        "description": "Agentic software control startup Neo Security Inc. said today it is exiting a years-long spell in \u201cstealth\u201d mode after raising $100 million in funding. The round was led by top tier venture capitalists in Andreessen Horowitz and Bessemer Venture Partners, and\u2026",
+        "url": "https://siliconangle.com/2026/07/20/neo-security-bags-100m-build-secure-control-layer-enterprise-ai-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-20-23-04-54.png",
+        "publishedAt": "2026-07-20T16:06:15Z",
+        "content": "Agentic software control startup Neo Security Inc. said today it is exiting a years-long spell in stealth mode after raising $100 million in funding. The round was led by top tier venture capitalists\u2026 [+5781 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Microsoft will use AMD\u2019s AI-optimized Helios racks in Azure",
+        "description": "Microsoft Corp. will use Advanced Micro Devices Inc.\u2019s upcoming Helios rack design to power some Azure services. The cloud and operating system giant announced the partnership today alongside three new instance families. Helios is a reference design, a bluepr\u2026",
+        "url": "https://siliconangle.com/2026/07/20/microsoft-will-use-amds-ai-optimized-helios-racks-azure/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/AMD.png",
+        "publishedAt": "2026-07-20T20:20:47Z",
+        "content": "Microsoft Corp. will use Advanced Micro Devices Inc.s upcoming Helios rack design to power some Azure services.\r\nThe cloud and operating system giant announced the partnership today alongside three n\u2026 [+5147 chars]"
     },
     {
         "source": {
@@ -54,6 +262,123 @@
     {
         "source": {
             "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "Anthropic settles with authors and publishers for $1.5 billion in landmark copyright case",
+        "description": "A federal judge today approved a $1.5 billion settlement awarded to authors and publishers whose works were used by Anthropic PBC to train the AI chatbot, Claude, in what is the largest copyright class action settlement in history. Judge William Alsup issued \u2026",
+        "url": "https://siliconangle.com/2026/07/20/anthropic-settles-authors-publishers-1-5-billion-landmark-copyright-case/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/hasnain-sajid-hakeem-nVBPy9S2USQ-unsplash.jpg",
+        "publishedAt": "2026-07-21T01:56:25Z",
+        "content": "A federal judge today approved a $1.5 billion settlement awarded to authors and publishers whose works were used by Anthropic PBC to train the AI chatbot, Claude, in what is the largest copyright cla\u2026 [+3700 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Cheryl Knight",
+        "title": "Hyve acquisition positions RAISE Summit for global expansion",
+        "description": "Hyve Group\u2019s acquisition of Chain of Events is set to accelerate the international expansion of RAISE Summit, Paris Blockchain Week and MACHINA while adding technology designed to improve attendee networking and deal-making. The transaction will help the comp\u2026",
+        "url": "https://siliconangle.com/2026/07/20/hyve-technology-raise-summit-expansion-raisesummit/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Charlie-Meraud-Michael-Amar-Raise-Summit-2026.jpg",
+        "publishedAt": "2026-07-20T19:15:26Z",
+        "content": "Hyve Groups acquisition of Chain of Events is set to accelerate the international expansion of RAISE Summit, Paris Blockchain Week and MACHINA while adding technology designed to improve attendee net\u2026 [+3829 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "Netflix used AI in 300 shows. Its biggest director calls AI a Trojan horse.",
+        "description": "The fight over AI in Hollywood used to be about the future. This month it turned into a fight about the present. Within days, a studio, a director and a union each drew a line. The lines do not agree. Taken together, they show an industry that has already let\u2026",
+        "url": "https://thenextweb.com/news/ai-in-hollywood-netflix-nolan-synthetic-performers/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/hollywood.avif",
+        "publishedAt": "2026-07-20T14:28:36Z",
+        "content": "The fight over AI in Hollywood used to be about the future. This month it turned into a fight about the present. Within days, a studio, a director and a union each drew a line. The lines do not agree\u2026 [+4210 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Ritoban Mukherjee",
+        "title": "How to check if ChatGPT and other AI tools cite your website - and improve your chances in 2026",
+        "description": "SEO is not dead. Here's how to get cited more often and boost search visibility in AI tools today.",
+        "url": "https://www.zdnet.com/article/how-to-check-if-chatgpt-ai-tools-cite-website-improve-chances/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/187cc6fe58b7d92af92839172d7032b41e2a0bf2/2026/07/20/eeddb286-ecad-492d-ad50-3bf9c1948284/gettyimages-2285567119.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-20T13:39:00Z",
+        "content": "MARTIN LELIEVRE / Contributor via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI traffic grew 66% in 2025 but remains under 0.15% of visits. </\u2026 [+7353 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Lindsay Clark",
+        "title": "EU's AI labeling rules take effect next month",
+        "description": "Chatbots and agents will have to come clean about who \u2013 or what \u2013 users are talking to",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/20/eus-ai-labeling-rules-take-effect-next-month/5274917",
+        "urlToImage": "https://image.theregister.com/256439.jpg?imageId=256439&x=0&y=1.68&cropw=100&croph=72.07&panox=0&panoy=1.68&panow=100&panoh=72.07&width=1200&height=683",
+        "publishedAt": "2026-07-20T13:27:00Z",
+        "content": "From August 2, providers of AI systems in the EU will have to tell people when they are interacting with a machine and add machine-readable marks to AI-generated or manipulated content under new tran\u2026 [+2477 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "Google is building a chip with Gemini baked into the silicon",
+        "description": "Most AI chips are general-purpose. You load a model onto them, and they run it. Google is reportedly trying something stranger: a chip that is the model, with Gemini\u2019s blueprint etched into the hardware itself. The project, informally called \u201cFrozen v2,\u201d was \u2026",
+        "url": "https://thenextweb.com/news/google-frozen-chip-gemini-silicon/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/google-ai-search-unsafe-schools-common-sense-media.avif",
+        "publishedAt": "2026-07-20T14:46:54Z",
+        "content": "Most AI chips are general-purpose. You load a model onto them, and they run it. Google is reportedly trying something stranger: a chip that is the model, with Geminis blueprint etched into the hardwa\u2026 [+3440 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "A rare bird appeared in Brazil. AI had put it there.",
+        "description": "A rare bird turned up in central Brazil, or so it seemed. A photo on the wildlife platform iNaturalist showed a red-winged blackbird. That North American species had never turned up in that part of Brazil. It would have been a notable first. It was not real. \u2026",
+        "url": "https://thenextweb.com/news/ai-slop-fake-bird-sightings-citizen-science/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/birdwatching-couple.avif",
+        "publishedAt": "2026-07-21T09:40:51Z",
+        "content": "A rare bird turned up in central Brazil, or so it seemed. A photo on the wildlife platform iNaturalist showed a red-winged blackbird. That North American species had never turned up in that part of B\u2026 [+3245 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "Alibaba says Qwen3.8 is the world\u2019s No.2 AI model. It has shown no proof.",
+        "description": "Days after a rival Chinese lab shook Silicon Valley, Alibaba has fired back. The company previewed Qwen3.8, its most powerful model yet, and made a bold claim: it trails only one model on Earth. Alibaba unveiled the model at the World Artificial Intelligence \u2026",
+        "url": "https://thenextweb.com/news/alibaba-qwen38-second-only-fable5-open-weight/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Qwen3-8-new-model.avif",
+        "publishedAt": "2026-07-20T11:15:42Z",
+        "content": "Days after a rival Chinese lab shook Silicon Valley, Alibaba has fired back. The company previewed Qwen3.8, its most powerful model yet, and made a bold claim: it trails only one model on Earth.\r\nAli\u2026 [+3112 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Justine Calma",
+        "title": "Who\u2019s afraid of the big, bad GPU?",
+        "description": "How does AI make you feel? Are you excited to \u201cvibe-code\u201d your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and you\u2019ll start to question the actual value of the GPUs that under\u2026",
+        "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/258075_GPU_IMAGE_LEDE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-21T10:00:01Z",
+        "content": "by Justine Calma\r\nJul 21, 2026, 10:48 AM GMT+1\r\nHow you feel about AIs energy use might change how you feel about computers entirely.\r\nThis is Microsofts Fairwater data center in Mount Pleasant, Wisc\u2026 [+36032 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Theregister.com"
         },
         "author": "Simon Sharwood",
@@ -66,16 +391,42 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+        "title": "Nvidia's new Synthetic Video Detector can identify fake AI videos with up to 92% accuracy \u2014 microservice based on cutting-edge research looks to combat misinformation in broadcasts with just 22ms processing time",
+        "description": "Nvidia has just created an antidote to the virus that is AI misinformation. The company's new Synthetic Video Detector can help broadcasters assess 1080p footage at scale with processing times of just 22ms and up 92% accuracy for uncompressed videos.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-new-synthetic-video-detector-can-identify-fake-ai-videos-with-up-to-92-percent-accuracy-microservice-based-on-cutting-edge-research-looks-to-combat-misinformation-in-broadcasts-with-just-22ms-processing-time",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/TqRBtTVuFNuTyayvtrdhPb-960-80.jpg",
+        "publishedAt": "2026-07-21T09:30:00Z",
+        "content": "We live in an age where artificial intelligence increasingly dominates the internet, making it harder to distinguish real content from fake news. Any picture or video you see today could be AI-genera\u2026 [+3277 chars]"
+    },
+    {
+        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Kolawole Samuel Adebayo",
-        "title": "Rob Gurzeev on Why AI Has Changed Cybersecurity\u2019s Biggest Blind Spot",
-        "description": "Artificial intelligence is transforming how software is built, deployed, and secured. While AI has accelerated innovation across industries, it has also expanded the number of internet-facing assets organizations need to protect. According to Rob Gurzeev, CEO\u2026",
-        "url": "https://thenextweb.com/news/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot2.avif",
-        "publishedAt": "2026-07-19T12:56:01Z",
-        "content": "TL;DR\r\nAI makes it trivially easy for anyone in an organization to deploy internet-facing applications, often outside established security processes. CyCognito CEO Rob Gurzeev says the resulting blin\u2026 [+6345 chars]"
+        "author": "Alina Maria Stan",
+        "title": "China weighs export controls on its own AI models and chips, FT reports",
+        "description": "China is considering tightening export controls on its home-grown artificial intelligence models and the chips that run them, according to the\u00a0Financial Times, in a move that would push Beijing\u2019s technology defences well beyond the raw materials and equipment\u2026",
+        "url": "https://thenextweb.com/news/china-ai-model-chip-export-controls-ft-report/",
+        "urlToImage": "https://media.thenextweb.com/2026/06/china-ai-global-cooperation-vs-g7-export-controls.avif",
+        "publishedAt": "2026-07-21T08:29:55Z",
+        "content": "China is considering tightening export controls on its home-grown artificial intelligence models and the chips that run them, according to the\u00a0Financial Times, in a move that would push Beijings tech\u2026 [+3857 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Callum Turner",
+        "title": "Decart\u2019s Lucy 2.5 unlocks new live video effects, but physical AI is the real winner",
+        "description": "Artificial intelligence startup Decart continues to stretch the boundaries of what\u2019s possible with the release of its latest live video model, Lucy 2.5, introducing real-time streaming visual effects capabilities for the first time. The startup claims that Lu\u2026",
+        "url": "https://thenextweb.com/news/decart-lucy-2-5-live-video-effects-physical-ai/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/decart-lucy-2-5-live-video-effects-physical-ai.avif",
+        "publishedAt": "2026-07-20T11:54:14Z",
+        "content": "Artificial intelligence startup Decart continues to stretch the boundaries of whats possible with the release of its latest live video model, Lucy 2.5, introducing real-time streaming visual effects \u2026 [+5052 chars]"
     },
     {
         "source": {
@@ -92,29 +443,42 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "ZDNet"
         },
-        "author": "Levi-Neumark Stav",
-        "title": "The Company Brain and the Future of Go-to-Market Strategy",
-        "description": "Founders eagerly bought into the promise of autonomous agents over the past year, and software usage skyrocketed across the industry as teams rushed to adopt the latest tools. Despite this massive investment in new technology, sales pipelines remained complet\u2026",
-        "url": "https://thenextweb.com/news/company-brain-future-go-to-market-strategy/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/company-brain-future-go-to-market-strategy.avif",
-        "publishedAt": "2026-07-19T11:24:00Z",
-        "content": "TL;DR\r\nB2B revenue teams average 23 vendors yet pipelines remain flat. The problem is not the AI models but the fragmented storage architecture underneath them. A Company Brain, a centralized intelli\u2026 [+6980 chars]"
+        "author": "Charlie Osborne",
+        "title": "An AI agent breached Hugging Face before an AI defender caught it: What users should do next",
+        "description": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will they be defended against?",
+        "url": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/6a72c131c40a0a1373f768eca4241bd71cdf539b/2026/07/20/e64ab85b-5a44-4945-8896-a13bac148e10/colorcyber.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-20T16:53:00Z",
+        "content": "XH4D/iStock / Getty Images Plus via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Hugging Face discloses a cyberattack that compromised internal \u2026 [+4537 chars]"
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "ZDNet"
         },
-        "author": "Ana Maria Constantin",
-        "title": "Common Sense Media says Google\u2019s AI Search poses an \u201cunacceptable risk\u201d to students. Google cannot turn it off.",
-        "description": "Common Sense Media concluded that Google\u2019s AI-powered Search poses an \u201cunacceptable risk\u201d to young users and recommended that students stop using it entirely until schools can disable the AI features. The child safety watchdog found that AI Mode readily compl\u2026",
-        "url": "https://thenextweb.com/news/google-ai-search-unsafe-schools-common-sense-media/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/google-ai-search-unsafe-schools-common-sense-media.avif",
-        "publishedAt": "2026-07-19T12:51:50Z",
-        "content": "TL;DR\r\nCommon Sense Media rated Googles AI Search an unacceptable risk for students. AI Mode uses age-gated Gemini models. Google offers no way to disable AI without blocking Search.\r\nCommon Sense Me\u2026 [+2564 chars]"
+        "author": "Charlie Osborne",
+        "title": "HuggingFace breach that's blamed on AI agent is defended by AI, too - what users should do next",
+        "description": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will they be defended against?",
+        "url": "https://www.zdnet.com/article/huggingface-breach-blamed-on-ai-agent/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/6a72c131c40a0a1373f768eca4241bd71cdf539b/2026/07/20/e64ab85b-5a44-4945-8896-a13bac148e10/colorcyber.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-20T16:53:04Z",
+        "content": "XH4D/iStock / Getty Images Plus via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Hugging Face discloses a cyberattack that compromised internal \u2026 [+4537 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
+        "description": "Today, I\u2019m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State, which comes out on August 25. Jill is one of the best writers there is at identifying institutional patterns i\u2026",
+        "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0720.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-20T15:04:05Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Artificial State author explains how counting everything breaks society and how college grads booing AI might save us all.\r\nby\r\nNilay PatelClose\r\nPosts from \u2026 [+50419 chars]"
     },
     {
         "source": {
@@ -147,25 +511,25 @@
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "Netflix paid $587M for Ben Affleck\u2019s AI filmmaking startup | TechCrunch",
-        "description": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
-        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Ben-Affleck_0309_R1_c.jpg?resize=1200,675",
-        "publishedAt": "2026-07-19T21:45:00Z",
-        "content": "In a new regulatory filing, Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by actor and director Ben Affleck.\r\nThe streaming company announced the acquisit\u2026 [+749 chars]"
+        "author": "Ivan Mehta",
+        "title": "Adobe camera app's new feature will critique your photos using AI | TechCrunch",
+        "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
+        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.11.16-PM.jpg?resize=1200,619",
+        "publishedAt": "2026-07-20T15:47:30Z",
+        "content": "Adobe is adding new AI-powered features to its experimental iOS camera app called Project Indigo, launched last year. The app previously offered pro controls, multi-frame super-resolution, and differ\u2026 [+3795 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019 | TechCrunch",
-        "description": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019 | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
-        "publishedAt": "2026-07-19T14:53:47Z",
-        "content": "Christopher Nolan, the Oscar-winning director whose new version of The Odyssey is currently conquering the box office, said its been pretty encouraging to see deep skepticism of AI, especially from y\u2026 [+2694 chars]"
+        "author": "Julie Bort",
+        "title": "Trump's latest AI czar has already resigned | TechCrunch",
+        "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+        "publishedAt": "2026-07-20T22:23:00Z",
+        "content": "Chris Fall, the director of the Center for AI Standards and Innovation (CAISI), has resigned, the agency confirmed to multiple news outlets.\r\nHe was appointed just three months ago after the last app\u2026 [+3154 chars]"
     }
 ]

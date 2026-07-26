@@ -1,16 +1,29 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Entrepreneur"
+        },
+        "author": "Marko Kling",
+        "title": "The Finance Automation Problem Nobody Is Talking About",
+        "description": "Your finance function is already running on autopilot; the only question is who set the course.",
+        "url": "https://www.entrepreneur.com/money-finance/the-finance-automation-problem-nobody-is-talking-about/504856",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784320538-finance-automation-0726-g2275637221.jpg?resize=1024,682",
+        "publishedAt": "2026-07-24T18:00:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Finance automation is delivering on efficiency for most companies, but what it isn\u2019t delivering is control.</li><l\u2026 [+6680 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Sydney Bradley,Geoff Weiss,Henry Chandonnet",
-        "title": "Meet 22 VCs on the hunt for the next breakout startup in social media",
-        "description": "From dating apps to new takes on the social network for the AI era, meet 22 VC firms backing innovative internet startups.",
-        "url": "https://www.businessinsider.com/meet-vcs-backing-ai-native-social-vibe-coding-dating-apps-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a60e4e4ce52cb26b839266f?width=1200&format=jpeg",
-        "publishedAt": "2026-07-23T18:19:36Z",
-        "content": "Investors like Vanessa Larco (Premise), Adina Tecklu (Khosla), and Ramtin Naimi (Abstract Ventures) are backing buzzy new social startups.Courtesy of Premise; Courtesy of Khosla Ventures; Courtesy of\u2026 [+25914 chars]"
+        "author": "Sin\u00e9ad Baker",
+        "title": "Ukraine has gone from accepting just about any old weapon to showing Western militaries how modern war is fought",
+        "description": "Ukraine started Russia's full-scale invasion accepting any help it could get, and now it's helping allies prepare for new ways of war.",
+        "url": "https://www.businessinsider.com/ukraine-gone-from-accepting-any-weapons-to-leader-helping-allies-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a60a16a548c9c486b30ee90?width=1200&format=jpeg",
+        "publishedAt": "2026-07-24T11:33:01Z",
+        "content": "Ukraine's allies now see it as a key partner that helps their own future security.Serhii Mykhalchuk/Global Images Ukraine via Getty Images\r\n<ul><li>Ukraine started its fight against Russia's full-sca\u2026 [+7537 chars]"
     },
     {
         "source": {
@@ -27,120 +40,29 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Thibault Spirlet",
-        "title": "The 4 qualities that make the Moonshot AI founder so exceptional, according to his Ph.D. advisor",
-        "description": "Years before Kimi K3 grabbed Silicon Valley's attention, Moonshot AI's CEO was challenging how AI models should work, his former Ph.D. adviser said.",
-        "url": "https://www.businessinsider.com/moonshot-ai-kimi-k3-founder-professor-on-unique-strengths-qualities-2026-7",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/90ce625662d470ad160d5e2b1b563aebafa5d0f21d5db2d1c0f93303943e13f4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F4ef4029e8bb4b12a3acd777754d085b7",
-        "publishedAt": "2026-07-23T12:18:21Z",
-        "content": "<ul><li>Yang Zhilin, the 34-year-old cofounder of Moonshot AI, has been dubbed a \"millennial genius.\"\r\n</li><li>Yang came into the limelight this month after launching his new buzzy K3 Kimi model.\r\n<\u2026 [+5283 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "James Faris",
-        "title": "Paramount+ is building out a free tier to lure cost-conscious viewers",
-        "description": "Paramount+ is planning to make more movies and shows free to give users \"more reasons to sign up,\" an internal presentation said.",
-        "url": "https://www.businessinsider.com/paramount-free-tier-pluto-tv-streaming-youtube-tubi-ellison-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a612a53ce52cb26b8392ac3?width=1200&format=jpeg",
-        "publishedAt": "2026-07-23T14:50:48Z",
-        "content": "Paramount+ is planning a free tier to bring in new customers.Business Insider\r\n<ul><li>Paramount+ is planning to make more movies and shows free.</li><li>A free tier can give new users \"more reasons \u2026 [+3981 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Eugene Kim",
-        "title": "How Amazon weaned Alexa off Anthropic's pricey models to slash AI costs",
-        "description": "Internal documents show Amazon worked to lower Alexa+ AI costs by reducing the use of Anthropic models and getting more work from every GPU.",
-        "url": "https://www.businessinsider.com/amazon-push-lower-alexa-ai-costs-use-anthropic-models-less-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a61242dce52cb26b8392a35?width=1200&format=jpeg",
-        "publishedAt": "2026-07-23T09:00:03Z",
-        "content": "An Alexa+ signage during an unveiling event in New York, US, on Wednesday, Feb. 26, 2025.Bloomberg/Getty Images\r\n<ul><li>Amazon's Alexa+ looks for ways to reduce its use of Anthropic's Claude models \u2026 [+6271 chars]"
+        "author": "Alexander Kardos-Nyheim",
+        "title": "I sold my startup for millions without a single dollar in revenue. Here\u2019s why that\u2019s the point",
+        "description": "It was Thomson Reuters\u2019 first pre-revenue acquisition in 174 years, and one of the more significant European deals of 2024, but that wasn't the surprise.",
+        "url": "https://fortune.com/2026/07/25/sold-startup-millions-no-revenue-safe-sign-technologies-thomson-reuters/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/1G9A0987.jpg?resize=1200,600",
+        "publishedAt": "2026-07-25T07:00:00Z",
+        "content": "The house I grew up in was being knocked down. Rollins House, a rundown Art Deco former factory in south-east London, was the kind of building that looks like nothing until you know what it is: ungla\u2026 [+5155 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Nicholas Gordon",
-        "title": "Moonshot, DeepSeek, and the Great Chinese AI IPO Rush",
-        "description": "Beijing's AI leaders are rushing toward the public markets, using IPOs to fund an escalating arms race against U.S. frontier models.",
-        "url": "https://fortune.com/2026/07/23/moonshot-deepseek-great-chinese-ai-ipo-rush/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2196672039.jpg?resize=1200,600",
-        "publishedAt": "2026-07-23T11:34:09Z",
-        "content": "Two of Chinas AI darlings areaccording to media reports, at leastheaded for an IPO.Moonshot AI, the Pink-Floyd inspired startup behind Kimi, is reportedly preparing a Hong Kong listing within six mon\u2026 [+7772 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Bill Conerly, Senior Contributor, \n Bill Conerly, Senior Contributor\n https://www.forbes.com/sites/billconerly/",
-        "title": "6 Bold Moves Every Business Should Consider This Year",
-        "description": "Cornerstone Advisors' 6 bold moves show why piecemeal fixes fail, and how banks and businesses build roadmaps that outpace hesitant, cautious rivals",
-        "url": "https://www.forbes.com/sites/billconerly/2026/07/23/6-bold-moves-every-business-should-consider-this-year/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a623d24b30f109602fa44f6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-23T16:16:07Z",
-        "content": "Business leader speaking to team\r\ngetty\r\nBusiness planning faces many unusual external challenges today, along with new internal challenges. The economic outlook is uncertain given the Iran Wars effe\u2026 [+5978 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Barbara Kollmeyer",
-        "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
-        "description": "The different price action between artificial-intelligence hyperscalers and chip and infrastructure stocks is a throwback to a setup in the late 1990s, argue...",
-        "url": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/2250EC635280838AC8178E08C0D67F200B6C17F9314654A1BA464ECA840A693E/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2F4cc04010756b9002a126587622a65d9e",
-        "publishedAt": "2026-07-23T13:52:00Z",
-        "content": "Artificial-intelligence stocks aren't moving together reminiscent of the dot-com bubble phase. - Getty Images\r\nEarnings results from Alphabet and Tesla have arrived this week to a chilly reception as\u2026 [+7602 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Andrew Watman, Contributor, \n Andrew Watman, Contributor\n https://www.forbes.com/sites/andrewwatman/",
-        "title": "Smash Foods Closes $18 Million Funding Round Led By L Catterton To Boost Jam And Protein Bites Momentum",
-        "description": "Smash Foods starts as a humble jam brand to a national pantry staple",
-        "url": "https://www.forbes.com/sites/andrewwatman/2026/07/23/smash-foods-closes-18-million-funding-round-led-by-l-catterton-to-boost-jam-and-protein-bites-momentum/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a624ac171c92321fcb2cd0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-23T17:29:51Z",
-        "content": "Smash Foods Raises New $18 Million Funding\r\nSmash Foods\r\nTwo entrepreneurs with a simple passion for health through food have gone from delivering homemade jams in the back of their Subaru to gaining\u2026 [+11244 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "sobrient@insider.com (Samuel O'Brient)",
-        "title": "One chart shows why investors may want to approach this year's mega IPOs with caution",
-        "description": "SpaceX has struggled since its debut, and history shows that offerings since 2019 have underperformed in the years since.",
-        "url": "https://www.businessinsider.com/anthropic-ipo-openai-spacex-spcx-stock-market-aollo-torsten-slok-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a621ce254f9875261778db8?width=1200&format=jpeg",
-        "publishedAt": "2026-07-23T18:51:07Z",
-        "content": "The AI hype seems endless, and investors are salivating at the chance to finally buy stock in some of the biggest names in the industry. \r\nBut as Anthropic and OpenAI prepare to go public, and as Spa\u2026 [+1997 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Beatrice Nolan",
-        "title": "AI labs have a trust problem, and the Hugging Face hack just proved it",
-        "description": "OpenAI's AI hacked a rival company. But after years of doom from frontier labs, plenty of people assumed it was just marketing.",
-        "url": "https://fortune.com/2026/07/23/ai-labs-have-a-trust-problem-and-the-hugging-face-hack-just-proved-it/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281437321-e1784819792237.jpg?resize=1200,600",
-        "publishedAt": "2026-07-23T18:29:29Z",
-        "content": "Welcome to Eye on AI. Beatrice Nolan here. In todays issue:<ul><li>Some people think OpenAIs Hugging Face hack is a PR stunt.</li><li>White House accuses Moonshot of distilling Anthropics Fable.</li>\u2026 [+11850 chars]"
+        "author": "Preston Fore",
+        "title": "Defense tech investors thought the war in Iran could make them millionaires. Instead, they faced a Wall Street bloodbath",
+        "description": "Firms like Northrop Grumman are struggling on the market despite record military spending. Investors are now watching Congress\u2014and a new generation of startups.",
+        "url": "https://fortune.com/2026/07/25/defense-tech-investors-thought-the-war-in-iran-could-make-them-millionaires-instead-they-faced-a-wall-street-bloodbath/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2263711616-e1784832954938.jpg?resize=1200,600",
+        "publishedAt": "2026-07-25T09:54:00Z",
+        "content": "Trading volumes in major defense contractors surged in the conflicts opening daysrising for some as much as 140% above their average level during Trumps second termbut the gains didnt last. Northrop \u2026 [+6178 chars]"
     },
     {
         "source": {
@@ -148,25 +70,12 @@
             "name": "Fortune"
         },
         "author": "Jim Edwards",
-        "title": "Google just posted the biggest quarterly profit ever\u2014$112 billion\u2014and Wall Street is punishing it for doing so",
+        "title": "Trump weighs \u2018massive attack\u2019 on Iran as Tehran\u2019s chokehold on oil gets tighter",
         "description": "Everything you need to know before you reach the office this morning.",
-        "url": "https://fortune.com/2026/07/23/google-alphabet-biggest-quarterly-profit-112-billion-stocks/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2218001358-e1762435125251.jpg?resize=1200,600",
-        "publishedAt": "2026-07-23T10:14:38Z",
-        "content": "Would you prefer to receive this information in your email inbox every morning before the markets open in New York? Sign up here.ONE BIG THING\r\nGoogle just booked the biggest profit quarter in histor\u2026 [+9633 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Priyanka Salve",
-        "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
-        "description": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
-        "url": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338290-1784696474140-gettyimages-2285787395-AFP_B9HM798.jpeg?v=1784696742&w=1920&h=1080",
-        "publishedAt": "2026-07-23T00:05:25Z",
-        "content": "Hello, this is Priyanka Salve, writing to you from Singapore.\r\nWelcome to the latest edition of \u00a0\"Inside India\"\u00a0 your one-stop destination for stories and developments from the world's fastest-growin\u2026 [+6411 chars]"
+        "url": "https://fortune.com/2026/07/24/trump-weighs-massive-attack-on-iran-as-tehrans-chokehold-on-oil-gets-tighter/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287240062.jpg?resize=1200,600",
+        "publishedAt": "2026-07-24T10:41:09Z",
+        "content": "Did someone forward you this email? If you would like to receive this information directly, every morning before the markets open in New York,\u00a0sign up here.ONE BIG THING\r\nAI is costing Big Tech more \u2026 [+9856 chars]"
     },
     {
         "source": {
@@ -199,38 +108,25 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Anniek Bao, Jenny Lee",
-        "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
-        "description": "The outsized premium was due in part to offshore investors who, locked out of the highly anticipated listings, turned to crypto for a parallel market.",
-        "url": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108337652-1784594840614-gettyimages-2285860135-boivin-notitle260717_npJis.jpeg?v=1784594852&w=1920&h=1080",
-        "publishedAt": "2026-07-23T03:28:22Z",
-        "content": "Crypto traders are pricing China's largest memory chipmaker, ChangXin Memory Technologies, at levels that would make it the most valuable company listed on the mainland, days before its record Shangh\u2026 [+5043 chars]"
+        "author": "Robert Frank",
+        "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
+        "description": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
+        "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338623-1784736667371-gettyimages-2283667030-AFP_B8YA9H6.jpeg?v=1784845634&w=1920&h=1080",
+        "publishedAt": "2026-07-24T11:00:01Z",
+        "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer.\u00a0Sign up\u00a0to receive future editions, straight\u2026 [+4973 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Leonie Kidd",
-        "title": "CNBC Daily Open: Spending shock disappoints Wall Street",
-        "description": "Massive spending increases from heavyweights Alphabet and Tesla keep investors on edge, sending shares lower during the U.S. session.",
-        "url": "https://www.cnbc.com/2026/07/23/cnbc-daily-open-alphabet-tesla-spending-ecb.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267458-1782819919048-108267458-1771521451237-gettyimages-2261924569-porzycki-magnific260219_npI3p.jpg?v=1782819933&w=1920&h=1080",
-        "publishedAt": "2026-07-23T06:14:06Z",
-        "content": "Hello, this is Leonie Kidd coming to you from London. \r\nBrace yourself Big Tech...\r\nThis quarter, it's clear that companies are going to be judged on their spending habits. Alphabet and Tesla have fo\u2026 [+3455 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Harring",
-        "title": "Tesla earnings, Amazon layoffs, Kevin Warsh's favorite phrases and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/07/23/5-things-to-know-before-the-stock-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1784672362&w=1920&h=1080",
-        "publishedAt": "2026-07-23T12:40:42Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Thursday. If our minds weren't already racing thanks to wildfire smoke and the cyclospora out\u2026 [+5151 chars]"
+        "author": "Hugh Son",
+        "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+        "description": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+        "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297139-1777061266263-techceos.jpg?v=1777061317&w=1920&h=1080",
+        "publishedAt": "2026-07-24T17:37:49Z",
+        "content": "Sundar Pichai, CEO of Alphabet, Satya Nadella, CEO of Microsoft, Andy Jassy, CEO of Amazon and Mark Zuckerberg, CEO of Meta.\r\nThe race to build artificial intelligence infrastructure at a trillion-do\u2026 [+4765 chars]"
     }
 ]

@@ -1,107 +1,16 @@
 [
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Lauren Goode",
-        "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-        "description": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-        "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-        "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
-        "publishedAt": "2026-07-24T15:00:00Z",
-        "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "CNET"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Tyler Graham",
-        "title": "A New York High School Is Getting an AI-Powered Robot Assistant. Parents and Teachers Have Concerns",
-        "description": "Realbotix is supplying a humanoid robot and at-home AI homework support. The teachers union says students are not lab rats.",
-        "url": "https://www.cnet.com/tech/services-and-software/realbotix-sally-robot-ai-teaching-assistant-salamanca-school-district/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Realbotix-Sally-Image-1.jpg",
-        "publishedAt": "2026-07-24T04:44:35Z",
-        "content": "Some New York students and teachers will be returning to classrooms outfitted with an uncanny-looking \u2014 and potentially unwelcome \u2014 AI-powered assistant come September. \r\nThe Salamanca City Central S\u2026 [+7898 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Corinne Reichert",
-        "title": "Anne Rice\u2019s Vampire Series Is Renewed as \u2018Queen of the Damned\u2019 for Season 4",
-        "description": "During a Comic-Con panel on Friday, AMC dropped a teaser trailer for\u00a0Queen of the Damned.",
-        "url": "https://www.cnet.com/tech/services-and-software/anne-rice-queen-of-the-damned-season-4/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-07-24-at-2.43.41-PM.png",
-        "publishedAt": "2026-07-24T22:00:17Z",
-        "content": "Hot on the heels of the season three finale, AMC has announced the fourth season of Anne Rices Interview With the Vampire. Revealed during a panel for The Vampire Lestat at San Diego Comic-Con on Fri\u2026 [+1243 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Matt Novak",
-        "title": "\u2018We\u2019re at a Crazy Moment in History\u2019: Midjourney Buys Astrology App Co-Star",
-        "description": "\"Using Midjourney feels like uncovering something subliminal and new about yourself,\" the founder of Co-Star wrote.",
-        "url": "https://gizmodo.com/were-at-a-crazy-moment-in-history-midjourney-buys-astrology-app-co-star-2000790434",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/banu-guler-getty-2018-1200x675.jpg",
-        "publishedAt": "2026-07-24T18:05:08Z",
-        "content": "Midjourney, the artificial intelligence lab that was an early contender in the AI image generation race, has purchased the astrology app Co-Star. The company plans to offer a new astrology-focused im\u2026 [+3761 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Ece Yildirim",
-        "title": "Environmental Orgs Say Space-Based Data Centers Could Violate Federal Law",
-        "description": "Orbital data centers can alter climate, degrade the ozone and create major health complications down below.",
-        "url": "https://gizmodo.com/environmental-orgs-say-space-based-data-centers-could-violate-federal-law-2000790390",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2286491219-1200x675.jpg",
-        "publishedAt": "2026-07-24T19:15:06Z",
-        "content": "A group of environmental advocacy organizations is claiming that the race to build data centers in Earth\u2019s orbit is not only potentially harmful to the environment, but it might also be illegal.\r\nIn \u2026 [+4200 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Katelyn Chedraoui",
-        "title": "Facebook Has a New Marketplace App and Verification Checks for Everyone",
-        "description": "In a curious move, the social network is siphoning off its most popular features into separate apps.",
-        "url": "https://www.cnet.com/news/social-media/facebook-marketplace-app-verification-news/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_2066133324_Editorial_Use_Only.jpeg",
-        "publishedAt": "2026-07-24T15:16:39Z",
-        "content": "Many of us only open Metas original social media app to browse listings on Facebook Marketplace. Now, sellers are getting a new standalone app to help manage their listings, Meta announced on Friday.\u2026 [+2641 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Ty Pendlebury",
-        "title": "Roku Hikes Hardware Prices by Up to 60%",
-        "description": "RAMageddon has claimed another company\u2019s products, with costs for streaming devices the latest to blow out.",
-        "url": "https://www.cnet.com/tech/home-entertainment/roku-hardware-prices-rise-ramageddon/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/roku-vs-apple-1-of-10_054072.jpg",
-        "publishedAt": "2026-07-24T21:10:06Z",
-        "content": "Roku is increasing the cost of its popular streaming players by up to $50, with one report suggesting that the AI-influenced RAMageddon is to blame.\r\nIn an unusual move, Roku lists the existing price\u2026 [+1737 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Andrew Lanxon",
-        "title": "Me, London and the Galaxy Z Fold 8 Ultra: A Day of Discoveries",
-        "description": "Samsung charges $2,100 for its top-end foldable phone. And after 48 hours of testing, I can thankfully say that there\u2019s a lot to like.",
-        "url": "https://www.cnet.com/tech/mobile/galaxy-z-fold-8-hands-on-london/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_4151.jpg",
-        "publishedAt": "2026-07-24T21:39:12Z",
-        "content": "I immediately like the Galaxy Z Fold 8 Ultra more than the last model. And it\u2019s for such a tiny reason that I didnt expect would make any difference. Ive spent 48 hours with Samsungs top-end foldable\u2026 [+8909 chars]"
+        "author": "Mark Tyson",
+        "title": "AI enthusiast adds Nvidia Tesla V100 as loud as a lawnmower to gaming PC for $266 \u2014 32GB of VRAM rig can run 27 billion parameter model at 32 tokens per second",
+        "description": "A computing enthusiast has repurposed a very noisy and largely obsolete enterprise GPU (with lots of VRAM) for local LLM inference purposes.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/ai-enthusiast-adds-nvidia-tesla-v100-as-loud-as-a-lawnmower-to-gaming-pc-for-usd266-32gb-of-vram-rig-can-run-27-billion-parameter-model-at-32-tokens-per-second",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/E3s43avFuEmiCykzqRLmGM-1200-80.jpg",
+        "publishedAt": "2026-07-26T10:00:00Z",
+        "content": "A computing enthusiast has repurposed a very noisy and largely obsolete enterprise GPU (with lots of VRAM) for local LLM inference purposes. They are now enjoying a system that has doubled its total \u2026 [+2364 chars]"
     },
     {
         "source": {
@@ -121,58 +30,6 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "James Farrell",
-        "title": "Lawmakers call for a \u2018kill switch\u2019 after rogue AI causes alarm",
-        "description": "U.S. lawmakers are preparing to introduce a bill that will give the government the ability to trigger an emergency shutdown of artificial intelligence models that may cause harm to the public. In what might sound like it\u2019s veering too close to Hollywood scien\u2026",
-        "url": "https://siliconangle.com/2026/07/23/lawmakers-call-kill-switch-rogue-ai-causes-alarm/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/hal-gatewood-Coles8tNEb8-unsplash.jpg",
-        "publishedAt": "2026-07-24T01:36:02Z",
-        "content": "U.S. lawmakers are preparing to introduce a bill that will give the government the ability to trigger an emergency shutdown of artificial intelligence models that may cause harm to the public.\r\nIn wh\u2026 [+4010 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "AI chip startup Etched more than doubles valuation to $10.3B in new $300M round",
-        "description": "Etched Inc., a startup with a chip optimized for artificial intelligence inference, today announced that it has raised $300 million in funding. The Series C round was led by Sequoia. SK Hynix Inc., the world\u2019s largest supplier of memory for AI chips, particip\u2026",
-        "url": "https://siliconangle.com/2026/07/23/ai-chip-startup-etched-doubles-valuation-10-3b-new-300m-round/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Etched.png",
-        "publishedAt": "2026-07-24T01:29:06Z",
-        "content": "Etched Inc., a startup with a chip optimized for artificial intelligence inference, today announced that it has raised $300 million in funding.\r\nThe Series C round was led by Sequoia. SK Hynix Inc., \u2026 [+4176 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "SAP shrugs off AI eating software fears with big earnings beat",
-        "description": "Enterprise software giant SAP SE\u2019s stock inched up in late trading today after it shook off concerns that its business might become a victim of the artificial intelligence boom by posting solid results in its latest earnings report. The strong numbers posted \u2026",
-        "url": "https://siliconangle.com/2026/07/23/sap-shrugs-off-ai-eating-software-fears-big-earnings-beat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2025-07-23-06-22-31.png",
-        "publishedAt": "2026-07-24T01:03:07Z",
-        "content": "Enterprise software giant SAP SEs stock inched up in late trading today after it shook off concerns that its business might become a victim of the artificial intelligence boom by posting solid result\u2026 [+4336 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "Five thoughts from Lisa Su\u2019s keynote at AMD Advancing AI",
-        "description": "Advanced Micro Devices Inc.\u2019s Advancing AI 2026 keynote this week was Chief Executive Lisa Su\u2019s bid to redefine the company from a \u201cgraphics processing unit alternative\u201d to a full-stack artificial intelligence infrastructure vendor and to make this the year t\u2026",
-        "url": "https://siliconangle.com/2026/07/24/five-thoughts-lisa-sus-keynote-amd-advancing-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Lisa3.png",
-        "publishedAt": "2026-07-24T18:36:25Z",
-        "content": "Advanced Micro Devices Inc.s Advancing AI 2026 keynote this week was Chief Executive Lisa Sus bid to redefine the company from a graphics processing unit alternative to a full-stack artificial intell\u2026 [+14213 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
         "author": "Maria Deutscher",
         "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
         "description": "Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot service and developer platform. The company says that the LLM approaches the output quality of its top-end Mythos 5 algorithm in many areas, but costs significantly less\u2026",
@@ -186,104 +43,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Intel posts its highest rate of revenue growth in 15 years, crushing expectations in its latest results",
-        "description": "Chipmaker Intel Corp. delivered better-than-expected results today after recording its fastest rate of revenue growth for any quarter since 2011. It also provided guidance that topped analyst\u2019s expectations, sending its stock higher in after-hours trading. Th\u2026",
-        "url": "https://siliconangle.com/2026/07/23/intel-posts-highest-rate-revenue-growth-15-years-crushing-expectations-latest-results/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2025-07-25-06-39-33-1-1.png",
-        "publishedAt": "2026-07-24T00:14:30Z",
-        "content": "Chipmaker Intel Corp. delivered better-than-expected results today after recording its fastest rate of revenue growth for any quarter since 2011. It also provided guidance that topped analysts expect\u2026 [+5761 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Oracle secures $7B contract to supply the Pentagon with vital software and services",
-        "description": "Database giant Oracle Corp. has signed a new, multibillion-dollar deal with the Pentagon that will see it provide its software to branches of the U.S. military, Coast Guard and intelligence community over the next 10 years. The deal, valued at almost $7 billi\u2026",
-        "url": "https://siliconangle.com/2026/07/23/oracle-secures-7b-contract-supply-pentagon-vital-software-services/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-24-08-42-06.png",
-        "publishedAt": "2026-07-24T01:44:28Z",
-        "content": "Database giant Oracle Corp. has signed a new, multibillion-dollar deal with the Pentagon that will see it provide its software to branches of the U.S. military, Coast Guard and intelligence community\u2026 [+4577 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Meta makes Muse Spark 1.1 available to consumers, debuts new Facebook features",
-        "description": "Meta Platforms Inc. today made its latest large language model available to consumers through its Meta AI chatbot. The update is rolling out alongside several enhancements to Facebook. Meta\u2019s flagship social network is receiving a new video-based account veri\u2026",
-        "url": "https://siliconangle.com/2026/07/24/meta-makes-muse-spark-1-1-available-consumers-debuts-new-facebook-features/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Meta1.png",
-        "publishedAt": "2026-07-24T21:19:07Z",
-        "content": "Meta Platforms Inc. today made its latest large language model available to consumers through its Meta AI chatbot.\r\nThe update is rolling out alongside several enhancements to Facebook. Metas flagshi\u2026 [+3996 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jonathan Anthony",
-        "title": "AI is reshaping biotech from discovery to clinical success: 9 Insights from the cutting edge",
-        "description": "AI is rapidly moving from the edges of biotech into its core, reshaping how companies discover, design and de-risk new medicines. After years of investment and impressive laboratory breakthroughs, the industry is now focused on what it takes to turn computati\u2026",
-        "url": "https://siliconangle.com/2026/07/24/biotech-companies-reshaped-ai-aiinbio/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/original.jpeg",
-        "publishedAt": "2026-07-24T17:27:33Z",
-        "content": "AI is rapidly moving from the edges of biotech into its core, reshaping how companies discover, design and de-risk new medicines. After years of investment and impressive laboratory breakthroughs, th\u2026 [+8575 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Cristian Dina",
-        "title": "A nervous Dassault is spending $2bn on AI, in the division dragging it down",
-        "description": "Dassault Syst\u00e8mes is one of Europe\u2019s largest software companies, and it is having an anxious year. Its shares are down about a quarter this year. It pushed out its chairman in February. And investors worry that a new wave of AI could hollow out its main busin\u2026",
-        "url": "https://thenextweb.com/news/dassault-systemes-arisglobal-2-billion-life-sciences-ai/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/dassault-systemes.avif",
-        "publishedAt": "2026-07-24T14:15:03Z",
-        "content": "Dassault Syst\u00e8mes is one of Europes largest software companies, and it is having an anxious year. Its shares are down about a quarter this year. It pushed out its chairman in February. And investors \u2026 [+3373 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kelly Knight",
-        "title": "Silicon diversity is emerging as the strategic hedge hyperscalers are building around",
-        "description": "Silicon diversity is emerging as the strategic hedge hyperscalers are betting on as AI workloads outstrip the capacity of any single chip architecture. With demand for compute consistently outpacing supply, cloud providers are racing to build systems that can\u2026",
-        "url": "https://siliconangle.com/2026/07/23/silicon-diversity-powers-azure-ai-infrastructure-amdadvancingai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_9924.jpg",
-        "publishedAt": "2026-07-24T00:40:16Z",
-        "content": "Silicon diversity is emerging as the strategic hedge hyperscalers are betting on as AI workloads outstrip the capacity of any single chip architecture. With demand for compute consistently outpacing \u2026 [+4609 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Victoria Gayton",
-        "title": "Inside Cisco\u2019s approach to edge AI: Tune in to theCUBE on July 29",
-        "description": "Organizations are expanding their use of edge AI infrastructure as workloads move beyond traditional data centers, creating new demands on systems designed for an earlier era of computing. Cisco Systems Inc.\u2019s Unified Edge platform, winner of the 2026 Tech In\u2026",
-        "url": "https://siliconangle.com/2026/07/24/edge-ai-infrastructure-earns-cisco-unified-edge-cubed-award-ciscoaward/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/TheCUBE-Research\u2019s-Dave-Vellante-and-James-Leach-director-of-product-management-at-Cisco-Systems-Inc.-\u2013-2026-Tech-Innovation-CUBEd-Award-\u2013-Most-Innovative-IoT-or-Edge-Platform.png",
-        "publishedAt": "2026-07-24T21:16:09Z",
-        "content": "Organizations are expanding their use of edge AI infrastructure as workloads move beyond traditional data centers, creating new demands on systems designed for an earlier era of computing.\r\nCisco Sys\u2026 [+5498 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
         "author": "Ryan Stevens",
-        "title": "AMD targets outcome-driven enterprise AI infrastructure as token economics reshape deployments",
-        "description": "Enterprise AI is entering a new phase as organizations shift their focus from experimentation to production deployments that deliver measurable business outcomes. That transition is bringing AI token economics to the forefront, reshaping infrastructure priori\u2026",
-        "url": "https://siliconangle.com/2026/07/24/token-economics-amdadvancingai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Suresh-Andani-corporate-VP-of-compute-and-enterprise-AI-AMD-AMD-Advancing-AI-2026.jpg",
-        "publishedAt": "2026-07-24T11:28:58Z",
-        "content": "Enterprise AI is entering a new phase as organizations shift their focus from experimentation to production deployments that deliver measurable business outcomes. That transition is bringing AI token\u2026 [+4840 chars]"
+        "title": "AMD targets physical AI computing with integrated platform for robotics and autonomous systems",
+        "description": "As AI expands into robotics and other real-world applications, the focus is shifting toward integrated platforms that simplify development and deployment. Open ecosystems and standardized architectures are emerging as key priorities for the future of physical\u2026",
+        "url": "https://siliconangle.com/2026/07/25/physical-ai-computing-amdadvancingai/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_8916.jpg",
+        "publishedAt": "2026-07-25T16:02:00Z",
+        "content": "As AI expands into robotics and other real-world applications, the focus is shifting toward integrated platforms that simplify development and deployment. Open ecosystems and standardized architectur\u2026 [+3741 chars]"
     },
     {
         "source": {
@@ -316,39 +82,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Ryan Stevens",
-        "title": "As agentic AI inference surges, tokenomics becomes the enterprise\u2019s defining budget constraint",
-        "description": "The transition from chatbots to autonomous agents is changing the shape of demand itself, and tokenomics \u2014 the economics of AI token consumption \u2014 is emerging as the defining constraint on enterprise budgets as round-the-clock inference replaces intermittent \u2026",
-        "url": "https://siliconangle.com/2026/07/24/tokenomics-defines-agentic-ai-economics-amdadvancingai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_9479.jpg",
-        "publishedAt": "2026-07-24T14:00:09Z",
-        "content": "The transition from chatbots to autonomous agents is changing the shape of demand itself, and tokenomics the economics of AI token consumption is emerging as the defining constraint on enterprise bud\u2026 [+4865 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "AMD targets AI PCs to curb agentic AI costs as enterprises rethink cloud token economics",
-        "description": "As AI moves beyond chatbots toward autonomous agents, attention is shifting enterprise AI PCs as a new layer of AI infrastructure. That transition is driving demand for hardware and software designed to run AI workloads locally. Simple chatbots provided incre\u2026",
-        "url": "https://siliconangle.com/2026/07/24/enterprise-ai-pcs-amdadvancingai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Rahul-Tikoo-senior-VP-and-general-manager-of-the-Client-Business-Unit-at-AMD-AMD-Advancing-AI-2026.jpg",
-        "publishedAt": "2026-07-24T11:43:33Z",
-        "content": "As AI moves beyond chatbots toward autonomous agents, attention is shifting enterprise AI PCs as a new layer of AI infrastructure. That transition is driving demand for hardware and software designed\u2026 [+4916 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Valentina Villamil",
-        "title": "Synopsys targets physical AI complexity with co-design and agentic chip workflows",
-        "description": "The rapid evolution of intelligent software-defined systems is pushing chip design into a new era of physical AI, one where chip design complexity is outpacing traditional engineering methods. Manufacturers are racing to cram hundreds of billions of transisto\u2026",
-        "url": "https://siliconangle.com/2026/07/24/synopsys-tackles-chip-design-complexity-amdadvancingai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_9767.jpg",
-        "publishedAt": "2026-07-24T15:09:01Z",
-        "content": "The rapid evolution of intelligent software-defined systems is pushing chip design into a new era of physical AI, one where chip design complexity is outpacing traditional engineering methods.\r\nManuf\u2026 [+5086 chars]"
+        "author": "Thomas Godwin",
+        "title": "AWS EC2 compute evolves to meet agentic AI and physical AI demand",
+        "description": "Twenty years on, AWS EC2 compute is meeting demand shaped by agentic AI, physical AI, and customers pushing general-purpose cloud infrastructure into new territory its earliest architects never anticipated. That growth is permeating throughout every layer of \u2026",
+        "url": "https://siliconangle.com/2026/07/25/aws-ec2-compute-evolves-agentic-physical-ai-amdadvancingai/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Art-Baudo.jpg",
+        "publishedAt": "2026-07-25T15:51:10Z",
+        "content": "Twenty years on, AWS EC2 compute is meeting demand shaped by agentic AI, physical AI, and customers pushing general-purpose cloud infrastructure into new territory its earliest architects never antic\u2026 [+5450 chars]"
     },
     {
         "source": {
@@ -356,51 +96,25 @@
             "name": "SiliconANGLE News"
         },
         "author": "Thomas Godwin",
-        "title": "Nutanix and AMD build enterprise AI stack to take agents from pilot to production",
-        "description": "Enterprise AI ambition is far outpacing the readiness of the enterprise AI stack, and the growing rift between proof-of-concept deployments and production-scale agent operations is where most organizations are grounded. Closing that rift is the fundamental ba\u2026",
-        "url": "https://siliconangle.com/2026/07/23/enterprise-ai-stack-agents-pilot-production-amdadvancingai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Tarkan-Maner-and-Suresh-Andani-1.jpg",
-        "publishedAt": "2026-07-24T01:08:39Z",
-        "content": "Enterprise AI ambition is far outpacing the readiness of the enterprise AI stack, and the growing rift between proof-of-concept deployments and production-scale agent operations is where most organiz\u2026 [+5366 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Valentina Villamil",
-        "title": "AMD targets tokenomics challenge as enterprise AI deployments scale beyond experimentation",
-        "description": "The transition from AI experimentation to full-scale deployment has exposed a stark reality for enterprise customers: AI token routing is emerging as the critical strategy to manage skyrocketing costs as the infrastructure decisions made in phase one come due\u2026",
-        "url": "https://siliconangle.com/2026/07/24/ai-token-routing-enterprise-cloud-costs-amd-amdadvancingai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_8948.jpg",
-        "publishedAt": "2026-07-24T13:15:45Z",
-        "content": "The transition from AI experimentation to full-scale deployment has exposed a stark reality for enterprise customers: AI token routing is emerging as the critical strategy to manage skyrocketing cost\u2026 [+4846 chars]"
+        "title": "HPE targets HPC and AI infrastructure convergence as supercomputing scale meets enterprise AI",
+        "description": "HPC AI infrastructure is no longer a parallel track to traditional computing. They are merging into a unified computing foundation that the supercomputing world has been building toward for years. The same infrastructure once reserved for national laboratory \u2026",
+        "url": "https://siliconangle.com/2026/07/25/hpc-ai-infrastructure-convergence-hpe-amdadvancingai/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_9843.jpg",
+        "publishedAt": "2026-07-25T17:07:35Z",
+        "content": "HPC AI infrastructure is no longer a parallel track to traditional computing. They are merging into a unified computing foundation that the supercomputing world has been building toward for years.\r\nT\u2026 [+4425 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "ZTE null",
-        "title": "Cambodian Prime Minister Hun Manet met with ZTE to deepen cooperation in digital infrastructure and artificial intelligence (AI)",
-        "description": "PARTNER CONTENT: Focusing on 5G deployment, AI integration, and ICT talent development to drive the nation's digital transformation",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416",
-        "urlToImage": "https://image.theregister.com/5278441.jpg?imageId=5278441&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-07-24T15:01:47Z",
-        "content": "ZTE announced that Samdech Moha Borvor Thipadei Hun Manet, Prime Minister of the Kingdom of Cambodia, held a cordial meeting with Mr. Xiao Ming, ZTE's President of Overseas, Mr. James Zhang, Senior V\u2026 [+1777 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "AMD takes on Nvidia, US takes on Chinese AI models and AI spending still spooks investors",
-        "description": "Maybe Nvidia ultimately won\u2019t win the entire AI enchilada, even as it reminded everyone this week that it offers everything you need to build AI factories.\u00a0This week, Advanced Micro Devices also\u00a0announced a raft of new graphics processing units, central proce\u2026",
-        "url": "https://siliconangle.com/2026/07/24/amd-takes-nvidia-us-takes-chinese-ai-models-ai-spending-still-spooks-investors/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Robots-Facing-Officials_-Logos-on-Backs.png",
-        "publishedAt": "2026-07-24T13:45:56Z",
-        "content": "Maybe Nvidia ultimately won\u2019t win the entire AI enchilada, even as it reminded everyone this week that it offers everything you need to build AI factories.\u00a0This week, Advanced Micro Devices also\u00a0anno\u2026 [+11477 chars]"
+        "author": "Liam Proven",
+        "title": "Anti-AI open source has an enemy in common, but almost nothing else",
+        "description": "Building bot-free alternatives may require lefties, libertarians, and culture warriors to share code",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/25/anti-ai-open-source-has-an-enemy-in-common-but-almost-nothing-else/5278275",
+        "urlToImage": "https://image.theregister.com/5240471.jpg?imageId=5240471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-25T10:17:00Z",
+        "content": "OPINION Linux now being officially not anti-AI might be good news for projects that are explicitly anti-AI, but we foresee problems with conflict over where the money and development effort come from\u2026 [+11415 chars]"
     },
     {
         "source": {
@@ -417,67 +131,28 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Erin Carson",
-        "title": "250 Eiffel Towers' worth of waste: The AI boom's toxic hardware problem",
-        "description": "Chips, servers, cables, and more could compound an already massive problem - here's who it affects and what's being done about it.",
-        "url": "https://www.zdnet.com/article/ai-data-center-boom-e-waste-problem/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/59a358275064abd0c75a04cf3ba704efeff8c500/2026/07/24/aba66e91-4c5e-40e9-bcf1-3690efc7d993/eiffel-tower-waste.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-07-24T12:05:31Z",
-        "content": "ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>E-waste is an environmental hazard.</li><li>The AI data center boom could amplify the problem.</li><li>Was\u2026 [+11206 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Robert Hart",
-        "title": "The tech-broification of American science has officially begun",
-        "description": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" A\u2026",
-        "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-07-24T14:44:15Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe tech-broification of American science has officially begun\r\nTrumps Golden Age of American science starts with dismantling it, while funneling billions into A\u2026 [+11904 chars]"
-    },
-    {
-        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
         "author": "Ana-Maria Stanciuc",
-        "title": "SoftBank is reportedly weighing a deal for Swiss robotics startup Gravis",
-        "description": "Gravis Robotics, an ETH Zurich spinout, fits autonomy kits to excavators. A tie-up would extend Masayoshi Son\u2019s robotics buying spree from the factory floor to the building site. SoftBank is weighing a deal for Gravis Robotics, a Swiss startup that fits excav\u2026",
-        "url": "https://thenextweb.com/news/softbank-gravis-robotics-deal/",
-        "urlToImage": "https://media.thenextweb.com/2012/10/153960326.avif",
-        "publishedAt": "2026-07-24T12:39:57Z",
-        "content": "Gravis Robotics, an ETH Zurich spinout, fits autonomy kits to excavators. A tie-up would extend Masayoshi Sons robotics buying spree from the factory floor to the building site.\r\nSoftBank is weighing\u2026 [+4158 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "TNW Deals",
-        "title": "10 Platforms for AI Visibility and Link Building in 2026",
-        "description": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media outlets, the same outlets where SEO specialists have been pl\u2026",
-        "url": "https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/10-platforms-ai-visibility-link-building-2026.avif",
-        "publishedAt": "2026-07-24T19:56:11Z",
-        "content": "TL;DR\r\nAs AI search engines cite the same media outlets that drive SEO, paid media placement platforms have become dual-purpose tools for both Google rankings and AI visibility. This roundup evaluate\u2026 [+9578 chars]"
+        "title": "DeepSeek pauses its second fundraising round after founder\u2019s leaked investor comments go viral",
+        "description": "DeepSeek has suspended its second fundraising round after comments made by founder Liang Wenfeng during private investor meetings were leaked and went viral on Chinese social media, Bloomberg reported on Friday. Liang verbally informed prospective backers to \u2026",
+        "url": "https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/deepseek-funding-pause-viral-posts-liang-wenfeng.avif",
+        "publishedAt": "2026-07-26T09:40:52Z",
+        "content": "TL;DR\r\nDeepSeek halted its second fundraising round after leaked comments from founder Liang Wenfeng about Nvidia reliance went viral\r\nDeepSeek has suspended its second fundraising round after commen\u2026 [+3583 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Amanda Silberling",
-        "title": "Midjourney acquired the astrology app Co-Star | TechCrunch",
-        "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-        "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
-        "publishedAt": "2026-07-24T15:11:07Z",
-        "content": "Midjourney, an AI lab best known for its LLM-powered image and video generators, has acquired the social astrology app Co-Star, according to Bloomberg. The deal terms were not disclosed.\r\nCo-Star, wh\u2026 [+861 chars]"
+        "author": "Rebecca Bellan",
+        "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others | TechCrunch",
+        "description": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+        "publishedAt": "2026-07-26T01:32:06Z",
+        "content": "Monday.com, the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cu\u2026 [+12333 chars]"
     }
 ]

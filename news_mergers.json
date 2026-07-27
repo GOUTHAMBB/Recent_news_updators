@@ -1,45 +1,6 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Entrepreneur"
-        },
-        "author": "Marko Kling",
-        "title": "The Finance Automation Problem Nobody Is Talking About",
-        "description": "Your finance function is already running on autopilot; the only question is who set the course.",
-        "url": "https://www.entrepreneur.com/money-finance/the-finance-automation-problem-nobody-is-talking-about/504856",
-        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784320538-finance-automation-0726-g2275637221.jpg?resize=1024,682",
-        "publishedAt": "2026-07-24T18:00:00Z",
-        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Finance automation is delivering on efficiency for most companies, but what it isn\u2019t delivering is control.</li><l\u2026 [+6680 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Sin\u00e9ad Baker",
-        "title": "Ukraine has gone from accepting just about any old weapon to showing Western militaries how modern war is fought",
-        "description": "Ukraine started Russia's full-scale invasion accepting any help it could get, and now it's helping allies prepare for new ways of war.",
-        "url": "https://www.businessinsider.com/ukraine-gone-from-accepting-any-weapons-to-leader-helping-allies-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a60a16a548c9c486b30ee90?width=1200&format=jpeg",
-        "publishedAt": "2026-07-24T11:33:01Z",
-        "content": "Ukraine's allies now see it as a key partner that helps their own future security.Serhii Mykhalchuk/Global Images Ukraine via Getty Images\r\n<ul><li>Ukraine started its fight against Russia's full-sca\u2026 [+7537 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Rya Jetha",
-        "title": "Tesla is betting its future on Optimus. Here's what we know about Elon Musk's robot.",
-        "description": "Tesla is preparing to build Optimus in Fremont. Here's what we know about the humanoid robot's price, capabilities, and biggest hurdles.",
-        "url": "https://www.businessinsider.com/everything-we-know-about-teslas-optimus-humanoid-robot-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a627bef548c9c486b30fe6c?width=1200&format=jpeg",
-        "publishedAt": "2026-07-24T09:00:02Z",
-        "content": "A prototype of Tesla's Optimus robot.CFOTO/Future Publishing via Getty Images\r\n<ul><li>Tesla says production of its Optimus robot will begin \"soon\" at its Fremont factory.</li><li>Musk says intellige\u2026 [+7831 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -56,6 +17,19 @@
             "id": "fortune",
             "name": "Fortune"
         },
+        "author": "Haze Fan, Pei Li, Bloomberg",
+        "title": "DeepSeek said to tell backers of funding pause after viral posts",
+        "description": "The suspension stemmed in part from Liang\u2019s frustration over online reports about his comments to investors during his first financing deal.",
+        "url": "https://fortune.com/2026/07/25/deepseek-liang-wenfeng-backers-fundraising-pause-viral-posts-investors/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285600075-e1784993322446.jpg?resize=1200,600",
+        "publishedAt": "2026-07-25T15:32:37Z",
+        "content": "DeepSeek has told prospective investors in its second fundraising round that its suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Li\u2026 [+4140 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
         "author": "Preston Fore",
         "title": "Defense tech investors thought the war in Iran could make them millionaires. Instead, they faced a Wall Street bloodbath",
         "description": "Firms like Northrop Grumman are struggling on the market despite record military spending. Investors are now watching Congress\u2014and a new generation of startups.",
@@ -66,67 +40,54 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Matt Peterson",
+        "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
+        "description": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
+        "url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333940-1783942656323-gettyimages-2285116170-AI_PROTEST.jpeg?v=1783942687&w=1920&h=1080",
+        "publishedAt": "2026-07-25T12:00:02Z",
+        "content": "The emerging coalition of religious leaders, labor unions and local activists that worries about artificial intelligence and the broader economic upheaval it portends poses a political problem for an\u2026 [+5849 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jim Edwards",
-        "title": "Trump weighs \u2018massive attack\u2019 on Iran as Tehran\u2019s chokehold on oil gets tighter",
-        "description": "Everything you need to know before you reach the office this morning.",
-        "url": "https://fortune.com/2026/07/24/trump-weighs-massive-attack-on-iran-as-tehrans-chokehold-on-oil-gets-tighter/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287240062.jpg?resize=1200,600",
-        "publishedAt": "2026-07-24T10:41:09Z",
-        "content": "Did someone forward you this email? If you would like to receive this information directly, every morning before the markets open in New York,\u00a0sign up here.ONE BIG THING\r\nAI is costing Big Tech more \u2026 [+9856 chars]"
+        "author": "Joshua Hong",
+        "title": "\u2018My childhood home is being taken\u2019: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia",
+        "description": "Nearly 30 residential properties are located along a 35-mile stretch in Georgia where some residents said they have no choice but to sell their homes.",
+        "url": "https://fortune.com/2026/07/26/georgia-power-utility-company-eminent-domain-grid-expansion-data-center/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285299091-e1784933013307.jpg?resize=1200,600",
+        "publishedAt": "2026-07-26T09:00:00Z",
+        "content": "A public utility company in Georgia is proposing a transmission project that can potentially displace hundreds of property owners as it looks to expand its energy capabilities to power new AI data ce\u2026 [+9283 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "jfaris@businessinsider.com (James Faris)",
-        "title": "Leaked presentation reveals David Ellison's top streaming priorities for Paramount+",
-        "description": "Paramount+ is slated to get micro dramas, vertical podcast clips, and more free content in the coming weeks.",
-        "url": "https://www.businessinsider.com/paramount-plus-streaming-priorities-microdramas-short-form-podcasts-leaked-presentation-2026-7#article",
-        "urlToImage": "https://i.insider.com/699f25cb50f42603b0f8e0f4?width=1200&format=jpeg",
-        "publishedAt": "2026-07-24T09:05:01Z",
-        "content": "Paramount Skydance isn't waiting around for its planned merger with Warner Bros. Discovery to bolster its flagship streaming service.\r\nParamount's streaming leaders have told employees that they're p\u2026 [+6020 chars]"
+        "author": "astewart@insider.com (Ashley Stewart)",
+        "title": "Microsoft bet everything on AI. Is its North Star now a noose?",
+        "description": "Microsoft bet everything on AI. Is its North Star now a noose?",
+        "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a6387ecce52cb26b839394f?width=1200&format=jpeg",
+        "publishedAt": "2026-07-26T08:07:01Z",
+        "content": "Three years ago, Satya Nadella catapulted Microsoft to the front of the AI race and became \"like a superhero,\" one recent former Microsoft executive said.\r\nIn February 2023, after betting early on Op\u2026 [+9989 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Lee Ying Shan",
-        "title": "China's largest memory chipmaker sparks fears of a cash drain before blockbuster IPO",
-        "description": "CXMT is stoking fears that its blockbuster stock market debut could pull cash from China's equities.",
-        "url": "https://www.cnbc.com/2026/07/24/cxmt-china-ipo-listing-chip-memory.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108312364-1779878364667-gettyimages-2277415878-TFSPI_23052026-5551.jpeg?v=1779878377&w=1920&h=1080",
-        "publishedAt": "2026-07-24T02:00:37Z",
-        "content": "ChangXin Memory Technologies' massive listing is stoking fears that its market debut could pull cash from Chinese equities, as investors raise funds to get a piece of the country's largest memory chi\u2026 [+3837 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Robert Frank",
-        "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
-        "description": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
-        "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338623-1784736667371-gettyimages-2283667030-AFP_B8YA9H6.jpeg?v=1784845634&w=1920&h=1080",
-        "publishedAt": "2026-07-24T11:00:01Z",
-        "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer.\u00a0Sign up\u00a0to receive future editions, straight\u2026 [+4973 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son",
-        "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-        "description": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-        "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297139-1777061266263-techceos.jpg?v=1777061317&w=1920&h=1080",
-        "publishedAt": "2026-07-24T17:37:49Z",
-        "content": "Sundar Pichai, CEO of Alphabet, Satya Nadella, CEO of Microsoft, Andy Jassy, CEO of Amazon and Mark Zuckerberg, CEO of Meta.\r\nThe race to build artificial intelligence infrastructure at a trillion-do\u2026 [+4765 chars]"
+        "author": "wedwards@businessinsider.com (William Edwards)",
+        "title": "A top fund manager unpacks why he's sticking with AI infrastructure stocks, and flags 2 lesser-known names he's betting on",
+        "description": "Brandon Nelson of Calamos Investments says he's not among the \"doomers\" who see the end of the market's AI infrastructure trade.",
+        "url": "https://www.businessinsider.com/ai-hardware-stock-picks-to-buy-capex-beneficiaries-strl-sitm-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a6273a354f9875261779134?width=1200&format=jpeg",
+        "publishedAt": "2026-07-26T09:15:01Z",
+        "content": "Brandon Nelson knows when to buy a stock.\r\nThe Calamos Timpani Small Cap Growth Fund Class (CTSIX), which he's managed since 2011, is up 52% over the last 12 months, and has beaten 99% of small-cap g\u2026 [+3872 chars]"
     }
 ]

@@ -2,54 +2,145 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Cheryl Eddy",
-        "title": "Apple TV\u2019s \u2018Neuromancer\u2019 Explores an Eerily Timely Future",
-        "description": "The streamer's long-awaited adaptation of William Gibson's 'Neuromancer' stars Callum Turner and arrives January 22, 2027.",
-        "url": "https://gizmodo.com/apple-tvs-neuromancer-explores-an-eerily-timely-future-2000790962",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/DarkMatter_SDCC-1200x675.jpg",
-        "publishedAt": "2026-07-26T14:50:29Z",
-        "content": "Fans have been getting snippets about Apple TV\u2019s Neuromancer series for a while now. San Diego Comic-Con finally brought not only a first teaser, but also welcomed co-creator and showrunner Graham Ro\u2026 [+2779 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Justin Carter",
-        "title": "The Messy Release of \u2018Avatar Aang\u2019 Continued at San Diego Comic-Con",
-        "description": "Allegations of generative AI use hurt 'Avatar Aang,' which already couldn't catch a break this year.",
-        "url": "https://gizmodo.com/the-messy-release-of-avatar-aang-continued-at-san-diego-comic-con-2000791081",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/avatar-aang-the-last-airbender-1200x675.jpg",
-        "publishedAt": "2026-07-26T18:35:22Z",
-        "content": "2026 hasn\u2019t been easy for fans of Avatar: The Last Airbender.\u00a0What started off as a leak of Avatar Aang: The Last Airbender, the first of three animated movies for the franchise, became a bigger web \u2026 [+2264 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "CNET"
         },
-        "author": "Kourtnee Jackson",
-        "title": "Comic-Con 2026 Trailers Are Here: Check Out Carrie, Reacher, Queen of the Damned and More",
-        "description": "A rundown of some of the hottest trailers for Carrie, Lanterns, Neuromancer, The Rings of Power and more.",
-        "url": "https://www.cnet.com/tech/services-and-software/comic-con-2026-trailers/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/carrie-prime-video-s1.jpg",
-        "publishedAt": "2026-07-26T16:26:00Z",
-        "content": "Saturday\u2019s rollout of news and trailers at San Diego Comic-Con wrapped up three days of big reveals, and CNET was in attendance to keep up with it all. Marvel\u2019s Hall H presentation was highly anticip\u2026 [+9078 chars]"
+        "author": "Corinne Reichert",
+        "title": "Microsoft Says Its New Cybersecurity AI Beats Industry Leaders at Half the Cost",
+        "description": "The agentic MAI-Cyber-1-Flash model, with some help, outscores Claude Mythos 5 on CyberGym.",
+        "url": "https://www.cnet.com/tech/services-and-software/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half-the-cost/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1452542412-1.jpg",
+        "publishedAt": "2026-07-27T20:46:48Z",
+        "content": "Microsoft has a new AI cybersecurity model called MAI-Cyber-1-Flash, and when its combined with agentic security system MDASH and OpenAI\u2019s GPT-5.4 model, it\u00a0outscores Anthropic\u2019s Claude Mythos 5\u00a0by 1\u2026 [+2922 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "MIT Technology Review"
         },
-        "author": "Mark Tyson",
-        "title": "AI enthusiast adds Nvidia Tesla V100 as loud as a lawnmower to gaming PC for $266 \u2014 32GB of VRAM rig can run 27 billion parameter model at 32 tokens per second",
-        "description": "A computing enthusiast has repurposed a very noisy and largely obsolete enterprise GPU (with lots of VRAM) for local LLM inference purposes.",
-        "url": "https://www.tomshardware.com/pc-components/gpus/ai-enthusiast-adds-nvidia-tesla-v100-as-loud-as-a-lawnmower-to-gaming-pc-for-usd266-32gb-of-vram-rig-can-run-27-billion-parameter-model-at-32-tokens-per-second",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/E3s43avFuEmiCykzqRLmGM-1200-80.jpg",
-        "publishedAt": "2026-07-26T10:00:00Z",
-        "content": "A computing enthusiast has repurposed a very noisy and largely obsolete enterprise GPU (with lots of VRAM) for local LLM inference purposes. They are now enjoying a system that has doubled its total \u2026 [+2364 chars]"
+        "author": "Keegan Sheedy, Lucas Melo",
+        "title": "Building the enterprise environment for agentic AI",
+        "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with prop\u2026",
+        "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-contributed-iStock-1366067377.jpg?resize=1200,600",
+        "publishedAt": "2026-07-27T11:32:58Z",
+        "content": "<ol><li>Agentic AI is a larger systems problem, not just one of inference.</li><li>The majority of existing agentic AI harnesses are limited and do not measure overall system performance.</li><li>Pla\u2026 [+2354 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Mike Pearl",
+        "title": "You Can Finally Trust All Your Money to X, the Everything App",
+        "description": "X Money has landed.",
+        "url": "https://gizmodo.com/you-can-finally-trust-all-your-money-to-x-the-everything-app-2000791591",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+        "publishedAt": "2026-07-28T01:46:20Z",
+        "content": "Don\u2019t be surprised if, when you\u2019re out at a restaurant in the near future, the person at the next table over pays with a metal card with a familiar X on it, and then hops into their Cybertruck and dr\u2026 [+3132 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Tariffs didn\u2019t bring manufacturing jobs back to the US",
+        "description": "Today, I\u2019m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump\u2019s first few waves of tariffs \u2026",
+        "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_20260727_SmithAltana.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-27T13:56:02Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAltana CEO Evan Smith on the new normal of global trade.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your homepage\u2026 [+58501 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Exclusive: CollectivIQ targets AI costs with control platform",
+        "description": "Boston-based startup CollectivIQ Inc. is targeting runaway artificial intelligence costs with a platform intended to give businesses control over how models are used. The company describes its product as an \u201cAI consensus platform\u201d that allows administrators t\u2026",
+        "url": "https://siliconangle.com/2026/07/27/exclusive-collectiviq-targets-ai-costs-control-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/08/aiexpensive.jpeg",
+        "publishedAt": "2026-07-27T13:00:45Z",
+        "content": "Boston-based startup CollectivIQ Inc. is targeting runaway artificial intelligence costs with a platform intended to give businesses control over how models are used.\r\nThe company describes its produ\u2026 [+5503 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Enigma raises $71M to develop foundation models for robots",
+        "description": "Engima Ltd., a provider of artificial intelligence software for robots, launched today with $71 million in funding. Index Ventures and Ribbit Capital jointly led the seed round with participation from Conviction Partners. They were joined by a group of angel \u2026",
+        "url": "https://siliconangle.com/2026/07/27/enigma-raises-71m-develop-foundation-models-robots/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Enigma.png",
+        "publishedAt": "2026-07-27T23:18:14Z",
+        "content": "Engima Ltd., a provider of artificial intelligence software for robots, launched today with $71 million in funding.\r\nIndex Ventures and Ribbit Capital jointly led the seed round with participation fr\u2026 [+4455 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: AMD nips at Nvidia\u2019s heels, and IBM undergoes quiet transformation",
+        "description": "The artificial intelligence competition is no longer between large language models, but rather between AI systems. Advanced Micro Devices Inc. has shifted from being primarily a chip business to a secondary player in the race to build a system of intelligence\u2026",
+        "url": "https://siliconangle.com/2026/07/27/amd-nvidia-ai-systems-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/John-Furrier-theCUBE-Pod-132.png",
+        "publishedAt": "2026-07-27T17:11:23Z",
+        "content": "The artificial intelligence competition is no longer between large language models, but rather between AI systems.\r\nAdvanced Micro Devices Inc. has shifted from being primarily a chip business to a s\u2026 [+6949 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Microsoft\u2019s first cybersecurity model powers new Project Perception agents",
+        "description": "Microsoft Corp. today introduced its first in-house cybersecurity model, MAI-Cyber-1-Flash, and a companion agentic system called Project Perception that fields teams of artificial intelligence agents to probe for weaknesses, investigate threats and remediate\u2026",
+        "url": "https://siliconangle.com/2026/07/27/microsofts-first-cybersecurity-model-powers-new-project-perception-agents/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/microsoftprojectperception.png",
+        "publishedAt": "2026-07-27T22:38:47Z",
+        "content": "Microsoft Corp. today introduced its first in-house cybersecurity model, MAI-Cyber-1-Flash, and a companion agentic system called Project Perception that fields teams of artificial intelligence agent\u2026 [+4169 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Tech industry leaders join to form Open Secure AI Alliance to promote safety and security",
+        "description": "Nvidia Corp.\u00a0today announced the launch\u00a0of the Open Secure AI Alliance, a new organization founded by technology, cloud computing and cybersecurity leaders to build and share open artificial intelligence tools. As the capability and strength of AI tools grows\u2026",
+        "url": "https://siliconangle.com/2026/07/27/tech-industry-leaders-join-form-open-secure-ai-alliance-promote-safety-security/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/glowing-letters-and-data-floating-in-paragraphs-around-a-globe-abstract-art-muted-colors.jpeg",
+        "publishedAt": "2026-07-27T16:05:11Z",
+        "content": "Nvidia Corp.\u00a0today announced the launch\u00a0of the Open Secure AI Alliance, a new organization founded by technology, cloud computing and cybersecurity leaders to build and share open artificial intellig\u2026 [+7130 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Nashawaty",
+        "title": "Yugabyte targets the missing memory and knowledge layer for enterprise AI agents",
+        "description": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up. Organizations are moving agents into customer support, software development, sales operations and other production \u2026",
+        "url": "https://siliconangle.com/2026/07/27/agentic-artificial-intelligence-shared-memory-thecuberesearch/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Yugabyte-Header-Image.png",
+        "publishedAt": "2026-07-27T20:10:18Z",
+        "content": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up.\r\nOrganizations are moving agents into customer support,\u2026 [+11137 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Ilya Sutskever\u2019s Safe Superintelligence gets access to Nvidia\u2019s Vera Rubin platform",
+        "description": "Safe Superintelligence Inc., a frontier lab that\u2019s trying to develop safe and ethically-aligned artificial superintelligence for the benefit of humanity, has hit the headlines again after striking a significant deal with Nvidia Corp. that will give it access \u2026",
+        "url": "https://siliconangle.com/2026/07/27/ilya-sutskevers-safe-superintelligence-gets-access-nvidias-vera-rubin-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Photo-1.png",
+        "publishedAt": "2026-07-28T01:06:48Z",
+        "content": "Safe Superintelligence Inc., a frontier lab thats trying to develop safe and ethically-aligned artificial superintelligence for the benefit of humanity, has hit the headlines again after striking a s\u2026 [+4755 chars]"
     },
     {
         "source": {
@@ -63,6 +154,19 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Varun-Chhabra-senior-VP-of-product-marketing-and-infrastructure-solutions-group-at-Dell-Technologies-Inc-AMD-Advancing-AI-2026.jpg",
         "publishedAt": "2026-07-27T06:30:00Z",
         "content": "As enterprises move AI initiatives from proof of concept to production, attention is shifting toward modular AI infrastructure that can simplify deployment and scaling. Controlling costs and simplify\u2026 [+4822 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Chinese memory maker CXMT jumps 460%+ in first day of trading",
+        "description": "Shares of ChangXin Memory Technologies Inc. closed 466% higher in their trading debut on the Shanghai Stock Exchange today. The stock jump follows an initial public offering in which CXMT, China\u2019s largest memory maker, sold about 6.8 billion shares for 8.66 y\u2026",
+        "url": "https://siliconangle.com/2026/07/27/chinese-memory-maker-cxmt-jumps-460-first-day-trading/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/chip-2.png",
+        "publishedAt": "2026-07-28T00:41:41Z",
+        "content": "Shares of ChangXin Memory Technologies Inc. closed 466% higher in their trading debut on the Shanghai Stock Exchange today.\r\nThe stock jump follows an initial public offering in which CXMT, Chinas la\u2026 [+3963 chars]"
     },
     {
         "source": {
@@ -93,6 +197,19 @@
     {
         "source": {
             "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Radhika Rajkumar",
+        "title": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
+        "description": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
+        "url": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/8fb03a92cd17a31e1b48b1c6e289b236f4d14d95/2026/07/27/550e3c37-b21a-4ac0-aeaf-2322671d8b80/nvidiahqscreenshot-2026-07-27-114805.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-27T15:52:15Z",
+        "content": "GummyBone/iStock Editorial / Getty Images Plus via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>Nvidia's new open-source alliance aims to democ\u2026 [+4651 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "SiliconANGLE News"
         },
         "author": "Thomas Godwin",
@@ -102,6 +219,97 @@
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Kevin.jpg",
         "publishedAt": "2026-07-27T06:57:41Z",
         "content": "Cloud AI infrastructure is shifting into a new cycle, defined by\u00a0who can deliver the strongest performance per dollar on a global setup that also meets different countries sovereignty rules.\r\nThat\u2019s \u2026 [+5274 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Nvidia could reportedly backstop $250B loan for new OpenAI data center campus",
+        "description": "Nvidia Corp. is reportedly in talks to backstop a $250 billion loan for OpenAI Group PBC. The Wall Street Journal on Sunday cited sources as saying that the financing would cover the cost of a new data center campus in Ohio. According to CNBC, the site is exp\u2026",
+        "url": "https://siliconangle.com/2026/07/27/nvidia-reportedly-backstop-250b-loan-new-openai-data-center-campus/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Nvidia.png",
+        "publishedAt": "2026-07-27T20:06:27Z",
+        "content": "Nvidia Corp. is reportedly in talks to backstop a $250 billion loan for OpenAI Group PBC.\r\nThe Wall Street Journal on Sunday cited sources as saying that the financing would cover the cost of a new d\u2026 [+4674 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Quantum computing startup ZuriQ gets $25.5M to scale 2D trapped-ion processor design",
+        "description": "Investors are throwing money at quantum computers again, with the Swiss startup ZuriQ AG becoming the latest beneficiary of their largesse after closing on a $25.5 million seed funding round. The investment was led by Quantonation and saw the participation of\u2026",
+        "url": "https://siliconangle.com/2026/07/28/quantum-computing-startup-zuriq-gets-25-5m-scale-2d-trapped-ion-processor-design/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-28-09-48-33.png",
+        "publishedAt": "2026-07-28T07:00:05Z",
+        "content": "Investors are throwing money at quantum computers again, with the Swiss startup ZuriQ AG becoming the latest beneficiary of their largesse after closing on a $25.5 million seed funding round. The inv\u2026 [+6006 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Exclusive: Cogent Security debuts VR-1, a frontier model built to prove attack paths",
+        "description": "Vulnerability management startup Cogent Security Inc. today introduced Cogent VR-1, a frontier reasoning model trained to find and prove attack paths inside live enterprise environments. The company says VR-1 proved twice as many attack paths as other frontie\u2026",
+        "url": "https://siliconangle.com/2026/07/27/exclusive-cogent-security-debuts-vr-1-frontier-model-built-prove-attack-paths/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/cogentvr1.png",
+        "publishedAt": "2026-07-27T13:00:51Z",
+        "content": "Vulnerability management startup Cogent Security Inc. today introduced Cogent VR-1, a frontier reasoning model trained to find and prove attack paths inside live enterprise environments.\r\nThe company\u2026 [+5204 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Computerworld"
+        },
+        "author": "Linda Rosencrance",
+        "title": "DEX buyer\u2019s guide: Choose the right digital employee experience platform",
+        "description": "As organizations continue to invest in hybrid work, cloud applications, digital workplace initiatives, and now generative AI tools, many IT leaders are turning to digital employee experience (DEX) platforms to better understand how technology affects employee\u2026",
+        "url": "https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html",
+        "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/07/1612638-0-76840900-1785150246-digital-employee-experience-shutterstock-2444317305.jpg?quality=50&strip=all&w=1024",
+        "publishedAt": "2026-07-27T11:00:00Z",
+        "content": "Organizations should begin by identifying their biggest employee experience challenges, Wilson says. For example, are employees having trouble getting work done because of inefficient processes, a di\u2026 [+8941 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "China fights back in AI spat with claim US AI companies distil Chinese models",
+        "description": "Beijing happy to \u2018take all necessary measures\u2019 if sanctioned",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/28/china-fights-back-in-ai-spat-with-claim-us-ai-companies-distil-chinese-models/5279315",
+        "urlToImage": "https://image.theregister.com/230490.jpg?imageId=230490&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-28T01:01:59Z",
+        "content": "Chinas government has vowed to take all necessary measures if the US government imposes new sanctions on AI companies.\r\nThat threat came on Monday at a media Q&amp;A staged by Chinas Ministry of Comm\u2026 [+2595 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "Hugging Face is being used to easily undress women and children",
+        "description": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of th\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-28T09:07:14Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nNo safeguards at all are being implemented at a platform level.\r\nNo safeguards at all are being implemented at a platform level.\r\nby\r\nJess WeatherbedClose\r\nPosts\u2026 [+3423 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Australia\u2019s world-first data centre rules hit their first snag: the power isn\u2019t there yet",
+        "description": "Australia has told its data centres to put more power into the grid than they pull out, an obligation no other country has tried to write into law. The demand is barely a fortnight old, and it has already met the most basic of objections: the electricity the \u2026",
+        "url": "https://thenextweb.com/news/australia-data-centre-rules-hurdle/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Australian-Parliament-House.avif",
+        "publishedAt": "2026-07-28T08:29:32Z",
+        "content": "Australia has told its data centres to put more power into the grid than they pull out, an obligation no other country has tried to write into law.\r\nThe demand is barely a fortnight old, and it has a\u2026 [+3845 chars]"
     },
     {
         "source": {
@@ -118,16 +326,55 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "Tom's Hardware UK"
         },
-        "author": "Ana-Maria Stanciuc",
-        "title": "DeepSeek pauses its second fundraising round after founder\u2019s leaked investor comments go viral",
-        "description": "DeepSeek has suspended its second fundraising round after comments made by founder Liang Wenfeng during private investor meetings were leaked and went viral on Chinese social media, Bloomberg reported on Friday. Liang verbally informed prospective backers to \u2026",
-        "url": "https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng/",
-        "urlToImage": "https://media.thenextweb.com/2026/07/deepseek-funding-pause-viral-posts-liang-wenfeng.avif",
-        "publishedAt": "2026-07-26T09:40:52Z",
-        "content": "TL;DR\r\nDeepSeek halted its second fundraising round after leaked comments from founder Liang Wenfeng about Nvidia reliance went viral\r\nDeepSeek has suspended its second fundraising round after commen\u2026 [+3583 chars]"
+        "author": "Stewart Bendle",
+        "title": "Save $1,000 on Lenovo's over-the-top RTX 5090 gaming laptop \u2014 this 18-inch monster packs 64GB of RAM and up to a 440Hz refresh rate",
+        "description": "B&H Photo has chopped $1,000 off the price of this super-powerful RTX 5090-laden Lenovo Legion 9i gaming laptop with 64GB of RAM",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd1-000-on-lenovos-over-the-top-rtx-5090-gaming-laptop-this-18-inch-monster-packs-64gb-of-ram-and-up-to-a-440hz-refresh-rate",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/6sJZixpVSZdBwCNtDLfqXP-1920-80.jpg",
+        "publishedAt": "2026-07-27T10:56:18Z",
+        "content": "You can save $1,000 on a truly high-end gaming laptop that, for many, is way over the top for the average user in both hardware and price. But if you want the most powerful laptop gaming setup, or a \u2026 [+2357 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Dave Vellante",
+        "title": "AMD calls its shot, but the real race is engineering velocity",
+        "description": "At AMD\u2019s Advancing AI event, Lisa Su called her shot \u2013 just like Babe Ruth. The question now is whether AMD has built the engineering machine to hit it.\u00a0Last week, we argued\u00a0that AMD\u2019s next reinvention did not require it to beat Nvidia. Rather, we said, the c\u2026",
+        "url": "https://siliconangle.com/2026/07/27/amd-calls-shot-real-race-engineering-velocity/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/321_AMD-calls-its-shot-But-the-real-race-is-engineering-velocity.pptx-18.jpg",
+        "publishedAt": "2026-07-28T02:17:08Z",
+        "content": "At AMDs Advancing AI event, Lisa Su called her shot just like Babe Ruth. The question now is whether AMD has built the engineering machine to hit it.\u00a0Last week, we argued\u00a0that AMDs next reinvention d\u2026 [+27682 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Zak Killian",
+        "title": "AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller \u2014 uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory",
+        "description": "Getting a local language model running on a sub-$10 microcontroller is impressive despite its obvious limitations.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/rJLKQc9rokgCtsp5sxcjs-1920-80.jpg",
+        "publishedAt": "2026-07-27T13:07:53Z",
+        "content": "When we talk about running local AI these days, the conversation usually either revolves around mini-PCs like the RTX Spark or drifts into wistful thinking about home servers and ludicrously expensiv\u2026 [+5910 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Brandon Vigliarolo",
+        "title": "OpenAI's Hugging Face debacle makes a great case for open models",
+        "description": "If you think OpenAI and Anthropic are the only ones with these capabilities, think again",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/27/openais-hugging-face-debacle-makes-a-great-case-for-open-models/5278498",
+        "urlToImage": "https://image.theregister.com/257091.jpg?imageId=257091&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-27T12:01:00Z",
+        "content": "KETTLE So, an OpenAI model broke out of its sandbox last week, made its way to the internet, then hacked its way into Hugging Face, stealing some internal data and credentials in the process.\r\nYou ca\u2026 [+21890 chars]"
     },
     {
         "source": {
@@ -144,6 +391,19 @@
     },
     {
         "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "New York school pauses humanoid robot \u2018Sally\u2019 after state and union pushback",
+        "description": "A humanoid robot named Sally was due to take a seat in a Western New York high-school classroom this autumn, silicone skin, long brown hair, and all. Instead she is on hold. A plan that had quietly cleared the Salamanca school board back in June turned, over \u2026",
+        "url": "https://thenextweb.com/news/ny-school-humanoid-robot-paused/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/Realbotix.avif",
+        "publishedAt": "2026-07-28T09:30:39Z",
+        "content": "A humanoid robot named Sally was due to take a seat in a Western New York high-school classroom this autumn, silicone skin, long brown hair, and all. Instead she is on hold. \r\nA plan that had quietly\u2026 [+4097 chars]"
+    },
+    {
+        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
@@ -157,15 +417,80 @@
     },
     {
         "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Veronika Furs",
+        "title": "As SAP\u2019s 2027 support cutoff nears, Pranay Raj Kanakala shows what compliance-ready SAP migration actually looks like",
+        "description": "A telecom RF engineer turned SAP consultant, he automates the accounting logic that decides when companies can book revenue, the compliance layer most migration teams leave until an audit forces it. In 18 months, the software many of the world\u2019s largest compa\u2026",
+        "url": "https://thenextweb.com/news/sap-migration-compliance-pranay-raj-kanakala/",
+        "urlToImage": "https://media.thenextweb.com/2026/07/sap-migration-compliance-pranay-raj-kanakala.avif",
+        "publishedAt": "2026-07-27T14:25:43Z",
+        "content": "In 18 months, the software many of the worlds largest companies rely on to run their finance and operations stops receiving security updates and official support. That is the reality behind SAPs 31 D\u2026 [+7990 chars]"
+    },
+    {
+        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
         "author": "Rebecca Bellan",
-        "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others | TechCrunch",
-        "description": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
-        "publishedAt": "2026-07-26T01:32:06Z",
-        "content": "Monday.com, the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cu\u2026 [+12333 chars]"
+        "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research | TechCrunch",
+        "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+        "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?resize=1200,800",
+        "publishedAt": "2026-07-27T15:01:50Z",
+        "content": "After two years in stealth, Safe Superintelligence, the AI lab founded by former OpenAI co-founder and alignment lead Ilya Sutskever, has announced a long-term partnership with Nvidia as it prepares \u2026 [+2959 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Matt Burgess",
+        "title": "Hugging Face Has a Deepfake Nudes Problem",
+        "description": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes\u2014and 1,000 image editing prompts show how people use the software.",
+        "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+        "urlToImage": "https://media.wired.com/photos/6a67cfe8ebdb87bfb99d53b1/191:100/w_1280,c_limit/Seucirty_Hugging%20Face%20Has%20a%20Deepfake%20Nudes%20Problem_v1.jpg",
+        "publishedAt": "2026-07-28T05:30:00Z",
+        "content": "Ever so slowly, the crackdown on harmful sexual deepfakes is taking hold. Over the past few months, US law enforcement officials have seized deepfake hosting websites, while the EU and UK have drawn \u2026 [+3469 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Techcrunch Events",
+        "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026\u00a0 | TechCrunch",
+        "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+        "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-systems-stage.jpg?w=1200",
+        "publishedAt": "2026-07-27T15:30:00Z",
+        "content": "AI doesn\u2019t run on code alone it requires massive amounts of power, and that demand is increasingly becoming a critical bottleneck. At TechCrunch Disrupt 2026, the Smart Systems Stage will be where en\u2026 [+3023 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Maddy Varner",
+        "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+        "description": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+        "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+        "urlToImage": "https://media.wired.com/photos/6a6786cb3d9ebc5f1410adf5/191:100/w_1280,c_limit/Security_Google%20Search%20Screw-Up%20Exposed%20Private%20Claude%20Chats_v1.jpg",
+        "publishedAt": "2026-07-27T20:08:00Z",
+        "content": "What happens between you and an AI chatbot does not always stay between you and a chatbot. Just ask Google.\r\nOver the weekend, people were surprised to discover that some AnthropicClaude chats could \u2026 [+3537 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Fernanda Gonz\u00e1lez",
+        "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+        "description": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.",
+        "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
+        "urlToImage": "https://media.wired.com/photos/6a67bbceae27b42b1eabd271/191:100/w_1280,c_limit/incendios%20Espa%C3%B1a%20tecnolog%C3%ADa%202285568676.jpg",
+        "publishedAt": "2026-07-27T21:06:54Z",
+        "content": "Spain declared a national emergency in the community of Madrid and the province of \u00c1vila due to the spread of intense wildfires. With fires still burning out of control, this year is shaping up to be\u2026 [+3895 chars]"
     }
 ]

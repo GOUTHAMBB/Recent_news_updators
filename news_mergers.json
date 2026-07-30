@@ -1,16 +1,55 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Melia Russell",
+        "title": "Legora's buying spree has reached the courtroom",
+        "description": "Legora has acquired London startup Wexler to better serve trial lawyers. The deal continues an acquisition spree for the Swedish-born software maker.",
+        "url": "https://www.businessinsider.com/legora-acquires-legal-ai-startup-wexler-consolidation-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a68ea87548c9c486b311707?width=1067&format=jpeg",
+        "publishedAt": "2026-07-29T09:00:01Z",
+        "content": "Legora cofounder and chief executive Max Junestrand poses for a photo with Wexler's cofounders, Kush Madlani and Gregory Mostyn.Legora\r\n<ul><li>Legora has acquired Wexler, a London startup that helps\u2026 [+2925 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Entrepreneur"
+        },
+        "author": "Clinton Sparks",
+        "title": "I Built Successful Companies in Music, Gaming and Tech. These Same 3 Skills Will Drive Success In Any Industry",
+        "description": "Turns out the same skills that work in music work just as well in gaming, tech and whatever comes next.",
+        "url": "https://www.entrepreneur.com/building-a-business/i-built-successful-companies-in-music-gaming-and-tech-these-same-3-skills-will-drive-success-in-any-industry",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/image6-copy.jpg?resize=1024,683",
+        "publishedAt": "2026-07-28T14:00:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Youre never really selling a product or a service. Youre selling a feeling.</li><li>When people consistently assoc\u2026 [+6576 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Tom Carter",
+        "title": "Europe's biggest tech giant slides 5% on reports of a Chinese rival encroaching on its turf",
+        "description": "ASML is the only company on the planet capable of mass producing the ultraviolet lithography machines critical to building cutting-edge chips.",
+        "url": "https://www.businessinsider.com/asml-shares-fall-china-chipmaking-lithography-machine-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a689900ce52cb26b8394943?width=1200&format=jpeg",
+        "publishedAt": "2026-07-28T13:10:31Z",
+        "content": "ASML CEO Christophe Fouquet with a Lego model of the company's EUV machine.Bloomberg/Getty Images\r\n<ul><li>ASML shares fell nearly 5% in premarket trading after reports that China had made a major ch\u2026 [+2638 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Quartz India"
         },
-        "author": "Jackie Snow",
-        "title": "How everyday investors are buying into SpaceX before its IPO",
-        "description": "Private-market platforms are giving accredited investors new ways to buy pre-IPO companies like SpaceX",
-        "url": "https://qz.com/how-everyday-investors-buy-spacex-pre-ipo",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/420E3C680E8B6A251FA3BAA321B294CEB26CF3AB1F9D9A6B48601A854E6E7BC3/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F0da3f38dd94420c6485616e49e832681",
-        "publishedAt": "2026-07-27T09:00:00Z",
-        "content": "A version of this article originally appeared in Quartz's members-only Weekend Brief newsletter. Quartz members get access to exclusive newsletters and more. Sign up here.\r\nA few years ago, the close\u2026 [+6801 chars]"
+        "author": "Cris Tolomia",
+        "title": "SpaceX stock loses $1.2 trillion in market cap before Q2 earnings",
+        "description": "The stock fell for the 13th time in 16 sessions on Monday, closing at $113.50 \u2014 roughly half its June peak",
+        "url": "https://qz.com/spacex-stock-market-cap-decline-earnings-072826",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/86B419F882A4533BE0E12029271EAE26FA011508EC1C2ED9BD7770F6F54A59DF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F0dac26f69461dfd334c6a5487a531ad2",
+        "publishedAt": "2026-07-28T11:40:56Z",
+        "content": "SpaceX stock has erased more than $1.2 trillion in market capitalization since its June high, a decline roughly equivalent to the entire current market value of Tesla, as the company prepares to post\u2026 [+2287 chars]"
     },
     {
         "source": {
@@ -27,6 +66,19 @@
     },
     {
         "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sam Forsdick",
+        "title": "The IPO hype cycle returns",
+        "description": "In 2016, Fortune cautioned investors of a tech IPO reckoning. A decade on, the warning is worth heeding once more as a new set of companies chase a trillion-dollar debut.",
+        "url": "https://fortune.com/2026/07/28/fortune-archive-the-ipo-hype-cycle-returns/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/ARCE-The-Reckoning.jpg?resize=1200,600",
+        "publishedAt": "2026-07-28T14:56:24Z",
+        "content": "Illustrated by Liverpool-based designer Stephen Chan, the Feb. 1, 2016, cover of Fortune warned of a fast-approaching reckoning for the tech sectors billion-dollar unicorn IPOs. The illustration depi\u2026 [+1544 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
@@ -40,16 +92,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Quartz India"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Cris Tolomia",
-        "title": "CXMT stock soars 466% on Shanghai debut after record IPO",
-        "description": "The Chinese memory chipmaker raised $8.6 billion in Asia's biggest IPO this year, vaulting it past ICBC as China's most valuable listed company",
-        "url": "https://qz.com/cxmt-stock-shanghai-debut-ipo-memory-chip-072726",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/6463FC6D850F552FA8A4D5B8FF1EB915810FB5C95F40B997EFDD8067BAC25AB4/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F36b6381fb505d6d64e8b13262231723b",
-        "publishedAt": "2026-07-27T11:23:57Z",
-        "content": "CXMT Corp. closed its first trading session on Monday up 466%, ending at 49 yuan against its IPO price of 8.66 yuan per share, after raising 57.92 billion yuan ($8.6 billion) in the largest mainland \u2026 [+2314 chars]"
+        "author": "Allie Garfinkle",
+        "title": "Greg Brockman on the week two OpenAI AI models went rogue",
+        "description": "The OpenAI cofounder's read on a security scare, business models amid an approaching IPO, and the case for staying calm.",
+        "url": "https://fortune.com/2026/07/28/greg-brockman-on-the-week-two-openai-ai-models-went-rogue/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281315429-e1784831178161.jpg?resize=1200,600",
+        "publishedAt": "2026-07-28T11:56:45Z",
+        "content": "When I heard the AI had escaped, I was out on a Wyoming river.\u00a0Yes, I mysteriously had cell service while fly fishing with my family on the Salt River (among the only rivers in the world to flow nort\u2026 [+6400 chars]"
     },
     {
         "source": {
@@ -108,26 +160,13 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Chan Ho-Him, The Associated Press",
-        "title": "A Chinese chip maker\u2019s shares surged 466% in their first day of trading as AI boom worm turns",
-        "description": "CXMT shares rocketed on their debut, becoming mainland China's most valuable listed company \u2014 as Washington debates banning it outright",
-        "url": "https://fortune.com/2026/07/27/cxmt-china-biggest-ipo-since-2010/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26208173054939-e1785157128942.jpg?resize=1200,600",
-        "publishedAt": "2026-07-27T12:59:07Z",
-        "content": "Shares of CXMT, Chinas largest memory chipmaker, shot skyward Monday as they began trading in Shanghai in mainland Chinas biggest initial public stock offering in recent years.CXMTs shares surged 466\u2026 [+3659 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Diane Brady",
-        "title": "StubHub CEO Eric Baker is under scrutiny for enabling mass scalpers on his ticket reselling platform",
-        "description": "Also: All the news and watercooler chat from Fortune.",
-        "url": "https://fortune.com/2026/07/27/stubhub-ceo-eric-baker-ticket-reselling-hedge-fund/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2235383806-e1785142380140.jpg?resize=1200,600",
-        "publishedAt": "2026-07-27T09:26:51Z",
-        "content": "Good morning. Ticket resellers have long turned to StubHub to hawk their wares, selling seats to concerts and sports games, often at significant markups. But what happens when the CEO of a platform f\u2026 [+5368 chars]"
+        "author": "Catherina Gioino",
+        "title": "Elon Musk said money doesn\u2019t matter. Then he rolled out X Money and admitted he\u2019s a \u2018former trillionaire\u2019",
+        "description": "Musk lost $750 million, nearly the entire net worths combined of the three next richest men: Larry Page, Sergey Brin, and Jeff Bezos.",
+        "url": "https://fortune.com/2026/07/29/elon-musk-money-matters-x-money-former-trillionaire/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1229892852-e1785267930203.jpg?resize=1200,600",
+        "publishedAt": "2026-07-29T07:05:00Z",
+        "content": "Elon Musk admitted it himself: hes no longer a trillionaire.On July 24, Musk posted (Former) Trillionaire on X, a rare public acknowledgment from a man who rarely concedes ground. The post came as hi\u2026 [+4293 chars]"
     },
     {
         "source": {
@@ -135,51 +174,25 @@
             "name": "Fortune"
         },
         "author": "Sheryl Estrada",
-        "title": "Capital One\u2019s MLB partnership is turning fan experiences into long-term customer value",
-        "description": "The company is using All-Star activations and cardholder-only MLB perks to deepen customer experience.",
-        "url": "https://fortune.com/2026/07/27/capital-one-mlb-partnership-turning-fan-experiences-into-long-term-customer-value/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/SQ_80597.jpg?resize=1200,600",
-        "publishedAt": "2026-07-27T12:43:58Z",
-        "content": "Good morning. Sports sponsorships have evolved far beyond logo placement. For companies like Capital One, this includes using exclusive experiences and cardholder perks to turn fans into long-term cu\u2026 [+4806 chars]"
+        "title": "BNY skipped the \u2018tokenmaxxing\u2019 craze. Here\u2019s what AI metrics it tracks instead",
+        "description": "BNY CFO Dermot McDonogh says AI success is not measured by prompts burned or tokens consumed.",
+        "url": "https://fortune.com/2026/07/28/bny-skipped-tokenmaxxing-craze-what-ai-metrics-tracks-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2224894315.jpg?resize=1200,600",
+        "publishedAt": "2026-07-28T11:59:36Z",
+        "content": "Good morning. Tokenmaxxing quickly became one of the buzziest metrics in enterprise AI.\r\nFortunes Jeremy Kahn reported that tokenmaxxing turned into a status symbol at some big tech companies,\u00a0where \u2026 [+6751 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Nick Lichtenberg",
-        "title": "China is using the steel playbook on AI \u2014 and America\u2019s tech billionaires are standing in the blast zone",
-        "description": "Scott Galloway thinks it's \"modern-day steel dumping.\" Here's a look at what he means.",
-        "url": "https://fortune.com/2026/07/27/what-is-dumping-china-steel-ai-billionaires/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285789373-e1784929107523.jpg?resize=1200,600",
-        "publishedAt": "2026-07-27T07:00:00Z",
-        "content": "Americas new Gilded Age rhymes with its last in so many ways, perhaps none more so than its oligarchs and billionaires, with the role of steel being played today by artificial intelligence.The pre-Wo\u2026 [+4727 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "htan@insider.com (Huileng Tan)",
-        "title": "China's hottest AI chip stock became its most valuable listed company on day one",
-        "description": "Chinese memory-chip maker CXMT became the mainland's most valuable listed company, overtaking ICBC after its blockbuster IPO.",
-        "url": "https://www.businessinsider.com/cxmt-stock-price-ipo-688825-ticker-shanghai-changxin-ram-chip-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a66c601548c9c486b310c05?width=1200&format=jpeg",
-        "publishedAt": "2026-07-27T04:54:32Z",
-        "content": "China's largest semiconductor IPO on record instantly produced the mainland market's most valuable listed company, highlighting investors' enthusiasm for Beijing's AI ambitions.\r\nShares of CXMT Corp.\u2026 [+1980 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Peter Follows, Forbes Books Author, \n Peter Follows, Forbes Books Author\n https://www.forbes.com/sites/forbesbooksauthors/people/peterfollows/",
-        "title": "Bringing Private Equity Thinking To Every Business",
-        "description": "The best private equity firms are not simply buying and selling companies; they are building better companies by installing a disciplined management approach.",
-        "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/07/27/bringing-private-equity-thinking-to-every-business/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a6766bd4806ced5fd95d613/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-27T14:13:33Z",
-        "content": "While insights, data, and reports matter, management discipline is what will really make a difference. \r\ngetty\r\nHighly successful private equity leaders think and act differently. Over the past sever\u2026 [+9166 chars]"
+        "author": "Henrik Landgren",
+        "title": "I was Spotify\u2019s first analytics lead. Here is what VCs get wrong about data",
+        "description": "My job under Daniel Ek was to move away from static Excel spreadsheets and toward a more dynamic way of tracking data for the first time.",
+        "url": "https://fortune.com/2026/07/29/henrik-landgren-first-spotify-analytics-vp-data-venture-capital/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/henrik.png?resize=1200,600",
+        "publishedAt": "2026-07-29T07:00:00Z",
+        "content": "What happens to the way we work when the tools get good? Long before the AI boom, we asked the same question at Spotify, where I was the first-ever VP of Analytics.\u00a0I led Spotifys data strategy under\u2026 [+4631 chars]"
     },
     {
         "source": {
@@ -196,29 +209,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Jenny Lee",
-        "title": "China memory chipmaker CXMT skyrockets 470% in Shanghai debut",
-        "description": "The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.",
-        "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339018-1784788545432-gettyimages-2285591332-tang-cxmthead260715_npU3p.jpeg?v=1784788559&w=1920&h=1080",
-        "publishedAt": "2026-07-27T01:44:24Z",
-        "content": "Shares of Chinese chipmaker Changxin Technology Group rose about 470% Monday as they debuted on Shanghai's tech-heavy STAR Market. \r\nThe Hefei-based company raised 57.92 billion yuan ($8.6 billion) a\u2026 [+1120 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Evelyn Cheng",
-        "title": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
-        "description": "The AI race is heating up so fast this summer that it's reshaping national priorities in the U.S. and China.",
-        "url": "https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340261-1785122274093-gettyimages-2282553160-HL_IBENYOUSSEF_3208649.jpeg?v=1785122689&w=1920&h=1080",
-        "publishedAt": "2026-07-27T23:00:02Z",
-        "content": "U.S. and Chinese companies have come to dominate the global artificial intelligence race.\r\nHi, this is Evelyn, writing to you from Beijing. Welcome to the latest edition of The China Connection a sna\u2026 [+5817 chars]"
+        "author": "gweiss@businessinsider.com (Geoff Weiss)",
+        "title": "Founders who sold their startup to Cisco raise $34 million to kill IT tickets. Read their new AI startup's pitch deck.",
+        "description": "Harmony raised a $34 million round led by Lightspeed. Its founders previously sold their cloud software startup Epsagon to Cisco.",
+        "url": "https://www.businessinsider.com/harmony-pitch-deck-ai-startup-34-million-seed-founders-cisco-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a612dce54f98752617788bb?width=1200&format=jpeg",
+        "publishedAt": "2026-07-28T13:00:01Z",
+        "content": "Two founders who sold their first startup to Cisco for $500 million have raised $34 million in seed funding for their next act.\r\nLast year, CEO Nitzan Shapira and CTO Ran Ribenzaft launched their new\u2026 [+1642 chars]"
     },
     {
         "source": {
@@ -232,57 +232,5 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2264116854-e1784821672548.jpg?resize=1200,600",
         "publishedAt": "2026-07-28T08:00:00Z",
         "content": "Nissan was desperate. Merger talks with Honda had fallen apart. The company was in the worst crisis of its nine-decade history, and the board needed someone to lead it out.Its choice: Ivan Espinosa, \u2026 [+8740 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Harring",
-        "title": "Oil prices cool, AI's 'distillation' debate, Ford's 'Nike shoe drop' and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/07/27/5-things-to-know-before-the-stock-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339522-1784839288815-_R1A7245.jpg?v=1784839868&w=1920&h=1080",
-        "publishedAt": "2026-07-27T12:34:48Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Monday. I saw \"The Odyssey\" over the weekend, but I wasn't able to snag a seat in an elusive \u2026 [+5821 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Robert Greifeld",
-        "title": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory framework",
-        "description": "AI can't be regulated by the invisible hand of the market. We need a comprehensive future-focused regulatory framework.",
-        "url": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339915-1784910439177-gettyimages-2214959014-aichangingworld.jpeg?v=1784910537&w=1920&h=1080",
-        "publishedAt": "2026-07-27T17:00:01Z",
-        "content": "Every several weeks, we hear reports of mind-expanding new capabilities from the AI community.\u00a0With excitement and dread, we try to extrapolate what this will mean for mankind and society:\u00a0speculatin\u2026 [+3502 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Yun Li",
-        "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron 23 hours a day",
-        "description": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
-        "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340500-1785161698440-gettyimages-2153225187-avdmay24fuji1j.jpeg?v=1785161716&w=1920&h=1080",
-        "publishedAt": "2026-07-27T15:32:24Z",
-        "content": "Investors looking to wager on stocks such as SpaceX and Micron Technology now have a new tool: single-stock futures that trade for nearly 24 hours a day.\r\nCME Group on Monday launched cash-settled si\u2026 [+2228 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Tanaya Macheel",
-        "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
-        "description": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.",
-        "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107115735-1662667698139-gettyimages-1240299195-CLEANSPARK_BITCOIN_GA.jpeg?v=1761666886&w=1920&h=1080",
-        "publishedAt": "2026-07-27T18:54:17Z",
-        "content": "Crypto stocks were some of the top gainers Monday as the broader market sold off and capital rotated away from chip and AI infrastructure names. \r\nBitmine Immersion led the group, surging 11% after t\u2026 [+3032 chars]"
     }
 ]

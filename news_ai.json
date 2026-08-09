@@ -1,159 +1,55 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "AJ Dellinger",
-        "title": "Oh Cool, AI Is Inventing New Biological Viruses Now",
-        "description": "Can we just stick to cybercrimes?",
-        "url": "https://gizmodo.com/oh-cool-ai-is-inventing-new-biological-viruses-now-2000795623",
-        "urlToImage": "https://gizmodo.com/app/uploads/2023/01/d3175ddc3c07c688bbff2ff82ac462aa.jpg",
-        "publishedAt": "2026-08-06T20:55:55Z",
-        "content": "One of the great promises of artificial intelligence was that it would help to cure diseases that have thus far stumped humanity. It hasn\u2019t gotten there yet, but it has now created a new, viable viru\u2026 [+3273 chars]"
+        "author": "Callum Turner",
+        "title": "AI boom forces companies to rethink how they measure business value",
+        "description": "Artificial intelligence has quickly become a boardroom priority, inspiring significant investment across industries. Yet conversations about return on investment often remain tied to familiar software purchasing habits, where success is judged by logins, subs\u2026",
+        "url": "https://thenextweb.com/news/ai-boom-rethink-measure-business-value-profitalize",
+        "urlToImage": "https://media.thenextweb.com/2026/08/ai-boom-rethink-measure-business-value-profitalize.jpg",
+        "publishedAt": "2026-08-07T17:45:57Z",
+        "content": "TL;DR\r\nKPMG finds 95% of organizations have an AI strategy but only 8% report established ROI. Profitalize CEO Jon Weberg argues the gap exists because companies buy AI as standalone tools rather tha\u2026 [+6887 chars]"
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Victoria Turk",
-        "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-        "description": "Its WeatherNext model, which will be open-sourced, can accurately predict both a storm\u2019s track and intensity using lower-resolution weather data. Researchers don't yet fully understand how it does this.",
-        "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-        "urlToImage": "https://media.wired.com/photos/6a748489077eac6832213fd9/191:100/w_1280,c_limit/AICyclone.jpg",
-        "publishedAt": "2026-08-06T16:23:04Z",
-        "content": "In October 2025, a storm brewed over the Caribbean Sea. Weather models differed on its trajectory. Would it remain weak and end up in Haiti, or would it intensify and head to Jamaica? Artificial inte\u2026 [+3861 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "AJ Dellinger",
-        "title": "These Are the Only AI Chips Anyone Should Care About",
-        "description": "Once you pop...",
-        "url": "https://gizmodo.com/these-are-the-only-ai-chips-anyone-should-care-about-2000795019",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/pringlesai-1200x675.jpg",
-        "publishedAt": "2026-08-06T09:00:48Z",
-        "content": "In the era of artificial intelligence, there is an arms race among companies to build the best chip. Nvidia\u2019s dominance in the space has encouraged Google, Amazon, OpenAIand most recently, Anthropict\u2026 [+2497 chars]"
+        "author": "Ana Maria Constantin",
+        "title": "Disney+ and ESPN are testing AI-powered search that lets users describe what they want in plain language",
+        "description": "Disney is testing AI-powered search inside both ESPN and Disney+, the company announced on Wednesday. ESPN Search lets a small group of users ask sports questions in natural language and receive answers, stats, related content, and recommendations drawn from \u2026",
+        "url": "https://thenextweb.com/news/disney-espn-ai-search-discovery-beta",
+        "urlToImage": "https://media.thenextweb.com/2026/08/disney-espn-ai-search-discovery-beta.jpg",
+        "publishedAt": "2026-08-07T19:12:10Z",
+        "content": "TL;DR\r\nDisney+ and ESPN are beta testing AI search with small user groups. ESPN answers natural language sports queries. Disney+ recommends content by mood. Personal Intelligence connects Gmail and C\u2026 [+2228 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "Katelyn Chedraoui",
-        "title": "Photo and Video Editing in ChatGPT Just Got an Adobe-Size Update",
-        "description": "Adobe\u2019s plugin adds over 70 new photo, video and document editing capabilities inside ChatGPT.",
-        "url": "https://www.cnet.com/tech/services-and-software/adobe-for-chatgpt-updated-plugins-editing-news-2/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7e244efe-617e-4e73-bc2d-92198c1f58a1.jpg",
-        "publishedAt": "2026-08-06T13:06:08Z",
-        "content": "Adobe is bringing some of its content editing prowess to ChatGPT, the company announced on Thursday. The update brings over 70 of Adobes creative and productive capabilities to the chatbot, including\u2026 [+2936 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Ece Yildirim",
-        "title": "Google Maps Adds Agentic Feature That Orders Food and Books Hotels for You",
-        "description": "Interested users will also be able to share their entire schedule with Google Maps and let its AI agents takeover.",
-        "url": "https://gizmodo.com/google-maps-adds-agentic-feature-that-orders-food-and-books-hotels-for-you-2000795579",
-        "urlToImage": "https://gizmodo.com/app/uploads/2024/08/google-maps-getty.jpg",
-        "publishedAt": "2026-08-06T20:12:38Z",
-        "content": "Google Maps will now be able to order food, buy event tickets, book hotels, and give even more personalized recommendations, the tech giant announced on Thursday.\r\nGoogle embedded its AI chatbot into\u2026 [+3130 chars]"
+        "author": "Tyler Lacoma",
+        "title": "Details Leak on OpenAI\u2019s Doughnut-Shaped Speaker",
+        "description": "The ChatGPT maker is reportedly working on a small, portable AI smart speaker, but it better not look too much like Apple\u2019s designs.",
+        "url": "https://www.cnet.com/tech/services-and-software/details-leak-openai-doughnut-shaped-speaker/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2287606982.jpg",
+        "publishedAt": "2026-08-07T17:56:59Z",
+        "content": "OpenAI plans to release an\u00a0AI smart speaker\u00a0in 2027, according to a Bloomberg report on Thursday. It\u2019ll reportedly be palm-size and doughnut-shaped and have a wireless design that will let people car\u2026 [+3634 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "Katelyn Chedraoui",
-        "title": "Photo and Video Editing in ChatGPT Just Got an Adobe-Size Update",
-        "description": "Adobe\u2019s plugins add over 70 new photo, video and document editing capabilities inside ChatGPT.",
-        "url": "https://www.cnet.com/tech/services-and-software/adobe-for-chatgpt-updated-plugins-editing-news/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7e244efe-617e-4e73-bc2d-92198c1f58a1.jpg",
-        "publishedAt": "2026-08-06T13:06:08Z",
-        "content": "Adobe is bringing some of its content editing prowess to ChatGPT, the company announced on Thursday. The update brings over 70 of Adobes creative and productive capabilities to the chatbot, including\u2026 [+2934 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Webb Wright",
-        "title": "This Startup Will Pay You $50 to Let AI Read Your Mind",
-        "description": "Humans have long dreamed of telepathically communicating with machines. Will Conduit succeed where others before it have failed?",
-        "url": "https://gizmodo.com/this-startup-will-pay-you-50-to-let-ai-read-your-mind-2000795661",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Brainchip-1200x675.jpg",
-        "publishedAt": "2026-08-06T20:40:47Z",
-        "content": "In 1908, a Columbia University psychiatry professor named Frederick Peterson claimed to have built a psychometera contraption which he said could read peoples thoughts using, among other components, \u2026 [+3806 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "AI struggles to patch vulns without adult supervision",
-        "description": "Left alone, autonomous fixes often fail to fully remediate flaws",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
-        "urlToImage": "https://image.theregister.com/5255449.jpg?imageId=5255449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-06T19:04:30Z",
-        "content": "AI models may not be that good at fixing security flaws. Researchers at 1Password's Off-by-1 Labs analyzed security patches generated by two frontier models - ChatGPT 5.5 at \"medium\" effort and Claud\u2026 [+3730 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "DXC partners with Primary on zero-trust security for enterprise AI",
-        "description": "DXC Technology Co. today announced a partnership with security startup Primary that makes the information technology services company the exclusive managed services partner for Primary\u2019s zero-trust platform for enterprise artificial intelligence. The joint of\u2026",
-        "url": "https://siliconangle.com/2026/08/06/dxc-partners-primary-zero-trust-security-enterprise-ai/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/dxcprimary.png",
-        "publishedAt": "2026-08-06T13:00:40Z",
-        "content": "DXC Technology Co. today announced a partnership with security startup Primary that makes the information technology services company the exclusive managed services partner for Primary\u2019s zero-trust p\u2026 [+3909 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Meta takes on Anthropic and OpenAI with its first AI coding agent, Muse Code",
-        "description": "Meta Platforms Inc. is getting more serious in its efforts to challenge leading artificial intelligence labs Anthropic PBC and OpenAI PBC with the release of its first AI coding agent, called Muse Code. Announced in a blog post today, Muse Code is the brainch\u2026",
-        "url": "https://siliconangle.com/2026/08/05/meta-takes-anthropic-openai-first-ai-coding-agent-muse-code/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-06-08-49-40.png",
-        "publishedAt": "2026-08-06T01:52:45Z",
-        "content": "Meta Platforms Inc. is getting more serious in its efforts to challenge leading artificial intelligence labs Anthropic PBC and OpenAI PBC with the release of its first AI coding agent, called Muse Co\u2026 [+4995 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Confirming rumors, Anthropic reveals plan to develop custom chip",
-        "description": "Anthropic PBC today disclosed that it plans to develop a custom artificial intelligence chip. A spokesperson told Business Insider that the company will co-design the processor with its future large language models. Usually, co-design initiatives focus on tai\u2026",
-        "url": "https://siliconangle.com/2026/08/05/confirming-rumors-anthropic-reveals-plan-develop-custom-chip/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Anthropic2.png",
-        "publishedAt": "2026-08-06T01:31:18Z",
-        "content": "Anthropic PBC today disclosed that it plans to develop a custom artificial intelligence chip.\r\nA spokesperson told Business Insider that the company will co-design the processor with its future large\u2026 [+4530 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls",
-        "description": "How fast is artificial intelligence advancing? Behind the scenes at OpenAI Group PBC, AI agents are fluent, technically precise and occasionally profane in their extensive conversations\u2026with each other. This was one of the more interesting details revealed by\u2026",
-        "url": "https://siliconangle.com/2026/08/06/new-details-openai-hugging-face-attack-emerge-security-industry-debates-ai-agent-controls/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Black-Hat-2026.jpg",
-        "publishedAt": "2026-08-06T20:45:22Z",
-        "content": "How fast is artificial intelligence advancing? Behind the scenes at OpenAI Group PBC, AI agents are fluent, technically precise and occasionally profane in their extensive conversations\u2026with each oth\u2026 [+10161 chars]"
+        "author": "Jason Chun",
+        "title": "Hank Green Is Creating \u2018an AI Policy for Himself.\u2019 He Thinks Other Creators Should, Too",
+        "description": "Commentary: What do we lose when creators rely too much on AI?",
+        "url": "https://www.cnet.com/home/internet/hank-green-is-creating-an-ai-policy-for-himself-he-thinks-other-creators-should-too/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/videoframe_39908.png",
+        "publishedAt": "2026-08-07T21:46:18Z",
+        "content": "In a video uploaded Friday, prolific internet creator Hank Green said he had taken time to reconsider his use of AI, acknowledging that he had become \u201ctoo reliant on [LLMs] for advice, for editing an\u2026 [+3450 chars]"
     },
     {
         "source": {
@@ -173,19 +69,6 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Google targets AI startup Mechanize\u2019s technology and talent in proposed $1.5B deal",
-        "description": "Google LLC is reportedly in discussions with an artificial intelligence coding startup called Mechanize Inc. over a deal that would see it license some of its technology and hire a number of its most talented employees.\u00a0Business Insider was the first to repor\u2026",
-        "url": "https://siliconangle.com/2026/08/05/google-targets-ai-startup-mechanizes-technology-talent-proposed-1-5b-deal/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-06-09-28-13.png",
-        "publishedAt": "2026-08-06T02:29:07Z",
-        "content": "Google LLC is reportedly in discussions with an artificial intelligence coding startup called Mechanize Inc. over a deal that would see it license some of its technology and hire a number of its most\u2026 [+4397 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
         "author": "Maria Deutscher",
         "title": "Optical networking startup Lumilens launches with $900M in funding",
         "description": "Lumilens Inc., a provider of optical networking chips for artificial intelligence clusters, launched today with $900 million in funding. The company raised the bulk of the capital, $700 million, through a Series C round that valued it at $5.51 billion. Atreid\u2026",
@@ -199,52 +82,26 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Paul Gillin",
-        "title": "Broadcom updates VMware security for AI-era threats",
-        "description": "Broadcom Inc. today introduced new security, performance and automation capabilities for VMware Cloud Foundation that are intended to help enterprises defend private clouds against artificial intelligence-assisted attacks while reducing operational complexity\u2026",
-        "url": "https://siliconangle.com/2026/08/06/broadcom-updates-vmware-security-ai-era-threats/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Broadcom.png",
-        "publishedAt": "2026-08-06T21:03:58Z",
-        "content": "Broadcom Inc. today introduced new security, performance and automation capabilities for VMware Cloud Foundation that are intended to help enterprises defend private clouds against artificial intelli\u2026 [+4814 chars]"
+        "author": "Maria Deutscher",
+        "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation",
+        "description": "Harvey AI Corp., a provider of artificial intelligence software for attorneys, is reportedly seeking at least $500 million in new funding. The Information today cited sources as saying that the round could value the startup at $15.5 billion. That\u2019s a $4.5 bil\u2026",
+        "url": "https://siliconangle.com/2026/08/07/legal-ai-startup-harvey-reportedly-raising-500m-15-5b-valuation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Harvey.png",
+        "publishedAt": "2026-08-07T23:15:50Z",
+        "content": "Harvey AI Corp., a provider of artificial intelligence software for attorneys, is reportedly seeking at least $500 million in new funding.\r\nThe Information today cited sources as saying that the roun\u2026 [+4301 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "AMD acquires Taalas to hardwire AI models into silicon",
-        "description": "Advanced Micro Devices Inc. said today it has agreed to buy Taalas Inc., a Toronto startup that hardwires artificial intelligence models directly into silicon, in a deal that pushes the chipmaker deeper into the market for AI inference. Terms were not disclos\u2026",
-        "url": "https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/taalas.png",
-        "publishedAt": "2026-08-06T23:28:40Z",
-        "content": "Advanced Micro Devices Inc. said today it has agreed to buy Taalas Inc., a Toronto startup that hardwires artificial intelligence models directly into silicon, in a deal that pushes the chipmaker dee\u2026 [+4097 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Report: OpenAI\u2019s upcoming AI speaker will be shaped like a donut and cost around $300",
-        "description": "More details have emerged from Bloomberg about OpenAI Group PBC\u2019s long-awaited hardware device, which was previously described as an artificial intelligence-enabled speaker that will be a \u201cphysical manifestation\u201d of ChatGPT. In its latest report, Bloomberg de\u2026",
-        "url": "https://siliconangle.com/2026/08/06/report-openais-upcoming-ai-speaker-will-shaped-like-donut-cost-around-300/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-06-09-08-26-36.png",
-        "publishedAt": "2026-08-06T23:40:28Z",
-        "content": "More details have emerged from Bloomberg about OpenAI Group PBCs long-awaited hardware device, which was previously described as an artificial intelligence-enabled speaker that will be a physical man\u2026 [+4676 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "David Gewirtz",
-        "title": "Taught by AI pioneers, Stanford's free online course takes you far beyond ChatGPT",
-        "description": "Most AI courses teach today's tools, but this free Stanford classic by Peter Norvig and Sebastian Thrun dives into the deeper foundational ideas you need to truly understand artificial intelligence.",
-        "url": "https://www.zdnet.com/article/free-ai-course-stanford/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/114bdc2c3ca3fcedf67212b9ad12b8d231bd6a79/2026/08/06/ba4b017f-741d-41a9-bcc8-268d629051eb/gettyimages-2149462987.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-08-06T12:45:23Z",
-        "content": "Boyuan Yu/iStock/Getty Images Plus\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Two Stanford AI pioneers teach this landmark course for free.</li><li>The cur\u2026 [+7065 chars]"
+        "author": "Maria Deutscher",
+        "title": "OpenAI reveals upcoming Astra model may possess \u2018critical\u2019 hacking capabilities",
+        "description": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenAI revealed in a Sunday blog post that the LLM had solved 10\u2026",
+        "url": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/OpenAI.png",
+        "publishedAt": "2026-08-08T00:58:53Z",
+        "content": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk.\r\nThe algorithm, which is known as Astra, was first detailed last week. Ope\u2026 [+4233 chars]"
     },
     {
         "source": {
@@ -262,119 +119,15 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Computerworld"
         },
-        "author": "Mike Wheatley",
-        "title": "Inevitable AI Group raises $6M to derail SaaS incumbents with more agile, AI-native software startups",
-        "description": "Aleph, one of Israel\u2019s top funds, is backing a new artificial intelligence-native venture studio with $6 million in pre-seed funding so it can build and launch dozens of new software startups by the end of the year. The studio is called Inevitable AI Group, a\u2026",
-        "url": "https://siliconangle.com/2026/08/06/inevitable-ai-group-raises-6m-take-saas-incumbents-agile-ai-native-software-startups/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-05-09-06-59.png",
-        "publishedAt": "2026-08-06T13:00:51Z",
-        "content": "Aleph, one of Israels top funds, is backing a new artificial intelligence-native venture studio with $6 million in pre-seed funding so it can build and launch dozens of new software startups by the e\u2026 [+7809 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "Tenex pairs agentic AI with human oversight for faster security operations",
-        "description": "As AI accelerates the speed and scale of cyberattacks,\u00a0organizations are adopting AI security operations to investigate threats and respond in minutes rather than hours or days. The shift is enabling broader alert coverage and faster detection while keeping h\u2026",
-        "url": "https://siliconangle.com/2026/08/06/ai-security-operations-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_3492.jpg",
-        "publishedAt": "2026-08-06T13:20:19Z",
-        "content": "As AI accelerates the speed and scale of cyberattacks,\u00a0organizations are adopting AI security operations to investigate threats and respond in minutes rather than hours or days. The shift is enabling\u2026 [+3719 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Meta\u2019s Muse Spark 1.1 hacked an external organization during cybersecurity test",
-        "description": "A large language model developed by Meta Platforms Inc. hacked a third party organization during a cybersecurity evaluation. The Facebook parent disclosed the incident on Wednesday without specifying the LLM. According to The Information, the cyberattack was \u2026",
-        "url": "https://siliconangle.com/2026/08/06/metas-muse-spark-1-1-hacked-external-organization-cybersecurity-test/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Meta_Headquarters_Sign.jpg",
-        "publishedAt": "2026-08-06T23:32:42Z",
-        "content": "A large language model developed by Meta Platforms Inc. hacked a third party organization during a cybersecurity evaluation.\r\nThe Facebook parent disclosed the incident on Wednesday without specifyin\u2026 [+4128 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Framewerx acquires AD Micro Technology to widen its AI-driven managed services",
-        "description": "Edmonton, Alberta-based information technology consulting and managed services provider Framewerx Inc. today announced that it has acquired managed IT services firm AD Micro Technology Inc. Terms were not disclosed. Founded in 1992, AD Micro operates out of R\u2026",
-        "url": "https://siliconangle.com/2026/08/06/framewerx-acquires-ad-micro-technology-widen-ai-driven-managed-services/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/framewerxadmicro.png",
-        "publishedAt": "2026-08-06T12:00:17Z",
-        "content": "Edmonton, Alberta-based information technology consulting and managed services provider Framewerx Inc. today announced that it has acquired managed IT services firm AD Micro Technology Inc. Terms wer\u2026 [+3742 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Datadog shares plummet despite expectation-topping quarterly results",
-        "description": "Datadog Inc.\u2019s shares closed 19% lower today after it posted quarterly results and guidance that topped expectations. New York-based Datadog is a major provider of observability software. It also sells cybersecurity tools, a user experience monitoring suite a\u2026",
-        "url": "https://siliconangle.com/2026/08/06/datadog-shares-plummet-despite-expectation-topping-quarterly-results/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Datadog.png",
-        "publishedAt": "2026-08-06T20:58:11Z",
-        "content": "Datadog Inc.s shares closed 19% lower today after it posted quarterly results and guidance that topped expectations.\r\nNew York-based Datadog is a major provider of observability software. It also sel\u2026 [+4101 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "How the famed USENIX Security conf is managing a flood of papers in the AI era",
-        "description": "AI usage is evident but isn't yet a serious problem",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/07/how-the-famed-usenix-security-conf-is-managing-a-flood-of-papers-in-the-ai-era/5284374",
-        "urlToImage": "https://image.theregister.com/5284394.jpg?imageId=5284394&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-06T23:40:23Z",
-        "content": "The 35th USENIX Security Symposium (USS), which takes place next week in Baltimore, Maryland, hit an all-time high for paper submissions.\r\nWhile some of that increase has been aided by the availabili\u2026 [+4230 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Envoy launches Response to provide threat intelligence and incident management for businesses",
-        "description": "Envoy Inc. today announced the launch of Response, a solution that brings intelligence records to the physical presence of people at work to detect potential threats, manage incidents, communicate during crises and prepare for audits. Founded in 2013 by found\u2026",
-        "url": "https://siliconangle.com/2026/08/06/envoy-launches-response-provide-threat-intelligence-incident-management-businesses/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Human-office-workers-sitting-at-desks-across-from-mostly-human-ghostly-AI-agents-working-together-th.jpeg",
-        "publishedAt": "2026-08-06T13:00:57Z",
-        "content": "Envoy Inc. today announced the launch of Response, a solution that brings intelligence records to the physical presence of people at work to detect potential threats, manage incidents, communicate du\u2026 [+5075 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Atlassian stock skyrockets more than 30% as cloud growth roars back",
-        "description": "Shares in Atlassian Corp. surged more than 30% in after-hours trading today after the Australian collaboration software company beat expectations on earnings and revenue in its fiscal 2026 fourth quarter and guided above forecasts for the year ahead. For the \u2026",
-        "url": "https://siliconangle.com/2026/08/06/atlassian-stock-skyrockets-30-cloud-growth-roars-back/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/03/Atlassian.jpg",
-        "publishedAt": "2026-08-06T22:58:05Z",
-        "content": "Shares in Atlassian Corp. surged more than 30% in after-hours trading today after the Australian collaboration software company beat expectations on earnings and revenue in its fiscal 2026 fourth qua\u2026 [+4660 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Charlie Osborne",
-        "title": "AI failed to properly patch software flaws 74% of the time, 1Password's study warns",
-        "description": "We might be eager to thread AI into every area of our cybersecurity defenses, but new research reveals why we should pull back.",
-        "url": "https://www.zdnet.com/article/ai-isnt-ready-to-patch-your-software-74-of-them-miss-the-mark/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/82be725abd39463c65382c5ad894a75bfaafd3f9/2025/02/11/376c0500-7882-4375-b9bf-a34985b9eace/ai-fakes-open-source-program-security-patches-and-feature-requests.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-08-06T12:45:41Z",
-        "content": "Yaroslav Kushta/Moment via Getty\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>A new study shows the effectiveness of AI-generated patches. \u00a0</li><li>Only 26%\u2026 [+4233 chars]"
+        "author": "Maxwell Cooter",
+        "title": "Polish data center plans to send its waste heat to the neighbors",
+        "description": "As Europe swelters in a heatwave, residents probably don\u2019t want to hear about ways to make their homes even hotter, but that\u2019s what Polish property developer Citylink is talking about, with plans to dump waste heat from a new data center in Wroc\u0142aw into the m\u2026",
+        "url": "https://www.computerworld.com/article/4206808/polish-data-center-plans-to-send-its-waste-heat-to-the-neighbors-2.html",
+        "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/08/4206808-0-53242900-1786115878-shutterstock_2476735433.jpg?quality=50&strip=all&w=1024",
+        "publishedAt": "2026-08-07T15:16:52Z",
+        "content": "As Europe swelters in a heatwave, residents probably don\u2019t want to hear about ways to make their homes even hotter, but that\u2019s what Polish property developer Citylink is talking about, with plans to \u2026 [+594 chars]"
     },
     {
         "source": {
@@ -382,12 +135,38 @@
             "name": "Tom's Hardware UK"
         },
         "author": "sayem.ahmed@futurenet.com (Sayem Ahmed) , Sayem Ahmed",
-        "title": "Beelink SER10 Max Mini PC review: Gorgon Pointcomes ready to dual-boot Windows and Ubuntu",
-        "description": "Beelink\u2019s SER10 Max Mini PC comes ready to dual-boot Windows 11 and Ubuntu with OpenClaw pre-installed.",
-        "url": "https://www.tomshardware.com/desktops/mini-pcs/beelink-ser10-max-mini-pc-review",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/vhd8FddT4ESAN8heVnEqWH-1999-80.jpg",
-        "publishedAt": "2026-08-06T11:05:00Z",
-        "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The Beelink SER10 Ma\u2026 [+17564 chars]"
+        "title": "This week on Tom's Hardware Premium: August 7, 2026 \u2014 Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech",
+        "description": "A redesigned Bench tool, inside China's domestic Chipmaking efforts, breaking, and we offer a free technical breakdown of Samsung's latest memory-related announcements.",
+        "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/VpbztxtxFKZCPaetywvDsH-2560-80.jpg",
+        "publishedAt": "2026-08-07T13:44:37Z",
+        "content": "In case you've not subscribed to Tom's Hardware Premium yet, here's what you've been missing out on in this week's selection of articles.\r\nFirst of all, we've fully redesigned Bench, our browsable da\u2026 [+5186 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Jon Martindale",
+        "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs \u2014 Samsung reported as manufacturing partner for Claude maker",
+        "description": "Anthropic has announced its building a team to co-design custom ASIC chips for AI inferencing workloads. This will give it greater control over its compute buildout and allow it to make its AI models specifically more efficient for its designs.",
+        "url": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/4GMtoxbVg4TgeKBcafXnMn-1600-80.jpg",
+        "publishedAt": "2026-08-07T10:30:00Z",
+        "content": "Anthropic has announced it's building an in-house chip development team to co-design its own custom ASIC processors for handling AI inferencing workloads. As described to Business Insider, Anthropic \u2026 [+6000 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "SK hynix approves $38B+ investment in two new memory fabs",
+        "description": "The board of SK hynix Inc., a major data center memory supplier, today approved the construction of two new fabs. The initiative will cost 54 trillion South Korean won, or about $38.3 billion. It\u2019s part of a broader $430 billion investment plan designed to ex\u2026",
+        "url": "https://siliconangle.com/2026/08/07/sk-hynix-approves-38b-investment-two-new-memory-fabs/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/SK-hynix.png",
+        "publishedAt": "2026-08-07T20:53:42Z",
+        "content": "The board of SK hynix Inc., a major data center memory supplier, today approved the construction of two new fabs.\r\nThe initiative will cost 54 trillion South Korean won, or about $38.3 billion. Its p\u2026 [+4621 chars]"
     },
     {
         "source": {
@@ -395,77 +174,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Ryan Stevens",
-        "title": "Microsoft pushes safer software construction as AI makes offense cheap",
-        "description": "AI is ending the era of scarce vulnerabilities, making powerful offensive capabilities abundant and forcing cybersecurity teams to move beyond reactive patching toward fundamentally safer software construction. That reality was the core of a Black Hat USA key\u2026",
-        "url": "https://siliconangle.com/2026/08/06/safer-software-construction-counters-ai-driven-threats-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7605.jpg",
-        "publishedAt": "2026-08-06T23:05:24Z",
-        "content": "AI is ending the era of scarce vulnerabilities, making powerful offensive capabilities abundant and forcing cybersecurity teams to move beyond reactive patching toward fundamentally safer software co\u2026 [+3943 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Valentina Villamil",
-        "title": "Why AI sandbox escapes are cybersecurity\u2019s newest attack surface",
-        "description": "Security researchers have spent the past year watching AI accelerate attacks that already exist. A harder question is whether AI can create attack techniques that didn\u2019t exist before. An AI sandbox escape \u2014 where an attacker breaks out of the isolated environ\u2026",
-        "url": "https://siliconangle.com/2026/08/06/ai-sandbox-escape-microsoft-copilot-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7256.jpg",
-        "publishedAt": "2026-08-06T23:04:36Z",
-        "content": "Security researchers have spent the past year watching AI accelerate attacks that already exist. A harder question is whether AI can create attack techniques that didn\u2019t exist before. An AI sandbox e\u2026 [+3937 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Valentina Villamil",
-        "title": "The AI security skills gap becomes Black Hat\u2019s quiet crisis: theCUBE\u2019s Black Hat USA 2026 day one keynote analysis",
-        "description": "Attackers no longer need days to move from initial access to full compromise \u2014 frontier AI models have collapsed that timeline to seconds. Defenders can\u2019t hire their way out of that speed differential, which is exposing an AI security skills gap most security\u2026",
-        "url": "https://siliconangle.com/2026/08/06/ai-security-skills-gap-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_3467.jpg",
-        "publishedAt": "2026-08-06T20:18:52Z",
-        "content": "Attackers no longer need days to move from initial access to full compromise frontier AI models have collapsed that timeline to seconds. Defenders can\u2019t hire their way out of that speed differential,\u2026 [+4017 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Valentina Villamil",
-        "title": "How peer review keeps Black Hat\u2019s global stage credible",
-        "description": "Cybersecurity vulnerabilities used to surface over weeks. Now they surface in minutes, as attackers move faster than defenders can respond, forcing the industry\u2019s biggest gatherings to rethink how practitioners find trustworthy answers fast. One answer many l\u2026",
-        "url": "https://siliconangle.com/2026/08/05/cybersecurity-peer-review-startup-spotlight-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_3514.jpg",
-        "publishedAt": "2026-08-06T00:43:04Z",
-        "content": "Cybersecurity vulnerabilities used to surface over weeks. Now they surface in minutes, as attackers move faster than defenders can respond, forcing the industry\u2019s biggest gatherings to rethink how pr\u2026 [+3901 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Molly Taft",
-        "title": "Two Fossil Fuel Companies Are Betting Big on Data Centers",
-        "description": "Chevron and Williams are big winners in the race to power artificial intelligence as they build out gas-fired power plants and pipelines.",
-        "url": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
-        "urlToImage": "https://media.wired.com/photos/6a71ded1b7a42409dc941701/191:100/w_1280,c_limit/DataGasPipe.jpg",
-        "publishedAt": "2026-08-06T10:30:00Z",
-        "content": "Its been a banner year for oil and gas companies. Some of the worlds biggest oil giants have announced billions of dollars in quarterly profits over the past two weeks, boosted largely by the soaring\u2026 [+3639 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Valentina Villamil",
-        "title": "How asset intelligence gives security teams control over AI agents",
-        "description": "Security teams have spent decades trying to answer a hard question: what\u2019s actually running in our environment? AI agents have made that question harder \u2014 they carry identities, touch multiple systems and change behavior based on the access they\u2019re given. Tha\u2026",
-        "url": "https://siliconangle.com/2026/08/06/asset-intelligence-ai-agents-axonius-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7438.jpg",
-        "publishedAt": "2026-08-06T17:18:38Z",
-        "content": "Security teams have spent decades trying to answer a hard question: what\u2019s actually running in our environment? AI agents have made that question harder they carry identities, touch multiple systems \u2026 [+5038 chars]"
+        "title": "Menlo Security targets real-time AI agent security with MARS platform",
+        "description": "As AI agents gain access to enterprise systems and sensitive data, security teams need greater visibility into their actions. Real-time monitoring and policy enforcement are becoming essential as a part of prompt injection technology. With these challenges in\u2026",
+        "url": "https://siliconangle.com/2026/08/07/prompt-injection-technology-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Ramin-Farassat-chief-product-officer-of-Menlo-Security-Black-Hat-USA-2026.jpg",
+        "publishedAt": "2026-08-07T13:07:01Z",
+        "content": "As AI agents gain access to enterprise systems and sensitive data, security teams need greater visibility into their actions. Real-time monitoring and policy enforcement are becoming essential as a p\u2026 [+3684 chars]"
     },
     {
         "source": {
@@ -473,64 +187,38 @@
             "name": "SiliconANGLE News"
         },
         "author": "Thomas Godwin",
-        "title": "Cyber resilience emerges as a distinct investment category as downtime costs hit $19M per hour",
-        "description": "Cyber resilience is no longer considered a mere technical concern, but a board-level business imperative and a direct investment category. In terms of recovery speed, the organizations that treat it as such will bounce back faster when disruption hits. That e\u2026",
-        "url": "https://siliconangle.com/2026/08/06/cyber-resilience-emerges-downtime-hits-dollar19m-per-hour-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Christy-Wyatt.jpg",
-        "publishedAt": "2026-08-06T18:44:05Z",
-        "content": "Cyber resilience is no longer considered a mere technical concern, but a board-level business imperative and a direct investment category. In terms of recovery speed, the organizations that treat it \u2026 [+5478 chars]"
+        "title": "Fortinet targets network security platform convergence to address AI-era complexity",
+        "description": "In the rush to adopt AI, enterprise security architectures are diminishing, and the only appropriate response is a network security platform that incorporates networking and security into a single, consistently governed fabric. That\u2019s the vision Anthony James\u2026",
+        "url": "https://siliconangle.com/2026/08/07/network-security-platform-ai-governance-fortinet-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Anthony-James.jpg",
+        "publishedAt": "2026-08-07T16:41:42Z",
+        "content": "In the rush to adopt AI, enterprise security architectures are diminishing, and the only appropriate response is a network security platform that incorporates networking and security into a single, c\u2026 [+4928 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "Cloudflare shares jump 18% on revenue beat and raised full-year outlook",
-        "description": "Shares in Cloudflare Inc. were up more than 18% in late trading today after the content delivery network and security company beat second-quarter estimates and raised its full-year forecast. For the quarter that ended on June 30, Cloudflare reported adjusted \u2026",
-        "url": "https://siliconangle.com/2026/08/06/cloudflare-shares-jump-18-revenue-beat-raised-full-year-outlook/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/AdobeStock_391866021_Editorial_Use_Only.jpeg",
-        "publishedAt": "2026-08-06T22:32:57Z",
-        "content": "Shares in Cloudflare Inc. were up more than 18% in late trading today after the content delivery network and security company beat second-quarter estimates and raised its full-year forecast.\r\nFor the\u2026 [+5763 chars]"
+        "author": "Casey Erikson",
+        "title": "How to combat the new threats in open-source libraries",
+        "description": "The recent breach of GitHub Inc. that gave attackers access to around 4,000 of the platform\u2019s internal code repositories dramatizes the growing threats from malicious actors who bury malware in open-source software libraries. Supply chains are coveted targets\u2026",
+        "url": "https://siliconangle.com/2026/08/07/combat-new-threats-open-source-libraries/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/opensourcesecurity.png",
+        "publishedAt": "2026-08-07T13:00:23Z",
+        "content": "The recent breach of GitHub Inc. that gave attackers access to around 4,000 of the platforms internal code repositories dramatizes the growing threats from malicious actors who bury malware in open-s\u2026 [+5598 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Kelly Knight",
-        "title": "CISOs face a defining test as AI reshapes where enterprise risk decisions get made",
-        "description": "CISO AI risk management is emerging as the defining test of the AI era, pushing security leaders beyond blocking attacks and into the middle of enterprise decisions about how much risk a business is willing to accept. That tension is playing out this week as \u2026",
-        "url": "https://siliconangle.com/2026/08/06/ciso-ai-risk-management-drives-business-growth-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Keynote-Analysis-Clean.jpg",
-        "publishedAt": "2026-08-06T18:16:33Z",
-        "content": "CISO AI risk management is emerging as the defining test of the AI era, pushing security leaders beyond blocking attacks and into the middle of enterprise decisions about how much risk a business is \u2026 [+4363 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Thomas Godwin",
-        "title": "OPSWAT targets file regeneration over detection for critical infrastructure security",
-        "description": "Critical infrastructure security faces a novel threat of the sort that detection-based defenses were never designed to handle, and the critical personnel who run our power grids, water plants and financial systems can\u2019t afford to learn this the hard way. Benn\u2026",
-        "url": "https://siliconangle.com/2026/08/06/critical-infrastructure-security-file-regeneration-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Benny-Czarny.jpg",
-        "publishedAt": "2026-08-06T14:04:31Z",
-        "content": "Critical infrastructure security faces a novel threat of the sort that detection-based defenses were never designed to handle, and the critical personnel who run our power grids, water plants and fin\u2026 [+5338 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kelly Knight",
-        "title": "Agentic AI security tests enterprise defenses as scale outpaces strategy",
-        "description": "Cybersecurity leaders are confronting an inflection point as agentic AI security becomes the defining challenge of this year\u2019s threat landscape, with attackers and defenders racing to harness autonomous tools at unprecedented speed and scale. That urgency was\u2026",
-        "url": "https://siliconangle.com/2026/08/06/agentic-ai-security-requires-human-oversight-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Keynote-Analysis-Clean.jpg",
-        "publishedAt": "2026-08-06T19:32:10Z",
-        "content": "Cybersecurity leaders are confronting an inflection point as agentic AI security becomes the defining challenge of this year\u2019s threat landscape, with attackers and defenders racing to harness autonom\u2026 [+4147 chars]"
+        "author": "Ryan Stevens",
+        "title": "Post-quantum security deadlines force leaders to protect existing infrastructure",
+        "description": "The post-quantum security transition is emerging as one of the most pressing challenges facing enterprise and government infrastructure, as \u201charvest now, decrypt later\u201d attacks \u2014 in which adversaries steal encrypted data today to unlock once quantum computers\u2026",
+        "url": "https://siliconangle.com/2026/08/07/post-quantum-security-demands-crypto-agility-now-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7591.jpg",
+        "publishedAt": "2026-08-07T23:33:39Z",
+        "content": "The post-quantum security transition is emerging as one of the most pressing challenges facing enterprise and government infrastructure, as \u201charvest now, decrypt later\u201d attacks in which adversaries s\u2026 [+4397 chars]"
     },
     {
         "source": {
@@ -551,76 +239,76 @@
             "name": "SiliconANGLE News"
         },
         "author": "Ryan Stevens",
-        "title": "Delinea targets AI agent risks with real-time authorization",
-        "description": "As AI agents gain access to sensitive enterprise systems, AI agent security is becoming increasingly difficult to manage with traditional identity and privilege controls. The shift is driving demand for real-time authorization and stronger auditability withou\u2026",
-        "url": "https://siliconangle.com/2026/08/06/agent-security-blackhat/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Art-Gilliland-CEO-of-Delinea-Inc-Black-Hat-USA-2026.jpg",
-        "publishedAt": "2026-08-06T13:39:24Z",
-        "content": "As AI agents gain access to sensitive enterprise systems, AI agent security is becoming increasingly difficult to manage with traditional identity and privilege controls. The shift is driving demand \u2026 [+4906 chars]"
+        "title": "Shared context turns production data into faster risk response",
+        "description": "Security and engineering teams can no longer operate in silos as software delivery accelerates and adversaries move faster with AI, requiring shared context from production data so both sides can prioritize risk and respond without friction. At Black Hat USA \u2026",
+        "url": "https://siliconangle.com/2026/08/07/shared-context-unifies-security-engineering-teams-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7636.jpg",
+        "publishedAt": "2026-08-07T12:59:52Z",
+        "content": "Security and engineering teams can no longer operate in silos as software delivery accelerates and adversaries move faster with AI, requiring shared context from production data so both sides can pri\u2026 [+4707 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "Jeffrey Kampman",
-        "title": "Pre-modded 22GB RTX 2080 Ti cards surface on eBay for $500 as VRAM-hungry local AI fans chase down every spare FLOP \u2014 Hong Kong-based seller offers AI-friendly memory mod for a reasonable price",
-        "description": "Services have recently popped up that will double your RTX 2080 Ti's memory to 22GB, but if you don't have a card to spare, you can now get a pre-modded 22 GB 2080 Ti for $499 from eBay.",
-        "url": "https://www.tomshardware.com/pc-components/gpus/pre-modded-rtx-2080-ti-cards-with-22gb-of-vram-surface-on-ebay-for-usd500-hong-kong-based-seller-offers-ai-friendly-memory-mod-for-a-reasonable-price",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/kA4xuCUPuxHucUFgvwmwDG-2560-80.jpg",
-        "publishedAt": "2026-08-06T16:11:19Z",
-        "content": "The AI boom means that no matrix math FLOPS are disposable, and that means older Nvidia GPUs with Tensor Cores are getting a new lease on life. Services are popping up that will outfit your RTX 2080 \u2026 [+3470 chars]"
+        "author": "Thomas Godwin",
+        "title": "Cyber risk management redefined through AI-speed detection and zero-day remediation",
+        "description": "As many organizations struggle to survive by rebuilding their cyber risk management with expediency in mind, Frontier AI is turning newly discovered vulnerabilities into usable weapons within hours. According to Sumedh Thakar (pictured), president and chief e\u2026",
+        "url": "https://siliconangle.com/2026/08/07/cyber-risk-management-qualys-roc-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Sumedh-Thakar.jpg",
+        "publishedAt": "2026-08-07T23:21:57Z",
+        "content": "As many organizations struggle to survive by rebuilding their cyber risk management with expediency in mind, Frontier AI is turning newly discovered vulnerabilities into usable weapons within hours.\r\u2026 [+5426 chars]"
     },
     {
         "source": {
             "id": "wired",
             "name": "Wired"
         },
-        "author": "Maxwell Zeff",
-        "title": "Why Normal People Aren\u2019t Using AI Agents",
-        "description": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-        "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-        "urlToImage": "https://media.wired.com/photos/6a73b0755ac7830744b4402a/191:100/w_1280,c_limit/Model-Behavior-Why-Normal-People-Dont-Use-AI-Business.jpg",
-        "publishedAt": "2026-08-06T19:55:45Z",
-        "content": "Silicon Valley is already convinced that AI agents are the future. In the heart of the tech industry, people are designing payment systems for agents, using them to automate their jobs, and most rece\u2026 [+3635 chars]"
+        "author": "Caroline Haskins",
+        "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+        "description": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the \u201cstrange moment\u201d we\u2019re in.",
+        "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+        "urlToImage": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/191:100/w_1280,c_limit/080726-Guy-Running-Chatbot-By-Hand-Business.jpg",
+        "publishedAt": "2026-08-07T10:00:00Z",
+        "content": "What if, instead of typing the next silly question you have into Claude or ChatGPT, you asked a random guy instead?\r\nThats the idea behind ChatTJB. Its the creation of 32-year-old Tucker Bryant, a pu\u2026 [+3170 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Joab Jackson",
-        "title": "Meta wants to get inside your terminal with its new coding agent",
-        "description": "Muse Code showcases Muse Spark's fresh software engineering chops",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/06/meta-wants-to-get-inside-your-terminal-with-its-new-coding-agent/5283717",
-        "urlToImage": "https://image.theregister.com/5283763.jpg?imageId=5283763&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-06T01:05:46Z",
-        "content": "To demonstrate the capabilities of its next-generation Muse Spark model, Meta has released a terminal coding agent called Muse Code that it thinks can help developers to tidy up their software projec\u2026 [+4003 chars]"
+        "author": "Connor Jones",
+        "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
+        "description": "Timer interrupts reopen branch predictor poisoning window, with a working Zen 2 exploit to prove it",
+        "url": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
+        "urlToImage": "https://image.theregister.com/247469.jpg?imageId=247469&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-07T14:15:00Z",
+        "content": "Two MIT researchers will present a new speculative execution attack at DEF CON 34 that uses precisely timed interrupts to bypass defenses against Spectre v2.\r\nDani\u00ebl Trujillo and Mengjia Yan of MIT's\u2026 [+5186 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Ivan Mehta",
-        "title": "Omilia raises $67M to scale its customer support platform | TechCrunch",
-        "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-        "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Self-Learning-Agents-Vertical.jpeg?resize=1200,789",
-        "publishedAt": "2026-08-06T12:00:00Z",
-        "content": "The customer support industry has seen a massive influx of startups like Sierra, Decagon and Parloa trying to infuse AI into automating customer calls, chat and messages so companies can handle more \u2026 [+2961 chars]"
+        "author": "Lorenzo Franceschi-bicchierai",
+        "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say | TechCrunch",
+        "description": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+        "publishedAt": "2026-08-07T14:29:33Z",
+        "content": "Kimi K3, the latest AI model made by Chinese company Moonshot, escaped an environment set up to test its cyber capabilities, researchers said in a blog post published on Friday.\u00a0\r\nThe news shows once\u2026 [+1400 chars]"
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Ana Maria Constantin",
-        "title": "Google Cloud is booming by selling the AI chips its own researchers can\u2019t get",
-        "description": "Google Cloud grew 82% by renting TPUs to labs like Anthropic and Mirendil, even as its own researchers say they can't get compute, and keep leaving.",
-        "url": "https://thenextweb.com/news/google-cloud-tpu-compute-tension-researchers-anthropic",
-        "urlToImage": "https://media.thenextweb.com/2026/04/google-cloud-750m-partner-fund-agentic-ai.jpg",
-        "publishedAt": "2026-08-06T16:52:22Z",
-        "content": "Google is having the best and worst month of its AI life at once. Its cloud arm just grew 82% in a quarter, and the researchers who made the company an AI pioneer keep leaving. The two facts are conn\u2026 [+2699 chars]"
+        "author": "Fernanda Gonz\u00e1lez",
+        "title": "Scientists Used AI to Create 16 New Viruses",
+        "description": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+        "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+        "urlToImage": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg",
+        "publishedAt": "2026-08-07T14:13:57Z",
+        "content": "For the first time, an artificial intelligence system has created a series of previously unknown viruses capable of infecting and eliminating certain types of bacteria. This breakthrough opens up new\u2026 [+4481 chars]"
     }
 ]

@@ -1,80 +1,158 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Joel Khalili",
+        "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+        "description": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+        "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+        "urlToImage": "https://media.wired.com/photos/6a72492d52a9268da4f15181/191:100/w_1280,c_limit/AI-Barons-Business.jpg",
+        "publishedAt": "2026-08-09T09:30:00Z",
+        "content": "David Silver is a billionaire, sort of. His stake in Ineffable Intelligencethe artificial intelligence lab he foundedis worth an ungodly fortune. But he stands to collect none of that money himself. \u2026 [+3697 chars]"
+    },
+    {
+        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Alina Maria Stan",
-        "title": "China\u2019s new AI bottleneck isn\u2019t chips. It\u2019s running out of Chinese-language training data.",
-        "description": "China\u2019s AI race has a new constraint, and it is not chips. The country is running out of high-quality Chinese-language training data. While US export controls on advanced semiconductors have dominated the debate over China\u2019s AI capabilities, Chinese experts a\u2026",
-        "url": "https://thenextweb.com/news/china-chinese-language-ai-training-data-shortage",
-        "urlToImage": "https://media.thenextweb.com/2026/08/china-chinese-language-ai-training-data-shortage.jpg",
-        "publishedAt": "2026-08-08T11:38:41Z",
-        "content": "TL;DR\r\nChina faces a critical AI data shortage. Chinese is just 1.3% of web content vs 49% English. Beijing plans national datasets by 2028. WeChat and Douyin dont share data externally. Publishers a\u2026 [+2397 chars]"
+        "author": "Dan Toma",
+        "title": "You can\u2019t regulate your way to AI sovereignty",
+        "description": "For years, critics of Europe\u2019s AI strategy have made the same argument: while America builds artificial intelligence, Europe writes laws for it. The EU AI Act became the clearest expression of that divide \u2013 a landmark attempt to govern AI that many saw as fur\u2026",
+        "url": "https://thenextweb.com/news/you-cant-regulate-your-way-to-ai-sovereignty",
+        "urlToImage": "https://media.thenextweb.com/2026/05/GPU.jpg",
+        "publishedAt": "2026-08-09T17:00:30Z",
+        "content": "For years, critics of Europes AI strategy have made the same argument: while America builds artificial intelligence, Europe writes laws for it.\r\nThe EU AI Act became the clearest expression of that d\u2026 [+6336 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Technology Newswire",
+        "title": "Moburst reveals AI-powered mobile growth playbook following record campaign performance milestones",
+        "description": "NEW YORK & TEL AVIV, August 10, 2026 Moburst, a global mobile App marketing agency specializing in creative strategy, performance marketing, and data science, has published its integrated framework for mobile application growth in the AI era. The announcement\u2026",
+        "url": "https://thenextweb.com/news/moburst-ai-powered-mobile-growth-playbook",
+        "urlToImage": "https://media.thenextweb.com/2026/08/moburst-ai-powered-mobile-growth-playbook.jpg",
+        "publishedAt": "2026-08-10T07:52:58Z",
+        "content": "NEW YORK &amp; TEL AVIV, August 10, 2026\r\nMoburst, a global mobile App marketing agency specializing in creative strategy, performance marketing, and data science, has published its integrated framew\u2026 [+3310 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Justin Caffier",
+        "title": "Trump\u2019s Social Media Team Craves Your Unwilling Participation in Its Weird Fetish",
+        "description": "MAGA's clearly getting off on trying to infuse Trump into everything you love.",
+        "url": "https://gizmodo.com/trumps-social-media-team-craves-your-unwilling-participation-in-its-weird-fetish-2000791555",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/kidman-maga-rick-and-morty-ghibli-south-park-1200x675.jpg",
+        "publishedAt": "2026-08-09T12:00:36Z",
+        "content": "Recently, the official White House X account continued its now-familiar pattern of appropriating someone elses art without permission, posting anAI-slop remix of the Rick and Morty title sequence. Us\u2026 [+15647 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "OpenAI reveals upcoming Astra model may possess \u2018critical\u2019 hacking capabilities",
-        "description": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenAI revealed in a Sunday blog post that the LLM had solved 10\u2026",
-        "url": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/OpenAI.png",
-        "publishedAt": "2026-08-08T00:58:53Z",
-        "content": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk.\r\nThe algorithm, which is known as Astra, was first detailed last week. Ope\u2026 [+4233 chars]"
+        "author": "Jason English",
+        "title": "Finding big money for AI and a smaller world for security at Black Hat USA 2026",
+        "description": "Las Vegas was hotter than hell last week, but not as hot as the market for artificial intelligence-enabled security at Black Hat USA 2026. A bandwagon of million-dollar booths for overfunded agentic security startups arose like mirages from the desert. Fortun\u2026",
+        "url": "https://siliconangle.com/2026/08/09/finding-big-money-ai-smaller-world-security-black-hat-usa-2026/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/blackhat2026jasonenglish.png",
+        "publishedAt": "2026-08-09T21:16:01Z",
+        "content": "Las Vegas was hotter than hell last week, but not as hot as the market for artificial intelligence-enabled security at Black Hat USA 2026. A bandwagon of million-dollar booths for overfunded agentic \u2026 [+15258 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "SiliconANGLE News"
         },
-        "author": "Tyler Lacoma",
-        "title": "Best Home Security Cameras of 2026: Find Your New Cam",
-        "description": "I\u2019ve tested security cameras from Arlo, Nest, Ring, Blink and many more. Here\u2019s what I liked the best.",
-        "url": "https://www.cnet.com/home/security/copy-of-best-home-security-cameras-of-2026-find-your-new-cam/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/c7969a12-64de-45d0-a58c-78ba010ff5fc.jpg",
-        "publishedAt": "2026-08-08T10:00:00Z",
-        "content": "It\u2019s a great time to buy a home security camera. The range of available devices has never been better, from high-end models with 4K resolution and powerful AI features to capable cams under $30 with \u2026 [+41775 chars]"
+        "author": "Mike Wheatley",
+        "title": "Amazon is building a new AI data center in Texas that could become the country\u2019s largest source of carbon emissions",
+        "description": "A data center facility currently being constructed by Amazon.com Inc. to host workloads for Amazon Web Services is set to become the single-largest source of pollution in the entire U.S., according to a report by the New York Times Saturday. The company, whic\u2026",
+        "url": "https://siliconangle.com/2026/08/09/amazon-building-new-ai-data-center-texas-become-countrys-largest-source-carbon-emissions/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-10-06-42-54.png",
+        "publishedAt": "2026-08-09T23:43:43Z",
+        "content": "A data center facility currently being constructed by Amazon.com Inc. to host workloads for Amazon Web Services is set to become the single-largest source of pollution in the entire U.S., according t\u2026 [+5503 chars]"
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Justin Pot",
-        "title": "How to Disable Gemini in Gmail and Google Docs",
-        "description": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don\u2019t want Gemini\u2019s help in writing documents and emails, here\u2019s how to turn that stuff off.",
-        "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-        "urlToImage": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/191:100/w_1280,c_limit/GoolgeNoAI.jpg",
-        "publishedAt": "2026-08-08T10:00:00Z",
-        "content": "Have you noticed how desperate tech companies are to get you to use their artificial intelligence features, even if you dont want to use them? They're adding buttons to user interfaces and using pop-\u2026 [+1898 chars]"
+        "author": "Ryan Stevens",
+        "title": "HPE, EigenQ push practical path to post-quantum security",
+        "description": "As quantum computing advances\u00a0and regulatory timelines tighten, organizations are under growing pressure to prepare their infrastructure for post-quantum cryptography. Rather than replacing entire technology estates, enterprises are looking to retrofit existi\u2026",
+        "url": "https://siliconangle.com/2026/08/09/quantum-security-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7684.jpg",
+        "publishedAt": "2026-08-09T22:53:41Z",
+        "content": "As quantum computing advances\u00a0and regulatory timelines tighten, organizations are under growing pressure to prepare their infrastructure for post-quantum cryptography. Rather than replacing entire te\u2026 [+4420 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Thomas Godwin",
+        "title": "Elastic targets AI-powered SOC with Alert Zero to eliminate alert fatigue",
+        "description": "Security operations centers have spent years stacking tools to solve alert volume issues that tools simply can\u2019t fix, and Elastic is now making the case that AI-powered SOC is the only viable path forward. The problem is structural, according to Mike Nichols \u2026",
+        "url": "https://siliconangle.com/2026/08/09/alert-zero-ai-powered-soc-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Mike-Nichols.jpg",
+        "publishedAt": "2026-08-09T22:42:34Z",
+        "content": "Security operations centers have spent years stacking tools to solve alert volume issues that tools simply can\u2019t fix, and Elastic is now making the case that AI-powered SOC is the only viable path fo\u2026 [+4763 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Thomas Godwin",
+        "title": "Elastic targets AI-powered SOC with Alert Zero to eliminate alert fatigue",
+        "description": "Security operations centers have spent years stacking tools to solve alert volume issues that tools simply can\u2019t fix, and Elastic is now making the case that AI-powered SOC is the only viable path forward. The problem is structural, according to Mike Nichols \u2026",
+        "url": "https://siliconangle.com/2026/08/09/alert-zero-ai-powered-soc/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Mike-Nichols.jpg",
+        "publishedAt": "2026-08-09T22:42:34Z",
+        "content": "Security operations centers have spent years stacking tools to solve alert volume issues that tools simply can\u2019t fix, and Elastic is now making the case that AI-powered SOC is the only viable path fo\u2026 [+4763 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Veeam pushes cyber resilience as AI raises data risks",
+        "description": "As AI agents expand the enterprise attack surface, cybersecurity teams are putting greater emphasis on an AI resilience strategy built around the ability to recover quickly when prevention fails. That shift is also driving organizations to rethink data govern\u2026",
+        "url": "https://siliconangle.com/2026/08/09/ai-resilience-strategy-blackhat/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7737.jpg",
+        "publishedAt": "2026-08-10T00:28:42Z",
+        "content": "As AI agents expand the enterprise attack surface, cybersecurity teams are putting greater emphasis on an AI resilience strategy built around the ability to recover quickly when prevention fails. Tha\u2026 [+5340 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Thomas Claburn",
-        "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
-        "description": "Researchers scour social media to measure developer concerns about AI coding tools",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
-        "urlToImage": "https://image.theregister.com/5281583.jpg?imageId=5281583&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-08T13:00:00Z",
-        "content": "Despite the popularity of Claude Code, Cursor, GitHub Copilot, and OpenAI Codex, developers have plenty of complaints about AI coding tools.\r\nSo researchers affiliated with York University and the Un\u2026 [+6676 chars]"
+        "author": "Brandon Vigliarolo",
+        "title": "Advertisers are trying to influence AI bots with secret ads",
+        "description": "PLUS: Hiveminds are emerging to hack the planet, and open-weight models are the new new red scare.",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
+        "urlToImage": "https://image.theregister.com/251606.jpg?imageId=251606&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-10T03:00:00Z",
+        "content": "KETTLE\u00a0OpenAI's invasion of Hugging Face keeps getting worse somehow, Chinese open-weight models are nigh on to reaching parity with their closed-off American cousins,\u00a0 and AI crawlers are getting th\u2026 [+28705 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Dave Vellante",
-        "title": "Forecasting the AI bubble: When scarcity turns to surplus",
-        "description": "AI can be technologically transformative and still produce a capital bubble. Those two ideas are not in conflict. The bubble bursting does not require AI to fail. It only requires deployable supply and capital commitments to grow faster than monetizable deman\u2026",
-        "url": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Bubble-AI.png",
-        "publishedAt": "2026-08-08T15:51:22Z",
-        "content": "AI can be technologically transformative and still produce a capital bubble. Those two ideas are not in conflict.\r\nThe bubble bursting does not require AI to fail. It only requires deployable supply \u2026 [+23304 chars]"
+        "author": "Kirsten Korosec",
+        "title": "TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire | TechCrunch",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas.jpg?resize=1200,676",
+        "publishedAt": "2026-08-09T16:10:56Z",
+        "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free just click TechC\u2026 [+9131 chars]"
     }
 ]

@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Ece Yildirim",
-        "title": "Microsoft Ups Investment in Polluting AI, but Cuts Down Carbon Removal by 80%",
-        "description": "Meanwhile, AI accounted for a 25% increase in emissions last year, a new report says.",
-        "url": "https://gizmodo.com/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80-2000798385",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2275136246-1200x675.jpg",
-        "publishedAt": "2026-08-13T19:45:06Z",
-        "content": "Microsoft\u2019s carbon footprint is swelling.\r\nA BloombergNEF report from Thursday found that the tech giant bought about 80% fewer carbon removal credits so far this year than it did in the same time pe\u2026 [+3366 chars]"
+        "author": "Robert Hart",
+        "title": "Apple trained its own AI model for China with help from Alibaba",
+        "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-08-14T09:21:17Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]"
     },
     {
         "source": {
@@ -24,58 +24,6 @@
         "urlToImage": "https://media.thenextweb.com/2026/08/Weather-drones.jpg",
         "publishedAt": "2026-08-14T08:27:49Z",
         "content": "The artificial-intelligence weather boom has a dirty secret. For all the talk of models that see storms days ahead, an AI forecaster is only as good as the observations that feed it, and lately those\u2026 [+3652 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Bruce Gil",
-        "title": "Twitch Adds Setting Letting Users Opt Out of AI Training Amid User Backlash",
-        "description": "The new setting is enabled by default, meaning users have to opt out if they don\u2019t want their content used to train Amazon\u2019s AI.",
-        "url": "https://gizmodo.com/twitch-adds-setting-letting-users-opt-out-of-ai-training-amid-user-backlash-2000798452",
-        "urlToImage": "https://gizmodo.com/app/uploads/2024/01/52bd8d2c4b22befedb4ccfc1b9075448.jpg",
-        "publishedAt": "2026-08-13T20:30:43Z",
-        "content": "AI companies have already scraped much of the public internet to train their models. Now Amazon is turning to Twitch streamers.\r\nTwitch announced Wednesday that it is adding a new account setting tha\u2026 [+2753 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana Maria Constantin",
-        "title": "Twitch will train Amazon\u2019s AI on your streams unless you find the setting",
-        "description": "Twitch has added a setting letting streamers stop Amazon using their streams, clips and chat to train generative AI, buried in security settings and off by default. Chief product officer Mike Minton explained the default plainly, saying that if it were opt-in\u2026",
-        "url": "https://thenextweb.com/news/twitch-amazon-ai-training-opt-out-default",
-        "urlToImage": "https://media.thenextweb.com/2026/08/twitch-amazon-ai-training-opt-out-default.jpg",
-        "publishedAt": "2026-08-13T17:35:39Z",
-        "content": "Twitch has added a setting letting streamers stop Amazon using their streams, clips and chat to train generative AI, buried in security settings and off by default. Chief product officer Mike Minton \u2026 [+2242 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana Maria Constantin",
-        "title": "Mark Zuckerberg\u2019s \u2018personal superintelligence\u2019 pitch lands as a Rorschach test",
-        "description": "In a roughly 6,500-word essay published a couple of weeks ago, Meta\u2019s chief executive, Mark Zuckerberg, laid out a vision of \u201cpersonal superintelligence\u201d, an artificial intelligence built for everyone rather than a centralised system that automates people out\u2026",
-        "url": "https://thenextweb.com/news/zuckerberg-personal-superintelligence-essay",
-        "urlToImage": "https://media.thenextweb.com/2026/07/meta-zuckerberg-ai-cloud-business-makes-sense.jpg",
-        "publishedAt": "2026-08-13T10:12:09Z",
-        "content": "In a roughly 6,500-word essay published a couple of weeks ago, Metas chief executive, Mark Zuckerberg, laid out a vision of personal superintelligence, an artificial intelligence built for everyone r\u2026 [+3461 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana Maria Constantin",
-        "title": "Taiwan says AI agents helped hack its government in four days",
-        "description": "Taiwan says it spent part of last month fending off a hacking campaign that leaned on artificial intelligence to do the heavy lifting. The island\u2019s Ministry of Digital Affairs, through its National Institute of Cyber Security, disclosed that government agenci\u2026",
-        "url": "https://thenextweb.com/news/taiwan-ai-driven-hacking-campaign-open-claw",
-        "urlToImage": "https://media.thenextweb.com/2026/05/Taiwan-flag.jpg",
-        "publishedAt": "2026-08-13T08:46:50Z",
-        "content": "Taiwan says it spent part of last month fending off a hacking campaign that leaned on artificial intelligence to do the heavy lifting.\r\nThe islands Ministry of Digital Affairs, through its National I\u2026 [+3697 chars]"
     },
     {
         "source": {
@@ -95,91 +43,65 @@
             "id": null,
             "name": "CNET"
         },
-        "author": "Tyler Lacoma",
-        "title": "New Twitch Feature Uses Channel Content to Train AI Without Asking Permission",
-        "description": "Twitch channels are quietly being used to train Amazon\u2019s AI models. Here\u2019s how creators can opt out.",
-        "url": "https://www.cnet.com/tech/services-and-software/new-twitch-feature-uses-channel-content-to-train-ai-without-asking-permission/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2278204188.jpg",
-        "publishedAt": "2026-08-13T09:59:52Z",
-        "content": "On Wednesday, Twitch confirmed reports that the streaming channel was using channel content to train Amazon\u2019s AI models. While we aren\u2019t sure how long the training feature has been active, Twitch has\u2026 [+3581 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Alina Maria Stan",
-        "title": "An AI-written article needs no label. Your proofread email gets one",
-        "description": "Start with what the mark actually is, because it is not a stamp on the page. When a model writes, it picks each word from a set of reasonable options. A watermark quietly splits those options into two groups using a secret key, then nudges the model towards o\u2026",
-        "url": "https://thenextweb.com/news/claude-watermark-eu-ai-act-exemptions-detection-api",
-        "urlToImage": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.jpg",
-        "publishedAt": "2026-08-13T14:40:21Z",
-        "content": "Start with what the mark actually is, because it is not a stamp on the page. When a model writes, it picks each word from a set of reasonable options.\r\nA watermark quietly splits those options into t\u2026 [+6633 chars]"
+        "author": "Corinne Reichert",
+        "title": "The Incredibles 3 Confirmed as Disney Kicks Off D23 Entertainment Showcase",
+        "description": "Violet, Dash and Jack-Jack will be the stars of the third Incredibles movie.",
+        "url": "https://www.cnet.com/culture/entertainment/the-incredibles-3-confirmed-as-disney-kicks-off-d23-entertainment-showcase/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/image_e6c9e6.png",
+        "publishedAt": "2026-08-15T03:57:11Z",
+        "content": "The superhero Parr family is coming back, with The Incredibles 3 confirmed during the Disney Entertainment Showcase on Friday night, during the biennial fan convention D23 in Anaheim.\r\nPixar\u2019s Pete D\u2026 [+1215 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "MIT Technology Review"
+            "name": "Gizmodo.com"
         },
-        "author": "Jen Swetzoff, Keeley McNamara",
-        "title": "How kids feel about AI, in their own words",
-        "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s\u2026",
-        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-        "publishedAt": "2026-08-13T09:00:00Z",
-        "content": "When I was growing up, I always liked building things: Lego builds, Minecraft worlds, and then video games in Scratch. Id make a little game, post it for other kids to play, read the comments, and ma\u2026 [+2166 chars]"
+        "author": "Tom McKay",
+        "title": "Google Opens the Gates of AI Slop Hell",
+        "description": "A new Gemini update will let AI slop artists skip cropping out a visible watermark.",
+        "url": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Google-AI-Slop-Hell-1200x675.jpg",
+        "publishedAt": "2026-08-14T20:51:44Z",
+        "content": "Google Gemini has a new feature: Letting users generate AI slop without visible watermarks to identify it.\r\nThe official Twitter account for the LLM announced on Friday (news dump, everyone!) that us\u2026 [+2548 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "CNET"
         },
-        "author": "Maria Deutscher",
-        "title": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities",
-        "description": "SpaceXAI today released Grok 4.6, a large language model that it says can outperform Anthropic PBC\u2019s Claude Fable 5 in some areas. SpaceXAI was known as xAI until last month. The Elon Musk-founded artificial intelligence provider rebranded in connection with \u2026",
-        "url": "https://siliconangle.com/2026/08/12/spacexai-releases-flagship-grok-4-6-model-advanced-reasoning-capabilities/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Unsplash-1.jpg",
-        "publishedAt": "2026-08-13T01:27:09Z",
-        "content": "SpaceXAI today released Grok 4.6, a large language model that it says can outperform Anthropic PBCs Claude Fable 5 in some areas.\r\nSpaceXAI was known as xAI until last month. The Elon Musk-founded ar\u2026 [+4051 chars]"
+        "author": "Corinne Reichert",
+        "title": "Frozen 3 Trailer Reveals Anna\u2019s Royal Wedding and A New Icy Magic",
+        "description": "Love is in the air -- including for Olaf.",
+        "url": "https://www.cnet.com/culture/entertainment/frozen-3-trailer-reveals-annas-royal-wedding-and-a-new-icy-magic/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/112082.jpeg",
+        "publishedAt": "2026-08-15T05:42:26Z",
+        "content": "Anna and Elsa appear to be heading through a portal into a world of icy crystal butterflies next year, according to the first trailer for the third installment in the juggernaut Frozen franchise.\u00a0\r\nU\u2026 [+1997 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "GeekWire"
         },
-        "author": "Duncan Riley",
-        "title": "Nozomi partners with Sophos to put operational technology data in IT consoles",
-        "description": "Nozomi Networks Inc. and Sophos Ltd. today announced a partnership that pushes operational technology telemetry from Nozomi\u2019s Vantage platform into Sophos Fusion. Sophos launched the artificial intelligence-native defense system in July. It is one of the firs\u2026",
-        "url": "https://siliconangle.com/2026/08/13/nozomi-partners-sophos-put-operational-technology-data-consoles/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/nozomisophos.png",
-        "publishedAt": "2026-08-13T23:46:03Z",
-        "content": "Nozomi Networks Inc. and Sophos Ltd. today announced a partnership that pushes operational technology telemetry from Nozomi\u2019s Vantage platform into Sophos Fusion, the artificial intelligence-native d\u2026 [+4024 chars]"
+        "author": "Thomas Wilde",
+        "title": "Amazon\u2019s Twitch is using livestreams to train its generative AI, and nobody\u2019s happy with it",
+        "description": "Amazon indicated for the first time this week that any video broadcast via its livestreaming platform Twitch could be used to train generative AI, unless users take steps to avoid it, which has caused a significant backlash from both audiences and content cre\u2026",
+        "url": "https://www.geekwire.com/2026/amazons-twitch-is-using-livestreams-to-train-its-generative-ai-and-nobodys-happy-with-it/",
+        "urlToImage": "https://cdn.geekwire.com/wp-content/uploads/2016/09/20160903_PAX_West_147.jpg",
+        "publishedAt": "2026-08-14T22:19:39Z",
+        "content": "(GeekWire File Photo)\r\nAmazon indicated for the first time this week that any video broadcast via its livestreaming platform Twitch could be used to train generative AI, unless users take steps to av\u2026 [+4467 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Theregister.com"
         },
-        "author": "Duncan Riley",
-        "title": "Regal ties its voice AI agents into Five9\u2019s contact center platform",
-        "description": "Enterprise voice artificial intelligence company Regal Voice Inc. today unveiled an integration with Five9 Inc. that makes its autonomous AI voice agents available to customers of the contact center software provider. Five9 lists the agents in its AI Agent Co\u2026",
-        "url": "https://siliconangle.com/2026/08/13/regal-ties-voice-ai-agents-five9s-contact-center-platform/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/regal.png",
-        "publishedAt": "2026-08-13T14:00:45Z",
-        "content": "Enterprise voice artificial intelligence company Regal Voice Inc. today unveiled an integration with Five9 Inc. that makes its autonomous AI voice agents available to customers of the contact center \u2026 [+3523 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Mindgard raises $30M to handle security for AI models and applications",
-        "description": "Mindgard Ltd., a leader in artificial intelligence cybersecurity, announced today that it raised $30 million in early funding to scale its product in response to significant demand across the industry, given an increase in high-impact vulnerabilities. Album V\u2026",
-        "url": "https://siliconangle.com/2026/08/13/mindgard-raises-30m-handle-security-ai-models-applications/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/domainsecurity.png",
-        "publishedAt": "2026-08-13T15:30:02Z",
-        "content": "Mindgard Ltd., a leader in artificial intelligence cybersecurity, announced today that it raised $30 million in early funding to scale up its product in response to significant demand across the indu\u2026 [+3927 chars]"
+        "author": "Brandon Vigliarolo",
+        "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+        "description": "Kyiv wants tighter controls to keep foreign silicon out of Moscow's weapons",
+        "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
+        "urlToImage": "https://image.theregister.com/5287988.jpg?imageId=5287988&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-14T16:52:51Z",
+        "content": "Sanctions and Nvidias exit from Russia in 2022 havent stopped its Jetson Orin hardware from turning up in Russian weaponry, according to Ukrainian military intelligence.\r\nThe Defense Ministrys Intell\u2026 [+3037 chars]"
     },
     {
         "source": {
@@ -187,38 +109,51 @@
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
-        "title": "Google launches Gemini 3.7 Flash for coding, AI agent projects",
-        "description": "Google LLC today launched its most capable entry-level artificial intelligence model yet. Gemini 3.7 Flash is rolling out three weeks after its predecessor. Despite the short release cycle, Google engineers managed to implement significant output quality impr\u2026",
-        "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Gemini.png",
-        "publishedAt": "2026-08-13T23:00:35Z",
-        "content": "Google LLC today launched its most capable entry-level artificial intelligence model yet.\r\nGemini 3.7 Flash is rolling out three weeks after its predecessor. Despite the short release cycle, Google e\u2026 [+4207 chars]"
+        "title": "Anthropic details unreleased Model 2, new alignment concerns in latest AI risk report",
+        "description": "Anthropic PBC today revealed that it has developed an artificial intelligence model more capable than Claude Mythos 5. The company detailed the algorithm in the latest edition of its AI alignment report. The document, which is published every three to six mon\u2026",
+        "url": "https://siliconangle.com/2026/08/14/anthropic-details-unreleased-model-2-new-alignment-concerns-latest-ai-risk-report/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Claude2_Blog_V1-1.png",
+        "publishedAt": "2026-08-14T23:31:54Z",
+        "content": "Anthropic PBC today revealed that it has developed an artificial intelligence model more capable than Claude Mythos 5.\r\nThe company detailed the algorithm in the latest edition of its AI alignment re\u2026 [+4221 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Kyt Dotson",
-        "title": "Writer launches major agentic AI improvements with Palmyra X6 flagship model",
-        "description": "Generative artificial intelligence startup Writer Inc. today announced the release of its next-generation flagship model, Palmyra X6, designed to deliver frontier-level performance for marketing and revenue teams while keeping costs in check. The company said\u2026",
-        "url": "https://siliconangle.com/2026/08/13/writer-launches-major-agentic-ai-improvements-palmyra-x6-flagship-model/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/Designer-9.jpeg",
-        "publishedAt": "2026-08-13T13:00:51Z",
-        "content": "Generative artificial intelligence startup Writer Inc. today announced the release of its next-generation flagship model, Palmyra X6, designed to deliver frontier-level performance for marketing and \u2026 [+4386 chars]"
+        "author": "Maria Deutscher",
+        "title": "Z.ai debuts GLM-5.3 with long-horizon coding, cybersecurity upgrades",
+        "description": "Chinese artificial intelligence developer Z.ai Co. today debuted GLM-5.3, an open-source large language model that set records across several popular benchmarks. The LLM is based on an algorithm called GLM-5.2 that the company released in mid-July. The latter\u2026",
+        "url": "https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/AI.png",
+        "publishedAt": "2026-08-14T20:35:28Z",
+        "content": "Chinese artificial intelligence developer Z.ai Co. today debuted GLM-5.3, an open-source large language model that set records across several popular benchmarks.\r\nThe LLM is based on an algorithm cal\u2026 [+4194 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Duncan Riley",
-        "title": "Criminals have moved AI out of testing and into daily use, Flashpoint finds",
-        "description": "A new report from threat intelligence company Flashpoint has found that criminals now use artificial intelligence in day-to-day operations, well past the experimental stage. The 2026 Global Threat Intelligence Report: Midyear Edition covers the first six mont\u2026",
-        "url": "https://siliconangle.com/2026/08/13/criminals-moved-ai-testing-daily-use-flashpoint-finds/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/criminalsusingAI.png",
-        "publishedAt": "2026-08-13T13:35:28Z",
-        "content": "A new report from threat intelligence company Flashpoint has found that criminals now use artificial intelligence in day-to-day operations, well past the experimental stage.\r\nThe 2026 Global Threat I\u2026 [+4702 chars]"
+        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+        "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing \u2014 demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text",
+        "description": "A self-represented plaintiff in a Connecticut court added a hidden AI prompt injection attack in their filing in a failed attempt to influence a decision. The court bars them from submitting documents electronically and instead must print them and hand to the\u2026",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/plaintiff-busted-trying-to-use-ai-prompt-injection-to-win-court-case-hides-text-instruction-in-filing-demands-ai-model-reviewing-the-text-should-side-with-him-rumbled-because-of-strange-white-spaces-in-text",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/7kh2DN38axXggaLAdFogKm-1920-80.png",
+        "publishedAt": "2026-08-14T12:23:35Z",
+        "content": "An individual named Matthew Elliot inserted AI prompt injections in two of their filings for a case they filed against the New York Bariatric Group. According to 404 Media, Elliot added white text us\u2026 [+5068 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+        "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims \u2014 presence in S-71 'Monochrome' weapon may indicate use of AI tech",
+        "description": "Ukraine intelligence claims that Russia's latest S-71 'Monochrome' cruise missiles use Nvidia's Jetson Orin NX modules with AI capabilities, allegedly for terminal guidance.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/cAinMAs75GFRVyKz754qoS-1173-80.jpg",
+        "publishedAt": "2026-08-14T10:30:00Z",
+        "content": "Russia's latest S-71 'Monochrome' cruise missiles use Nvidia's Jetson Orin modules with artificial intelligence capabilities, the Main Directorate of Intelligence of the Ministry of Defense of Ukrain\u2026 [+3655 chars]"
     },
     {
         "source": {
@@ -236,41 +171,41 @@
     {
         "source": {
             "id": null,
-            "name": "GeekWire"
+            "name": "SiliconANGLE News"
         },
-        "author": "Todd Bishop",
-        "title": "Farewell, Mico: Microsoft\u2019s cute little AI blob is going the way of Bob",
-        "description": "Mico, the animated character Microsoft introduced last October to accompany Copilot's voice mode, is being retired as a core feature as part of the Copilot app merger. It joins Bob, Clippy and Cortana on the long list of Microsoft characters that didn't last.\u2026",
-        "url": "https://www.geekwire.com/2026/farewell-mico-microsofts-cute-little-ai-blob-is-going-the-way-of-bob/",
-        "urlToImage": "https://cdn.geekwire.com/wp-content/uploads/2026/08/Mico-1-1260x709.png",
-        "publishedAt": "2026-08-13T15:28:33Z",
-        "content": "Microsoft introduced Mico last October as your AI companion. Its now exiting Copilots core voice experience. (Microsoft Image)\r\nMicrosoft has spent decades putting characters into its software and th\u2026 [+2520 chars]"
+        "author": "Sam Chehab",
+        "title": "Weak API controls are one of the biggest threats in the agentic AI era",
+        "description": "Artificial intelligence agents are already running inside your enterprise workflows, whether you know it or not. International Data Corp. projects full agentic AI deployment across the enterprise by 2027. Gartner Inc. estimates 40% of enterprise applications \u2026",
+        "url": "https://siliconangle.com/2026/08/14/weak-api-controls-one-biggest-threats-agentic-ai-era/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/api-g1b1342faf_1280.jpg",
+        "publishedAt": "2026-08-14T14:00:26Z",
+        "content": "Artificial intelligence agents are already running inside your enterprise workflows, whether you know it or not.\r\nInternational Data Corp. projects full agentic AI deployment across the enterprise by\u2026 [+7393 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Databricks raises another $5B after annualized revenue tops $7B",
-        "description": "Databricks Inc. today announced that it has raised $5 billion in funding at a $190 billion valuation.\u00a0 The round was led by Coatue, Blackstone, MGX, T. Rowe Price and Sixth Street Growth. The funds were joined by more than a half dozen other backers, most of \u2026",
-        "url": "https://siliconangle.com/2026/08/13/databricks-raises-another-5b-annualized-revenue-tops-7b/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Databricks-800x442.png",
-        "publishedAt": "2026-08-13T20:43:23Z",
-        "content": "Databricks Inc. today announced that it has raised $5 billion in funding at a $190 billion valuation.\u00a0\r\nThe round was led by Coatue, Blackstone, MGX, T. Rowe Price and Sixth Street Growth. The funds \u2026 [+4003 chars]"
+        "author": "Robert Hof",
+        "title": "The AI party keeps roaring: Why it won\u2019t end anytime soon",
+        "description": "Yes, there\u2019s an artificial intelligence bubble, no denying that anymore \u2014 so the question becomes, \u201cWill it burst, and when?\u201d You\u2019d be forgiven for thinking it could happen soon, given the continuing, seemingly never-ending funding of and spending by AI model\u2026",
+        "url": "https://siliconangle.com/2026/08/14/ai-party-keeps-roaring-wont-end-anytime-soon/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/AI-Party-Cartoon.png",
+        "publishedAt": "2026-08-14T13:45:48Z",
+        "content": "Yes, there\u2019s an artificial intelligence bubble, no denying that anymore \u2014 so the question becomes, \u201cWill it burst, and when?\u201d\r\nYou\u2019d be forgiven for thinking it could happen soon, given the continuin\u2026 [+9548 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "GeekWire"
+            "name": "SiliconANGLE News"
         },
-        "author": "Todd Bishop",
-        "title": "Microsoft starts merging its Copilot consumer and business apps in advance of \u2018Super App\u2019 rollout",
-        "description": "Microsoft is combining its consumer and business Copilot apps into a single app, in a gradual transition starting this week. Copilot Podcasts, Group Chat and Deep Research will be retired beginning Aug. 18, along with Mico, the animated character added to Cop\u2026",
-        "url": "https://www.geekwire.com/2026/microsoft-starts-merging-its-copilot-consumer-and-business-apps-in-advance-of-super-app-rollout/",
-        "urlToImage": "https://cdn.geekwire.com/wp-content/uploads/2025/04/20250404_Microsoft_117.jpg",
-        "publishedAt": "2026-08-13T13:30:43Z",
-        "content": "The merger of Microsofts consumer and business Copilot apps ;ays the groundwork for the upcoming Copilot Super App that Microsoft CEO Satya Nadella has touted to developers and investors. (GeekWire F\u2026 [+5905 chars]"
+        "author": "Dave Vellante",
+        "title": "Did Nvidia\u2019s Jensen Huang just make the AI buildout too big to fail?",
+        "description": "Nvidia Corp. is no longer just selling technology. It is helping create a financial asset class around artificial intelligence compute. In our\u00a0last Breaking Analysis, we argued that AI can be technologically transformative and still produce a capital bubble. \u2026",
+        "url": "https://siliconangle.com/2026/08/15/nvidias-jensen-huang-just-make-ai-buildout-big-fail/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Jensen-and-his-mou-partners-1.png",
+        "publishedAt": "2026-08-15T04:46:35Z",
+        "content": "Nvidia Corp. is no longer just selling technology. It is helping create a financial asset class around artificial intelligence compute.\r\nIn our\u00a0last Breaking Analysis, we argued that AI can be techno\u2026 [+27570 chars]"
     },
     {
         "source": {
@@ -290,194 +225,51 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Workday\u2019s stock jumps 17% on report of Silver Lake buyout discussions",
-        "description": "Shares of the human resources management software company Workday Inc. jumped almost 18% today after a report emerged that it\u2019s holding acquisition talks with the private equity firm Silver Lake. Reuters said Silver Lake is prepared to pay up to $43 billion t\u2026",
-        "url": "https://siliconangle.com/2026/08/13/workdays-stock-jumps-17-report-silver-lake-buyout-discussions/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/workday.png",
-        "publishedAt": "2026-08-13T23:26:28Z",
-        "content": "Shares of the human resources management software company Workday Inc. jumped almost 18% today after a report emerged that its holding acquisition talks with the private equity firm Silver Lake.\r\nReu\u2026 [+4670 chars]"
+        "author": "Maria Deutscher",
+        "title": "Chipmaking equipment supplier Lam Research to spend $3B+ on new labs",
+        "description": "Lam Research Corp., a major supplier of chipmaker equipment, plans to spend more than $3 billion over the next five years to enhance its engineering capabilities. The company detailed the initiative on Thursday. Nasdaq-listed Lam sells machines that chipmaker\u2026",
+        "url": "https://siliconangle.com/2026/08/14/chipmaking-equipment-supplier-lam-research-spend-3b-new-labs/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Lam.png",
+        "publishedAt": "2026-08-15T01:27:32Z",
+        "content": "Lam Research Corp., a major supplier of chipmaker equipment, plans to spend more than $3 billion over the next five years to enhance its engineering capabilities.\r\nThe company detailed the initiative\u2026 [+4564 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "ZDNet"
         },
-        "author": "Mike Wheatley",
-        "title": "AI chipmaker Cerebras Systems\u2019 stock plunges, despite posting solid earnings and guidance",
-        "description": "Chipmaker Cerebras Systems Inc. boosted its full-year guidance after beating expectations on earnings and \u201ccore\u201d revenue as it published its second-quarter results today, but its stock tumbled more than 17% in extended trading. The company reported an adjuste\u2026",
-        "url": "https://siliconangle.com/2026/08/12/ai-chipmaker-cerebras-systems-stock-plunges-despite-posting-solid-earnings-guidance/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_6458.jpg",
-        "publishedAt": "2026-08-13T01:23:45Z",
-        "content": "Chipmaker Cerebras Systems Inc. boosted its full-year guidance after beating expectations on earnings and core revenue as it published its second-quarter results today, but its stock tumbled more tha\u2026 [+6719 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "What to expect during CrowdStrike\u2019s Fal.Con: Join theCUBE Aug. 31-Sept. 2",
-        "description": "AI attacks on enterprise systems are picking up speed. The just-released CrowdStrike \u201c2026 Threat Hunting Report\u201d documented that China-nexus adversaries exploited critical vulnerabilities within 24 hours of public proof-of-concept release. CrowdStrike Inc.\u2019s\u2026",
-        "url": "https://siliconangle.com/2026/08/13/ai-attacks-crowdstrike-fal-con-thecube-falcon/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Fal.Con-2026.jpg",
-        "publishedAt": "2026-08-13T15:35:40Z",
-        "content": "AI attacks on enterprise systems are picking up speed. The just-released CrowdStrike \u201c2026 Threat Hunting Report\u201d documented that China-nexus adversaries exploited critical vulnerabilities within 24 \u2026 [+7969 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Terrence O\u2019Brien",
-        "title": "Suno is trying to look more like a real music production tool",
-        "description": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI w\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "publishedAt": "2026-08-13T15:41:26Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nStudio 2.0 adds MIDI, effects plugins, and a synth, but also a chatbot that does everything for you.\r\nStudio 2.0 adds MIDI, effects plugins, and a synth, but als\u2026 [+3310 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "A month with Anthropic\u2019s Mythos left Rubrik rethinking remediation",
-        "description": "Data resilience company Rubrik Inc. today said a month of scanning its own code with Anthropic PBC\u2019s Mythos Preview model surfaced so many potential security issues that it rebuilt its review pipeline rather than hire reviewers. The details came in a blog pos\u2026",
-        "url": "https://siliconangle.com/2026/08/13/month-anthropics-mythos-left-rubrik-rethinking-remediation/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/rubrikglasswing.png",
-        "publishedAt": "2026-08-13T15:00:20Z",
-        "content": "Data resilience company Rubrik Inc. today said a month of scanning its own code with Anthropic PBC\u2019s Mythos Preview model surfaced so many potential security issues that it rebuilt its review pipelin\u2026 [+4353 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Vantage explores $100B IPO as four data center operators line up listings",
-        "description": "Vantage Data Centers LLC has held early talks about an initial public offering that would value the operator at roughly $100 billion, Reuters reported today, citing people familiar with the discussions. Two of those sources told Reuters a listing at that size\u2026",
-        "url": "https://siliconangle.com/2026/08/13/vantage-explores-100b-ipo-four-data-center-operators-line-listings/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/datacenteripos.png",
-        "publishedAt": "2026-08-13T23:19:44Z",
-        "content": "Vantage Data Centers LLC has held early talks about an initial public offering that would value the operator at roughly $100 billion, Reuters reported today, citing people familiar with the discussio\u2026 [+4299 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Trump memo lets vetted US firms run offensive cyber operations abroad",
-        "description": "President Donald Trump signed a national security presidential memorandum Wednesday authorizing vetted private companies to carry out hacking operations against foreign criminal groups. The memorandum, \u201cExpanding Capabilities to Combat Transnational Cyber-Ena\u2026",
-        "url": "https://siliconangle.com/2026/08/13/trump-memo-lets-vetted-us-firms-run-offensive-cyber-operations-abroad/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/trumphackingmemo.png",
-        "publishedAt": "2026-08-13T22:46:38Z",
-        "content": "President Donald Trump signed a national security presidential memorandum Wednesday authorizing vetted private companies to carry out hacking operations against foreign criminal groups.\r\nThe memorand\u2026 [+5135 chars]"
+        "author": "Jack Wallen",
+        "title": "I used OpenFactory to build my own Linux distro overnight - this AI tool is going to be big",
+        "description": "Need a custom Linux distribution, but don't have time to learn how to build one? OpenFactory can help you.",
+        "url": "https://www.zdnet.com/article/openfactory-is-an-impressive-new-service-that-allows-you-to-build-your-own-linux-distribution/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/a80fcaabc7036a0d6159758d7f7db2e2e73572cd/2026/08/12/8170b645-202e-46bb-84c2-9e1e5981dd2a/openfactoryhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-08-14T11:53:42Z",
+        "content": "Jack Wallen/ZDNET\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET key takeaways\r\n<ul><li>OpenFactory is a new service to build custom Linux distros.</li><li>Although it's targeted towar\u2026 [+8339 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Carly Page",
-        "title": "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
-        "description": "Bot training switch is on by default, because apparently asking first wasn't going to work",
-        "url": "https://www.theregister.com/offbeat/2026/08/13/twitch-feeds-your-streams-to-amazons-ai-unless-you-tell-it-to-stop/5287258",
-        "urlToImage": "https://image.theregister.com/251692.jpg?imageId=251692&x=0&y=0&cropw=100&croph=84.31&panox=0&panoy=0&panow=100&panoh=84.31&width=1200&height=683",
-        "publishedAt": "2026-08-13T10:32:00Z",
-        "content": "Twitch has given streamers a switch to stop their channel content being fed into Amazon's generative AI machinery, but naturally it is turned on by default.\r\nIf it was opt-in, nobody would opt in. Th\u2026 [+2613 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "Industry experts weigh in as AI moves from proof of concept to production",
-        "description": "\u201cWe\u2019ve proven AI works, now what?\u201d\u00a0This common question is being echoed in the halls of numerous enterprise organizations around the globe. It highlights how the path from proof of concept to AI production remains a major challenge for enterprises today. The \u2026",
-        "url": "https://siliconangle.com/2026/08/13/ai-production-industry-collaboration-thecube-supermicroopenstoragesummit/",
-        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Supermicro-Panel-5.jpg",
-        "publishedAt": "2026-08-13T19:14:00Z",
-        "content": "Weve proven AI works, now what?\u00a0This common question is being echoed in the halls of numerous enterprise organizations around the globe. It highlights how the path from proof of concept to AI product\u2026 [+6290 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Dan Robinson",
-        "title": "Ryanair adds Google to its dual-cloud flight plan",
-        "description": "Gemini gets to juggle crews, forecasts, and maintenance while AWS keeps its seat",
-        "url": "https://www.theregister.com/off-prem/2026/08/13/ryanair-adds-google-to-its-dual-cloud-flight-plan/5287336",
-        "urlToImage": "https://image.theregister.com/5273664.jpg?imageId=5273664&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-13T12:31:00Z",
-        "content": "Ryanair has signed a five-year agreement with Google Cloud covering AI, productivity tools and multi-cloud infrastructure, just weeks after renewing its deal with rival AWS for another five years.\r\nT\u2026 [+2195 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Brandon Vigliarolo",
-        "title": "Microsoft's dueling Copilot apps have combined into a single entity",
-        "description": "Consumer and work experiences converge, while a few features face the chop",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/13/microsofts-dueling-copilot-apps-have-combined-into-a-single-entity/5287512",
-        "urlToImage": "https://image.theregister.com/5287532.jpg?imageId=5287532&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-13T19:04:48Z",
-        "content": "Microsofts consumer Copilot app and Microsoft 365 Copilot are separate no more, with a unified Copilot app beginning its rollout Thursday - minus a few features.\r\nThe Windows maker and AI pusher anno\u2026 [+3750 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Charles Pulliam-Moore",
-        "title": "I looked inside an AI generated movie, and the best parts were all human",
-        "description": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of i\u2026",
-        "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&strip=all&crop=0%2C4.9690186848552%2C100%2C90.06196263029&w=1200",
-        "publishedAt": "2026-08-13T15:25:28Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nI looked inside an AI generated movie, and the best parts were all human\r\nHiggsfield is using Cully Hill Boys to show you how to prompt up your own movie.\r\nby\r\nC\u2026 [+9464 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Dan Robinson",
-        "title": "Ryanair adds Google Cloud to its dual-cloud flight plan",
-        "description": "Gemini gets to juggle crews, forecasts, and maintenance while AWS keeps its seat",
-        "url": "https://www.theregister.com/off-prem/2026/08/13/ryanair-adds-google-cloud-to-its-dual-cloud-flight-plan/5287336",
-        "urlToImage": "https://image.theregister.com/5273664.jpg?imageId=5273664&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-13T12:31:00Z",
-        "content": "Ryanair has signed a five-year agreement with Google Cloud covering AI, productivity tools and multi-cloud infrastructure, just weeks after renewing its deal with rival AWS for another five years.\r\nT\u2026 [+2195 chars]"
+        "author": "Thomas Claburn",
+        "title": "Anthropic says text watermarking scheme relies on inconsequential words",
+        "description": "And other AI model makers are expected to deploy something similar",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/15/anthropic-says-text-watermarking-scheme-relies-on-inconsequential-words/5288156",
+        "urlToImage": "https://image.theregister.com/5271370.jpg?imageId=5271370&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-15T00:44:41Z",
+        "content": "In an effort to \"watermark\" text that Claude has generated and comply with the EU AI Act, Anthropic unveiled a plan on Friday to modify its bots' choice of words in a way that would be detectable as \u2026 [+4361 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Lucas Ropek",
-        "title": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT 5.6 Sol work at 14x the speed | TechCrunch",
-        "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-        "publishedAt": "2026-08-13T19:25:02Z",
-        "content": "If you\u2019ve ever found yourself wishing that ChatGPT was a little bit quicker on the uptake, OpenAI seems to be answering your prayers. \r\nThe AI lab has rolled out a new mode called Ultrafast, which it\u2026 [+1341 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Sarah Perez",
-        "title": "X open sources its ranking algorithm, letting users see if they've been 'shadowbanned' | TechCrunch",
-        "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-        "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
-        "publishedAt": "2026-08-13T16:01:30Z",
-        "content": "X is significantly expanding its open source codebase, which includes the app\u2019s \u201cFor You\u201d algorithm and its core ranking engine, and adding a feature that will let users see if their account or posts\u2026 [+4745 chars]"
+        "author": "Anna Heim",
+        "title": "Kog is going deeper to squeeze more inference out of GPUs | TechCrunch",
+        "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800",
+        "publishedAt": "2026-08-14T14:52:26Z",
+        "content": "The race for faster AI inference is on, and markets gave Cerebras and its purpose-built chips a warm welcome in its IPO debut in May. But French startup Kog is betting that there\u2019s a lot more power t\u2026 [+4745 chars]"
     }
 ]

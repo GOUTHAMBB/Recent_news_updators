@@ -1,41 +1,80 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Jordan Blum",
-        "title": "Powering the cloud after 60 years underground: Ormat\u2019s geothermal pivot to AI",
-        "description": "Ormat launched two next-gen geothermal projects with Sage Geosystems and SLB in Nevada.",
-        "url": "https://fortune.com/2026/08/22/after-60-years-underground-power-cloud-ormat-ai-pivot/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Edited_Doron-e1787337441808.jpg?resize=1200,600",
-        "publishedAt": "2026-08-22T07:11:00Z",
-        "content": "For 60 years, Ormat Technologies strategically built geothermal power plants where nature allowsover underground reservoirs of high-pressure water or steamincluding around the so-called Pacific Ring \u2026 [+6338 chars]"
+        "author": "Katie Roof",
+        "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+        "description": "Hugging Face, an AI developer platform, has been exploring a potential $13 billion sale, highlighting its key role in the AI ecosystem.",
+        "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8#article",
+        "urlToImage": "https://i.insider.com/6a8b3f198a99fa493d60f430?width=1200&format=jpeg",
+        "publishedAt": "2026-08-23T19:01:36Z",
+        "content": "Clement Delangue, co-founder and chief executive officer of Hugging Face.Bloomberg/Getty Images\r\n<ul><li>AI developer startup HuggingFace has been in talks to be acquired for at least $13 billion.</l\u2026 [+1690 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "Forbes"
         },
-        "author": "Shawn Tully",
-        "title": "The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling",
-        "description": "First Dave Cote transformed Honeywell. Then out of retirement he placed a stunning bet on a little known company called Vertiv.",
-        "url": "https://fortune.com/article/dave-cote-vertiv-stock-performance-ai-boom/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-539925046-e1787325522986.jpg?resize=1200,600",
-        "publishedAt": "2026-08-22T08:00:00Z",
-        "content": "If asked to name the top-performing stocks powered by the AI boom, most investors would probably guess Nvidia (correct), maybe Meta (wrong) and a bunch of other hyperscalers (also wrong). Youd be har\u2026 [+16600 chars]"
+        "author": "Zachary Folk, Forbes Staff, \n Zachary Folk, Forbes Staff\n https://www.forbes.com/sites/zacharyfolk/",
+        "title": "Trump Made Big Stock Trades In SpaceX, Palantir And Tech Companies In June",
+        "description": "The president made over 1,000 stock transactions, according to the most recent disclosure form released on Saturday.",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/trump-made-big-stock-trades-in-spacex-palantir-and-tech-companies-in-june/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8b1560fb2b969861812752/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-23T15:46:17Z",
+        "content": "President Donald Trump made more than 1,000 stock trades in June, according to an ethics filing\r\n published on Saturdayincluding buying stock in SpaceX over a week after its IPO and trading major tec\u2026 [+3956 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "James Francisco Turner Lazaro",
-        "title": "I helped turn a California bank into one of America\u2019s fastest-growing. Now I\u2019m building a company to serve the people that banking has failed",
-        "description": "The financial system was built for a world where everyone had one employer and a paycheck that landed every two weeks. That world is disappearing.",
-        "url": "https://fortune.com/2026/08/22/james-francisco-turner-lazaro-banc-of-california-new-startup/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/lazaro-2.png?resize=1200,600",
-        "publishedAt": "2026-08-22T12:30:00Z",
-        "content": "I came of age in finance in investment banking in the U.S. during the boom and bust of dotcom era.\u00a0 I continued in finance by shifting into\u00a0private equity, working for a multibillion-dollar fund, and\u2026 [+7418 chars]"
+        "author": "Rachel Curry",
+        "title": "America's AI backlash: How the effort to keep worker trust is evolving inside companies",
+        "description": "Trust remains the cornerstone of an ideal AI communication strategy, whether for an AI-native startup or legacy enterprise facing yet another cultural shift.",
+        "url": "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346825-1786126327221-gettyimages-1767768499-_dsc73321.jpeg?v=1786126352&w=1920&h=1080",
+        "publishedAt": "2026-08-23T14:42:28Z",
+        "content": "Even as AI becomes more familiar to the average person, workplace anxiety around it remains high. When business leaders integrate technology without clear, intentional communication, they risk aliena\u2026 [+4917 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hugh Son",
+        "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+        "description": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+        "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350603-1786995898579-Scharf_Fraser.jpg?v=1786995981&w=1920&h=1080",
+        "publishedAt": "2026-08-23T12:00:01Z",
+        "content": "Charles Scharf, chief executive officer of Wells Fargo &amp; Co., and Jane Fraser, chief executive officer of Citigroup Inc.\r\nWalk the halls of any major banking conference or listen in on a quarterl\u2026 [+7343 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Steve Denning, Senior Contributor, \n Steve Denning, Senior Contributor\n https://www.forbes.com/sites/stevedenning/",
+        "title": "Why Adaptive Mindsets Outperform Static Processes",
+        "description": "Adaptive mindsets beat static processes: Netflix, NVIDIA & Microsoft breframed successful models for bigger digital/AI wins, embedding learning firm-wide.",
+        "url": "https://www.forbes.com/sites/stevedenning/2026/08/23/why-adaptive-mindsets-outperform-static-processes/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68991377126adb4bfd88e957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-24T00:23:25Z",
+        "content": "Nvidia CEO Jensen Huang at the CES in Las Vegas, Nevada o(Photo by Patrick T. Fallon / AFP) (Photo by PATRICK T. FALLON/AFP via Getty Images)\r\nAFP via Getty Images\r\nIn 1911, Frederick Taylor declared\u2026 [+6347 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lim Hui Jie",
+        "title": "CNBC Daily Open: U.S. takes aim at friends and foes alike",
+        "description": "Washington flexes its economic power against Canada and Iran, while the bond market pressures Trump administration.",
+        "url": "https://www.cnbc.com/2026/08/24/cnbc-daily-open-us-canada-tariffs-iran-bessent.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108352974-17873459292026-08-21t205608z_444001983_rc283na7gz0i_rtrmadp_0_usa-trump.jpeg?v=1787345994&w=1920&h=1080",
+        "publishedAt": "2026-08-24T01:21:36Z",
+        "content": "U.S. President Donald Trump gestures as he speaks to the media before boarding Air Force One at Joint Base Andrews in Maryland, U.S., en route to Myrtle Beach, South Carolina on Aug. 21, 2026. \r\nHell\u2026 [+3930 chars]"
     }
 ]

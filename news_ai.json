@@ -1,42 +1,250 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Ece Yildirim",
-        "title": "Dr. Dre Says He Uses AI to Produce Songs",
-        "description": "Fellow Grammy-winning producer Timbaland is also allegedly a \"closet AI user.\"",
-        "url": "https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2258993172-1200x675.jpg",
-        "publishedAt": "2026-08-23T21:16:44Z",
-        "content": "Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac\u2019s \u201cCalifornia Love\u201d and Eminem\u2019s \u201cThe Real Slim Shady,\u201d is very much pro using artificial intelligenc\u2026 [+3690 chars]"
+        "author": "Ana-Maria Stanciuc",
+        "title": "Phonak\u2019s new EON hearing aids run two AI systems on a chip built to sip power",
+        "description": "Phonak has launched EON, a hearing aid platform built around a newly developed processor the company calls HYPERSONIC, which it says runs two artificial intelligence systems in parallel while drawing 37% less power than the generation before it. The Sonova-ow\u2026",
+        "url": "https://thenextweb.com/news/phonak-eon-hearing-aid-hypersonic-chip",
+        "urlToImage": "https://media.thenextweb.com/2026/08/EON-hearing-aids.jpg",
+        "publishedAt": "2026-08-24T09:17:50Z",
+        "content": "Phonak has launched EON, a hearing aid platform built around a newly developed processor the company calls HYPERSONIC, which it says runs two artificial intelligence systems in parallel while drawing\u2026 [+3886 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Twitch and Amazon face a class action over livestream AI training",
+        "description": "A Twitch streamer sued Twitch and Amazon on 20 August over the use of livestreams to train Amazon\u2019s generative AI. The complaint runs to 37 pages. Counsel filed it in the Northern District of California, San Francisco Division. The case number is 3:26-cv-0872\u2026",
+        "url": "https://thenextweb.com/news/twitch-amazon-pandiscia-class-action-terms-rewrite-ai-training",
+        "urlToImage": "https://media.thenextweb.com/2026/08/twitch-logo-streaming.jpg",
+        "publishedAt": "2026-08-24T14:15:19Z",
+        "content": "A Twitch streamer sued Twitch and Amazon on 20 August over the use of livestreams to train Amazons generative AI. The complaint runs to 37 pages. Counsel filed it in the Northern District of Californ\u2026 [+7326 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "Workers are rewriting their LinkedIn histories, and 2022 now looks 30% more AI-skilled than it was",
+        "description": "A working paper analysing 29.4 million US LinkedIn profiles found nearly a fifth had retroactively edited a job they had already left, with AI-related additions rising more than sixfold since ChatGPT launched. The authors estimate a 2026 snapshot overstates 2\u2026",
+        "url": "https://thenextweb.com/news/linkedin-retroactive-ai-skills-edits-hiring-training-data",
+        "urlToImage": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.jpg",
+        "publishedAt": "2026-08-24T14:35:14Z",
+        "content": "A working paper analysing 29.4 million US LinkedIn profiles found nearly a fifth had retroactively edited a job they had already left, with AI-related additions rising more than sixfold since ChatGPT\u2026 [+2355 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Australia\u2019s record industry won\u2019t chart tunes recorded in the key of AI",
+        "description": "This is basically a riff on \u2018You wouldn\u2019t steal a car\u2019 and means only the human league can have a hit",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/25/australias-record-industry-wont-chart-tunes-recorded-in-the-key-of-ai/5292074",
+        "urlToImage": "https://image.theregister.com/135655.jpg?imageId=135655&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-25T07:15:43Z",
+        "content": "The Australian Recording Industry Association (ARIA) has decided it wont list AI-generated music on its charts of best-selling music.\r\nThe decision comes into effect this week and follows two interes\u2026 [+2486 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Justin Carter",
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Is Caught In a Tangled AI Web",
-        "description": "Concerns of generative AI use hover over 'Spider-Man: Brand New Day,' while others think it's a case of Photoshop at work.",
-        "url": "https://gizmodo.com/spider-man-brand-new-day-is-caught-in-a-tangled-ai-web-2000801867",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Spider-Man-Brand-New-Day-1-1200x675.jpg",
-        "publishedAt": "2026-08-23T20:18:02Z",
-        "content": "While\u00a0Spider-Man: Brand New Day stays in theaters, it\u2019s now in the crossfire of allegations of generative AI use.\r\nThe film\u2019s art book recently released, and fans online saw a page featuring New York\u2026 [+2639 chars]"
+        "author": "Ece Yildirim",
+        "title": "Scandal-Plagued Texas AG Pivots to Anti-Data Center Platform in Senate Race",
+        "description": "The move might put the MAGA-aligned politician at odds with Trump.",
+        "url": "https://gizmodo.com/scandal-plagued-texas-ag-pivots-to-anti-data-center-platform-in-senate-race-2000802313",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2289118649-1200x675.jpg",
+        "publishedAt": "2026-08-24T21:58:13Z",
+        "content": "Texas Attorney General Ken Paxton is vowing to (somewhat) crack down on AI data center buildout if he wins his bid for Senate.\r\nThe Republican candidate just unveiled a four-point plan he is calling \u2026 [+4221 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Mack DeGeurin",
+        "title": "The cat-and-mouse game over 3D-printed guns has begun",
+        "description": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying \u2026",
+        "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-08-24T19:46:47Z",
+        "content": "<ul><li></li><li></li></ul>\r\nThe Hochulization tool purports to subvert proposed gun-blocking 3D printer software.\r\nThe Hochulization tool purports to subvert proposed gun-blocking 3D printer softwar\u2026 [+10772 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Corinne Reichert",
+        "title": "Percy Jackson Cast Teases \u2018Some People Get What They Deserve\u2019 in Season 3",
+        "description": "At D23, a panel with the stars and showrunners of Percy Jackson and the Olympians revealed a few details, including gods, rescue missions and possible deaths ahead.",
+        "url": "https://www.cnet.com/tech/services-and-software/percy-jackson-cast-teases-some-people-get-what-they-deserve-in-season-3/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/20260815_160602-2.jpeg",
+        "publishedAt": "2026-08-24T22:00:13Z",
+        "content": "The third season of Percy Jackson and the Olympians is fast approaching, and at Disney\u2019s D23 convention in Anaheim, California, last weekend, we got a glimpse of what\u2019s to come as the cast answered f\u2026 [+2997 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Macy Meyer",
+        "title": "Americans Want to Know When Their Healthcare Providers Use AI",
+        "description": "AI chatbots are changing the healthcare landscape, but privacy and transparency remain critical concerns.",
+        "url": "https://www.cnet.com/uncategorized/americans-want-to-know-when-their-healthcare-providers-use-ai/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2218025448.jpg",
+        "publishedAt": "2026-08-25T04:29:02Z",
+        "content": "AI chatbots are being used in healthcare, both in and out of the doctor\u2019s office, more than ever before. Patient and medical providers alike are turning to AI for treatments and diagnoses, but transp\u2026 [+3330 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Corinne Reichert",
+        "title": "Behind the Scenes of ESPN\u2019s Animated Sports Alt-Casts",
+        "description": "How are those live sports games starring the characters from The Simpsons, Toy Story and Inside Out made? With a lot of animators and tech like motion capture and face tracking.",
+        "url": "https://www.cnet.com/tech/services-and-software/behind-the-scenes-espn-animated-sports-alt-cast-disney-pixar/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-08-24-at-12.46.31-PM.png",
+        "publishedAt": "2026-08-24T23:39:45Z",
+        "content": "When ESPN floated the idea of creating an animated alternative broadcast for games, it was all about creating \u201cmagical moments in sports.\u201d Instead of watching sports stars shooting hoops or scoring t\u2026 [+5532 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "Fully AI-Guided Russian Drones Have Reportedly Killed Ukrainian Civilians",
+        "description": "The drones were found to rely on Nvidia technology.",
+        "url": "https://gizmodo.com/fully-ai-guided-russian-drones-have-reportedly-killed-ukrainian-civilians-2000802218",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/putin-drones-AI-1200x675.jpg",
+        "publishedAt": "2026-08-24T15:15:40Z",
+        "content": "An entirely AI-led Russian drone operated by Nvidia technology killed three civilians last month in the Ukrainian city of Zaporizhzhia, according to new reporting from the New York Times.\r\nThe attack\u2026 [+4390 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "Peter Hall",
+        "title": "How to encourage smarter AI use in the classroom",
+        "description": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, \u2026",
+        "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/08/8947cf02-f42b-04bb-03ce-c05c80e44d46.jpg?resize=1200,600",
+        "publishedAt": "2026-08-24T14:20:19Z",
+        "content": "Nevertheless, the generative AI boom increased the burden on teachers, who were already working long hours to plan lessons, make homework assignments, and grade exams, and now needed to adapt to a ne\u2026 [+1882 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "OpenAI wants California to toughen the AI law it once fought",
+        "description": "OpenAI has asked California to toughen the AI safety law it once fought. The company published the request on Friday, and Chase DiFeliciantonio reported it for Politico. It is the first major AI lab to call for changes to the transparency law. That law was th\u2026",
+        "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
+        "urlToImage": "https://media.thenextweb.com/2026/06/gary-marcus-openai-ipo-ai-stocks-risk.jpg",
+        "publishedAt": "2026-08-24T19:02:32Z",
+        "content": "OpenAI has asked California to toughen the AI safety law it once fought. The company published the request on Friday, and Chase DiFeliciantonio reported it for Politico.\r\nIt is the first major AI lab\u2026 [+5858 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Monty McCoy",
+        "title": "The biggest question about AI is what humans will do next",
+        "description": "When I had back surgery, I assumed recovery would be linear. I thought each week would bring a little less pain, a little more mobility, and another step toward normal. Then I hit a setback. I had assumed I was further along than I actually was. That experien\u2026",
+        "url": "https://thenextweb.com/news/biggest-question-ai-humans-do-next",
+        "urlToImage": "https://media.thenextweb.com/2026/08/biggest-question-ai-humans-do-next.jpg",
+        "publishedAt": "2026-08-24T18:43:13Z",
+        "content": "TL;DR\r\nTechnology advisor Monty McCoy argues that the most important question about AI is not whether machines will take jobs but what people will do with the time that opens up. He warns that removi\u2026 [+6262 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "Thomas Macaulay",
+        "title": "The Download: kids outlearning AI, and space travel agents",
+        "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids outlearn AI\u2014and we still don\u2019t know why Teaching a computer to use human language requires an inhuman amount of data\u2026",
+        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+        "publishedAt": "2026-08-24T12:10:00Z",
+        "content": "These stories are from the next issue of our magazine, which is all about kids. Subscribe now to get your copy as soon as it lands.\u00a0\r\nThe must-reads\r\nIve combed the internet to find you todays most f\u2026 [+2550 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "Report: AI model hub Hugging Face exploring sale at $13B valuation",
-        "description": "Hugging Face Inc. is exploring a sale that could value the artificial intelligence model repository at $13 billion or more, Business Insider reported today. The company has brought in a bank to sound out potential buyers, according to the report, which cited \u2026",
-        "url": "https://siliconangle.com/2026/08/23/report-ai-model-hub-hugging-face-exploring-sale-at-13b-valuation/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/huggingface.png",
-        "publishedAt": "2026-08-23T23:05:29Z",
-        "content": "Hugging Face Inc. is exploring a sale that could value the artificial intelligence model repository at $13 billion or more, Business Insider reported today.\r\nThe company has brought in a bank to soun\u2026 [+3490 chars]"
+        "author": "Maria Deutscher",
+        "title": "Robotics AI startup Generalist reportedly raises $200M",
+        "description": "Generalist AI Inc., a startup that develops artificial intelligence software for robots, has reportedly raised $200 million in funding. Axios today cited a source as saying that 8VC led the investment. It was reportedly joined by a number of unnamed existing \u2026",
+        "url": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Generalist.png",
+        "publishedAt": "2026-08-25T01:28:14Z",
+        "content": "Generalist AI Inc., a startup that develops artificial intelligence software for robots, has reportedly raised $200 million in funding.\r\nAxios today cited a source as saying that 8VC led the investme\u2026 [+3838 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Zeus Kerravala",
+        "title": "Physical AI\u2019s moment has arrived \u2013 but moving from demo to deployment is the hard part. AWS wants to fix that",
+        "description": "Physical artificial intelligence is emerging as the next major phase of AI. These systems not only generate content or analyze data but also perceive, reason about and act in the physical world. The opportunity is massive, but so are the operational, data, la\u2026",
+        "url": "https://siliconangle.com/2026/08/24/physical-ais-moment-has-arrived-but-moving-from-demo-to-deployment-is-the-hard-part-aws-wants-to-fix-that/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/physicalai-synopsys.png",
+        "publishedAt": "2026-08-24T17:46:02Z",
+        "content": "Physical artificial intelligence is emerging as the next major phase of AI. These systems not only generate content or analyze data but also perceive, reason about and act in the physical world.\r\nThe\u2026 [+12846 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Trump defends AI data center buildout amid pushback",
+        "description": "U.S. President Donald Trump expressed support for data center projects in a radio interview that aired on Sunday. The segment was hosted by former Trump attorney Michael Cohen, who had testified against him in a high-profile 2024 trial. The discussion, which \u2026",
+        "url": "https://siliconangle.com/2026/08/24/trump-defends-ai-data-center-buildout-amid-pushback/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/AA1MYsde.jpeg",
+        "publishedAt": "2026-08-24T20:52:45Z",
+        "content": "U.S. President Donald Trump expressed support for data center projects in a radio interview that aired on Sunday.\r\nThe segment was hosted by former Trump attorney Michael Cohen, who had testified aga\u2026 [+4001 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
+        "description": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information says the chipmaker is holding talks with Perplexity over an investment that could push the startup\u2019s \u2026",
+        "url": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-25-06-37-38.png",
+        "publishedAt": "2026-08-24T23:40:08Z",
+        "content": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information says the chipmaker is holding talks with \u2026 [+5205 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Chip software automation startup Embedd raises $2.7M",
+        "description": "Physical artificial intelligence chip infrastructure startup Embedd Ltd. says it\u2019s ready to fix one of the most critical bottlenecks in the multibillion-dollar robotics industry after raising $2.7 million in a pre-seed round of funding. Today\u2019s round was led \u2026",
+        "url": "https://siliconangle.com/2026/08/24/chip-software-automation-startup-embedd-raises-2-7m/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-25-08-13-17.png",
+        "publishedAt": "2026-08-25T01:16:06Z",
+        "content": "Physical artificial intelligence chip infrastructure startup Embedd Ltd. says its ready to fix one of the most critical bottlenecks in the multibillion-dollar robotics industry after raising $2.7 mil\u2026 [+4532 chars]"
     },
     {
         "source": {
@@ -56,13 +264,52 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dux Raymond Sy",
-        "title": "Why every AI agent needs an org chart",
-        "description": "A chief information officer I was talking with recently said something that stuck with me: Permissions tell an agent what it\u2019s allowed to do. They say nothing about what you meant. This observation touches on one of the core artificial intelligence challenges\u2026",
-        "url": "https://siliconangle.com/2026/08/23/why-every-ai-agent-needs-an-org-chart/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2024/08/an-ai-agent-using-a-keyboard.png",
-        "publishedAt": "2026-08-23T16:00:52Z",
-        "content": "A chief information officer I was talking with recently said something that stuck with me: Permissions tell an agent what it\u2019s allowed to do. They say nothing about what you meant.\r\nThis observation \u2026 [+7712 chars]"
+        "author": "Mike Wheatley",
+        "title": "Nvidia\u2019s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents",
+        "description": "Chipmaker Nvidia Corp. says its dedicated artificial intelligence inference accelerator Groq 3 LPX has now entered full production as it strives to maintain its dominance in the world of AI compute. The new chip, announced today at Hot Chips 2026, is describe\u2026",
+        "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-24-10-37-46.png",
+        "publishedAt": "2026-08-24T15:00:23Z",
+        "content": "Chipmaker Nvidia Corp. says its dedicated artificial intelligence inference accelerator Groq 3 LPX has now entered full production as it strives to maintain its dominance in the world of AI compute.\r\u2026 [+6548 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Quintessent bags $40M to develop lasers for AI clusters",
+        "description": "Optical interconnect startup Quintessent Inc. today announced that it has raised $40 million in funding to ramp up production of its hardware. Cycle Capital led the Series A raise. It was joined by Goldman Sachs, Susquehanna International Group, Osage Univers\u2026",
+        "url": "https://siliconangle.com/2026/08/24/quintessent-bags-40m-to-develop-lasers-for-ai-clusters/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Quintessent.png",
+        "publishedAt": "2026-08-24T23:38:13Z",
+        "content": "Optical interconnect startup Quintessent Inc. today announced that it has raised $40 million in funding to ramp up production of its hardware.\r\nCycle Capital led the Series A raise. It was joined by \u2026 [+4416 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Thomson Reuters launches proprietary AI model for legal work",
+        "description": "Global content powerhouse Thomson Reuters Corp. today launched Thomson, its first proprietary large language model, combining the company\u2019s trove of legal knowledge with LLMs from outside providers to provide legal advice. The company said Thomson will first \u2026",
+        "url": "https://siliconangle.com/2026/08/24/thomson-reuters-launches-proprietary-ai-model-for-legal-work/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Thomson-Reuters-building.jpg",
+        "publishedAt": "2026-08-24T13:00:02Z",
+        "content": "Global content powerhouse Thomson Reuters Corp. today launched Thomson, its first proprietary large language model, combining the companys trove of legal knowledge with LLMs from outside providers to\u2026 [+5783 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "IBM is developing a dual-architecture chip to run Arm-native AI apps on Z mainframes and Linux servers",
+        "description": "IBM Corp. said today at the annual Hot Chips 2026 conference that it\u2019s developing a groundbreaking new dual-architecture processor in partnership with the British chip design firm Arm Holdings Ltd. that\u2019s destined to power its next-generation IBM Z mainframes\u2026",
+        "url": "https://siliconangle.com/2026/08/24/ibm-is-developing-a-dual-architecture-chip-to-run-arm-native-ai-apps-on-z-mainframes-and-linux-servers/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/20241218_IBM_zNext_Shot_FINAL-scaled.jpg",
+        "publishedAt": "2026-08-24T11:00:11Z",
+        "content": "IBM Corp. said today at the annual Hot Chips 2026 conference that it\u2019s developing a groundbreaking new dual-architecture processor in partnership with the British chip design firm Arm Holdings Ltd. t\u2026 [+5335 chars]"
     },
     {
         "source": {
@@ -70,24 +317,102 @@
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
-        "title": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
-        "description": "An anonymous provider has been handing out free access to a frontier-class coding model on OpenRouter Inc. since Aug. 20, and no company has admitted to building it. The model is listed as \u201cOx Alpha\u201d and costs nothing for input or output tokens. OpenCode, an \u2026",
-        "url": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/oxalpha.png",
-        "publishedAt": "2026-08-23T22:37:37Z",
-        "content": "An anonymous provider has been handing out free access to a frontier-class coding model on OpenRouter Inc. since Aug. 20, and no company has admitted to building it.\r\nThe model is listed as \u201cOx Alpha\u2026 [+4862 chars]"
+        "title": "Fake Codex installer tricks Mac users into pasting malware, Cato finds",
+        "description": "Cato Networks Ltd.\u2019s Cato CTRL threat research team today detailed a macOS attack campaign built around a fake OpenAI Codex installer. The lure ends with the victim opening Terminal and pasting a command that runs the malware, the social engineering pattern k\u2026",
+        "url": "https://siliconangle.com/2026/08/24/fake-codex-installer-tricks-mac-users-into-pasting-malware-cato-finds/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/fakecodexinstaller.png",
+        "publishedAt": "2026-08-24T12:30:19Z",
+        "content": "Cato Networks Ltd.\u2019s Cato CTRL threat research team today detailed a macOS attack campaign built around a fake OpenAI Codex installer.\r\nThe lure ends with the victim opening Terminal and pasting a co\u2026 [+4652 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Liam Proven",
+        "title": "Canonical backs quest to translate mountains of C into safe Rust with AI",
+        "description": "Bungs banknotes at Bristol boffins to find out if mature code survives the machine",
+        "url": "https://www.theregister.com/software/2026/08/24/canonical-backs-quest-to-translate-mountains-of-c-into-safe-rust-with-ai/5290959",
+        "urlToImage": "https://image.theregister.com/1618337.jpg?imageId=1618337&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-24T09:27:00Z",
+        "content": "Canonical's fondness for AI and Rust is no secret. Now it is co-funding a three-year PhD project investigating whether the former can translate large C codebases into the latter.\r\nEngineering veep Jo\u2026 [+5097 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "AWS patches SDK flaw that turned a region field into credential theft",
+        "description": "Amazon Web Services Inc. has patched a flaw across seven of its software development kits after product security startup Pi Inc. traced a single bug report to roughly 2,500 instances of the same defect, Pi revealed today. Every AWS SDK builds the hostname it \u2026",
+        "url": "https://siliconangle.com/2026/08/24/aws-patches-sdk-flaw-that-turned-a-region-field-into-credential-theft/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/piawsflaw.png",
+        "publishedAt": "2026-08-24T13:00:52Z",
+        "content": "Amazon Web Services Inc. has patched a flaw across seven of its software development kits after product security startup Pi Inc. traced a single bug report to roughly 2,500 instances of the same defe\u2026 [+4627 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Computerworld"
+        },
+        "author": "preston_gralla",
+        "title": "6 tips for better research with Microsoft Copilot",
+        "description": "Copilot, Microsoft\u2019s generative AI chatbot, can do many things, but one of its best uses is as a researcher, for pretty much anything you want in business or personal use.\r\n\n\n\n\nIf you\u2019re looking for in-depth information, there\u2019s a lot more you can do than typ\u2026",
+        "url": "https://www.computerworld.com/article/4204609/microsoft-copilot-research-tips.html",
+        "urlToImage": "https://www.computerworld.com/wp-content/uploads/2026/08/4204609-0-13298200-1787569431-research-focus-peopleimages-shutterstock-2637648939.jpg?quality=50&strip=all&w=1024",
+        "publishedAt": "2026-08-24T11:00:00Z",
+        "content": "Fairly quickly, Claude will create the brief and display it in a right pane so you can scroll through it. To download it, click the Download and open button in the left pane. Follow the instructions \u2026 [+2167 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Steven Vaughan-Nichols",
+        "title": "Google's AI-first Googlebook laptop is almost here - can it avoid the Copilot+ PC problem?",
+        "description": "It won't be another high-end Chromebook like the Pixel, and Google has to hope it'll succeed where Copilot+ PCs have fallen short.",
+        "url": "https://www.zdnet.com/article/googlebook-laptop-is-almost-here-can-it-avoid-copilot-pc-problem/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/6a04afe225a99809c7fe7efc593459c5d08f6cbd/2026/08/24/4dacd8eb-03dc-4079-92fc-a51ed150c727/googlebook.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-08-24T12:48:57Z",
+        "content": "Google / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The Googlebook is more about AI than Android compatibility.</li><li>The new operating system wil\u2026 [+7033 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Dan Robinson",
+        "title": "US datacenters tripled their water footprint in 10 years",
+        "description": "... and those are figures from the start of the AI boom. It can only be worse now. Silo-ed reporting isn't helping",
+        "url": "https://www.theregister.com/on-prem/2026/08/24/us-datacenters-tripled-their-water-footprint-in-10-years/5291564",
+        "urlToImage": "https://image.theregister.com/4094013.jpg?imageId=4094013&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-24T12:01:00Z",
+        "content": "Datacenters in America used about 17 billion gallons of water during 2023, triple the amount they used a decade earlier in 2014, according to an estimate from US Congressional Research Service (CRS).\u2026 [+5321 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Lindsay Clark",
+        "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
+        "description": "Cloud giant allows customers to get more from Oracle hardware, but will try to gain more workloads on the side",
+        "url": "https://www.theregister.com/databases/2026/08/24/oracle-exadata-databaseaws-offers-advantages-but-trade-offs-remain/5291731",
+        "urlToImage": "https://image.theregister.com/121330.jpg?imageId=121330&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-24T14:29:00Z",
+        "content": "As Oracle launches its Exadata service on Database@AWS a year after it went live for lower-level databases experts have warned there are trade-offs in getting value for money and cautioned over Oracl\u2026 [+5222 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Amanda Silberling",
-        "title": "Is it legal to train AI models on copyrighted books? It\u2019s complicated | TechCrunch",
-        "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
-        "publishedAt": "2026-08-23T16:39:35Z",
-        "content": "You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of boo\u2026 [+5688 chars]"
+        "author": "Tim Fernholz",
+        "title": "OpenAI is building AI agents for everything. Will everyone use them? | TechCrunch",
+        "description": "OpenAI is building AI agents for everything. Will everyone use them? | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
+        "publishedAt": "2026-08-24T15:02:12Z",
+        "content": "How much control are you willing to give an LLM over your digital life?\u00a0\r\nGetting the most value from a model means giving it the keys. For a control freak or the AI-hesitant, it seems like a lot. Fo\u2026 [+18819 chars]"
     }
 ]

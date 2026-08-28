@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Cristian Dina",
-        "title": "Stability AI raises $76mn from Universal, Warner, Sony Music and EA",
-        "description": "The world\u2019s three largest record companies have bought equity in a generative AI company. Universal Music Group, Warner Music Group and Sony Music Group are all new investors in Stability AI\u2019s $76mn Series B. The company announced the round on Tuesday. The ga\u2026",
-        "url": "https://thenextweb.com/news/stability-ai-76m-funding-universal-warner-sony-music-ea",
-        "urlToImage": "https://media.thenextweb.com/2026/08/stability-ai.jpg",
-        "publishedAt": "2026-08-25T18:16:54Z",
-        "content": "The worlds three largest record companies have bought equity in a generative AI company.\r\nUniversal Music Group, Warner Music Group and Sony Music Group are all new investors in Stability AIs $76mn S\u2026 [+5628 chars]"
+        "author": "Tom Hawking",
+        "title": "The Fight Over Whether the \u2018Humankind 2\u2019 Trailer Is Slop Is Its Own Kind of AI Damage",
+        "description": "\"You know it when you see it\" is a dangerous standard.",
+        "url": "https://gizmodo.com/the-fight-over-whether-the-humankind-2-trailer-is-slop-is-its-own-kind-of-ai-damage-2000803986",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/humankind-2-trailer-1200x675.png",
+        "publishedAt": "2026-08-27T19:20:20Z",
+        "content": "Spotting videos made by generative AI used to be as simple as counting the fingers of the people depicted. But as with every other aspect of the technology, while AI videos utility remains questionab\u2026 [+4493 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Joel Khalili",
+        "title": "The UK Power Grid Has a Phantom Data Center Problem",
+        "description": "The UK\u2019s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country\u2019s AI ambitions hang in the balance.",
+        "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+        "urlToImage": "https://media.wired.com/photos/6a8e39f99a6c30f92d1621f3/191:100/w_1280,c_limit/Phantom-Data-Centers-Clog-UK-Power-Grid-Business.jpg",
+        "publishedAt": "2026-08-27T06:00:00Z",
+        "content": "As data center developers compete for a cut of the hundreds of billions of dollars flowing into the artificial intelligence industry, the queue to join the UKs power grid has become jammed with proje\u2026 [+3819 chars]"
     },
     {
         "source": {
@@ -24,19 +37,6 @@
         "urlToImage": "https://media.thenextweb.com/2026/08/ai-healthcare-information-overload-attention.jpg",
         "publishedAt": "2026-08-26T08:06:52Z",
         "content": "TL;DR\r\nHealthcare generates more data than clinicians can process, and adding AI tools risks making it worse. Over 70% of healthcare professionals say technology is being deployed faster than it can \u2026 [+6396 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana-Maria Stanciuc",
-        "title": "The UK and Ukraine have signed a declaration on AI-enabled military capabilities",
-        "description": "Ukraine and the United Kingdom have signed a joint declaration on artificial intelligence partnership covering the development and deployment of AI-enabled military capabilities, according to the Ukrainian presidency\u2019s account of talks in Kyiv between Volodym\u2026",
-        "url": "https://thenextweb.com/news/uk-ukraine-ai-military-declaration-burnham",
-        "urlToImage": "https://media.thenextweb.com/2026/08/President-of-Ukraine-Volodymyr-Zelenskyy-met-with-Prime-Minister-of-the-United-Kingdom-Andy-Burnham.jpg",
-        "publishedAt": "2026-08-25T09:06:10Z",
-        "content": "Ukraine and the United Kingdom have signed a joint declaration on artificial intelligence partnership covering the development and deployment of AI-enabled military capabilities, according to the Ukr\u2026 [+4101 chars]"
     },
     {
         "source": {
@@ -80,15 +80,28 @@
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "Gizmodo.com"
         },
-        "author": "Simon Sharwood",
-        "title": "Australia\u2019s record industry won\u2019t chart tunes recorded in the key of AI",
-        "description": "This is basically a riff on \u2018You wouldn\u2019t steal a car\u2019 and means only the human league can have a hit",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/25/australias-record-industry-wont-chart-tunes-recorded-in-the-key-of-ai/5292074",
-        "urlToImage": "https://image.theregister.com/135655.jpg?imageId=135655&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-25T07:15:43Z",
-        "content": "The Australian Recording Industry Association (ARIA) has decided it wont list AI-generated music on its charts of best-selling music.\r\nThe decision comes into effect this week and follows two interes\u2026 [+2486 chars]"
+        "author": "Matt Novak",
+        "title": "Republican Senator Launches Investigation Into Flock as Backlash Sweeps Country",
+        "description": "The company reportedly scans 20 billion vehicles each month.",
+        "url": "https://gizmodo.com/republican-senator-launches-investigation-into-flock-as-backlash-sweeps-country-2000803590",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/flock-license-plate-reader-2026-1200x675.jpg",
+        "publishedAt": "2026-08-27T00:15:38Z",
+        "content": "Sen. Josh Hawley, a Republican from Missouri, sent a letter to the CEO of Flock Safety on Wednesday announcing an investigation into the \u201cunprecedented national surveillance network\u201d that the company\u2026 [+4290 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Kunal Nain",
+        "title": "Rising costs of the token consumption race",
+        "description": "Lately, we have seen a surge in a practice called Tokenmaxxing. More and more companies are tracking their employees\u2019 productivity with tokens spent on AI usage. Jensen Huang, CEO of Nvidia, summarizes the sentiment clearly: \u201cIf that $500,000 engineer did not\u2026",
+        "url": "https://thenextweb.com/news/rising-costs-of-the-token-consumption-race",
+        "urlToImage": "https://media.thenextweb.com/2026/08/AI-token.jpg",
+        "publishedAt": "2026-08-27T08:08:27Z",
+        "content": "Lately, we have seen a surge in a practice called Tokenmaxxing. More and more companies are tracking their employees productivity with tokens spent on AI usage. Jensen Huang, CEO of Nvidia, summarize\u2026 [+7254 chars]"
     },
     {
         "source": {
@@ -108,19 +121,6 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Will Jones",
-        "title": "Liner raises $36.1M to take its evidence-first AI search to enterprise customers",
-        "description": "Liner, a South Korean AI search startup, has raised $36.1 million in Series C funding as it seeks to turn its consumer research platform used by millions into an enterprise AI business. LB Investment led the Series C round, joined by returning investors Inter\u2026",
-        "url": "https://thenextweb.com/news/liner-36m-series-c-ai-search-enterprise",
-        "urlToImage": "https://media.thenextweb.com/2026/08/liner-36m-series-c-ai-search-enterprise.jpg",
-        "publishedAt": "2026-08-25T11:41:37Z",
-        "content": "TL;DR\r\nLiner has raised $36.1M in Series C funding led by LB Investment, bringing total capital to $64.3M. The South Korean AI search startup has 14M registered users across 220 countries and scored \u2026 [+5005 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
         "author": "Cristian Dina",
         "title": "Flipboard acquires Graze, the tool for building your own social algorithm",
         "description": "Flipboard has acquired Graze, a Portland startup that lets creators build, tune and monetise custom social feeds without writing code, mainly on Bluesky. Graze says it has delivered more than 41 billion posts to 12 million users since forming 21 months ago. F\u2026",
@@ -134,45 +134,6 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Cristian Dina",
-        "title": "Fresh from \u20ac1.2bn, NEURA buys its second company in eleven days",
-        "description": "NEURA Robotics is buying a company that makes cleaning robots, and says it wants to replace their brains. The German firm is acquiring 100% of Adlatus Robotics, an Ulm maker of autonomous cleaning and sweeping machines. It announced the deal on Monday, dateli\u2026",
-        "url": "https://thenextweb.com/news/neura-robotics-acquires-adlatus-cleaning-robots",
-        "urlToImage": "https://media.thenextweb.com/2026/08/neura-robotics-acquires-adlatus-robotics-executives.jpg",
-        "publishedAt": "2026-08-25T10:43:49Z",
-        "content": "NEURA Robotics is buying a company that makes cleaning robots, and says it wants to replace their brains.\r\nThe German firm is acquiring 100% of Adlatus Robotics, an Ulm maker of autonomous cleaning a\u2026 [+7178 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Macy Meyer",
-        "title": "Americans Want to Know When Their Healthcare Providers Use AI",
-        "description": "AI chatbots are changing the healthcare landscape, but privacy and transparency remain critical concerns.",
-        "url": "https://www.cnet.com/uncategorized/americans-want-to-know-when-their-healthcare-providers-use-ai/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2218025448.jpg",
-        "publishedAt": "2026-08-25T04:29:02Z",
-        "content": "AI chatbots are being used in healthcare, both in and out of the doctor\u2019s office, more than ever before. Patient and medical providers alike are turning to AI for treatments and diagnoses, but transp\u2026 [+3330 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Macy Meyer",
-        "title": "Americans Want to Know When Their Healthcare Providers Use AI",
-        "description": "AI chatbots are changing the healthcare landscape, but privacy and transparency remain critical concerns.",
-        "url": "https://www.cnet.com/tech/services-and-software/americans-want-to-know-when-their-healthcare-providers-use-ai/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2218025448.jpg",
-        "publishedAt": "2026-08-25T14:00:00Z",
-        "content": "AI chatbots are being used in healthcare, both in and out of the doctor\u2019s office, more than ever before. Patient and medical providers alike are turning to AI for treatments and diagnoses, but transp\u2026 [+3330 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
         "author": "Alina Maria Stan",
         "title": "Microsoft employees built their own pay spreadsheet, and it shows two companies",
         "description": "Around 600 Microsoft employees have entered their pay into a crowdsourced spreadsheet circulating internally, and the resulting picture is of a company that now compensates two quite different populations. Base salaries run from $111,000 at level 59 to $280,0\u2026",
@@ -180,19 +141,6 @@
         "urlToImage": "https://media.thenextweb.com/2026/08/Microsoft-logo.jpg",
         "publishedAt": "2026-08-26T08:29:53Z",
         "content": "Around 600 Microsoft employees have entered their pay into a crowdsourced spreadsheet circulating internally, and the resulting picture is of a company that now compensates two quite different popula\u2026 [+3727 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Tyler Lacoma",
-        "title": "Ring Gave Itself a Security Makeover Called TAKE. Here\u2019s What\u2019s Actually Changing",
-        "description": "Amazon Ring has a new policy for its encryption practices and what they mean for your security videos or AI use. Customers are getting more choices, too.",
-        "url": "https://www.cnet.com/home/security/ring-gave-itself-a-security-makeover-called-take-heres-whats-actually-changing/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/2501dc2b-647c-4e4e-a835-6793a22322fc.jpg",
-        "publishedAt": "2026-08-25T22:40:08Z",
-        "content": "Starting this September, Amazons Ring security brand is clarifying how it encrypts customer data on cameras, including security video data used for AI analysis, like turning it into video description\u2026 [+5129 chars]"
     },
     {
         "source": {
@@ -248,42 +196,16 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Cristian Dina",
-        "title": "Scalable Capital connects \u20ac60bn of client assets to outside AI assistants",
-        "description": "Scalable Capital has opened its investment platform to ChatGPT and Claude, allowing its clients to analyse their portfolios and place trades through the two AI assistants rather than through the broker\u2019s own app. The Munich company says it is the first Europe\u2026",
-        "url": "https://thenextweb.com/news/scalable-capital-chatgpt-claude-trading",
-        "urlToImage": "https://media.thenextweb.com/2026/08/Scalable-Capital-founders.jpg",
-        "publishedAt": "2026-08-25T12:06:31Z",
-        "content": "Scalable Capital has opened its investment platform to ChatGPT and Claude, allowing its clients to analyse their portfolios and place trades through the two AI assistants rather than through the brok\u2026 [+3837 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Cristian Dina",
-        "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
-        "description": "One company spent eight years cataloguing the worst material on the internet. It has now raised $140mn to point that archive at AI models. Alice, formerly ActiveFence, announced the round on Tuesday. Apax Digital Funds led it, and will take a board seat. Tota\u2026",
-        "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
-        "urlToImage": "https://media.thenextweb.com/2026/08/Noam-Schwartz-ceo-alice-ai.jpg",
-        "publishedAt": "2026-08-25T19:00:29Z",
-        "content": "One company spent eight years cataloguing the worst material on the internet. It has now raised $140mn to point that archive at AI models.\r\nAlice, formerly ActiveFence, announced the round on Tuesday\u2026 [+5945 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana-Maria Stanciuc",
-        "title": "Australia\u2019s charts now require a human to sing the lead vocal",
-        "description": "Australia will bar wholly AI-generated tracks from its official music charts from Monday. The song that prompted the rule was still sitting at number four on Tuesday. The Australian Recording Industry Association set the test in a statement. A track qualifies\u2026",
-        "url": "https://thenextweb.com/news/aria-australia-charts-ban-ai-generated-music-madonna-cover",
-        "urlToImage": "https://media.thenextweb.com/2026/08/madonna-fifa-world-cup-final-2026.jpg",
-        "publishedAt": "2026-08-25T22:14:30Z",
-        "content": "Australia will bar wholly AI-generated tracks from its official music charts from Monday. The song that prompted the rule was still sitting at number four on Tuesday.\r\nThe Australian Recording Indust\u2026 [+5753 chars]"
+        "author": "Gayoung Lee",
+        "title": "The Large Hadron Collider Is Getting a Major Upgrade. But What Would Actually Surprise Physicists?",
+        "description": "Some were disappointed at the lack of \"new physics\" from the LHC. Could forthcoming updates be the accelerator's redemption arc\u2014assuming it needs one?",
+        "url": "https://gizmodo.com/the-large-hadron-collider-is-getting-a-major-upgrade-but-what-would-actually-surprise-physicists-2000803359",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/giz-asks-high-luminosity-lhc-1200x675.jpg",
+        "publishedAt": "2026-08-27T10:00:10Z",
+        "content": "As the old physics wisdom goes, to answer big questions, build big machines. To that idea, CERN\u2019s Large Hadron Collider (LHC) has really delivered on all fronts in its last 16 years of operations. As\u2026 [+13578 chars]"
     },
     {
         "source": {
@@ -297,19 +219,6 @@
         "urlToImage": "https://media.thenextweb.com/2026/08/huawei-logo-mobile-world-congress-2015.jpg",
         "publishedAt": "2026-08-26T15:00:03Z",
         "content": "Huawei has bid to build AI data centres for the Egyptian government. The US State Department is now trying to assemble a rival consortium from Nvidia, AMD and Microsoft.\r\nThe tender offer proposes ex\u2026 [+5623 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana Maria Constantin",
-        "title": "Apple gave Tim Cook a farewell party a week before Ternus takes over",
-        "description": "Apple gave Tim Cook a leaving party on Sunday, a week before he stops being its chief executive. About 200 people attended, almost all of them Apple employees, at the Caff\u00e8 Macs cafeteria on the company\u2019s Cupertino campus. OneRepublic played. Aaron Tilley rep\u2026",
-        "url": "https://thenextweb.com/news/tim-cook-apple-farewell-party-ternus-handover",
-        "urlToImage": "https://media.thenextweb.com/2026/04/apple-smart-glasses-four-frame-designs-testing-2027.jpg",
-        "publishedAt": "2026-08-25T19:14:56Z",
-        "content": "Apple gave Tim Cook a leaving party on Sunday, a week before he stops being its chief executive.\r\nAbout 200 people attended, almost all of them Apple employees, at the Caff\u00e8 Macs cafeteria on the com\u2026 [+5425 chars]"
     },
     {
         "source": {
@@ -366,15 +275,54 @@
     {
         "source": {
             "id": null,
-            "name": "MIT Technology Review"
+            "name": "Gizmodo.com"
         },
-        "author": "You Xiaoying",
-        "title": "I spent a day at a robot \u201ccarnival\u201d in Shanghai. Here\u2019s what I saw.",
-        "description": "Humanoid robots are having a moment in China. The popular machines are part of the country\u2019s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems\u2014an idea called embodied AI\u2014was a key facet of China\u2019s latest\u2026",
-        "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_8845-1.jpg?resize=1200,600",
-        "publishedAt": "2026-08-25T09:00:00Z",
-        "content": "This busy hub houses more than 100 companies that research, develop, manufacture, and market robotic technologies and equipment. Many build specialized bots of all shapes that can do practical tasks,\u2026 [+925 chars]"
+        "author": "Ece Yildirim",
+        "title": "President Trump\u2019s Love of Tariffs Comes Into Conflict With His Love of Data Centers",
+        "description": "The President is reportedly mulling over tariffs on semiconductors.",
+        "url": "https://gizmodo.com/president-trumps-love-of-tariffs-comes-into-conflict-with-his-love-of-data-centers-2000803876",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2291729637-1200x675.jpg",
+        "publishedAt": "2026-08-27T19:50:28Z",
+        "content": "Since returning to office in early 2025, Trump has imposed sweeping tariffs that have disrupted nearly every sector of the global economy. Now theyve found an unlikely new target: artificial intellig\u2026 [+3490 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Will Jones",
+        "title": "AI agents are getting wallets: the Web3 infrastructure behind the machine economy",
+        "description": "After years of promise, the machine economy is finally taking shape. AI agents are getting wallets and are now able to make decisions on behalf of owners. For investors, this is a potentially exciting opportunity. Early movers in this space will be able to ta\u2026",
+        "url": "https://thenextweb.com/news/ai-agents-wallets-web3-machine-economy-varun-datta",
+        "urlToImage": "https://media.thenextweb.com/2026/08/ai-agents-wallets-web3-machine-economy-varun-datta.jpg",
+        "publishedAt": "2026-08-27T19:52:47Z",
+        "content": "TL;DR\r\nVarun Datta, Web3 venture capitalist and CEO of Truth Ventures, explores how AI agents gaining the ability to transact independently could accelerate the emerging machine economy and create ne\u2026 [+6735 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Callum Turner",
+        "title": "The next frontier in fintech is understanding the person behind the data",
+        "description": "Fintech has spent almost two decades making financial information increasingly accessible, portable, and actionable. Open banking, digital wallets and connected financial platforms have created an environment in which consumers can move between products while\u2026",
+        "url": "https://thenextweb.com/news/fintech-person-behind-data-behavioral-understanding",
+        "urlToImage": "https://media.thenextweb.com/2026/08/fintech-person-behind-data-behavioral-understanding.jpg",
+        "publishedAt": "2026-08-27T13:17:00Z",
+        "content": "TL;DR\r\nFintech made financial data accessible but not understandable. Neumetria founder Amr Mohamed argues the next layer must interpret why transactions happen, not just categorize them. As AI agent\u2026 [+8281 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Deep Cogito raises $43M to develop self-improving AI models",
+        "description": "Artificial intelligence startup Deep Cogito Inc. today announced that it has raised $43 million in funding. TQ Ventures led the Series A round. It was joined by Benchmark, Nexus Venture Partners, Atreides Management, South Park Commons and Zscaler Inc., a pub\u2026",
+        "url": "https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/unsplash2-1.png",
+        "publishedAt": "2026-08-26T22:34:28Z",
+        "content": "Artificial intelligence startup Deep Cogito Inc. today announced that it has raised $43 million in funding.\r\nTQ Ventures led the Series A round. It was joined by Benchmark, Nexus Venture Partners, At\u2026 [+3811 chars]"
     },
     {
         "source": {
@@ -388,32 +336,6 @@
         "urlToImage": "https://image.theregister.com/5239850.jpg?imageId=5239850&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "publishedAt": "2026-08-26T13:10:25Z",
         "content": "Bill Gates thinks that experts underestimate the potential havoc AI will wreak on society and says preparations to ease the transition are inadequate.\u00a0\r\nThe Microsoft founder and former CEO is usuall\u2026 [+5063 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Kyle Barr",
-        "title": "Apple Built the New Mac Mini For All the People Who Made the Last One Sell Out",
-        "description": "The M6 Mac mini may be a big leap over the last version, though mostly if you care about graphics or\u2014sigh\u2014AI.",
-        "url": "https://gizmodo.com/apple-built-the-new-mac-mini-for-all-the-people-who-made-the-last-one-sell-out-2000802521",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Apple-Mac-mini-hero-1200x675.jpg",
-        "publishedAt": "2026-08-25T13:00:40Z",
-        "content": "Apples undeniably cute Mac minis became so popular for on-device AI, we lost any hope of getting one for a low price with base specs. Now, the company is back with a tiny desktop thats built explicit\u2026 [+3661 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Kyle Barr",
-        "title": "Apple\u2019s M5 Ultra Mac Studio Goes For Absolutely Bonkers Performance",
-        "description": "Who needs a Mac Pro when an M5 Ultra Mac Studio is literally twice that of its last 'best' chip?",
-        "url": "https://gizmodo.com/apples-m5-ultra-mac-studio-goes-for-absolutely-bonkers-performance-2000802577",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Apple-Mac-Studio-Adobe-Premiere-1200x675.jpg",
-        "publishedAt": "2026-08-25T13:00:49Z",
-        "content": "Sure, that M5 Max inside the recent MacBook Pro models was an absolute beast of CPU and GPU performance, but why stop there? The next Mac Studio is supposed to be Apples most powerful Mac, and were k\u2026 [+3404 chars]"
     },
     {
         "source": {
@@ -433,13 +355,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Robotics AI startup Generalist reportedly raises $200M",
-        "description": "Generalist AI Inc., a startup that develops artificial intelligence software for robots, has reportedly raised $200 million in funding. Axios today cited a source as saying that 8VC led the investment. It was reportedly joined by a number of unnamed existing \u2026",
-        "url": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Generalist.png",
-        "publishedAt": "2026-08-25T01:28:14Z",
-        "content": "Generalist AI Inc., a startup that develops artificial intelligence software for robots, has reportedly raised $200 million in funding.\r\nAxios today cited a source as saying that 8VC led the investme\u2026 [+3838 chars]"
+        "author": "Kyt Dotson",
+        "title": "Runable raises $21M to realize small businesses\u2019 growth vision using AI agents",
+        "description": "Runable Inc., a platform that uses artificial intelligence to help businesses build, run and grow, announced Wednesday that it raised $21 million in early-stage funding to scale its operations and reach more enterprise outfits. Susquehanna Venture Capital and\u2026",
+        "url": "https://siliconangle.com/2026/08/27/runable-raises-21m-to-realize-small-businesses-growth-vision-using-ai-agents/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/10/A-man-and-a-woman-AI-agents-sitting-together-wearing-business-formal-attire-speaking-to-a-prospectiv-1.jpeg",
+        "publishedAt": "2026-08-27T16:35:09Z",
+        "content": "Runable Inc., a platform that uses artificial intelligence to help businesses build, run and grow, announced Wednesday that it raised $21 million in early-stage funding to scale its operations and re\u2026 [+4935 chars]"
     },
     {
         "source": {
@@ -459,19 +381,6 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Perplexity AI launches Portable Computer on-device AI agent",
-        "description": "Perplexity AI Inc. today introduced Portable Computer, an artificial intelligence agent designed to run on desktops equipped with Nvidia Corp. silicon. The launch follows a report that Nvidia is weighing an investment in the startup that could value it at ove\u2026",
-        "url": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Nvidia.png",
-        "publishedAt": "2026-08-25T22:32:18Z",
-        "content": "Perplexity AI Inc. today introduced Portable Computer, an artificial intelligence agent designed to run on desktops equipped with Nvidia Corp. silicon.\r\nThe launch follows a report that Nvidia is wei\u2026 [+4235 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
         "author": "John Furrier",
         "title": "The network becomes the computer as Cisco and Nvidia accelerate AI factory rack-scale",
         "description": "The first phase of the generative artificial intelligence infrastructure boom was defined by a race for graphics processing units. The next phase will be defined by what happens after those GPUs arrive. As the AI infrastructure buildout continues to advance r\u2026",
@@ -479,19 +388,6 @@
         "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/CiscoNVIDIA-news-AI-Factory.png",
         "publishedAt": "2026-08-26T12:00:43Z",
         "content": "The first phase of the generative artificial intelligence infrastructure boom was defined by a race for graphics processing units. The next phase will be defined by what happens after those GPUs arri\u2026 [+11214 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2",
-        "description": "Nvidia Corp. today announced the release of Jetson Orin Nano 2, a robotics computer \u201cbrain\u201d for running artificial intelligence and frontier-level models at the edge. In the past months, foundational AI models have grown smaller and more efficient, adding num\u2026",
-        "url": "https://siliconangle.com/2026/08/25/nvidia-doubles-compute-for-entry-level-edge-robotics-with-jetson-orin-nano-2/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Robotics-jetson-Orin-Nano-2-_081920261600x900.png",
-        "publishedAt": "2026-08-25T15:00:57Z",
-        "content": "Nvidia Corp. today announced the release of Jetson Orin Nano 2, a robotics computer brain for running artificial intelligence and frontier-level models at the edge.\r\nIn the past months, foundational \u2026 [+3694 chars]"
     },
     {
         "source": {
@@ -511,19 +407,6 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Kyt Dotson",
-        "title": "Anthropic updates Claude\u2019s memory to enhance customization and protect sensitive topics",
-        "description": "Artificial intelligence startup Anthropic PBC announced today it\u2019s changing how Claude, its flagship AI product, uses memory by allowing users to see everything it remembers \u201ctopic by topic,\u201d and edit or delete any of it. Claude also does not store sensitive \u2026",
-        "url": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Claude-AI-app-scaled.jpg",
-        "publishedAt": "2026-08-25T17:00:22Z",
-        "content": "Artificial intelligence startup Anthropic PBC announced today its changing how Claude, its flagship AI product, uses memory by allowing users to see everything it remembers topic by topic, and edit o\u2026 [+3840 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
         "author": "Maria Deutscher",
         "title": "Major record labels, AMD back $76M round for Stability AI",
         "description": "Artificial intelligence developer Stability AI Ltd. today announced that it has raised $76 million in funding from a group of prominent investors. The consortium included Sony Music Group, Universal Music Group and Warner Music Group, the world\u2019s three larges\u2026",
@@ -531,19 +414,6 @@
         "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Stability-AI.png",
         "publishedAt": "2026-08-26T00:11:55Z",
         "content": "Artificial intelligence developer Stability AI Ltd. today announced that it has raised $76 million in funding from a group of prominent investors.\r\nThe consortium included Sony Music Group, Universal\u2026 [+3990 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Tempo launches Workforce Intelligence to tie AI spend to Jira work items",
-        "description": "Tempo Software Inc. today introduced Workforce Intelligence, an Atlassian Marketplace app that connects artificial intelligence usage and its cost to the individual Jira issues the work was done on. The company sells planning and portfolio software into the A\u2026",
-        "url": "https://siliconangle.com/2026/08/25/tempo-launches-workforce-intelligence-to-tie-ai-spend-to-jira-work-items/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/temposoftware-800x449.png",
-        "publishedAt": "2026-08-25T10:00:14Z",
-        "content": "Tempo Software Inc. today introduced Workforce Intelligence, an Atlassian Marketplace app that connects artificial intelligence usage and its cost to the individual Jira issues the work was done on.\r\u2026 [+3813 chars]"
     },
     {
         "source": {
@@ -563,26 +433,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Kyt Dotson",
-        "title": "Cisco expands rack-scale secure AI factory infrastructure for neocloud and sovereign clouds",
-        "description": "Cisco Systems Inc. today introduced an expansion to its current lineup of rack-scale artificial intelligence solutions for massive AI workloads in secure AI factories, addressing growing needs for massive inference and training compute. Through a partnership \u2026",
-        "url": "https://siliconangle.com/2026/08/25/cisco-expands-rack-scale-secure-ai-factory-infrastructure-for-neocloud-and-sovereign-clouds/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/03/Designer-33.jpeg",
-        "publishedAt": "2026-08-25T15:25:24Z",
-        "content": "Cisco Systems Inc. today introduced an expansion to its current lineup of rack-scale artificial intelligence solutions for massive AI workloads in secure AI factories, addressing growing needs for ma\u2026 [+5514 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Duncan Riley",
-        "title": "Data center power startup Emerald AI raises $150M at $1.05B valuation",
-        "description": "Data center power startup Emerald AI Inc. today said that it had raised $150 million in new funding in an oversubscribed round at a valuation of $1.05 billion. Emerald will put the money into scaling commercial deployments worldwide. The company\u2019s core produc\u2026",
-        "url": "https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/emeraldai.png",
-        "publishedAt": "2026-08-25T23:52:43Z",
-        "content": "Data center power startup Emerald AI Inc. today said that it has raised $150 million in new funding in an oversubscribed round at a valuation of $1.05 billion.\r\nEmerald will put the money into scalin\u2026 [+4204 chars]"
+        "author": "Maria Deutscher",
+        "title": "Z.ai open-sources \u2018Ox Alpha\u2019 model as GLM-5.3-Flash",
+        "description": "Z.ai Co. today released the code for GLM-5.3-Flash, a large language model that is ten times more cost-efficient than its predecessor. The algorithm made its original debut last week under the codename Ox Alpha. LLM marketplace operator OpenRouter Inc. launch\u2026",
+        "url": "https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-as-glm-5-3-flash/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Unsplash.png",
+        "publishedAt": "2026-08-27T00:26:24Z",
+        "content": "Z.ai Co. today released the code for GLM-5.3-Flash, a large language model that is ten times more cost-efficient than its predecessor.\r\nThe algorithm made its original debut last week under the coden\u2026 [+4249 chars]"
     },
     {
         "source": {
@@ -602,13 +459,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Duncan Riley",
-        "title": "Nucleus Security launches Helix, an AI engine for exposure management",
-        "description": "Exposure management company Nucleus Security Inc. today unveiled Nucleus Helix, an artificial intelligence engine that now sits at the center of its platform. Three new capabilities run on the engine. An expansion of Nucleus Insights, the company\u2019s vulnerabil\u2026",
-        "url": "https://siliconangle.com/2026/08/25/nucleus-security-launches-helix-an-ai-engine-for-exposure-management/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/nucleussecurity.png",
-        "publishedAt": "2026-08-25T13:00:52Z",
-        "content": "Exposure management company Nucleus Security Inc. today unveiled Nucleus Helix, an artificial intelligence engine that now sits at the center of its platform.\r\nThree new capabilities run on the engin\u2026 [+4335 chars]"
+        "author": "Kyt Dotson",
+        "title": "Plaud unveils wearable earbuds with built-in agentic AI interface",
+        "description": "Plaud Inc., the maker of artificial intelligence-enabled note-taking devices, today introduced the Plaud One Explorer Edition, a pair of earbuds and a charging box that connect people to AI agents for work and everyday digital tasks. Both the Plaud One earbud\u2026",
+        "url": "https://siliconangle.com/2026/08/27/plaud-unveils-wearable-earbuds-with-built-in-agentic-ai-interface/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/169-KV-Clean-scaled.jpeg",
+        "publishedAt": "2026-08-27T13:00:01Z",
+        "content": "Plaud Inc., the maker of artificial intelligence-enabled note-taking devices, today introduced the Plaud One Explorer Edition, a pair of earbuds and a charging box that connect people to AI agents fo\u2026 [+4722 chars]"
     },
     {
         "source": {
@@ -641,12 +498,142 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mark Albertson",
-        "title": "Nvidia and Cisco push the enterprise AI factory into the rack-scale era",
-        "description": "The Cisco Secure AI Factory with Nvidia has been extended into the rack-scale era, offering enterprises greater full-stack operational capabilities as a result. Designed to give customers a framework for deploying artificial intelligence across their entire i\u2026",
-        "url": "https://siliconangle.com/2026/08/25/nvidia-cisco-rack-scale-ai-factory-cisconvidiaaifactory/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Will-Eatherton-Cisco-and-Marc-Hamilton-Nvidia-Cisco-Secure-AI-Factory-With-Nvidia-Expands-to-Rack-Scale-2026.png",
-        "publishedAt": "2026-08-25T14:13:20Z",
-        "content": "The Cisco Secure AI Factory with Nvidia has been extended into the rack-scale era, offering enterprises greater full-stack operational capabilities as a result.\r\nDesigned to give customers a framewor\u2026 [+5258 chars]"
+        "author": "Duncan Riley",
+        "title": "Sonar launches Hunter Agent to find flaws code scanners can\u2019t see",
+        "description": "Artificial intelligence code verification and governance company SonarSource S\u00e0rl today released SonarQube Hunter Agent, an AI agent built to find security flaws that pattern-based scanning cannot see. The vulnerabilities it targets are the ones where the cod\u2026",
+        "url": "https://siliconangle.com/2026/08/27/sonar-launches-hunter-agent-to-find-flaws-code-scanners-cant-see/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/sonarhuntergaent-scaled.png",
+        "publishedAt": "2026-08-27T13:00:16Z",
+        "content": "Artificial intelligence code verification and governance company SonarSource S\u00e0rl today released SonarQube Hunter Agent, an AI agent built to find security flaws that pattern-based scanning cannot se\u2026 [+4464 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Vulnerability-free container image startup Echo acquires Minimus",
+        "description": "Echo Software Ltd., a startup that\u2019s using artificial intelligence agents to secure container images, today announced it\u2019s acquiring the assets of Minimus Inc. following the company\u2019s wind-down. The core proposition of Echo is that it uses AI agents to replac\u2026",
+        "url": "https://siliconangle.com/2026/08/27/vulnerability-free-container-image-startup-echo-acquires-minimus/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/04/An-abstract-cybersecurity-AI-protecting-a-laptop-floating-in-space-using-ghostly-blue-luminous-locks.jpeg",
+        "publishedAt": "2026-08-27T15:40:42Z",
+        "content": "Echo Software Ltd., a startup thats using artificial intelligence agents to secure container images, today announced its acquiring the assets of Minimus Inc. following the companys wind-down.\r\nThe co\u2026 [+5353 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Harness tackles influx of agent-delivered code with Code Repository and AI Code Review",
+        "description": "Software delivery platform provider Harness Inc. today announced the launch of Agent-Ready Harness Code Repository and AI Code Review, aimed at developer teams adopting artificial intelligence coding agents at an ever-increasing pace. Now that AI agents produ\u2026",
+        "url": "https://siliconangle.com/2026/08/27/harness-tackles-influx-of-agent-delivered-code-with-code-repository-and-ai-code-review/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/A-pair-of-AI-agent-hands-typing-on-a-keyboard-in-front-of-a-screen-that-is-filling-up-with-indiscern.jpeg",
+        "publishedAt": "2026-08-27T15:00:24Z",
+        "content": "Software delivery platform provider Harness Inc. today announced the launch of Agent-Ready Harness Code Repository and AI Code Review, aimed at developer teams adopting artificial intelligence coding\u2026 [+4986 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "James Farrell",
+        "title": "Bill Gates issues stark warning about AI and the future of humanity",
+        "description": "Microsoft Corp. co-founder Bill Gates sounded the alarm recently regarding how artificial intelligence will cause profound disruption in the labor market, warning that millions of jobs are at risk and there\u2019s no plan yet to help those who will lose out. Gates\u2026",
+        "url": "https://siliconangle.com/2026/08/26/bill-gates-issues-stark-warning-about-ai-and-the-future-of-humanity/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/500px-Bill_Gates_-_DEVE_Extraordinary_meeting_-_2025_-_EP-186612C_PB9_743.jpg",
+        "publishedAt": "2026-08-27T01:36:10Z",
+        "content": "Microsoft Corp. co-founder Bill Gates sounded the alarm recently regarding how artificial intelligence will cause profound disruption in the labor market, warning that millions of jobs are at risk an\u2026 [+4947 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Socure raises $156M at $5.2B valuation and acquires AI startup Fravity",
+        "description": "Identity verification company Socure Inc. today announced a $156 million strategic growth investment at a valuation of $5.2 billion. Part of that money went to agentic artificial intelligence startup Fravity AI, acquired in a separate transaction announced th\u2026",
+        "url": "https://siliconangle.com/2026/08/27/socure-raises-156m-at-5-2b-valuation-and-acquires-ai-startup-fravity/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/fravity.png",
+        "publishedAt": "2026-08-27T13:00:24Z",
+        "content": "Identity verification company Socure Inc. today announced a $156 million strategic growth investment at a valuation of $5.2 billion.\r\nPart of that money went to agentic artificial intelligence startu\u2026 [+4142 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Nutanix tops estimates as external storage growth helps counter hardware squeeze",
+        "description": "Nutanix Inc. closed out its fiscal year with stronger-than-expected fourth-quarter revenue and profit as annual recurring revenue grew 16% and customers adopted more of the company\u2019s external storage, public-cloud and portfolio offerings. Revenue for the quar\u2026",
+        "url": "https://siliconangle.com/2026/08/26/nutanix-tops-estimates-as-external-storage-growth-helps-counter-hardware-squeeze/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/Rajiv-Ramaswami-president-and-CEO-of-Nutanix-Nutanix-.NEXT-2026.jpg",
+        "publishedAt": "2026-08-26T22:51:59Z",
+        "content": "Nutanix Inc. closed out its fiscal year with stronger-than-expected fourth-quarter revenue and profit as annual recurring revenue grew 16% and customers adopted more of the companys external storage,\u2026 [+5965 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "OpenAI explains how its naughty AI agents attacked Hugging Face",
+        "description": "Biz describes its act of automated irresponsibility as 'a warning shot'",
+        "url": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780",
+        "urlToImage": "https://image.theregister.com/255325.jpg?imageId=255325&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-26T23:45:58Z",
+        "content": "OpenAI has published its technical report detailing \"the Hugging Face incident,\" the compromise of the eponymous LLM repository by unreleased, ill-supervised AI models.\r\nThe incident, widely reported\u2026 [+3860 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "OpenAI explains how its AI agents did crime and attacked Hugging Face",
+        "description": "Biz describes its act of automated irresponsibility as 'a warning shot'",
+        "url": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-ai-agents-did-crime-and-attacked-hugging-face/5292780",
+        "urlToImage": "https://image.theregister.com/255325.jpg?imageId=255325&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-26T23:45:58Z",
+        "content": "OpenAI has published its technical report detailing \"the Hugging Face incident,\" the compromise of the eponymous LLM repository by unreleased, ill-supervised AI models.\r\nThe incident, widely reported\u2026 [+3860 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Liam Proven",
+        "title": "Omarchy distro gains serious backing",
+        "description": "Polarizing opinions while tech heavyweights put up $10M",
+        "url": "https://www.theregister.com/os-platforms/2026/08/27/omarchy-distro-gains-serious-backing/5293026",
+        "urlToImage": "https://image.theregister.com/5293055.jpg?imageId=5293055&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-27T17:07:18Z",
+        "content": "The controversial Omarchy distro is attracting both criticism and fans and financial support, too.\r\nOmarchy is an opinionated respin of Arch Linux and a pet project of Ruby on Rails creator David Hei\u2026 [+4322 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Workplace fraud monitoring startup Yardstik raises $30M to help employers keep tabs on their staff",
+        "description": "Yardstik Inc., a workforce screening startup that monitors companies\u2019 employees for potential fraudulent actions, said today it has closed on a $30 million growth round of funding that brings its total amount raised to date to $65 million. Harbert Growth Part\u2026",
+        "url": "https://siliconangle.com/2026/08/27/workplace-fraud-monitoring-startup-yardstik-raises-30m-to-help-employers-keep-tabs-on-their-staff/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-27-09-45-09.png",
+        "publishedAt": "2026-08-27T13:00:01Z",
+        "content": "Yardstik Inc., a workforce screening startup that monitors companies employees for potential fraudulent actions, said today it has closed on a $30 million growth round of funding that brings its tota\u2026 [+6305 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Autonomous drone intercept startup Mara raises $7M to secure the modern battlefield",
+        "description": "Defense technology startup Mara Inc. said today it has closed on a $7 million pre-seed round of funding led by Khosla Ventures to speed up the development and production of its low-cost, autonomous counter-unmanned aircraft system, Spike. Other backers includ\u2026",
+        "url": "https://siliconangle.com/2026/08/26/autonomous-drone-intercept-startup-mara-raises-7m-to-secure-the-modern-battlefield/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-26-09-06-39.png",
+        "publishedAt": "2026-08-26T12:00:54Z",
+        "content": "Defense technology startup Mara Inc. said today it has closed on a $7 million pre-seed round of funding led by Khosla Ventures to speed up the development and production of its low-cost, autonomous c\u2026 [+5323 chars]"
     }
 ]

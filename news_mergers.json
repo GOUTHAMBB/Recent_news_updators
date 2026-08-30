@@ -1,16 +1,55 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Entrepreneur"
+        },
+        "author": "Molly Cavanah",
+        "title": "Business Formations Are at Record Highs \u2014 and the Fastest-Growing States Aren\u2019t the Ones You\u2019d Guess",
+        "description": "AI and remote work just killed the case for building in a legacy startup hub \u2014 and the data on where founders are actually launching proves it.",
+        "url": "https://www.entrepreneur.com/building-a-business/grow-your-business/business-formations-are-at-record-highs-and-the-fastest-growing-states-arent-the-ones-youd-guess",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/new-business-formations-0826_g916354918.jpg?resize=1024,683",
+        "publishedAt": "2026-08-28T18:30:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>AI and remote work have erased the two biggest reasons founders used to move to Silicon Valley or New York access \u2026 [+7053 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Entrepreneur"
+        },
+        "author": "Jon Small",
+        "title": "This Company Was Hacked by Rogue OpenAI Agents. Now Nvidia Wants to Buy It for $12.9 Billion.",
+        "description": "Hugging Face is the open-source AI platform whose security got breached by an OpenAI model earlier this summer.",
+        "url": "https://www.entrepreneur.com/business-news/this-company-was-hacked-by-rogue-openai-agents-now-nvidia-wants-to-buy-it-for-12-9-billion",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/openai-nvidia0826-g-2236938640.jpg?resize=1024,655",
+        "publishedAt": "2026-08-28T13:45:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.Hugging Face lets developers build, test and share AI models. Now Nvidia wants to give it a giant hug worth $12.9 billion. A CNBC source \u2026 [+2626 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Geoff Weiss",
-        "title": "Nvidia's interest in Hugging Face is a hedge against a future dominated by OpenAI and Anthropic",
-        "description": "Nvidia had talks to acquire Hugging Face for $13 billion, Business Insider reported. It could boost Nvidia's open-source strategy, challenging OpenAI.",
-        "url": "https://www.businessinsider.com/hugging-face-nvidia-deal-reshape-ai-landscape-2026-8#article",
-        "urlToImage": "https://i.insider.com/6a9067b645e6f385a5169cd0?width=1200&format=jpeg",
-        "publishedAt": "2026-08-27T18:34:52Z",
-        "content": "Nvidia CEO Jensen Huang.Jung Yeon-je / AFP via Getty Images\r\n<ul><li>Nvidia's interest in Hugging Face supercharges its push into open-source AI.</li><li>Open models could keep OpenAI and Anthropic f\u2026 [+2791 chars]"
+        "author": "Lloyd Lee",
+        "title": "OpenAI says it's ending its deal with Cursor because of Elon Musk's companies violating contracts",
+        "description": "OpenAI said it doesn't trust SpaceX to comply with its terms of service, citing past conduct by xAI, another of Elon Musk's companies.",
+        "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8#article",
+        "urlToImage": "https://i.insider.com/6a92569a45e6f385a516a903?width=1200&format=jpeg",
+        "publishedAt": "2026-08-29T03:39:48Z",
+        "content": "OpenAI said it could not trust SpaceX to comply with its terms of service, citing Twitter's past conduct under Elon Musk.Fabrice Coffrini/AFP via Getty Images\r\n<ul><li>OpenAI said it will end its con\u2026 [+3102 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Entrepreneur"
+        },
+        "author": "Will Fan",
+        "title": "How to Build a Capital Stack That Gives Your Startup More Control",
+        "description": "Venture capital is no longer a default. Here's why founders need to rethink how they finance their startups.",
+        "url": "https://www.entrepreneur.com/building-a-business/how-to-build-a-capital-stack-that-gives-your-startup-more-control",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/capital-stack-control-0826_g174924603-copy.jpg?resize=1024,683",
+        "publishedAt": "2026-08-28T18:00:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Venture capital is no longer the default startup financing strategy. Higher rates, slower exits, constrained VC fu\u2026 [+6027 chars]"
     },
     {
         "source": {
@@ -27,29 +66,94 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Quartz India"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Cris Tolomia",
-        "title": "Anthropic signs $45 billion cloud computing deal with Nscale",
-        "description": "The six-year agreement gives Anthropic access to 460 megawatts of compute capacity at an Nscale data center in West Virginia",
-        "url": "https://qz.com/anthropic-nscale-45-billion-cloud-computing-deal-082726",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/34225e1a82a1d4c807003bcb196dff7284393823b131f622608c89652ea0a0e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F118079d1e094ff29eee520cda50cb3a4.jpg",
-        "publishedAt": "2026-08-27T12:45:14Z",
-        "content": "Anthropic has signed a roughly $45 billion cloud computing deal with Nscale, a U.K.-based AI infrastructure company. Two confidential sources told CNBC that under the terms of the deal, Anthropic wil\u2026 [+2166 chars]"
+        "author": "Lloyd Lee,Truman Dickerson",
+        "title": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+        "description": "OpenAI said it doesn't trust SpaceX to comply with its terms of service, citing past conduct by xAI, another of Elon Musk's companies.",
+        "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/c1fb0f51c90399e7f0d12f27d3f36b960b831088a2f8303dc886ec94525ce739/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fdbd2dcb3ef30dd3c8ada54b1921ec791.jpg",
+        "publishedAt": "2026-08-29T13:32:06Z",
+        "content": "<ul><li>OpenAI said it will end its contract with Cursor, a startup that was acquired by SpaceX.\r\n</li><li>The company pointed to past conduct by Twitter, another Elon Musk-owned company.\r\n</li><li>O\u2026 [+3145 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Jennifer Sor",
+        "title": "Silicon Valley wealth managers say elite tech workers are making these 5 money moves as AI mania continues",
+        "description": "Wealth advisors say tech workers are getting anxious about the market turning, and are looking for advice on how to position for the AI bubble bursting.",
+        "url": "https://www.businessinsider.com/silicon-valley-big-tech-workers-ai-wealth-money-investing-advice-2026-8",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/3a8e7d8f8b64a1401bf8b354d758a8ff76edf3d3735dfa3f495cccd9c86a1e40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F30db412b3e695004f5a1feecd8e5c5bf.jpg",
+        "publishedAt": "2026-08-29T09:30:02Z",
+        "content": "The offers and details on this page may have updated or changed since the time of publication. See our article on Business Insider for current information.\r\nhalbergman/Getty Images\r\n<ul><li>The AI bo\u2026 [+8597 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Huileng Tan",
+        "title": "Everything we know about Z.ai, the Chinese company behind the mysterious Ox Alpha model",
+        "description": "Z.ai revealed that mystery AI model Ox Alpha was GLM-5.3-Flash, which it had anonymously tested on OpenRouter and OpenCode.",
+        "url": "https://www.businessinsider.com/what-is-ox-alpha-ai-model-openroute-opencode-z-ai-2026-8",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1f95e74fa15db5a9c6c44ec5d03058d866f1c9e5d78b0d46c96e4015762b89a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fcb17178630c82e5b3ea9d24b8e37f9fc.jpg",
+        "publishedAt": "2026-08-28T07:28:03Z",
+        "content": "<ul><li>Chinese tech firm Z.ai revealed that mystery AI model Ox Alpha was actually its new GLM-5.3-Flash model.\r\n</li><li>The Tsinghua University spinout went public in Hong Kong in January and its \u2026 [+3699 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Entrepreneur"
+        },
+        "author": "Sherin Shibu",
+        "title": "I Went to a $14,000 Retreat for 9-Figure Founders in the Italian Countryside. Here\u2019s a Behind-the-Scenes Look.",
+        "description": "Here's what happens when ultra-successful founders gather behind closed doors.",
+        "url": "https://www.entrepreneur.com/building-a-business/i-went-to-a-14000-retreat-for-9-figure-founders-in-the-italian-countryside",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/A-row-of-shops-in-the-village.-.jpg?resize=1024,867",
+        "publishedAt": "2026-08-28T18:18:37Z",
+        "content": "Key Takeaways\r\n<ul><li>The OOAK Mastermind conference took place in late August in Tuscany.</li><li>In order to attend, founders had to apply and pay $14,000 in conference fees.</li><li>The event was\u2026 [+7700 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Quartz India"
         },
-        "author": "Cris Tolomia",
-        "title": "Nvidia reportedly acquiring Hugging Face for $12.9 billion",
-        "description": "The deal would give the chipmaker a foothold in one of the most widely used platforms for sharing open-source AI models",
-        "url": "https://qz.com/nvidia-hugging-face-acquisition-12-billion-082726",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/596a26fb1f1c4999ab79a621be7653bf2c4905aab162c352bdb4517b1b10ea29/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Ffa7df46af0489eb1b0c7f806f0bdff5b.jpg",
-        "publishedAt": "2026-08-27T11:10:38Z",
-        "content": "Nvidia has agreed to acquire Hugging Face for $12.9 billion, according to CNBC, citing a report from The Information. Neither Nvidia nor Hugging Face responded to requests for comment.\r\nHugging Face \u2026 [+2004 chars]"
+        "author": "Albert Manitoba",
+        "title": "Print-on-demand looks like an easy business to start.",
+        "description": "Print-on-demand success takes more than low startup costs. A reliable partner such as Printful, and paid advertising help POD stores compete.",
+        "url": "https://qz.com/product-and-advertising-are-vital-for-pod-success",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/610ab58e6104f2d7897a75b387f88b24457b700103bf31d48f14118bbb22bd32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F529b82b75d3b8d448ad0b45b30dc9d48.jpg",
+        "publishedAt": "2026-08-28T18:24:10Z",
+        "content": "For many aspiring ecommerce entrepreneurs, print-on-demand products seem like an easy, low-cost way to start selling online, but without advertising and a good printing partner, it is still hard to c\u2026 [+7505 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "jsor@businessinsider.com (Jennifer Sor)",
+        "title": "Silicon Valley wealth managers say elite tech workers are making these 5 money moves as AI mania continues",
+        "description": "Wealth advisors say tech workers are getting anxious about the market turning, and are looking for advice on how to position for the AI bubble bursting.",
+        "url": "https://www.businessinsider.com/silicon-valley-big-tech-workers-ai-wealth-money-investing-advice-2026-8#article",
+        "urlToImage": "https://i.insider.com/6a9185d179f11f0a89f91f90?width=1200&format=jpeg",
+        "publishedAt": "2026-08-29T09:30:02Z",
+        "content": "Workers at top AI companies are getting anxious about an AI bubble, and they're scrambling for answers about what to do with their newfound wealth before the music stops.\r\nIt's a moment ripe with opp\u2026 [+8047 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "OpenAI to end partnership with Cursor after SpaceX acquisition",
+        "description": "OpenAI said it has informed Cursor that it will wind down their contract with a proposed shutoff date of Nov 12",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/6tsqkh/article71403466.ece/alternates/LANDSCAPE_1200/2026-08-26T205557Z_983519563_RC2QRLA1KF9Q_RTRMADP_3_OPENAI-HUGGING-FACE.JPG",
+        "publishedAt": "2026-08-29T03:58:49Z",
+        "content": "OpenAI said it will end its partnership with Cursor after the AI-coding agents acquisition by SpaceX, according to a post on X.\r\nIn a separate post on its website, OpenAI said it has informed Cursor \u2026 [+433 chars]"
     },
     {
         "source": {
@@ -69,71 +173,6 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Sheryl Estrada",
-        "title": "Nvidia CFO says about half of its data center business comes from customers beyond hyperscalers",
-        "description": "Other customer segments are growing faster than the cloud giants that once dominated Nvidia's sales.",
-        "url": "https://fortune.com/2026/08/27/nvidia-cfo-about-half-data-center-business-customers-beyond-hyperscalers/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2021/02/GettyImages-1231032815.jpg?resize=1200,600",
-        "publishedAt": "2026-08-27T13:17:53Z",
-        "content": "Good morning. Nvidia just handed AI bubble skeptics their toughest rebuttal yet.Tech giant Nvidia reported its fiscal second quarter earnings on Wednesday, with revenue of $96.2 billion, up 106% year\u2026 [+6304 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Beatrice Nolan",
-        "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, reports",
-        "description": "The AI chip giant is in advanced talks to acquire the open-source AI hub, a move that would help to cement its grip on the open-source AI ecosystem.",
-        "url": "https://fortune.com/2026/08/27/nvidia-hugging-face-billion-dollar-deal-open-source-ai/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287380982-e1787822287664.jpg?resize=1200,600",
-        "publishedAt": "2026-08-27T11:05:22Z",
-        "content": "Nvidia is buying AI company Hugging Face for $12.9 billion, according to a report in tech publication The Information. The deal would give Nvidia a major foothold in open-source AI at a moment when o\u2026 [+3535 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Allie Garfinkle",
-        "title": "David Tisch has always been a collector. His firm\u2019s biggest prize is a $1 billion return on Cursor",
-        "description": "How BoxGroup and David Tisch hit it big with a once-unlikely bet.",
-        "url": "https://fortune.com/2026/08/27/david-tisch-been-collector-firm-biggest-prize-1-billion-return-cursor-boxgroup/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/BoxGroupDTisch1LittleW12th16Nov2023GMorris_64_9896ReTouched-e1787757667229.png?resize=1200,600",
-        "publishedAt": "2026-08-27T11:26:27Z",
-        "content": "David Tisch is a collector, and always has been.The first time I met Tisch, I was floored and delighted walking into his New York office: An entire wall-and-more of bearstheyre Bearbricks, to be exac\u2026 [+5768 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Justina Lee",
-        "title": "Japanese startups, IPOs set for boost with platform to trade unlisted companies",
-        "description": "The Japanese regulator's registration of a new trading platform for unlisted shares could help create a more favorable capital-raising environment for the country's IPO ecosystem.",
-        "url": "https://www.cnbc.com/2026/08/27/japan-startups-ipos-trading-platform-unlisted-companies-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108352492-1787276148365-gettyimages-485154260-Hkg10204842.jpeg?v=1787276188&w=1920&h=1080",
-        "publishedAt": "2026-08-27T03:41:00Z",
-        "content": "Japan's startup and initial-public offering scenes may get a boost from a new trading platform that will help unlisted companies raise capital.\r\nInvestors have had few options to cash out besides IPO\u2026 [+1587 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Beatrice Nolan",
-        "title": "Chinese open-source AI is starting to win over U.S. businesses",
-        "description": "New spending data suggests companies are increasingly turning to cheaper, customizable open models\u2014including fast-improving systems from China.",
-        "url": "https://fortune.com/2026/08/27/chinese-open-source-ai-is-starting-to-win-over-u-s-businesses/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2286500319-e1787844024333.jpg?resize=1200,600",
-        "publishedAt": "2026-08-27T16:09:27Z",
-        "content": "Welcome to Eye on AI. Beatrice Nolan here. In todays issue:Enterprises are starting to look beyond America for their AI needs.\u00a0\r\nAs Chinese open-weight AI models increasingly close the gap with their\u2026 [+9794 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
         "author": "Phil Wahba",
         "title": "The CEO who revived Barbie thinks he can do the same for Gap",
         "description": "Also: All the news and watercooler chat from Fortune.",
@@ -141,19 +180,6 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2274049248-e1787904819721.jpg?resize=1200,600",
         "publishedAt": "2026-08-28T10:08:23Z",
         "content": "Good morning. Phil Wahba writing this morning from New York. Gap Inc. CEO Richard Dickson has a theory: A brand cannot sell its way out of irrelevance.Touring the remodeled Gap flagship store in Manh\u2026 [+4592 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Beatrice Nolan",
-        "title": "Google DeepMind is losing its grip on elite AI talent, new data shows",
-        "description": "New data shared exclusively with Fortune shows the lab\u2019s share of top research and engineering hires in Europe has fallen sharply as OpenAI, Anthropic, and a new generation of rivals gain ground.",
-        "url": "https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2276578034-e1787759543733.jpg?resize=1200,600",
-        "publishedAt": "2026-08-27T07:00:00Z",
-        "content": "Over the last few years, the AI talent market has looked more like a professional sports draft than a conventional hiring cycle. Cash-rich labs are offering salaries more commonly associated with pro\u2026 [+9558 chars]"
     },
     {
         "source": {
@@ -170,29 +196,16 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Jeffrey Sonnenfeld, Steven Tian, Stephen Henriques",
-        "title": "The SaaSpocalypse that wasn\u2019t \u2013 how Salesforce, Booking and IBM are thriving with AI",
-        "description": "SaaSpocalypse now? More like a misguided panic that accidentally trampled the resilient winners\u00a0of this misunderstood sector.",
-        "url": "https://fortune.com/2026/08/26/saaspocalypse-salesforce-booking-ibm-sonnenfeld/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2256811569-e1787802390565.jpg?resize=1200,600",
-        "publishedAt": "2026-08-27T03:47:41Z",
-        "content": "The apocryphal quip attributed to Mark Twain, the rumors of my death are greatly exaggerated, rings true for certain companies in the software space amidst widespread but premature fears of AI-driven\u2026 [+13592 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Joshua Hong",
-        "title": "SpaceX says it\u2019s building its largest spaceport yet, committing $100 billion for a Louisiana site\u2014adding to its list of billion-dollar expansion plans",
-        "description": "Louisiana is getting a taste of Musk\u2019s big ideas as they get a part of the CEO\u2019s billions-of-dollar-plans to bring humanity to space.",
-        "url": "https://fortune.com/2026/08/27/spacex-largest-spaceport-100-billion-louisiana-expansion/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1499013132-e1787775357823.jpg?resize=1200,600",
-        "publishedAt": "2026-08-27T07:00:00Z",
-        "content": "Rather apparent in SpaceXs IPO filings is the ever-constant named goal of reaching Mars to build compute infrastructure and even human settlements on the red planet. In Elon Musks first earnings call\u2026 [+6159 chars]"
+        "author": "Ashley Capoot",
+        "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+        "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+        "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
+        "publishedAt": "2026-08-29T12:16:03Z",
+        "content": "A woman holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida on July 18, 2026. \r\nSilicon Valley's technology leaders have long dream\u2026 [+9568 chars]"
     },
     {
         "source": {
@@ -212,45 +225,6 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "April Roach",
-        "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
-        "description": "Nvidia reportedly agreed to buy open source AI platform Hugging Face for $12.9 billion as the chipmaker expands deeper into the AI ecosystem.",
-        "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107291118-1692832899082-gettyimages-1608151041-HUGGING_FACE_AI.jpeg?v=1701200698&w=1920&h=1080",
-        "publishedAt": "2026-08-27T07:29:46Z",
-        "content": "Nvidia has agreed to buy open-source platform Hugging Face for $12.9 billion, The Information reported on Wednesday, citing a person with knowledge of the deal.\r\nDeal talks began after Hugging Face, \u2026 [+2226 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sasha Rogelberg",
-        "title": "Pete Hegseth is worried about the Pentagon\u2019s \u2018Soviet-style bureaucracy,\u2019 but the military\u2019s $285 billion maintenance mess is all-American",
-        "description": "\u201cYou have to question whether the resources are being allocated in a way that provides maximum benefits,\u201d Harvard\u2019s Linda Bilmes told Fortune.",
-        "url": "https://fortune.com/2026/08/27/pete-hegseth-defense-spending-pentagon-maintenance-problem-gao-report-soviet-union/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2290918878-e1787778555344.jpg?resize=1200,600",
-        "publishedAt": "2026-08-27T14:47:02Z",
-        "content": "Shortly after he became Trumps Secretary of War, Pete Hegseth warned that the American military risked a late Soviet-style decline. Speaking before a group of defense executives in November 2025, he \u2026 [+8810 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Brian Sullivan",
-        "title": "Brian Sullivan: Gulf nations are unlikely to agree to a toll plan for Strait of Hormuz safe passage",
-        "description": "Gulf nations will be reluctant to agree to or adhere to a fee or toll for safe passage through the Strait of Hormuz, according to my conversations.",
-        "url": "https://www.cnbc.com/2026/08/27/brian-sullivan-gulf-nations-are-unlikely-to-agree-to-a-toll-plan-for-strait-of-hormuz-safe-passage.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354962-1787810582819-gettyimages-2291320726-koutsokostas-notitle260824_npYkV.jpeg?v=1787810594&w=1920&h=1080",
-        "publishedAt": "2026-08-27T17:45:49Z",
-        "content": "SUBSCRIBE TO CNBC'S \"POWER INSIDER NEWSLETTER\r\nPOWER POINT\r\nWhat I'm hearing from energy insiders\r\nThe Great Hormuz Debate.\r\nExactly how many ships - and how much oil - are getting through the Strait\u2026 [+8013 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
         "author": "Jordan Novet",
         "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics",
         "description": "Salesforce's stock had its second-best day on record following earnings, as Wall Street shows renewed confidence in CEO Marc Benioff's AI story.",
@@ -258,19 +232,6 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355260-1787848337296-gettyimages-1660734714-DREAMFORCE_2023.jpeg?v=1787848374&w=1920&h=1080",
         "publishedAt": "2026-08-28T11:00:01Z",
         "content": "Salesforce CEO Marc Benioff appears at the 2023 Dreamforce conference in San Francisco on Sept. 12, 2023.\r\nFor the better part of a year, Salesforce CEO Marc Benioff has been hearing that his company\u2026 [+5620 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Evelyn Cheng",
-        "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-        "description": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
-        "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354924-1787796711275-gettyimages-2289885733-Zhipu.jpeg?v=1787796988&w=1920&h=1080",
-        "publishedAt": "2026-08-27T03:20:14Z",
-        "content": "BEIJING Chinese artificial intelligence company Z.ai released a new model Wednesday that the company claims uses entirely homegrown semiconductors to operate.\r\nCalled GLM-5.3-Flash, the low-cost vers\u2026 [+1742 chars]"
     },
     {
         "source": {

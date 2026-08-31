@@ -1,68 +1,16 @@
 [
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana-Maria Stanciuc",
-        "title": "a16z has raised $1.1bn to invest in the physical layer of AI",
-        "description": "Andreessen Horowitz has closed a $1.1bn fund that will invest exclusively in hardware. The Machine Age Fund, announced on Friday, covers the physical layer artificial intelligence runs on, from chips to the buildings that house them. The mandate takes in chip\u2026",
-        "url": "https://thenextweb.com/news/a16z-machine-age-fund-1-1bn-hardware",
-        "urlToImage": "https://media.thenextweb.com/2026/08/The-Machine-Age-Fund.jpg",
-        "publishedAt": "2026-08-28T14:19:29Z",
-        "content": "Andreessen Horowitz has closed a $1.1bn fund that will invest exclusively in hardware. The Machine Age Fund, announced on Friday, covers the physical layer artificial intelligence runs on, from chips\u2026 [+3700 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "CNET"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Katelyn Chedraoui",
-        "title": "The 2026 Midterms Are Coming. Political Deepfakes Are Already Here",
-        "description": "Remember that fake Joe Biden robocall? That likely won\u2019t be the last AI deepfake we see during election season.",
-        "url": "https://www.cnet.com/tech/services-and-software/2026-midterms-political-ai-deepfakes/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Opt-2.png",
-        "publishedAt": "2026-08-28T13:01:00Z",
-        "content": "Scammers have always tried to trick us into handing over our hard-earned money and personal information. But generative AI is making it even easier for them. Now, with the click of a button, they can\u2026 [+4137 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Tom Hawking",
-        "title": "James Pond Creator Says He Hopes Publishers of Legacy Collection \u2018Choke on an AI-Generated Fishbone\u2019",
-        "description": "Shaken, not stirred.",
-        "url": "https://gizmodo.com/james-pond-creator-says-he-hopes-publishers-of-legacy-collection-choke-on-an-ai-generated-fishbone-2000804412",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/james-pond-1200x675.png",
-        "publishedAt": "2026-08-28T17:55:39Z",
-        "content": "In shocking news, Ian Fleming has risen from the grave to condemnwait, no, thats not right. Let\u2019s take it from the top. In shocking news, the developer behind the 1990s platformer series James Pond, \u2026 [+3342 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Prakhar Khanna",
-        "title": "Apple Might Skip the iPhone 18 This Year. Is the iPhone 17 Still Worth It?",
-        "description": "Ahead of Apple\u2019s Sept. 9 launch event, I retested the iPhone 17 to see if it can retain the \u201cbest iPhone for most people\u201d title for another six months.",
-        "url": "https://www.cnet.com/tech/mobile/apple-might-skip-the-iphone-18-this-year-is-the-iphone-17-still-worth-it/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_20260828_112456.jpg",
-        "publishedAt": "2026-08-28T22:11:05Z",
-        "content": "The iPhone 17 closed the gap between Apples entry-level phone and the pricier Pro models last year with long-overdue display upgrades, alongside nifty camera and durability improvements. Apple also m\u2026 [+8002 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Ece Yildirim",
-        "title": "Grok Not Only Generates Child Porn but Was Also Trained On It, New Lawsuit Claims",
-        "description": "A plaintiff is claiming that CSAM was used to train Grok.",
-        "url": "https://gizmodo.com/grok-not-only-generates-child-porn-but-was-also-trained-on-it-new-lawsuit-claims-2000804488",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/elon-looms-1200x675.jpg",
-        "publishedAt": "2026-08-28T20:50:13Z",
-        "content": "Elon Musk\u2019s nonconsensual sexual deepfake generator Grok is in more legal trouble.\r\nMusk-owned xAI\u2019s Grok was trained on child sexual abuse material (CSAM), a new complaint filed earlier this week cl\u2026 [+3533 chars]"
+        "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+        "title": "Donkey Kong 64 finally gets a fully native PC port written in C \u2014 DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
+        "description": "A team of veteran developers has recompiled Donkey Kong 64 in C, so it runs natively on Windows, Linux, and Mac. The entire project is free, uses no generative AI, but still includes more features than any vibecoded retro revival slop you can find online. You\u2026",
+        "url": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh-2452-80.png",
+        "publishedAt": "2026-08-30T14:26:14Z",
+        "content": "In the wake of AI vibecoding infiltrating the retro revival scene, human efforts tend to stand out, especially when they're as novel as this project. A bunch of developers have rebuilt Donkey Kong 64\u2026 [+2938 chars]"
     },
     {
         "source": {
@@ -82,78 +30,26 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Andreessen Horowitz raises $1.1B AI infrastructure fund",
-        "description": "Andreessen Horowitz today announced that it has raised a $1.1 billion fund to back artificial intelligence infrastructure startups.\u00a0 The Machine Age Fund will invest in companies that make data center equipment such as chips, memory and networking gear. Andre\u2026",
-        "url": "https://siliconangle.com/2026/08/28/andreessen-horowitz-raises-1-1b-ai-infrastructure-fund/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Data-center.png",
-        "publishedAt": "2026-08-28T22:21:51Z",
-        "content": "Andreessen Horowitz today announced that it has raised a $1.1 billion fund to back artificial intelligence infrastructure startups.\u00a0\r\nThe Machine Age Fund will invest in companies that make data cent\u2026 [+3872 chars]"
+        "author": "Amit Zavery",
+        "title": "Four safeguards to stop your AI agents from going rogue",
+        "description": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising. A coding agent at PocketOS recently deleted an entire production database. An agent at Meta exposed sensitive user data for two hours. An\u2026",
+        "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/aiagentsworkingtogether.png",
+        "publishedAt": "2026-08-30T14:53:22Z",
+        "content": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising.\r\nA coding agent at PocketOS recently deleted an entire production database. A\u2026 [+5845 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Marvell\u2019s stock sinks despite earnings beat and strong guidance",
-        "description": "Chipmaker Marvell Technology Inc. beat expectations and posted guidance that came in just above Wall Street\u2019s estimates, but it wasn\u2019t enough to impress investors, and its stock was headed south in after-hours trading. The company, which designs custom artifi\u2026",
-        "url": "https://siliconangle.com/2026/08/27/marvells-stock-sinks-despite-earnings-beat-and-strong-guidance/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2025-08-29-08-12-33.png",
-        "publishedAt": "2026-08-28T01:11:36Z",
-        "content": "Chipmaker Marvell Technology Inc. beat expectations and posted guidance that came in just above Wall Streets estimates, but it wasnt enough to impress investors, and its stock was headed south in aft\u2026 [+4039 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Anthropic previews MHS standard for AI agents that operate machines",
-        "description": "Anthropic PBC today previewed a standard that makes it easier for artificial intelligence agents to control machines such as microscopes. The Model Hardware Standard, or MHS, is the fruit of a collaboration between the Claude developer and medical research in\u2026",
-        "url": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Anthropic.png",
-        "publishedAt": "2026-08-28T00:19:52Z",
-        "content": "Anthropic PBC today previewed a standard that makes it easier for artificial intelligence agents to control machines such as microscopes.\r\nThe Model Hardware Standard, or MHS, is the fruit of a colla\u2026 [+4269 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Court rules Pentagon can\u2019t ban Anthropic\u2019s AI models",
-        "description": "A federal court has overturned the U.S. Defense Department\u2019s ban on Anthropic PBC\u2019s artificial intelligence models. Judge Rita Lin wrote in a late Thursday ruling that the Pentagon\u2019s move was \u201cillegal and baseless.\u201d The saga began in fall 2025, when the Defen\u2026",
-        "url": "https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anthropics-ai-models/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Photo1.png",
-        "publishedAt": "2026-08-28T20:54:40Z",
-        "content": "A federal court has overturned the U.S. Defense Departments ban on Anthropic PBCs artificial intelligence models.\r\nJudge Rita Lin wrote in a late Thursday ruling that the Pentagons move was illegal a\u2026 [+4298 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Chad Wilson",
-        "title": "Blue Yonder redesigns supply chain operations around AI agents",
-        "description": "Permanent disruption has turned supply chain management into a boardroom concern, sitting alongside security as tariff volatility, reshoring pressure and geopolitical shocks reset the cost of getting goods from origin to shelf. Forecast-and-execute planning m\u2026",
-        "url": "https://siliconangle.com/2026/08/28/supply-chain-agents-replace-apps-blue-yonder-rethinks-work-blueyonder/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/image.png.png",
-        "publishedAt": "2026-08-28T19:34:16Z",
-        "content": "Permanent disruption has turned supply chain management into a boardroom concern, sitting alongside security as tariff volatility, reshoring pressure and geopolitical shocks reset the cost of getting\u2026 [+4980 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "It\u2019s Nvidia\u2019s world. We just live in it",
-        "description": "The artificial intelligence juggernaut kept cruising along this week thanks to big earnings results from Nvidia \u2014 and even Salesforce, the supposed epicenter of the SaaSpocalypse. Nvidia not only beat all expectations for revenue, CEO Jensen Huang (pictured) \u2026",
-        "url": "https://siliconangle.com/2026/08/28/its-nvidias-world-we-just-live-in-it/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/03/jensenhuang-nvidiagtc26-1.png",
-        "publishedAt": "2026-08-28T14:00:15Z",
-        "content": "The artificial intelligence juggernaut kept cruising along this week thanks to big earnings results from Nvidia \u2014 and even Salesforce, the supposed epicenter of the SaaSpocalypse.\r\nNvidia not only be\u2026 [+12417 chars]"
+        "author": "Dave Vellante",
+        "title": "CrowdStrike\u2019s post-Mythos surge: Moat, momentum and the blast-radius test",
+        "description": "CrowdStrike Holdings Inc.\u2019s most recent earnings print shows that Anthropic PBC\u2019s Mythos model transformed artificial intelligence security from something chief information security officers needed to worry about down the road into an immediate buying event. \u2026",
+        "url": "https://siliconangle.com/2026/08/29/crowdstrikes-post-mythos-surge-moat-momentum-and-the-blast-radius-test/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/crowdstrike-image-2.jpg",
+        "publishedAt": "2026-08-29T16:38:32Z",
+        "content": "CrowdStrike Holdings Inc.s most recent earnings print shows that Anthropic PBC\u2019s Mythos model transformed artificial intelligence security from something chief information security officers needed to\u2026 [+27507 chars]"
     },
     {
         "source": {
@@ -171,67 +67,15 @@
     {
         "source": {
             "id": null,
-            "name": "ZDNet"
-        },
-        "author": "Mark Samuels",
-        "title": "91% of professionals say their firm still falls short on AI - how to fix that",
-        "description": "Research suggests a gap between AI ambition and on-the-ground reality, but the good news is that professionals can fill it by focusing on well-grounded explorations and solid production use cases.",
-        "url": "https://www.zdnet.com/article/thomson-reuters-report-ai-value-gap-business/",
-        "urlToImage": "https://www.zdnet.com/a/img/resize/51f56afd970a14830390ac906acf4812d59daf81/2026/08/27/9eb050a4-3dbb-4af9-8030-94b3af170251/blcokgap-gettyimages-2263561985.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-08-28T13:32:37Z",
-        "content": "Alllex/E+ via Getty Images\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\r\n<ul><li>Professionals believe AI isn't delivering value.</li><li>Too many organizations suffe\u2026 [+8385 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "After posting a solid earnings beat, Elastic\u2019s stock bounced higher in extended trading",
-        "description": "Shares of the enterprise search software company Elastic N.V. soared more than 19% in extended trading today after the company delivered fiscal first-quarter results that easily beat Wall Street\u2019s targets. The company reported earnings before certain costs su\u2026",
-        "url": "https://siliconangle.com/2026/08/27/after-posting-a-solid-earnings-beat-elastics-stock-bounced-higher-in-extended-trading/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Ash-Kulkarni-chief-executive-officer-of-Elasticsearch-B.V.-2-scaled.jpg",
-        "publishedAt": "2026-08-28T01:41:17Z",
-        "content": "Shares of the enterprise search software company Elastic N.V. soared more than 19% in extended trading today after the company delivered fiscal first-quarter results that easily beat Wall Streets tar\u2026 [+4349 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "After posting a solid earnings beat, Elastic\u2019s stock bounces higher in extended trading",
-        "description": "Shares of the enterprise search software company Elastic N.V. soared more than 19% in extended trading today after the company delivered fiscal first-quarter results that easily beat Wall Street\u2019s targets. The company reported earnings before certain costs su\u2026",
-        "url": "https://siliconangle.com/2026/08/27/after-posting-a-solid-earnings-beat-elastics-stock-bounces-higher-in-extended-trading/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Ash-Kulkarni-chief-executive-officer-of-Elasticsearch-B.V.-2-scaled.jpg",
-        "publishedAt": "2026-08-28T01:41:17Z",
-        "content": "Shares of the enterprise search software company Elastic N.V. soared more than 19% in extended trading today after the company delivered fiscal first-quarter results that easily beat Wall Streets tar\u2026 [+4346 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Liam Proven",
-        "title": "LibreOffice 26.8 is out \u2013 local first, and with no AI",
-        "description": "It looks a bit clunky, but it does the job \u2013 and on your own computer",
-        "url": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301",
-        "urlToImage": "https://image.theregister.com/261356.jpg?imageId=261356&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-28T15:45:00Z",
-        "content": "The latest semi-annual release of LibreOffice, the cross-platform FOSS office suite, is out and its gleefully throwing some shade.\r\nThe Document Foundation released LibreOffice 26.8 and sent The Regi\u2026 [+5145 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Reece Rogers",
-        "title": "I Asked 100 Companies for My Data. I Got Deletion Notices Instead",
-        "description": "California residents have a legal right to access the data that companies collect about them. Actually exercising that right is a burdensome nightmare.",
-        "url": "https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/",
-        "urlToImage": "https://media.wired.com/photos/6a905ea04534ff9dbe4c0ba5/191:100/w_1280,c_limit/DataRequest.jpg",
-        "publishedAt": "2026-08-28T10:15:00Z",
-        "content": "I filed a request with McDonalds earlier this month to access all of the personal data the fast food company collected about me, and I received a stunning 515-page report a few days later that detail\u2026 [+3528 chars]"
+        "author": "Paul Williamson",
+        "title": "Why the next wave of AI startups won\u2019t optimize infrastructure \u2013 until they have to",
+        "description": "For most AI startups, infrastructure isn\u2019t the first problem to solve; speed is. At the earliest stages, success is defined by how quickly a team can move from idea to product, from prototype to traction. The constraints are immediate and unforgiving: limited\u2026",
+        "url": "https://siliconangle.com/2026/08/30/why-the-next-wave-of-ai-startups-wont-optimize-infrastructure-until-they-have-to/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Builder-Pondering-Chips-800x542.png",
+        "publishedAt": "2026-08-30T14:53:26Z",
+        "content": "For most AI startups, infrastructure isnt the first problem to solve; speed is.\r\nAt the earliest stages, success is defined by how quickly a team can move from idea to product, from prototype to trac\u2026 [+7510 chars]"
     },
     {
         "source": {
@@ -261,29 +105,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "X busts 200,000-strong Chinese bot farm, including accounts making claims about AI data centers and electricity \u2014 suspect accounts posted claims about pricing and grid strain to 'manipulate' debate",
-        "description": "The X Safety Team said that at least 200 bot accounts have been making posts to influence public opinion data centers and energy policy. The accounts share links to legitimate news stories and then add their own spin designed to inflame emotions.",
-        "url": "https://www.tomshardware.com/tech-industry/policy/x-busts-200-000-strong-chinese-bot-farm-including-accounts-making-claims-about-ai-data-centers-and-electricity-suspect-accounts-posted-claims-about-pricing-and-grid-strain-to-manipulate-debate",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/yw5MbtykwkPMNVVs6n2PwU-2000-80.jpg",
-        "publishedAt": "2026-08-28T11:07:22Z",
-        "content": "X\u2019s Global Government Affairs team posted on its account that it identified a 200,000-strong bot farm operating on the platform, with 200 of them posting information designed to influence public perc\u2026 [+3178 chars]"
-    },
-    {
-        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Justine Calma",
-        "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
-        "description": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiri\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-08-28T16:28:40Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump administration wants to scrap another federal air pollution rule. Advocates say itll help data center developers avoid public scrutiny. \r\nThe Trump adm\u2026 [+5255 chars]"
+        "author": "Terrence O\u2019Brien",
+        "title": "Sony Music and Warner Chappell are suing Anthropic",
+        "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,0\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-08-29T18:19:53Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe companies call it one of the largest and most blatant ongoing thefts of intellectual property in history.\r\nThe companies call it one of the largest and most \u2026 [+3605 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books \u2014 team trains neural net on Photoshop edits to process 526,000 scans",
+        "description": "An epic book preservation effort.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/VPbW5b8NY95wsWtsy8qjbH-1632-80.png",
+        "publishedAt": "2026-08-30T12:00:00Z",
+        "content": "Around 2015, a trio of Pakistani friends took it upon themselves to digitize a large number of out-of-print books in Urdu, many of them lithographs \u2014 they call it the Ibteda Digital Library. They did\u2026 [+4784 chars]"
     },
     {
         "source": {
@@ -297,5 +141,18 @@
         "urlToImage": "https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-1920-80.jpg",
         "publishedAt": "2026-08-29T11:39:30Z",
         "content": "The majority of PCs are sold with Windows 11 licensed, paid-for, and pre-installed. This fact irks many folks, especially Linux aficionados who intend to wipe all traces of Microsoft\u2019s OS while their\u2026 [+3482 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Kate Park",
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining | TechCrunch",
+        "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+        "publishedAt": "2026-08-30T15:00:00Z",
+        "content": "Nearly every company that\u2019s trying to deploy artificial intelligence runs into the same problem: it\u2019s hard to integrate the tech into everyday operations. Industrial heavyweight Caterpillar has spent\u2026 [+3547 chars]"
     }
 ]

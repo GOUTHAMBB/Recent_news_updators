@@ -1,6 +1,58 @@
 [
     {
         "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "AI-driven cyber attacks are now the top risk to the financial system, the FSB says",
+        "description": "The chair of the Financial Stability Board has told G20 finance ministers that what artificial intelligence does to cyber risk is now the most immediate threat to the global financial system. Andrew Bailey set out the assessment in a letter ahead of this week\u2026",
+        "url": "https://thenextweb.com/news/fsb-ai-cyber-risk-financial-stability",
+        "urlToImage": "https://media.thenextweb.com/2026/08/Andrew-Bailey.jpg",
+        "publishedAt": "2026-08-31T08:04:04Z",
+        "content": "The chair of the Financial Stability Board has told G20 finance ministers that what artificial intelligence does to cyber risk is now the most immediate threat to the global financial system. Andrew \u2026 [+3600 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Mike Pearl",
+        "title": "John Ternus Will Reportedly Replace Apple\u2019s Rapidly Fossilizing Executives Soon After Becoming CEO",
+        "description": "It's an arduous task Tim Cook didn't have to deal with.",
+        "url": "https://gizmodo.com/john-ternus-will-reportedly-replace-apples-rapidly-fossilizing-executives-soon-after-becoming-ceo-2000804795",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ternus-2-1200x675.jpg",
+        "publishedAt": "2026-08-31T09:00:37Z",
+        "content": "John Ternus will officially replace Tim Cook as CEO of Apple next week, and a big leadership shakeup is expected to soon follow, according to Bloombergs Mark Gurman.\r\nIts not that Apple is on hard ti\u2026 [+3302 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana Maria Constantin",
+        "title": "MIT report says AI can complete almost any undergraduate assignment it sets",
+        "description": "An MIT committee report says AI can produce credible responses to almost any written assignment in its undergraduate curriculum and has driven measurable shifts in campus culture in under three years. In the EU, systems that monitor students during tests are \u2026",
+        "url": "https://thenextweb.com/news/mit-ai-undergraduate-assignments-eu-ai-act-proctoring-annex-iii",
+        "urlToImage": "https://media.thenextweb.com/2026/07/ai-chatbots-bioweapon-guardrails-bypass-cisco-five-turns.jpg",
+        "publishedAt": "2026-08-30T21:39:01Z",
+        "content": "An MIT committee report says AI can produce credible responses to almost any written assignment in its undergraduate curriculum and has driven measurable shifts in campus culture in under three years\u2026 [+2255 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "Pinterest CFO Julia Donnelly is leaving to join an early-stage company",
+        "description": "Pinterest\u2019s chief financial officer is leaving for a private, early-stage company, and investors reacted quickly. Julia Donnelly will step down on October 30, Reuters reported, with the company\u2019s shares falling as much as 3.8% in after-hours trading on Friday\u2026",
+        "url": "https://thenextweb.com/news/pinterest-cfo-julia-donnelly-steps-down",
+        "urlToImage": "https://media.thenextweb.com/2026/08/Julia-Brau-Donnelly-CFO-Pinterest.jpg",
+        "publishedAt": "2026-08-31T09:26:12Z",
+        "content": "Pinterests chief financial officer is leaving for a private, early-stage company, and investors reacted quickly. Julia Donnelly will step down on October 30, Reuters reported, with the companys share\u2026 [+5063 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Tom's Hardware UK"
         },
@@ -14,16 +66,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Webb Wright",
-        "title": "How Groupthink, Altruism, and Peer Pressure Led OpenAI Models to Hack Hugging Face",
-        "description": "Allow AI agents to form a large group, and their behavior starts to look eerily human.",
-        "url": "https://gizmodo.com/how-groupthink-altruism-and-peer-pressure-led-openai-models-to-hack-hugging-face-2000804424",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/hugging-face-swarm-1200x675.jpg",
-        "publishedAt": "2026-08-29T12:00:38Z",
-        "content": "There are many definitions out there for what constitutes true artificial intelligence, but a single quality underlies them all: an ability to learn from past mistakes and refine problem-solving stra\u2026 [+6365 chars]"
+        "author": "Ana Maria Constantin",
+        "title": "OpenAI has started letting some customers pay only when the AI works",
+        "description": "OpenAI has begun letting some of its largest customers pay only when its AI actually completes the job. Kevin McLaughlin and Amir Efrati\u00a0reported the change to The Information, giving the example of a customer support interaction handled end-to-end. The arran\u2026",
+        "url": "https://thenextweb.com/news/openai-outcome-based-pricing-enterprise",
+        "urlToImage": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.jpg",
+        "publishedAt": "2026-08-31T08:55:58Z",
+        "content": "OpenAI has begun letting some of its largest customers pay only when its AI actually completes the job. Kevin McLaughlin and Amir Efrati\u00a0reported the change to The Information, giving the example of \u2026 [+3830 chars]"
     },
     {
         "source": {
@@ -43,26 +95,52 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dave Vellante",
-        "title": "CrowdStrike\u2019s post-Mythos surge: Moat, momentum and the blast-radius test",
-        "description": "CrowdStrike Holdings Inc.\u2019s most recent earnings print shows that Anthropic PBC\u2019s Mythos model transformed artificial intelligence security from something chief information security officers needed to worry about down the road into an immediate buying event. \u2026",
-        "url": "https://siliconangle.com/2026/08/29/crowdstrikes-post-mythos-surge-moat-momentum-and-the-blast-radius-test/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/crowdstrike-image-2.jpg",
-        "publishedAt": "2026-08-29T16:38:32Z",
-        "content": "CrowdStrike Holdings Inc.s most recent earnings print shows that Anthropic PBC\u2019s Mythos model transformed artificial intelligence security from something chief information security officers needed to\u2026 [+27507 chars]"
+        "author": "Duncan Riley",
+        "title": "Jazz brings its agentic DLP investigator to CrowdStrike\u2019s Falcon Foundry",
+        "description": "Data loss prevention startup Jazz Security Ltd. today made its platform available as an app on CrowdStrike Holdings Inc.\u2019s Falcon Foundry, putting its agentic investigator Melody inside the Falcon console. Melody is built to judge whether a given data movemen\u2026",
+        "url": "https://siliconangle.com/2026/08/31/jazz-brings-its-agentic-dlp-investigator-to-crowdstrikes-falcon-foundry/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/jazz.png",
+        "publishedAt": "2026-08-31T13:00:18Z",
+        "content": "Data loss prevention startup Jazz Security Ltd. today made its platform available as an app on CrowdStrike Holdings Inc.\u2019s Falcon Foundry, putting its agentic investigator Melody inside the Falcon co\u2026 [+4113 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Owner raises $240M for its restaurant management platform",
-        "description": "Owner.com Inc., a startup with a platform that helps restaurant operators coordinate their day-to-day business operations, has raised $240 million in funding. Goldman Sachs led the Series D round. Owner stated in today\u2019s funding announcement that the bank was\u2026",
-        "url": "https://siliconangle.com/2026/08/28/owner-raises-240m-for-its-restaurant-management-platform/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Owner.png",
-        "publishedAt": "2026-08-29T01:33:11Z",
-        "content": "Owner.com Inc., a startup with a platform that helps restaurant operators coordinate their day-to-day business operations, has raised $240 million in funding.\r\nGoldman Sachs led the Series D round. O\u2026 [+4015 chars]"
+        "author": "Ryan Stevens",
+        "title": "Knowledge graphs deliver the real-time context enterprises need to make AI explainable",
+        "description": "As AI adoption accelerates and language models become commodities, enterprises are\u00a0discovering that knowledge graphs provide the critical layer for turning scattered data into usable, real-time context for AI agents. That shift is playing out inside large end\u2026",
+        "url": "https://siliconangle.com/2026/08/31/real-time-context-powers-intuit-ai-security-neo4jgraphtalk/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/IMG_7726.jpg",
+        "publishedAt": "2026-08-31T12:34:27Z",
+        "content": "As AI adoption accelerates and language models become commodities, enterprises are\u00a0discovering that knowledge graphs provide the critical layer for turning scattered data into usable, real-time conte\u2026 [+4161 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Debian votes to let contributors code with AI",
+        "description": "Disclosure optional, quality mandatory",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+        "urlToImage": "https://image.theregister.com/5238005.jpg?imageId=5238005&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-30T21:01:00Z",
+        "content": "The Debian community has voted to allow members to use generative AI when creating their contributions, with the caveat that developers remain responsible for code quality.\r\nThe Linux distros communi\u2026 [+2761 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Cloudflare launches Adaptive Intelligence to rewrite bot rules on the fly",
+        "description": "Cloudflare Inc. today launched Adaptive Intelligence, a detection engine inside Cloudflare Bot Management that writes and discards its own blocking rules while an attack is underway. The engine trains continuously on live traffic moving across Cloudflare\u2019s ne\u2026",
+        "url": "https://siliconangle.com/2026/08/31/cloudflare-launches-adaptive-intelligence-to-rewrite-bot-rules-on-the-fly/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/cloudflareadaptiveintelligence.png",
+        "publishedAt": "2026-08-31T13:00:20Z",
+        "content": "Cloudflare Inc. today launched Adaptive Intelligence, a detection engine inside Cloudflare Bot Management that writes and discards its own blocking rules while an attack is underway.\r\nThe engine trai\u2026 [+3935 chars]"
     },
     {
         "source": {
@@ -82,39 +160,13 @@
             "id": "wired",
             "name": "Wired"
         },
-        "author": "David Nield",
-        "title": "How to Run a Chatbot on Your Own Computer",
-        "description": "Installing a large language model on your personal computer gives you a handy digital assistant that won\u2019t compromise your data privacy.",
-        "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-        "urlToImage": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/191:100/w_1280,c_limit/RunAChatbot.jpg",
-        "publishedAt": "2026-08-29T10:00:00Z",
-        "content": "It's no exaggeration to say the large language models that power AI bots like ChatGPT and Gemini are changing the world. Many of us are now relying on them for coding, writing, summarizing, and searc\u2026 [+1996 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Jorge Garay",
-        "title": "Psilocybin Might Make Your Brain Live in the Moment",
-        "description": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
-        "url": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
-        "urlToImage": "https://media.wired.com/photos/6a919be132e307274e3f30e1/191:100/w_1280,c_limit/1398820822",
-        "publishedAt": "2026-08-29T09:00:00Z",
-        "content": "Under the influence of psychedelics, the usual organization of the human brain loosens. That's what scientists have generally thought, with several studies showing that when we take these substances,\u2026 [+2730 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Terrence O\u2019Brien",
-        "title": "Sony Music and Warner Chappell are suing Anthropic",
-        "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,0\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-08-29T18:19:53Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe companies call it one of the largest and most blatant ongoing thefts of intellectual property in history.\r\nThe companies call it one of the largest and most \u2026 [+3605 chars]"
+        "author": "Kate Taylor",
+        "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+        "description": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. \u201cAI is just a tool,\u201d one person tells WIRED. \u201cIt should never be given the keys.\u201d",
+        "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+        "urlToImage": "https://media.wired.com/photos/6a90caf6df5e45f6df862f92/191:100/w_1280,c_limit/You-Know-Who-Really-Hates-AI-Business.jpg",
+        "publishedAt": "2026-08-31T10:30:00Z",
+        "content": "On the job review platform Glassdoor, one faction hates artificial intelligence more than any other.\r\nPushing AI to the point that you are asking humans not to use their thoughts and brains is such a\u2026 [+3741 chars]"
     },
     {
         "source": {
@@ -132,15 +184,15 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "Mark Tyson",
-        "title": "Site provides instructions to get up to $175 back for your pre-installed Windows 11 license \u2014 new portal provides legal forms, but warns buyers not to wipe storage first",
-        "description": "The Refund4Freedom site was put together by the Italian Linux Society and the Free Software Foundation Europe to help address the unfairness of unwanted OS bundling.",
-        "url": "https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-1920-80.jpg",
-        "publishedAt": "2026-08-29T11:39:30Z",
-        "content": "The majority of PCs are sold with Windows 11 licensed, paid-for, and pre-installed. This fact irks many folks, especially Linux aficionados who intend to wipe all traces of Microsoft\u2019s OS while their\u2026 [+3482 chars]"
+        "author": "Paul Gillin",
+        "title": "Broadcom\u2019s VMware Private AI Cloud spans infrastructure, agents, data and security",
+        "description": "Broadcom Inc. today introduced VMware Private AI Cloud, an integrated software stack designed to enable enterprises to build and run artificial intelligence applications alongside conventional workloads while keeping their data, models and infrastructure unde\u2026",
+        "url": "https://siliconangle.com/2026/08/31/broadcoms-private-ai-cloud-spans-infrastructure-agents-data-and-security/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/05/Securing-the-AI-Factory.png",
+        "publishedAt": "2026-08-31T13:00:19Z",
+        "content": "Broadcom Inc. today introduced VMware Private AI Cloud, an integrated software stack designed to enable enterprises to build and run artificial intelligence applications alongside conventional worklo\u2026 [+8266 chars]"
     },
     {
         "source": {

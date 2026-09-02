@@ -1,16 +1,68 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "Forbes"
         },
-        "author": "Jacob Zinkula",
-        "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over \u2014 and who's not.",
-        "description": "Tech workers share their dream employers, from OpenAI and Anthropic to Google and NVIDIA \u2014 and the companies they'd rather pass on.",
-        "url": "https://www.businessinsider.com/tech-workers-dream-employers-openai-anthropic-apple-google-amazon-jobs-2026-8#article",
-        "urlToImage": "https://i.insider.com/6a887ac34569a4ec219f8ea4?width=1200&format=jpeg",
-        "publishedAt": "2026-08-30T09:30:02Z",
-        "content": "Mike Kostersitz (left), Abhinav Bohra (center), and Sneja Shah (right) shared their dream employers and the companies they might pass on.Mike Kostersitz (left), Abhinav Bohra (center), and Sneja Shah\u2026 [+11112 chars]"
+        "author": "Yue Wang, Senior Contributor, \n Yue Wang, Senior Contributor\n https://www.forbes.com/sites/ywang/",
+        "title": "Shein Plunges In Hong Kong Debut As Growth Worries Mount",
+        "description": "The Singapore-headquartered fashion giant\u2019s lackluster IPO gives it a market cap of $24 billion\u2013an almost 80% fall from the nearly $100 billion peak valuation reached after a 2022 funding round.",
+        "url": "https://www.forbes.com/sites/ywang/2026/09/01/shein-plunges-in-hong-kong-debut-as-growth-worries-mount/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a965b45cae94446ba398a5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-09-01T05:08:00Z",
+        "content": "A smartphone with the website of fashion e-commerce company Shein is seen in front of business logo. (Photo Illustration by Timon Schneider/SOPA Images/LightRocket via Getty Images)\r\nSOPA Images/Ligh\u2026 [+3736 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Charles Beames, Contributor, \n Charles Beames, Contributor\n https://www.forbes.com/sites/charlesbeames/",
+        "title": "America\u2019s AI Lead Won\u2019t Win The Next Space Race",
+        "description": "America leads in AI, but China excels at industrial application. To win the next space race, the Space Force must foster competition, speed and innovation related to AI.",
+        "url": "https://www.forbes.com/sites/charlesbeames/2026/08/31/americas-ai-lead-wont-win-the-next-space-race/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a958be8ec06c092d5e6ca98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-31T14:28:33Z",
+        "content": "AI-powered humanoid robots perform alongside a live orchestra during the opening ceremony of the World Humanoid Robot Games in Beijing. Highlighting Chinas growing push to translate advances in AI in\u2026 [+5852 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Forbes Books Press Release Official, Contributor, \n Forbes Books Press Release Official, Contributor\n https://www.forbes.com/sites/forbes-books-news/",
+        "title": "Digital Advertising Pioneer Reveals The Leadership Lessons Forged In The Dot-Com Crash",
+        "description": "\u201cThe 24/7 CEO: The Battle for Survival That Helped Build Digital Advertising\u201d by David J. Moore is released with Forbes Books.",
+        "url": "https://www.forbes.com/sites/forbes-books-news/2026/09/01/digital-advertising-pioneer-reveals-the-leadership-lessons-forged-in-the-dot-com-crash/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8de5179eab6188db427696/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-09-01T11:00:00Z",
+        "content": "David J. Moore releases The 24/7 CEO: The Battle for Survival That Helped Build Digital Advertising with Forbes Books. ISBN-13: 979-8887508436\r\nFORBES BOOKS\r\nNEW YORK (September 1, 2026)The 24/7 CEO:\u2026 [+3308 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Zita Ballinger Fletcher, Contributor, \n Zita Ballinger Fletcher, Contributor\n https://www.forbes.com/sites/zitaballingerfletcher/",
+        "title": "Pentagon Seeks To Accelerate Missile Production With New Agreements",
+        "description": "The Defense Department's new agreements follow a months-long series of efforts to increase Patriot and THAAD supplies and stave off shortfalls of vital U.S. interceptors.",
+        "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/08/31/pentagon-seeks-to-accelerate-missile-production-with-new-agreements/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a96039ba85daef912366dfa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-31T23:28:21Z",
+        "content": "The Pentagon announced an additional framework agreement to increase production of Patriot and THAAD missile interceptors. The THAAD system, shown here, is the only U.S. interceptor missile capable o\u2026 [+4966 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "The Associated Press, Chan Ho-Him",
+        "title": "China\u2019s AI-fueled IPO boom hits $54 billion this year, with chipmakers and Shein\u2019s $1.7 billion IPO",
+        "description": "Hong Kong and Shanghai captured 21% of global new-share proceeds as China\u2019s AI companies abandoned Wall Street for home",
+        "url": "https://fortune.com/2026/08/31/chinas-ai-ipo-boom-shein/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26241236924705-e1788185078186.jpg?resize=1200,600",
+        "publishedAt": "2026-08-31T14:12:37Z",
+        "content": "Chinese markets are booming with new public stock offerings, energized by the craze for\u00a0artificial intelligence\u00a0and other advanced technology and a growing preference to list shares in Hong Kong and \u2026 [+4108 chars]"
     },
     {
         "source": {
@@ -37,6 +89,32 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Lucy-Liu.jpg?resize=1200,600",
         "publishedAt": "2026-08-31T10:16:39Z",
         "content": "Nicholas Gordon here. When is Airwallex, the Australian-born payments company, planning to go public? The company, which serves over 675,000 businesses and claims to have over $1 billion in annualize\u2026 [+5141 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "GE Vernova lands Rivian\u2019s CFO, leaving EV maker to find successor",
+        "description": "GE Vernova is betting on the executive who helped take Rivian public.",
+        "url": "https://fortune.com/2026/09/01/ge-vernova-lands-rivian-cfo-leaving-ev-maker-to-find-successor/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1239468688.jpg?resize=1200,600",
+        "publishedAt": "2026-09-01T11:53:23Z",
+        "content": "Good morning. GE Vernova is hiring a CFO who helped take Rivian public in the biggest U.S. IPO of 2021, putting Claire McDonough at the center of the EV makers shift from a closely held startup to a \u2026 [+5537 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "Shein stock falls in Hong Kong IPO debut, valued at $26 billion",
+        "description": "The fast-fashion company raised $1.74 billion at a final offer price of HK$48.56, giving it a market value of around $26.5 billion",
+        "url": "https://qz.com/shein-stock-hong-kong-ipo-debut-valuation-090126",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/87b68c16dcde36d9dcfa22c6633b968a842fdbcb72576cce55ff15d95119adff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fe29aaaa427fae53115374f7e342121f0.jpg",
+        "publishedAt": "2026-09-01T11:41:32Z",
+        "content": "Shein began trading on the Hong Kong Stock Exchange on Tuesday under the stock code 00625, with its stock falling about 9% on its first day of public trading after a years-long effort to go public.\r\n\u2026 [+2741 chars]"
     },
     {
         "source": {
@@ -108,19 +186,6 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Tatiana Sataua",
-        "title": "America\u2019s Mediterranean lunch bowl is booming as NAYA races toward 200 restaurants",
-        "description": "Mediterranean fast casual grew 16% last year, and NAYA\u2019s founder is betting the boom can carry his Lebanese chain from 48 locations to 200.",
-        "url": "https://fortune.com/2026/08/30/naya-hady-kfoury-mediterranean-fast-casual/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/20260212_NAYA_JaySt_MLANDSMAN-0702-e1787938093227.jpg?resize=1200,600",
-        "publishedAt": "2026-08-30T09:00:00Z",
-        "content": "When Hady Kfoury opened his first restaurant in Manhattan in 2008, he was already out of money. He had raised cash from friends and family to bring the Lebanese food he grew up eating to New York, bu\u2026 [+7532 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
         "author": "Orianna Rosa Royle",
         "title": "31-year-old millionaire has zero sympathy for unemployed Gen Z\u2019s \u2018excuses\u2019\u2014he says \u2018it is scarily easy\u2019 to build a business and get rich right now",
         "description": "As AI kills entry-level jobs, multimillionaire Timothy Armoo has a blunt message for unemployed Gen Zers: stop making excuses and start building.",
@@ -128,6 +193,19 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Tim_armoo.png?resize=1200,600",
         "publishedAt": "2026-08-31T07:02:00Z",
         "content": "Timothy (or Tim) Armoo became a millionaire before turning 30. Now, as Gen Z blames a brutal job market and AI for their struggles, the millionaire entrepreneur isnt having any of ithe says this is a\u2026 [+4796 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Anthropic\u2019s mega-IPO plan looms over packed US listing calendar",
+        "description": "Some firms are reported to be finding it hard to get the attention of long-term investors at a time when Anthropic\u2019s offer is looming around the corner",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-s-mega-ipo-plan-looms-over-packed-us-listing-calendar",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/chtch2/article71399625.ece/alternates/LANDSCAPE_1200/2026-08-17T092131Z_546900879_RC290NAQ11MK_RTRMADP_3_USA-STOCKS.JPG",
+        "publishedAt": "2026-09-01T04:27:24Z",
+        "content": "Anthropic PBCs IPO is casting a long shadow over companies US listing plans, as they try to find room for their deals to grab attention after the September 7 Labor Day holiday.\r\nThe Claude developer \u2026 [+5231 chars]"
     },
     {
         "source": {
@@ -147,6 +225,32 @@
             "id": null,
             "name": "CNBC"
         },
+        "author": "Jenny Lee",
+        "title": "Fast-fashion giant Shein's shares drop 7% in Hong Kong market debut",
+        "description": "Shein made its Hong Kong market debut on Tuesday after years of attempts to go public.",
+        "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108156466-1749472774262-gettyimages-1241972572-AFP_32ET4WT.jpeg?v=1788164606&w=1920&h=1080",
+        "publishedAt": "2026-09-01T01:34:01Z",
+        "content": "Shares of fast-fashion giant Shein fell 7% as they began trading in Hong Kong on Tuesday.\u00a0\r\nThe Singapore-headquartered, company sold about 280 million shares in its initial public offering, raising \u2026 [+1343 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Alexa LoMonaco",
+        "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
+        "description": "CNBC's Jim Cramer said August was a comeback month for stocks that had been battered by bearish narratives.",
+        "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+        "publishedAt": "2026-08-31T23:23:38Z",
+        "content": "CNBC's Jim Cramer said Monday that August was a comeback month for stocks that had been battered by some of Wall Street's most powerful bearish narratives.\r\nHis comments came on the final trading day\u2026 [+3542 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
         "author": "Michael Santoli",
         "title": "Santoli: Why investors should be on high alert heading into September",
         "description": "Investors should be on high alert because various key market metrics are coiling near consequential thresholds.",
@@ -154,5 +258,18 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353950-1787671978490-Traders-20260825-AS-PRESS-1.jpg?v=1787672206&w=1920&h=1080",
         "publishedAt": "2026-08-31T11:00:01Z",
         "content": "Get Mike Santoli's Market Memo in your inbox first. SUBSCRIBE HERE\r\nIn markets as in movies, suspense builds through the slow, quiet scenes of the second act.\r\nThe stock market is doing just enough, \u2026 [+9705 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leonie Kidd",
+        "title": "CNBC Daily Open: A surprise seat for Russia at the G20 table",
+        "description": "The appearance of Russia's Finance Minister at the G20 meeting in North Carolina sparks dismay amoung European officials.",
+        "url": "https://www.cnbc.com/2026/09/01/russia-g20-seat.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108356384-1788184419935-gettyimages-2292359807-20090101260831-99-489984.jpeg?v=1788184445&w=1920&h=1080",
+        "publishedAt": "2026-09-01T06:24:46Z",
+        "content": "31 August 2026, United States, Asheville: Conference participants are seated during the first working session at the meeting of finance ministers and central bank governors from the G20 countries. \r\n\u2026 [+2988 chars]"
     }
 ]

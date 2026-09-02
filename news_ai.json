@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Stevie Bonifield",
+        "title": "Debian won\u2019t ban AI code from its Linux distribution",
+        "description": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes \u2026",
+        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-08-31T15:38:13Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe distros new AI policy says it neither endorses nor prohibits the use of generative AI tools.\r\nThe distros new AI policy says it neither endorses nor prohibit\u2026 [+2809 chars]"
+    },
+    {
+        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
@@ -17,6 +30,19 @@
             "id": null,
             "name": "Gizmodo.com"
         },
+        "author": "Bruce Gil",
+        "title": "The EU Has Officially Decided ChatGPT Is a Search Engine",
+        "description": "Under this label, European regulators are putting ChatGPT under stricter oversight, along with Reddit and Roblox.",
+        "url": "https://gizmodo.com/the-eu-has-officially-decided-chatgpt-is-a-search-engine-2000805030",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Chatgpt-1200x675.jpg",
+        "publishedAt": "2026-08-31T16:25:49Z",
+        "content": "The European Union just put OpenAIs ChatGPT under the same legal designation as Google. That means the AI chatbot will now face greater scrutiny and stricter rules over in Europe.\r\nThe European Commi\u2026 [+3394 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
         "author": "Mike Pearl",
         "title": "John Ternus Will Reportedly Replace Apple\u2019s Rapidly Fossilizing Executives Soon After Becoming CEO",
         "description": "It's an arduous task Tim Cook didn't have to deal with.",
@@ -27,16 +53,42 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Ana Maria Constantin",
-        "title": "MIT report says AI can complete almost any undergraduate assignment it sets",
-        "description": "An MIT committee report says AI can produce credible responses to almost any written assignment in its undergraduate curriculum and has driven measurable shifts in campus culture in under three years. In the EU, systems that monitor students during tests are \u2026",
-        "url": "https://thenextweb.com/news/mit-ai-undergraduate-assignments-eu-ai-act-proctoring-annex-iii",
-        "urlToImage": "https://media.thenextweb.com/2026/07/ai-chatbots-bioweapon-guardrails-bypass-cisco-five-turns.jpg",
-        "publishedAt": "2026-08-30T21:39:01Z",
-        "content": "An MIT committee report says AI can produce credible responses to almost any written assignment in its undergraduate curriculum and has driven measurable shifts in campus culture in under three years\u2026 [+2255 chars]"
+        "author": "Ece Yildirim",
+        "title": "Bank of England Governor Warns AI Represents Threat to the Global Economy",
+        "description": "Whether it be advancing cyber capabilities or overstretched valuations, AI poses a major risk for the global economy, the governor warned.",
+        "url": "https://gizmodo.com/bank-of-england-governor-warns-ai-represents-threat-to-the-global-economy-2000804936",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2202855117-1200x675.jpg",
+        "publishedAt": "2026-08-31T17:40:01Z",
+        "content": "The governor of the central bank of the United Kingdom is worried that AI\u2019s potentially catastrophic economic impact can spread across borders.\r\n\u201cFor the financial system, the most immediate concern \u2026 [+5054 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Webb Wright",
+        "title": "Podcaster\u2019s Viral Post About the Hugging Face Hack Sparks Debate Over AI Conciousness",
+        "description": "Dwarkesh Patel described the hack as an epic drama starring three successive bot \u201ccivilizations.\u201d His critics say he\u2019s building castles in the sky.",
+        "url": "https://gizmodo.com/podcasters-viral-post-about-the-hugging-face-hack-sparks-debate-over-ai-conciousness-2000805204",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HuggingFace-1200x675.jpg",
+        "publishedAt": "2026-08-31T21:10:45Z",
+        "content": "Debates about whether or not AI could ever become conscious are older than the technology itself. Over the weekend, a viral essay published by the podcaster Dwarkesh Patel threw fresh fuel on the fir\u2026 [+5094 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Corinne Reichert",
+        "title": "Yearn for the Tern: Apple Has a New Daddy",
+        "description": "John Ternus takes the helm of a $4 trillion tech giant, but it comes with challenges as Apple faces down the RAM shortage, AI launch delays and the foldable phone market.",
+        "url": "https://www.cnet.com/tech/mobile/apple-new-ceo-john-ternus-first-day/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/image-9-1.png",
+        "publishedAt": "2026-09-01T12:05:20Z",
+        "content": "John Ternus took over as Apple CEO on Tuesday, succeeding Tim Cook after serving as the companys senior vice president of hardware engineering. His first day comes just over a week before the annual \u2026 [+13275 chars]"
     },
     {
         "source": {
@@ -54,15 +106,15 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "Gizmodo.com"
         },
-        "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-        "title": "Donkey Kong 64 finally gets a fully native PC port written in C \u2014 DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
-        "description": "A team of veteran developers has recompiled Donkey Kong 64 in C, so it runs natively on Windows, Linux, and Mac. The entire project is free, uses no generative AI, but still includes more features than any vibecoded retro revival slop you can find online. You\u2026",
-        "url": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh-2452-80.png",
-        "publishedAt": "2026-08-30T14:26:14Z",
-        "content": "In the wake of AI vibecoding infiltrating the retro revival scene, human efforts tend to stand out, especially when they're as novel as this project. A bunch of developers have rebuilt Donkey Kong 64\u2026 [+2938 chars]"
+        "author": "Kyle Barr",
+        "title": "Meet the Google Exec Trying to Convince a Skeptical Gaming Industry to Love AI",
+        "description": "Everybody agrees the games industry needs to change to survive. Google is trying to fix it with AI.",
+        "url": "https://gizmodo.com/meet-the-google-exec-trying-to-convince-a-skeptical-gaming-industry-to-love-ai-2000804493",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Google-Cloud-Exec-Jack-Buser-1-1200x675.jpg",
+        "publishedAt": "2026-08-31T17:00:13Z",
+        "content": "In a gold rush, the people who get rich arent the grubby prospectors digging for those nuggets in the muck; it\u2019s the men who sell the shovels. In that vein, Google, with generative tools like Genie, \u2026 [+18941 chars]"
     },
     {
         "source": {
@@ -82,13 +134,104 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Amit Zavery",
-        "title": "Four safeguards to stop your AI agents from going rogue",
-        "description": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising. A coding agent at PocketOS recently deleted an entire production database. An agent at Meta exposed sensitive user data for two hours. An\u2026",
-        "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/aiagentsworkingtogether.png",
-        "publishedAt": "2026-08-30T14:53:22Z",
-        "content": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising.\r\nA coding agent at PocketOS recently deleted an entire production database. A\u2026 [+5845 chars]"
+        "author": "Maria Deutscher",
+        "title": "Bank of England governor warns of AI-related financial system risks",
+        "description": "Bank of England governor Andrew Bailey today warned that advanced artificial intelligence poses risks to financial infrastructure. Bailey outlined his concerns in a letter to G20 finance ministers and central bank governors. The document was made public short\u2026",
+        "url": "https://siliconangle.com/2026/08/31/bank-of-england-governor-warns-of-ai-related-financial-system-risks/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Photo.png",
+        "publishedAt": "2026-09-01T00:30:31Z",
+        "content": "Bank of England governor Andrew Bailey today warned that advanced artificial intelligence poses risks to financial infrastructure.\r\nBailey outlined his concerns in a letter to G20 finance ministers a\u2026 [+3893 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Valentina Villamil",
+        "title": "Data loss prevention gets a second act as AI rewrites an old security problem",
+        "description": "Security vendors are rebuilding data loss prevention, or DLP, around AI context rather than pattern matching, giving the category\u2019s most stubborn unsolved problem a second act. Decades of rule-based DLP tools left security teams buried in alerts they could no\u2026",
+        "url": "https://siliconangle.com/2026/08/31/ai-powered-dlp-gets-second-act-jazz-crowdstrike-falcon/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_8743-scaled.jpg",
+        "publishedAt": "2026-09-01T01:46:25Z",
+        "content": "Security vendors are rebuilding data loss prevention, or DLP, around AI context rather than pattern matching and AI-powered DLP is giving the category\u2019s most stubborn unsolved problem a second act. D\u2026 [+5678 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "OpenClaw just gave everyone version 2.0 and it comes with major updates",
+        "description": "OpenClaw, the popular open-source personal agentic artificial intelligence framework, today announced the launch of version 2.0, the largest update in the agent\u2019s history. Unlike a traditional chatbot like ChatGPT, which lives in a browser tab and only answer\u2026",
+        "url": "https://siliconangle.com/2026/08/31/openclaw-just-gave-everyone-version-2-0-and-it-comes-with-major-updates/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/openclaw-2-hero.jpg",
+        "publishedAt": "2026-08-31T15:55:09Z",
+        "content": "OpenClaw, the popular open-source personal agentic artificial intelligence framework, today announced the launch of version 2.0, the largest update in the agent\u2019s history.\r\nUnlike a traditional chatb\u2026 [+4496 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Orchestra launches management solution for enterprise data and AI",
+        "description": "Orchestra Technologies Ltd., provider of an agentic management service for enterprise data and artificial intelligence, today announced the launch of its platform, giving teams greater control over how they build, automate and operate AI workflows. The compan\u2026",
+        "url": "https://siliconangle.com/2026/09/01/orchestra-launches-management-solution-for-enterprise-data-and-ai/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/69bbdc52be0fa21ddebe67f5_end_to_end_rochestration-scaled.png",
+        "publishedAt": "2026-09-01T12:00:24Z",
+        "content": "Orchestra Technologies Ltd., provider of an agentic management service for enterprise data and artificial intelligence, today announced the launch of its platform, giving teams greater control over h\u2026 [+4791 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kristen Nicole",
+        "title": "Enterprises pull AI workloads back on-premises as costs and threats mount",
+        "description": "Enterprise infrastructure strategy is being rewritten around the private AI cloud, as security exposure, spiking hardware prices and rising token costs push artificial intelligence workloads back inside the data center. What started as a virtualization refres\u2026",
+        "url": "https://siliconangle.com/2026/08/31/private-ai-cloud-shift-pulls-workloads-back-premises-vmwareexplore/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Krish-Prasad-SVP-and-GM-of-the-VMware-Cloud-Foundation-Division-at-Broadcom.JPG-1-scaled.jpg",
+        "publishedAt": "2026-08-31T17:23:41Z",
+        "content": "Enterprise infrastructure strategy is being rewritten around the private AI cloud, as security exposure, spiking hardware prices and rising token costs push artificial intelligence workloads back ins\u2026 [+4887 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: Nvidia steamrolls expectations as Mythos shakes up cybersecurity",
+        "description": "Nvidia Corp. might as well be swimming in money like Scrooge McDuck. The artificial intelligence firm had yet another astounding quarter, beating expectations for revenue. With that announcement came a slew of reports: Nvidia\u2019s expanded collaboration with Cis\u2026",
+        "url": "https://siliconangle.com/2026/08/31/thecube-analysis-nvidia-mythos-cisco-thecubepod/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/John-Furrier-and-Dave-Vellante-theCUBE-136.png",
+        "publishedAt": "2026-08-31T15:34:29Z",
+        "content": "Nvidia Corp. might as well be swimming in money like Scrooge McDuck.\r\nThe artificial intelligence firm had yet another astounding quarter, beating expectations for revenue. With that announcement cam\u2026 [+6911 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "CrowdStrike launches Falcon IQ as Falcon lands on Google Cloud and Snowflake",
+        "description": "CrowdStrike Holdings Inc. today launched Falcon IQ, software that hands the assessment and remediation work behind its Project QuiltWorks coalition to a fleet of more than 50 artificial intelligence agents. The launch is one of four announcements the company \u2026",
+        "url": "https://siliconangle.com/2026/08/31/crowdstrike-launches-falcon-iq-as-falcon-lands-on-google-cloud-and-snowflake/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2025/09/crowdstrike2.jpg",
+        "publishedAt": "2026-08-31T22:44:45Z",
+        "content": "CrowdStrike Holdings Inc. today launched Falcon IQ, software that hands the assessment and remediation work behind its Project QuiltWorks coalition to a fleet of more than 50 artificial intelligence \u2026 [+7651 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Etiido Uko",
+        "title": "Linux kernel nears record 2,000 vulnerabilities per release as AI bug hunters scour 40 million lines of code \u2014 maintainers say they are 'completely overwhelmed' by CVE finds",
+        "description": "AI-assisted bug hunting is driving Linux toward 2,000 CVEs per release, surfacing real flaws and mountains of low-priority work for overwhelmed maintainers.",
+        "url": "https://www.tomshardware.com/software/linux/linux-kernel-nears-2-000-cves-per-release-as-ai-bug-hunters-scour-40-million-lines-of-code-maintainers-say-they-are-completely-overwhelmed",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/4ZEnSpa7JtJezKZH6YwC5b-1600-80.jpg",
+        "publishedAt": "2026-09-01T09:30:00Z",
+        "content": "The Linux kernel is approaching a staggering 2,000 CVEs fixed per release, up from roughly 500 through much of the Linux 6.x era, as AI and large language models increasingly scour the operating syst\u2026 [+3784 chars]"
     },
     {
         "source": {
@@ -108,6 +251,58 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
+        "author": "Maria Deutscher",
+        "title": "Nvidia invests $3.5B in MediaTek as part of expanded AI chip partnership",
+        "description": "Nvidia Corp. has bought $3.5 billion worth of MediaTek Inc. convertible bonds as part of an expanded partnership that the companies announced today. A convertible bond is a debt instrument that the buyer can turn into shares later on. Nvidia regularly buys st\u2026",
+        "url": "https://siliconangle.com/2026/08/31/nvidia-invests-3-5b-in-mediatek-as-part-of-expanded-ai-chip-partnership/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Nvidia-1.png",
+        "publishedAt": "2026-08-31T20:18:05Z",
+        "content": "Nvidia Corp. has bought $3.5 billion worth of MediaTek Inc. convertible bonds as part of an expanded partnership that the companies announced today.\r\nA convertible bond is a debt instrument that the \u2026 [+4706 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "DataAgent raises $10M to let AI fix production faults inside Kubernetes clusters",
+        "description": "Israeli startup DataAgent Ltd. formally launched today with $10 million in pre-seed funding and a platform that repairs production faults inside a customer\u2019s own Kubernetes clusters. DataAgent plans to spend the money to accelerate customer adoption in North \u2026",
+        "url": "https://siliconangle.com/2026/09/01/dataagent-raises-10m-to-let-ai-fix-production-faults-inside-kubernetes-clusters/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/dataagent.png",
+        "publishedAt": "2026-09-01T09:00:14Z",
+        "content": "Israeli startup DataAgent Ltd. formally launched today with $10 million in pre-seed funding and a platform that repairs production faults inside a customer\u2019s own Kubernetes clusters.\r\nDataAgent plans\u2026 [+4245 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Filigran adds attack chaining to OpenAEV for automated penetration testing",
+        "description": "French cybersecurity company Filigran SAS today launched Attack Chaining, a capability in its OpenAEV exposure validation product that links individual attack simulations into a single running path. It ships with OpenAEV v3, out today. Real intrusions rarely \u2026",
+        "url": "https://siliconangle.com/2026/09/01/filigran-adds-attack-chaining-to-openaev-for-automated-penetration-testing/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/openaevfiligran.jpg",
+        "publishedAt": "2026-09-01T11:00:08Z",
+        "content": "French cybersecurity company Filigran SAS today launched Attack Chaining, a capability in its OpenAEV exposure validation product that links individual attack simulations into a single running path. \u2026 [+4542 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Valentina Villamil",
+        "title": "Production AI shouldn\u2019t need another stack. But can private cloud deliver?",
+        "description": "Private AI is moving into production, and enterprises are demanding more than another collection of AI components. Product marketing is now about turning that complexity into a turnkey system that can get AI running faster. The bet is that the platform enterp\u2026",
+        "url": "https://siliconangle.com/2026/08/31/product-marketing-shifts-private-cloud-powers-production-ai-vmwareexplore/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_7941-scaled.jpg",
+        "publishedAt": "2026-08-31T17:57:28Z",
+        "content": "Private AI is moving into production, and enterprises are demanding more than another collection of AI components. Product marketing is now about turning that complexity into a turnkey system that ca\u2026 [+5258 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
         "author": "Ryan Stevens",
         "title": "Knowledge graphs deliver the real-time context enterprises need to make AI explainable",
         "description": "As AI adoption accelerates and language models become commodities, enterprises are\u00a0discovering that knowledge graphs provide the critical layer for turning scattered data into usable, real-time context for AI agents. That shift is playing out inside large end\u2026",
@@ -115,19 +310,6 @@
         "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/IMG_7726.jpg",
         "publishedAt": "2026-08-31T12:34:27Z",
         "content": "As AI adoption accelerates and language models become commodities, enterprises are\u00a0discovering that knowledge graphs provide the critical layer for turning scattered data into usable, real-time conte\u2026 [+4161 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Simon Sharwood",
-        "title": "Debian votes to let contributors code with AI",
-        "description": "Disclosure optional, quality mandatory",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
-        "urlToImage": "https://image.theregister.com/5238005.jpg?imageId=5238005&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-30T21:01:00Z",
-        "content": "The Debian community has voted to allow members to use generative AI when creating their contributions, with the caveat that developers remain responsible for code quality.\r\nThe Linux distros communi\u2026 [+2761 chars]"
     },
     {
         "source": {
@@ -144,16 +326,133 @@
     },
     {
         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jay Peters",
+        "title": "Nvidia\u2019s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+        "description": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially \u2026",
+        "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&strip=all&crop=0%2C10.724534322093%2C100%2C78.550931355815&w=1200",
+        "publishedAt": "2026-09-01T08:46:25Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nDLSS 5 is almost here, but only for NBA 2K27, and only officially for 50-series RTX GPUs. \r\nDLSS 5 is almost here, but only for NBA 2K27, and only officially for\u2026 [+4490 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Paul Williamson",
-        "title": "Why the next wave of AI startups won\u2019t optimize infrastructure \u2013 until they have to",
-        "description": "For most AI startups, infrastructure isn\u2019t the first problem to solve; speed is. At the earliest stages, success is defined by how quickly a team can move from idea to product, from prototype to traction. The constraints are immediate and unforgiving: limited\u2026",
-        "url": "https://siliconangle.com/2026/08/30/why-the-next-wave-of-ai-startups-wont-optimize-infrastructure-until-they-have-to/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Builder-Pondering-Chips-800x542.png",
-        "publishedAt": "2026-08-30T14:53:26Z",
-        "content": "For most AI startups, infrastructure isnt the first problem to solve; speed is.\r\nAt the earliest stages, success is defined by how quickly a team can move from idea to product, from prototype to trac\u2026 [+7510 chars]"
+        "author": "Kelly Knight",
+        "title": "Rogue agents are forcing a governance reckoning as enterprises hand over the keys",
+        "description": "Governance is moving into the foundations of enterprise AI infrastructure as autonomous agents graduate from experiments to mission-critical work. Companies that spent decades refining controls for human employees now manage a second workforce that has no bad\u2026",
+        "url": "https://siliconangle.com/2026/08/31/ai-infrastructure-governance-shifts-rogue-agents-vmwareexplore/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_8046-scaled.jpg",
+        "publishedAt": "2026-08-31T21:37:26Z",
+        "content": "Governance is moving into the foundations of enterprise AI infrastructure as autonomous agents graduate from experiments to mission-critical work. Companies that spent decades refining controls for h\u2026 [+4651 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "OpenAI says its ad business has already hit $1B in annualized revenue",
+        "description": "OpenAI Group PBC on Monday sought to justify its controversial decision to start running ads in ChatGPT several months ago, saying its new advertising business has now crossed the $1 billion annualized revenue run rate mark. In a blog post, OpenAI said the mi\u2026",
+        "url": "https://siliconangle.com/2026/08/31/openai-says-its-ad-business-has-already-hit-1b-in-annualized-revenue/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-09-01-06-33-42.png",
+        "publishedAt": "2026-08-31T23:38:10Z",
+        "content": "OpenAI Group PBC on Monday sought to justify its controversial decision to start running ads in ChatGPT several months ago, saying its new advertising business has now crossed the $1 billion annualiz\u2026 [+4616 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Valentina Villamil",
+        "title": "From private cloud to private AI cloud, software decides who wins",
+        "description": "Enterprise experimentation with cloud AI has run into a wall of data-control, sovereignty and token-cost questions, pushing intelligence back toward infrastructure enterprises own. The result is a rebuild of the private cloud as an AI platform, where producti\u2026",
+        "url": "https://siliconangle.com/2026/08/31/cloud-ai-economics-push-enterprises-toward-private-clouds-vmwareexplore/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_7807-scaled.jpg",
+        "publishedAt": "2026-08-31T20:33:30Z",
+        "content": "Enterprise experimentation with cloud AI has run into a wall of data-control, sovereignty and token-cost questions, pushing intelligence back toward infrastructure enterprises own. The result is a re\u2026 [+4928 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "As AI agents take on enterprise tasks, companies face a new battle over access and control",
+        "description": "Enterprise private AI has moved past the pilot stage, and the shift is exposing an awkward gap. Agents that write code, process claims and run business workflows need models, tools and data to be useful, yet few organizations want autonomous software wanderin\u2026",
+        "url": "https://siliconangle.com/2026/08/31/private-ai-agents-get-deny-default-runtime-from-broadcom-vmwareexplore/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_7892-scaled.jpg",
+        "publishedAt": "2026-08-31T21:16:03Z",
+        "content": "Enterprise private AI has moved past the pilot stage, and the shift is exposing an awkward gap. Agents that write code, process claims and run business workflows need models, tools and data to be use\u2026 [+5074 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Agentic AI blows up the attack surface as security moves into the infrastructure layer",
+        "description": "The enterprise attack surface is expanding rapidly as agentic AI brings a constantly shifting cloud infrastructure into play. That pace is pushing security decisions down toward the virtualization layer, where policy can be enforced without slowing traffic. P\u2026",
+        "url": "https://siliconangle.com/2026/08/31/cloud-infrastructure-becomes-security-front-line-agentic-ai-vmwareexplore/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_7861-scaled.jpg",
+        "publishedAt": "2026-08-31T20:59:11Z",
+        "content": "The enterprise attack surface is expanding rapidly as agentic AI brings a constantly shifting cloud infrastructure into play.\r\nThat pace is pushing security decisions down toward the virtualization l\u2026 [+4828 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "FTC, 22 states sue Amazon over e-commerce advertising practices",
+        "description": "The U.S. Federal Trade Commission and 22 state attorneys general today sued Amazon.com Inc. over its practices in the online advertising market. The e-commerce giant pushed back against the complaint in a lengthy statement. Amazon entered the online advertisi\u2026",
+        "url": "https://siliconangle.com/2026/08/31/ftc-22-states-sue-amazon-over-e-commerce-advertising-practices/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/amazon-1.png",
+        "publishedAt": "2026-08-31T22:20:38Z",
+        "content": "The U.S. Federal Trade Commission and 22 state attorneys general today sued Amazon.com Inc. over its practices in the online advertising market.\r\nThe e-commerce giant pushed back against the complain\u2026 [+4615 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "AI adoption at work is broad but shallow",
+        "description": "GenAI now reaches 80% of occupations, but in most of those fewer than half of workers use it",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
+        "urlToImage": "https://image.theregister.com/5293556.jpg?imageId=5293556&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-31T23:43:37Z",
+        "content": "Economists have taken another stab at assessing the impact of generative AI adoption on different occupations and have found that adoption is broad but not very deep.\r\nWhile generative AI reaches 80 \u2026 [+2764 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Victoria Gayton",
+        "title": "Workday rethinks the enterprise workflow for AI agents",
+        "description": "Enterprise AI agents promise to simplify everyday work, but delivering that experience requires far more than embedding AI into existing enterprise applications. Enterprise AI has expanded well beyond chatbots and copilots into workflows that affect hiring, f\u2026",
+        "url": "https://siliconangle.com/2026/08/31/workday-reimagines-workflows-enterprise-ai-agents-googlecloudaiagentsinaction/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/Gabe-Monroy-Workday-Google-Cloud-AI-Agents-in-Action-Series-2026.png",
+        "publishedAt": "2026-08-31T17:11:26Z",
+        "content": "Enterprise AI agents promise to simplify everyday work, but delivering that experience requires far more than embedding AI into existing enterprise applications.\r\nEnterprise AI has expanded well beyo\u2026 [+7062 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
+        "description": "Forget the confusing branding and focus on your shrinking token bill",
+        "url": "https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
+        "urlToImage": "https://image.theregister.com/5293527.jpg?imageId=5293527&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-31T20:48:35Z",
+        "content": "Nvidia has for years advanced the idea of an AI Factory, and now its partner VMware has created a product with the same name that does most of the same things, but with one vastly important differenc\u2026 [+4294 chars]"
     },
     {
         "source": {
@@ -171,15 +470,67 @@
     {
         "source": {
             "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Liam Proven",
+        "title": "Insider: Red Hat is capping devs' bot budgets",
+        "description": "And no sharing your allowance! What do you think we are, communists?",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/01/insider-red-hat-is-capping-devs-bot-budgets/5292620",
+        "urlToImage": "https://image.theregister.com/4093590.jpg?imageId=4093590&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-01T10:45:00Z",
+        "content": "EXCLUSIVE\u00a0The Register has seen information that IBMs Linux subsidiary is moderating its previously gung-ho AI stance by imposing limits on token spend.\r\nThe Reg FOSS desk received a tip-off this wee\u2026 [+2070 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books \u2014 team trains neural net on Photoshop edits to process 526,000 scans",
-        "description": "An epic book preservation effort.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/VPbW5b8NY95wsWtsy8qjbH-1632-80.png",
-        "publishedAt": "2026-08-30T12:00:00Z",
-        "content": "Around 2015, a trio of Pakistani friends took it upon themselves to digitize a large number of out-of-print books in Urdu, many of them lithographs \u2014 they call it the Ibteda Digital Library. They did\u2026 [+4784 chars]"
+        "author": "Jake Roach",
+        "title": "Trump says communities that reject data centers 'want to end up being backwards and poor' \u2014 President claims China 'could not be happier' with AI data center backlash in the US",
+        "description": "President Donald Trump claims that communities rejecting AI data center constructions \"want to end up being backwards and poor.\"",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-says-communities-that-reject-data-centers-want-to-end-up-being-backwards-and-poor-president-claims-china-could-not-be-happier-with-ai-data-center-backlash-in-the-us",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/iTfiVsnBuTP5SGz8ZVHzfP-2560-80.jpg",
+        "publishedAt": "2026-08-31T17:05:57Z",
+        "content": "Donald Trump doesn't appear to be a fan of the data center backlash that has swept the nation. Posting on his Truth Social platform, the President said that communities that reject data centers only \u2026 [+4077 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Sean Hollister",
+        "title": "Nvidia\u2019s DLSS 5, explained",
+        "description": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural ren\u2026",
+        "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/dlss5-200.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-01T09:50:44Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nA show-and-tell with Nvidias controversial DLSS 5 neural rendering, launching this week.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your d\u2026 [+11570 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Rupert Goodwins",
+        "title": "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
+        "description": "Hacking education to thrive in the AI world is the first and best step in keeping control",
+        "url": "https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201",
+        "urlToImage": "https://image.theregister.com/154258.jpg?imageId=154258&x=0&y=9.85&cropw=100&croph=63.55&panox=0&panoy=9.85&panow=100&panoh=63.55&width=1200&height=683",
+        "publishedAt": "2026-09-01T08:30:00Z",
+        "content": "Bill Gates is worried about AI. Nobodys preparing for a future of mass unemployment, inhumanly powerful cyber attacks, and a massive accumulation of power and wealth among emperors of tech. Yes, that\u2026 [+6841 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "David Berlind",
+        "title": "'Sophisticated' AI swarm attacks are months away, OpenAI warns: What experts say businesses must do",
+        "description": "OpenAI sounds a solemn and dire alarm, but we're woefully unprepared for what's coming.",
+        "url": "https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/101b57febe9b8af45fbfbde785cda53b01e8aeb1/2026/08/31/5086918d-ff21-4564-8665-889457522a09/gettyimages-2157337709.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-08-31T17:48:05Z",
+        "content": "koto_feja/iStock/Getty Images Plus\r\nFollow ZDNET:\u00a0Add us as a preferred source\u00a0on Google.\r\nZDNET's key takeaways\u00a0\r\n<ul><li>An open letter from OpenAI claims sophisticated AI-driven attacks are months\u2026 [+17293 chars]"
     },
     {
         "source": {
@@ -199,12 +550,64 @@
             "id": "techcrunch",
             "name": "TechCrunch"
         },
+        "author": "Kirsten Korosec",
+        "title": "The Pentagon now has its own version of ChatGPT and Grok | TechCrunch",
+        "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+        "publishedAt": "2026-08-31T20:13:45Z",
+        "content": "The Pentagon has launched versions of OpenAI\u2019s ChatGPT and xAI\u2019s Grok, giving 3 million civilian and military personnel access to generative AI tools that have been tailored to \u201cwarfighter needs.\u201d\r\nC\u2026 [+2772 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Lauren Forristal",
+        "title": "Instagram puts new limits on undisclosed AI profiles | TechCrunch",
+        "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+        "publishedAt": "2026-08-31T19:18:53Z",
+        "content": "Instagram announced Monday that its changing how it labels AI-generated profiles and will start limiting the reach of accounts that feature AI-generated people without saying so.\r\nThe platform says i\u2026 [+2775 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Valentina Villamil",
+        "title": "Security moves below the operating system as AI PCs take on the data protection job",
+        "description": "Chipmakers and device makers are rebuilding enterprise data loss prevention around on-device AI security, as employees paste sensitive material into chatbots and assistants faster than rules-based tools can inspect it. Nearly 40% of all data moving into AI to\u2026",
+        "url": "https://siliconangle.com/2026/08/31/device-ai-security-moves-below-os-pcs-falcon/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_8877.jpg",
+        "publishedAt": "2026-09-01T03:47:40Z",
+        "content": "Chipmakers and device makers are rebuilding enterprise data loss prevention around on-device AI security, as employees paste sensitive material into chatbots and assistants faster than rules-based to\u2026 [+4084 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
         "author": "Kate Park",
-        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining | TechCrunch",
-        "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
-        "publishedAt": "2026-08-30T15:00:00Z",
-        "content": "Nearly every company that\u2019s trying to deploy artificial intelligence runs into the same problem: it\u2019s hard to integrate the tech into everyday operations. Industrial heavyweight Caterpillar has spent\u2026 [+3547 chars]"
+        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M | TechCrunch",
+        "description": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+        "publishedAt": "2026-08-31T16:00:00Z",
+        "content": "Generative AI is making it easier to produce more content and harder to keep track of it. As videos, recordings, and documents accumulate, Adobe, Apple, Google, and a growing number of startups are u\u2026 [+4204 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "AWS targets data-intensive workloads with Graviton5-powered R9g and R9gd instances",
+        "description": "Amazon Web Services Inc. is bringing its new AWS Graviton5 processors to more workloads with the launch of its new, memory-optimized R9g and R9gd instances, which are available today in multiple cloud regions. They were revealed in a blog post by AWS Principa\u2026",
+        "url": "https://siliconangle.com/2026/08/31/aws-targets-data-intensive-workloads-with-graviton5-powered-r9g-and-r9gd-instances/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-06-09-10-10-29.png",
+        "publishedAt": "2026-08-31T20:45:37Z",
+        "content": "Amazon Web Services Inc. is bringing its new AWS Graviton5 processors to more workloads with the launch of its new, memory-optimized R9g and R9gd instances, which are available today in multiple clou\u2026 [+4386 chars]"
     }
 ]

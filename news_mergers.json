@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Stephen Council",
+        "title": "OpenAI's entanglements with a data center company go on display in a new filing",
+        "description": "SB Energy's IPO filing shows how it is entangled with OpenAI across its business, relying on the AI lab for demand in the AI buildout.",
+        "url": "https://www.businessinsider.com/openai-secures-major-stake-sb-energy-ipo-plans-2026-9#article",
+        "urlToImage": "https://i.insider.com/6a971cd5a2990857652e1818?width=1200&format=jpeg",
+        "publishedAt": "2026-09-01T21:01:53Z",
+        "content": "A data center under construction for OpenAI.Brandon Bell/Getty Images\r\n<ul><li>SB Energy's prospectus for its initial public offering sheds light on its close ties to OpenAI.</li><li>The AI lab has w\u2026 [+4170 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Samuel O'Brient",
+        "title": "A YouTube star is GoPro's biggest shareholder, and meme stock traders are loving it",
+        "description": "Markiplier, a famed YouTube creator, has amassed a major stake in GoPro. His bullishness has spurred a new meme-stock moment as retail trades pile in.",
+        "url": "https://www.businessinsider.com/youtube-markiplier-gopro-stock-meme-stocks-retail-traders-gpro-2026",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/c1bc362ae6a82b1958ad254a027577ab51eb62ff64d6d6ddf8cf90d6a73db582/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F96a1b40452180d306954227154ccafed.jpg",
+        "publishedAt": "2026-09-01T15:43:02Z",
+        "content": "<ul><li>Popular YouTuber Markiplier has become GoPro's top shareholder.\r\n</li><li>Shares surged this week as retail traders turn GoPro into the newest meme stock.\r\n</li><li>The hype is reminiscent of\u2026 [+2685 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Forbes"
         },
@@ -17,19 +43,6 @@
             "id": null,
             "name": "Forbes"
         },
-        "author": "Charles Beames, Contributor, \n Charles Beames, Contributor\n https://www.forbes.com/sites/charlesbeames/",
-        "title": "America\u2019s AI Lead Won\u2019t Win The Next Space Race",
-        "description": "America leads in AI, but China excels at industrial application. To win the next space race, the Space Force must foster competition, speed and innovation related to AI.",
-        "url": "https://www.forbes.com/sites/charlesbeames/2026/08/31/americas-ai-lead-wont-win-the-next-space-race/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a958be8ec06c092d5e6ca98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-31T14:28:33Z",
-        "content": "AI-powered humanoid robots perform alongside a live orchestra during the opening ceremony of the World Humanoid Robot Games in Beijing. Highlighting Chinas growing push to translate advances in AI in\u2026 [+5852 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
         "author": "Forbes Books Press Release Official, Contributor, \n Forbes Books Press Release Official, Contributor\n https://www.forbes.com/sites/forbes-books-news/",
         "title": "Digital Advertising Pioneer Reveals The Leadership Lessons Forged In The Dot-Com Crash",
         "description": "\u201cThe 24/7 CEO: The Battle for Survival That Helped Build Digital Advertising\u201d by David J. Moore is released with Forbes Books.",
@@ -40,29 +53,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Zita Ballinger Fletcher, Contributor, \n Zita Ballinger Fletcher, Contributor\n https://www.forbes.com/sites/zitaballingerfletcher/",
-        "title": "Pentagon Seeks To Accelerate Missile Production With New Agreements",
-        "description": "The Defense Department's new agreements follow a months-long series of efforts to increase Patriot and THAAD supplies and stave off shortfalls of vital U.S. interceptors.",
-        "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/08/31/pentagon-seeks-to-accelerate-missile-production-with-new-agreements/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a96039ba85daef912366dfa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-31T23:28:21Z",
-        "content": "The Pentagon announced an additional framework agreement to increase production of Patriot and THAAD missile interceptors. The THAAD system, shown here, is the only U.S. interceptor missile capable o\u2026 [+4966 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "The Associated Press, Chan Ho-Him",
-        "title": "China\u2019s AI-fueled IPO boom hits $54 billion this year, with chipmakers and Shein\u2019s $1.7 billion IPO",
-        "description": "Hong Kong and Shanghai captured 21% of global new-share proceeds as China\u2019s AI companies abandoned Wall Street for home",
-        "url": "https://fortune.com/2026/08/31/chinas-ai-ipo-boom-shein/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26241236924705-e1788185078186.jpg?resize=1200,600",
-        "publishedAt": "2026-08-31T14:12:37Z",
-        "content": "Chinese markets are booming with new public stock offerings, energized by the craze for\u00a0artificial intelligence\u00a0and other advanced technology and a growing preference to list shares in Hong Kong and \u2026 [+4108 chars]"
+        "author": "Jeff John Roberts",
+        "title": "Stripe is giving off early Google vibes\u2014for good and for bad",
+        "description": "The fintech\u2019s recent M&A spree is reminiscent of what Google did a generation before.",
+        "url": "https://fortune.com/2026/09/02/stripe-is-giving-off-early-google-vibesfor-good-and-for-bad/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-938151664-e1756997857474.jpg?resize=1200,600",
+        "publishedAt": "2026-09-02T12:12:41Z",
+        "content": "Good morning, its finance editor Jeff John Roberts pinch-hitting for Allie. Term Sheet readers of a certain age may recall when a young and still up-and-coming company called Google went on an acquis\u2026 [+10261 chars]"
     },
     {
         "source": {
@@ -70,25 +70,25 @@
             "name": "Quartz India"
         },
         "author": "Cris Tolomia",
-        "title": "Kalshi partners with Alpaca to expand prediction markets globally",
-        "description": "Alpaca reaches 14 million brokerage accounts across more than 300 financial institutions worldwide, giving Kalshi a path to international expansion",
-        "url": "https://qz.com/kalshi-alpaca-prediction-markets-international-083126",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a4cb38df3da1128be550d1dabc36dbc699cdc3fcc1f69d2bc08ca0f6e4f69720/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F0286944ae512f49ab274c0e904777a7b.jpg",
-        "publishedAt": "2026-08-31T12:34:17Z",
-        "content": "Kalshi is partnering with brokerage and financial infrastructure startup Alpaca to make its event contracts available to an international audience, the companies said Monday.\r\nIndividuals and busines\u2026 [+2599 chars]"
+        "title": "SB Energy IPO filing: Nvidia invests $3B, OpenAI gets warrants",
+        "description": "The AI infrastructure company plans to list on Nasdaq under the ticker SBE and aims to raise between $5 billion and $7 billion",
+        "url": "https://qz.com/sb-energy-ipo-filing-nvidia-softbank-090126",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/54f2fead5114592523aeb0d49e00b065ee2ae5b90b72b32ef52792e968185fe6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fd1c5e70e94ead7a5c901a215f5358522.jpg",
+        "publishedAt": "2026-09-01T13:06:14Z",
+        "content": "SB Energy, an AI infrastructure company majority-owned by Masayoshi Son's SoftBank, filed a registration statement with the Securities and Exchange Commission on Tuesday for a proposed initial public\u2026 [+2255 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Nicholas Gordon",
-        "title": "Airwallex president Lucy Liu on the company\u2019s plans to be \u2018IPO-ready\u2019",
-        "description": "The company, which claims to have over $1 billion in annualized run rate revenue, once talked about having a U.S. IPO in 2026.",
-        "url": "https://fortune.com/2026/08/31/airwallex-president-lucy-liu-ipo-plans/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Lucy-Liu.jpg?resize=1200,600",
-        "publishedAt": "2026-08-31T10:16:39Z",
-        "content": "Nicholas Gordon here. When is Airwallex, the Australian-born payments company, planning to go public? The company, which serves over 675,000 businesses and claims to have over $1 billion in annualize\u2026 [+5141 chars]"
+        "author": "sobrient@insider.com (Samuel O'Brient)",
+        "title": "A YouTube star is GoPro's biggest shareholder, and meme stock traders are loving it",
+        "description": "Markiplier, a famed YouTube creator, has amassed a major stake in GoPro. His bullishness has spurred a new meme-stock moment as retail trades pile in.",
+        "url": "https://www.businessinsider.com/youtube-markiplier-gopro-stock-meme-stocks-retail-traders-gpro-2026#article",
+        "urlToImage": "https://i.insider.com/6a96f10579f11f0a89f9352f?width=1200&format=jpeg",
+        "publishedAt": "2026-09-01T15:43:02Z",
+        "content": "A famous YouTuber is the meme-stock crowd's latest hero. \r\nPopular content creator and independent film producer Markiplier (real name Mark Fischbach) has become the biggest shareholder in camera mak\u2026 [+2344 chars]"
     },
     {
         "source": {
@@ -121,78 +121,52 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Nicholas Gordon",
-        "title": "Why the head of Taiwan\u2019s stock exchange wants you to look past TSMC\u2014and embrace the \u2018technology island\u2019",
-        "description": "Taiwan overtook India to become the world\u2019s fifth-largest stock market in May, and yet two-fifths of that value comes from TSMC.",
-        "url": "https://fortune.com/2026/08/31/taiwan-stock-exchange-tsmc-ipos-sherman-lin/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/RAI09133-1-e1788067050862.jpg?resize=1200,600",
-        "publishedAt": "2026-08-31T07:00:00Z",
-        "content": "TSMCs outsize role poses a challenge for Sherman Lin, the chair of the Taiwan Stock Exchange Corporation, which runs the islands main stock exchange. According to Bloomberg calculations, Taiwan overt\u2026 [+7367 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Quartz India"
-        },
-        "author": "Cris Tolomia",
-        "title": "Honda and Nissan sign software deal for next-gen vehicles",
-        "description": "The two Japanese automakers will jointly develop electronic control units and software for vehicles planned for release starting in fiscal 2029",
-        "url": "https://qz.com/honda-nissan-software-deal-next-generation-vehicles-083126",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/83b63228bcaf24d3382139a80372f0c1bbab71578ddef4625bc9214d2e9dd12e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F887230ac4855f975cc90d5203f065453.jpg",
-        "publishedAt": "2026-08-31T12:14:50Z",
-        "content": "Honda Motor Co. and Nissan Motor Co. signed a joint development agreement on Monday to standardize core electronic control units and software for their next-generation software-defined vehicles, the \u2026 [+1799 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Shubha Ghosh",
-        "title": "Why a 1963 bank case should not decide the Paramount/Warner deal",
-        "description": "In United States v. Philadelphia National Bank, the Supreme Court blocked two banks from merging at a time when the market was simple to measure.",
-        "url": "https://fortune.com/2026/08/31/paramount-warner-1963-supreme-court-precedent-philadelphia-bank/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2272991569-e1787955897802.jpg?resize=1200,600",
-        "publishedAt": "2026-08-31T10:30:00Z",
-        "content": "A 63-year-old Supreme Court ruling about two Philadelphia banks is now the central legal weapon in the fight over Paramounts $110 billion deal to buy Warner Bros. Discovery a transaction that passed \u2026 [+5235 chars]"
+        "author": "Preston Fore",
+        "title": "EY is dangling bonuses of up to $25,000 for workers who prove their human skills still matter in the age of AI",
+        "description": "EY is betting on human skills like judgment and adaptability, offering workers cash awards of up to $25,000 as AI transforms accounting.",
+        "url": "https://fortune.com/2026/09/01/accounting-firm-ernst-and-young-ey-100-million-investment-employee-bonuses-future-focused-human-skills-ai-era/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2170483216-e1788274114420.jpg?resize=1200,600",
+        "publishedAt": "2026-09-01T14:55:15Z",
+        "content": "AI has made accounting cool again, as productivity gains take some of the boring tasks off employees plates and make the profession more attractive to Gen Z looking for stable, high-paying work. But \u2026 [+4145 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Davis Giangiulio",
-        "title": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
-        "description": "The prediction market platform and the financial infrastructure and brokerage startup are working to get Kalshi's event contracts to global investors.",
-        "url": "https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326028-1782302994513-gettyimages-2282522100-2026-6-23-bores-watch-party-204.jpeg?v=1782303026&w=1920&h=1080",
-        "publishedAt": "2026-08-31T12:00:01Z",
-        "content": "Prediction market platform Kalshi is working with brokerage and financial infrastructure startup Alpaca to bring its event contracts to an international audience.\u00a0\r\nIndividuals and businesses who use\u2026 [+2530 chars]"
+        "author": "Samantha Subin",
+        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+        "description": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
+        "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357298-1788293064418-108357298-1788292981392-gettyimages-2262023886-INDIA_AI_SUMMIT.jpeg?v=1788293096&w=1920&h=1080",
+        "publishedAt": "2026-09-01T20:29:30Z",
+        "content": "Palo Alto Networks surpassed fiscal fourth-quarter estimates as mounting artificial intelligence risks boost demand for its cybersecurity tools. \r\nShares fell about 2% in extended trading, following \u2026 [+2285 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeff DeGraff",
-        "title": "I\u2019m the \u2018dean of innovation\u2019 and I know that nobody can agree what \u2018innovation\u2019 actually means",
-        "description": "Your company doesn\u2019t have an innovation problem, says Michigan Ross professor Jeff DeGraff. It Has a Language Problem.",
-        "url": "https://fortune.com/2026/08/31/jeff-degraff-dean-of-innovation-nobody-can-agree-what-it-means/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/images_e68510.jpg?resize=1200,600",
-        "publishedAt": "2026-08-31T09:00:00Z",
-        "content": "Imagine an executive team gathering to discuss its most urgent strategic priority: artificial intelligence. The CEO wants AI to become a new engine of growth. The CIO wants to deploy copilots. The CO\u2026 [+11372 chars]"
+        "author": "Sheryl Estrada",
+        "title": "The companies getting the most from AI are rethinking how work gets done",
+        "description": "AI adoption is nearly universal, but McKinsey finds only 37% of companies have seen it move the bottom line.",
+        "url": "https://fortune.com/2026/09/02/companies-getting-the-most-from-ai-rethinking-how-work-gets-done-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2253675598.jpg?resize=1200,600",
+        "publishedAt": "2026-09-02T12:30:59Z",
+        "content": "Good morning. Companies are spending more on AI, and employees overwhelmingly say the technology makes them more productive. So far, those gains arent translating into operating profit for most compa\u2026 [+4250 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Orianna Rosa Royle",
-        "title": "31-year-old millionaire has zero sympathy for unemployed Gen Z\u2019s \u2018excuses\u2019\u2014he says \u2018it is scarily easy\u2019 to build a business and get rich right now",
-        "description": "As AI kills entry-level jobs, multimillionaire Timothy Armoo has a blunt message for unemployed Gen Zers: stop making excuses and start building.",
-        "url": "https://fortune.com/2026/08/31/timothy-armoo-millionaire-unemployed-gen-z-ai-scarily-easy-get-rich/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Tim_armoo.png?resize=1200,600",
-        "publishedAt": "2026-08-31T07:02:00Z",
-        "content": "Timothy (or Tim) Armoo became a millionaire before turning 30. Now, as Gen Z blames a brutal job market and AI for their struggles, the millionaire entrepreneur isnt having any of ithe says this is a\u2026 [+4796 chars]"
+        "author": "Marco Quiroz-Gutierrez",
+        "title": "The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for \u2018warfighter needs\u2019",
+        "description": "The rollout expands the Pentagon\u2019s GenAI.mil platform beyond Gemini as it pushes AI deeper into everyday military work.",
+        "url": "https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2288162251-e1788290315428.jpg?resize=1200,600",
+        "publishedAt": "2026-09-01T19:40:18Z",
+        "content": "American service members will now have access to military versions of ChatGPT and Grok as the Pentagon tries to incorporate more AI into its daily workflows.The Department of War said in a pair of an\u2026 [+5087 chars]"
     },
     {
         "source": {
@@ -213,12 +187,25 @@
             "name": "CNBC"
         },
         "author": "Ashley Capoot",
-        "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
-        "description": "OpenAI's move to serve ads in ChatGPT earlier this year drew ridicule from its chief rival, Anthropic, in the form of a Super Bowl commercial.",
-        "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108343087-17854985552026-07-30t192440z_128594779_rc2jomayicqj_rtrmadp_0_usa-trump-altman.jpeg?v=1785498573&w=1920&h=1080",
-        "publishedAt": "2026-08-31T13:00:01Z",
-        "content": "OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate, a milestone that the company is touting as proof of its \"diversified business model.\" \r\nThe\u2026 [+1666 chars]"
+        "title": "Anthropic changes data retention policy after pushback from customers",
+        "description": "Anthropic's Enterprise Frontier Safeguards are a response to customer feedback.",
+        "url": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1782487686&w=1920&h=1080",
+        "publishedAt": "2026-09-01T18:16:21Z",
+        "content": "Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after \"a lot of feedback,\" and it said it plans to implement a new solution called Enter\u2026 [+2674 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "CEO\u2019s refusal to overhaul bank fuelled surprise HDFC shake-up",
+        "description": "HDFC Bank's CEO Sashidhar Jagdishan steps down amid tensions over proposed changes from new Chair Rajiv Kumar, sparking surprise.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-01/ceo-s-refusal-to-overhaul-bank-fueled-surprise-hdfc-shakeup",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/bmb2us/article71410242.ece/alternates/LANDSCAPE_1200/2026-03-24T005833Z_371497632_RC2V5FAVBASN_RTRMADP_3_HDFC-BANK-CHAKRABORTY.JPG",
+        "publishedAt": "2026-09-02T05:35:48Z",
+        "content": "Just two months into his tenure as chair of HDFC Bank Ltd., Rajiv Kumar wasted little time in pushing for changes at Indias most valuable bank.\u00a0\r\nHe outlined several measures to Chief Executive Offic\u2026 [+7961 chars]"
     },
     {
         "source": {
@@ -238,32 +225,6 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Alexa LoMonaco",
-        "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
-        "description": "CNBC's Jim Cramer said August was a comeback month for stocks that had been battered by bearish narratives.",
-        "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
-        "publishedAt": "2026-08-31T23:23:38Z",
-        "content": "CNBC's Jim Cramer said Monday that August was a comeback month for stocks that had been battered by some of Wall Street's most powerful bearish narratives.\r\nHis comments came on the final trading day\u2026 [+3542 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Santoli",
-        "title": "Santoli: Why investors should be on high alert heading into September",
-        "description": "Investors should be on high alert because various key market metrics are coiling near consequential thresholds.",
-        "url": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353950-1787671978490-Traders-20260825-AS-PRESS-1.jpg?v=1787672206&w=1920&h=1080",
-        "publishedAt": "2026-08-31T11:00:01Z",
-        "content": "Get Mike Santoli's Market Memo in your inbox first. SUBSCRIBE HERE\r\nIn markets as in movies, suspense builds through the slow, quiet scenes of the second act.\r\nThe stock market is doing just enough, \u2026 [+9705 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
         "author": "Leonie Kidd",
         "title": "CNBC Daily Open: A surprise seat for Russia at the G20 table",
         "description": "The appearance of Russia's Finance Minister at the G20 meeting in North Carolina sparks dismay amoung European officials.",
@@ -271,5 +232,31 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108356384-1788184419935-gettyimages-2292359807-20090101260831-99-489984.jpeg?v=1788184445&w=1920&h=1080",
         "publishedAt": "2026-09-01T06:24:46Z",
         "content": "31 August 2026, United States, Asheville: Conference participants are seated during the first working session at the meeting of finance ministers and central bank governors from the G20 countries. \r\n\u2026 [+2988 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Wall Street bets on shielding Indian real estate from climate disaster",
+        "description": "As floods, storms and extreme rainfall become more frequent, climate resilience\u00a0is emerging as\u00a0a new measure of value.",
+        "url": "https://www.bloomberg.com/news/features/2026-09-02/brookfield-blackstone-bet-on-shielding-india-real-estate-from-climate-disaster",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/7ty9i9/article71418208.ece/alternates/LANDSCAPE_1200/6_FLOOD_MUMBAI_VB.jpg",
+        "publishedAt": "2026-09-02T05:24:36Z",
+        "content": "Every year during Indias monsoon season, the Mithi River swells into a brown, fast-moving force that courses through the heart of Mumbai, the countrys financial capital and second-largest city. Roads\u2026 [+9276 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Sponsor Post",
+        "title": "The Benefits of AI Model Ownership Versus Leasing",
+        "description": "Reltio's Manish Sood discusses why companies should own AI loops instead of models, emphasizing proprietary data and continuous learning.",
+        "url": "https://www.businessinsider.com/sc/the-benefits-of-ai-model-ownership-versus-leasing#article",
+        "urlToImage": "https://i.insider.com/6a7608ea8fcc2e955f7de613?width=1200&format=jpeg",
+        "publishedAt": "2026-09-01T17:41:13Z",
+        "content": "by Manish Sood, CEO of Reltio, an SAP company\r\nPalantir CEO Alex Karp recently revived a familiar debate: Should enterprises own their AI models rather than rent intelligence from OpenAI, Anthropic, \u2026 [+4955 chars]"
     }
 ]

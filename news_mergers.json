@@ -1,19 +1,6 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "tmohamed@businessinsider.com (Theron Mohamed)",
-        "title": "Warren Buffett piled into Alphabet to bet big on AI, successor Greg Abel says",
-        "description": "Greg Abel shed light on Warren Buffett's post-CEO role at Berkshire Hathaway and massive Alphabet wager in a rare TV interview.",
-        "url": "https://www.businessinsider.com/warren-buffett-alphabet-stock-greg-abel-interview-ai-investing-berkshire-2026-9#article",
-        "urlToImage": "https://i.insider.com/6a981fd3be454c9d2c7ecf76?width=1200&format=jpeg",
-        "publishedAt": "2026-09-02T16:21:05Z",
-        "content": "Warren Buffett bet on Alphabet to tap into the AI boom, and he's still helping to call the shots at Berkshire Hathaway, Greg Abel says.\r\nThe legendary investor was succeeded by Abel at the start of t\u2026 [+2978 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Quartz India"
         },
@@ -30,13 +17,26 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeff John Roberts",
-        "title": "Stripe is giving off early Google vibes\u2014for good and for bad",
-        "description": "The fintech\u2019s recent M&A spree is reminiscent of what Google did a generation before.",
-        "url": "https://fortune.com/2026/09/02/stripe-is-giving-off-early-google-vibesfor-good-and-for-bad/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-938151664-e1756997857474.jpg?resize=1200,600",
-        "publishedAt": "2026-09-02T12:12:41Z",
-        "content": "Good morning, its finance editor Jeff John Roberts pinch-hitting for Allie. Term Sheet readers of a certain age may recall when a young and still up-and-coming company called Google went on an acquis\u2026 [+10261 chars]"
+        "author": "Emily Forlini",
+        "title": "Hugging Face goes from a \u2018scrappy\u2019 startup named after an emoji to $13 billion Nvidia acquisition",
+        "description": "The deal stands to encourage more mainstream adoption of open-weight models, but AI insiders worry Nvidia will subtly influence them to all run on its hardware.",
+        "url": "https://fortune.com/2026/09/03/hugging-face-goes-from-a-scrappy-startup-named-after-an-emoji-to-13-billion-nvidia-acquisition/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2183679052-e1788452377178.jpg?resize=1200,600",
+        "publishedAt": "2026-09-03T19:24:28Z",
+        "content": "Welcome to Eye on AI. Emily Forlini here, filling in for Beatrice Nolan. In todays issue:<ul><li>Nvidia will purchase open-source AI platform Hugging Face for $13B</li><li>OpenAI debuts GPT-6 Astra m\u2026 [+9727 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Allie Garfinkle",
+        "title": "John Ternus takes the helm at Apple, as AI pressure hits",
+        "description": "After 15 years as CEO, Tim Cook this week stepped aside, replaced with longtime executive John Ternus.",
+        "url": "https://fortune.com/2026/09/04/john-ternus-takes-helm-apple-ai-pressure-hits/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2287932656-e1788242853271.jpg?resize=1200,600",
+        "publishedAt": "2026-09-04T09:36:41Z",
+        "content": "After 15 years as CEO, Tim Cook stepped aside, replaced by longtime executive John Ternus. As my colleague Sebastian Herrera wrote in a just-published profile of Ternus, he steps up at a tense moment\u2026 [+5712 chars]"
     },
     {
         "source": {
@@ -56,13 +56,13 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "John Kell",
-        "title": "UKG\u2019s CIO says HR tech is AI\u2019s next big bet. The software firm\u2019s employees have already launched 387 AI tools and over 12,000 agents",
-        "description": "After two decades at Autodesk, Prakash \u201cPK\u201d Kota joined UKG to give 14,000 broad access to AI tools and encourage them to build thousands of agents to automate work.",
-        "url": "https://fortune.com/2026/09/02/ukgs-cio-says-hr-tech-is-ais-next-big-bet-the-software-firms-employees-have-already-launched-387-ai-tools-and-over-12000-agents/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Prakash-Kota-Original-headshot-2.jpg?resize=1200,600",
-        "publishedAt": "2026-09-02T16:26:30Z",
-        "content": "After a 20-year career at design software company Autodesk, Prakash PK Kota felt an urge for a career change, in part because he didnt want to end his career having worked for only one employer.\u00a0Upon\u2026 [+13029 chars]"
+        "author": "Nicholas Gordon",
+        "title": "Canva\u2019s productivity push is starting to gain traction\u2014and in Southeast Asia, it\u2019s happening on phones",
+        "description": "Canva's users have made 4.5 billion presentations and 1.4 billion documents, the first hard numbers on its push into Microsoft and Google's turf.",
+        "url": "https://fortune.com/2026/09/03/canva-productivity-milestones-cameron-adams/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2270458071-e1788428017333.jpg?resize=1200,600",
+        "publishedAt": "2026-09-03T16:00:00Z",
+        "content": "Canva, the Australian design startup, says its users have created 4.5 billion presentations and 1.4 billion documents on the platform, some of the first hard numbers on how the companys push into pro\u2026 [+3841 chars]"
     },
     {
         "source": {
@@ -79,54 +79,41 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Sheryl Estrada",
-        "title": "The companies getting the most from AI are rethinking how work gets done",
-        "description": "AI adoption is nearly universal, but McKinsey finds only 37% of companies have seen it move the bottom line.",
-        "url": "https://fortune.com/2026/09/02/companies-getting-the-most-from-ai-rethinking-how-work-gets-done-cfo/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2253675598.jpg?resize=1200,600",
-        "publishedAt": "2026-09-02T12:30:59Z",
-        "content": "Good morning. Companies are spending more on AI, and employees overwhelmingly say the technology makes them more productive. So far, those gains arent translating into operating profit for most compa\u2026 [+4250 chars]"
+        "author": "Kai Nicol-Schwarz",
+        "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
+        "description": "Nvidia\u2019s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.",
+        "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
+        "publishedAt": "2026-09-04T11:00:01Z",
+        "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe\u00a0here.\r\nYesterday, Nvidia confirmed what we all already knew.\u00a0\r\nThe company is planning to acquire Hu\u2026 [+3900 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Alex Harring",
-        "title": "Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107360644-1705527409157-gettyimages-1940643233-_s1_4483_jvzo4cjg.jpeg?v=1705650449&w=1920&h=1080",
-        "publishedAt": "2026-09-02T12:43:59Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Wednesday. GoPro is the latest company embarking on an artificial intelligence pivot. Its sha\u2026 [+4824 chars]"
+        "author": "Jenny Lee",
+        "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
+        "description": "Shein\u2019s Hong Kong IPO puts the focus on how the fast-fashion retailer can reaccelerate growth as its low-cost model faces new pressures.",
+        "url": "https://www.cnbc.com/2026/09/04/shein-ipo-fast-fashion-temu-competition.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188335-1755670941582-gettyimages-2221440600-AFP_63VU77Q.jpeg?v=1755670975&w=1920&h=1080",
+        "publishedAt": "2026-09-04T04:49:36Z",
+        "content": "Shein built its global fast-fashion business by selling low-priced, real-time trend-driven clothing and bringing new designs to market quickly, while cutting inventory wastage.\r\nBut the conditions th\u2026 [+3278 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Bloomberg",
-        "title": "CEO\u2019s refusal to overhaul bank fuelled surprise HDFC shake-up",
-        "description": "HDFC Bank's CEO Sashidhar Jagdishan steps down amid tensions over proposed changes from new Chair Rajiv Kumar, sparking surprise.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-01/ceo-s-refusal-to-overhaul-bank-fueled-surprise-hdfc-shakeup",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/bmb2us/article71410242.ece/alternates/LANDSCAPE_1200/2026-03-24T005833Z_371497632_RC2V5FAVBASN_RTRMADP_3_HDFC-BANK-CHAKRABORTY.JPG",
-        "publishedAt": "2026-09-02T05:35:48Z",
-        "content": "Just two months into his tenure as chair of HDFC Bank Ltd., Rajiv Kumar wasted little time in pushing for changes at Indias most valuable bank.\u00a0\r\nHe outlined several measures to Chief Executive Offic\u2026 [+7961 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Bloomberg",
-        "title": "Wall Street bets on shielding Indian real estate from climate disaster",
-        "description": "As floods, storms and extreme rainfall become more frequent, climate resilience\u00a0is emerging as\u00a0a new measure of value.",
-        "url": "https://www.bloomberg.com/news/features/2026-09-02/brookfield-blackstone-bet-on-shielding-india-real-estate-from-climate-disaster",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/7ty9i9/article71418208.ece/alternates/LANDSCAPE_1200/6_FLOOD_MUMBAI_VB.jpg",
-        "publishedAt": "2026-09-02T05:24:36Z",
-        "content": "Every year during Indias monsoon season, the Mithi River swells into a brown, fast-moving force that courses through the heart of Mumbai, the countrys financial capital and second-largest city. Roads\u2026 [+9276 chars]"
+        "author": "Dave Lee",
+        "title": "Nvidia\u2019s $22 billion Hugging Face deal is a bargain hedge",
+        "description": "The deal risks alienating Hugging Face users who value its independence.",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-09-03/nvidia-s-13-billion-hugging-face-deal-is-a-bargain-hedge",
+        "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NAGVNNXE3ZDGFLQH7RLF524GOM.jpg?auth=84f8e82ba6226140947b90a9d012072f817855d55d2c162cada68432212981d7&width=1200&height=675&quality=70&focal=443%2C252&smart=false",
+        "publishedAt": "2026-09-03T20:57:01Z",
+        "content": "During the companys most recent earnings call, held last week, Huang dedicated most of his remarks to talking up Nvidias strong position in open-weight models, stressing that he thinks prudent busine\u2026 [+2813 chars]"
     }
 ]

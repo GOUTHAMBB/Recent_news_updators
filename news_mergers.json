@@ -1,67 +1,41 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Allie Garfinkle",
-        "title": "John Ternus takes the helm at Apple, as AI pressure hits",
-        "description": "After 15 years as CEO, Tim Cook this week stepped aside, replaced with longtime executive John Ternus.",
-        "url": "https://fortune.com/2026/09/04/john-ternus-takes-helm-apple-ai-pressure-hits/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2287932656-e1788242853271.jpg?resize=1200,600",
-        "publishedAt": "2026-09-04T09:36:41Z",
-        "content": "After 15 years as CEO, Tim Cook stepped aside, replaced by longtime executive John Ternus. As my colleague Sebastian Herrera wrote in a just-published profile of Ternus, he steps up at a tense moment\u2026 [+5712 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sheryl Estrada",
-        "title": "Nvidia\u2019s $13 billion Hugging Face bet reveals Jensen Huang\u2019s vision for the next AI battleground",
-        "description": "The chipmaker's latest deal shows it is spending big on strategic positioning.",
-        "url": "https://fortune.com/2026/09/04/nvidia-13-billion-hugging-face-bet-reveals-jensen-huang-vision-next-ai-battleground/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2285783561.jpg?resize=1200,600",
-        "publishedAt": "2026-09-04T12:10:04Z",
-        "content": "Good morning. Nvidia will pay $12.93 billion for Hugging Face, which is generating roughly $150 million in annualized revenue. At about 86 times revenue, the price makes clear that Nvidia values Hugg\u2026 [+7657 chars]"
+        "author": "Lillian Rizzo, Jessica Golden",
+        "title": "LeBron James teases partnership with Polymarket",
+        "description": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
+        "url": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108336612-1784296089452-LqaxiclA.jpg?v=1788633786&w=1920&h=1080",
+        "publishedAt": "2026-09-05T19:14:59Z",
+        "content": "Superstar athlete LeBron James teased an upcoming partnership with prediction market platform Polymarket in a social media post on Saturday.\r\nJames posted a 14-second video on social media platform X\u2026 [+2721 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Kai Nicol-Schwarz",
-        "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
-        "description": "Nvidia\u2019s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.",
-        "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
-        "publishedAt": "2026-09-04T11:00:01Z",
-        "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe\u00a0here.\r\nYesterday, Nvidia confirmed what we all already knew.\u00a0\r\nThe company is planning to acquire Hu\u2026 [+3900 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "tmohamed@businessinsider.com (Theron Mohamed)",
-        "title": "Nvidia has built a $99 billion equity portfolio from almost scratch in 2 years",
-        "description": "Nvidia's equity portfolio ballooned from around $2 billion to nearly $100 billion in two years as the AI chipmaker backed several tech peers.",
-        "url": "https://www.businessinsider.com/nvidia-ai-tech-stock-portfolio-equity-investments-spacex-intel-coreweave-2026-9#article",
-        "urlToImage": "https://i.insider.com/6a9abf0b755b3072e51cc490?width=1200&format=jpeg",
-        "publishedAt": "2026-09-04T14:22:18Z",
-        "content": "Nvidia has built a nearly $100 billion equity portfolio from virtually scratch in just two years by investing in other tech companies.\r\nThe AI chipmaker, led by CEO Jensen Huang, held $99 billion in \u2026 [+2395 chars]"
+        "author": "Pippa Stevens",
+        "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+        "description": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
+        "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359049-1788538398356-Google_Geothermal_Energy-23332020667147-AP.jpg?v=1788561812&w=1920&h=1080",
+        "publishedAt": "2026-09-05T12:20:42Z",
+        "content": "A drill rig stands at a Fervo Energy geothermal site under construction near Milford, Utah, Nov. 26, 2023.\r\nMILFORD, Utah Deep in the Utah desert, down miles of gravel roads and hours from a major ci\u2026 [+8479 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Jenny Lee",
-        "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
-        "description": "Shein\u2019s Hong Kong IPO puts the focus on how the fast-fashion retailer can reaccelerate growth as its low-cost model faces new pressures.",
-        "url": "https://www.cnbc.com/2026/09/04/shein-ipo-fast-fashion-temu-competition.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188335-1755670941582-gettyimages-2221440600-AFP_63VU77Q.jpeg?v=1755670975&w=1920&h=1080",
-        "publishedAt": "2026-09-04T04:49:36Z",
-        "content": "Shein built its global fast-fashion business by selling low-priced, real-time trend-driven clothing and bringing new designs to market quickly, while cutting inventory wastage.\r\nBut the conditions th\u2026 [+3278 chars]"
+        "author": "Alex Crippen",
+        "title": "Abel: Two ways Berkshire hopes to cash in on AI",
+        "description": "Berkshire Hathaway CEO Greg Abel tells CNBC the company is pursuing AI opportunities on two paths.",
+        "url": "https://www.cnbc.com/2026/09/05/abel-two-ways-berkshire-hopes-in-cash-in-on-ai.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359281-1788580142241-2026-09-04_Abel_screen_grab.png?v=1788580233&w=1920&h=1080",
+        "publishedAt": "2026-09-05T12:45:44Z",
+        "content": "BECKY QUICK:\u00a0 Welcome back, everybody.\r\nBerkshire Hathaway first invested in Japan's five main \"trading houses\" just over six years ago, and it consistently increased its position. Berkshire now owns\u2026 [+19572 chars]"
     }
 ]

@@ -1,41 +1,28 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Lillian Rizzo, Jessica Golden",
-        "title": "LeBron James teases partnership with Polymarket",
-        "description": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
-        "url": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108336612-1784296089452-LqaxiclA.jpg?v=1788633786&w=1920&h=1080",
-        "publishedAt": "2026-09-05T19:14:59Z",
-        "content": "Superstar athlete LeBron James teased an upcoming partnership with prediction market platform Polymarket in a social media post on Saturday.\r\nJames posted a 14-second video on social media platform X\u2026 [+2721 chars]"
+        "author": "Stephen Council",
+        "title": "Inside the tiny Anthropic team designed to kill bad ideas fast and keep starting over",
+        "description": "Anthropic Labs built some of the company's biggest hits, like Claude Code. Cofounder Ben Mann lays out his team's efforts and changing ambitions.",
+        "url": "https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9#article",
+        "urlToImage": "https://i.insider.com/6a99f55da86b54c443140000?width=1200&format=jpeg",
+        "publishedAt": "2026-09-07T09:00:01Z",
+        "content": "Anthropic's Code with Claude conference in May 2026.Don Feria/AP Content Services for Anthropic\r\n<ul><li>Anthropic's Labs team is an in-flux group of around 20 trying to make products at the AI front\u2026 [+5855 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Pippa Stevens",
-        "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
-        "description": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
-        "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359049-1788538398356-Google_Geothermal_Energy-23332020667147-AP.jpg?v=1788561812&w=1920&h=1080",
-        "publishedAt": "2026-09-05T12:20:42Z",
-        "content": "A drill rig stands at a Fervo Energy geothermal site under construction near Milford, Utah, Nov. 26, 2023.\r\nMILFORD, Utah Deep in the Utah desert, down miles of gravel roads and hours from a major ci\u2026 [+8479 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Crippen",
-        "title": "Abel: Two ways Berkshire hopes to cash in on AI",
-        "description": "Berkshire Hathaway CEO Greg Abel tells CNBC the company is pursuing AI opportunities on two paths.",
-        "url": "https://www.cnbc.com/2026/09/05/abel-two-ways-berkshire-hopes-in-cash-in-on-ai.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359281-1788580142241-2026-09-04_Abel_screen_grab.png?v=1788580233&w=1920&h=1080",
-        "publishedAt": "2026-09-05T12:45:44Z",
-        "content": "BECKY QUICK:\u00a0 Welcome back, everybody.\r\nBerkshire Hathaway first invested in Japan's five main \"trading houses\" just over six years ago, and it consistently increased its position. Berkshire now owns\u2026 [+19572 chars]"
+        "author": "bsaacks@businessinsider.com (Bradley Saacks)",
+        "title": "How the AI and the hedge fund talent war pushed Man Group to reimagine its $156 billion quant empire",
+        "description": "Man Group combined its quant businesses into a $156 billion giant as AI changes how research is done \u2014 and who can be a quant.",
+        "url": "https://www.businessinsider.com/man-group-systematic-hedge-fund-ahl-numeric-merger-quant-talent-2026-9#article",
+        "urlToImage": "https://i.insider.com/6a99c085799bd8525cffd5e4?width=1200&format=jpeg",
+        "publishedAt": "2026-09-07T07:12:01Z",
+        "content": "Man Group the $250 billion-plus asset manager whose roots date to a sugar brokerage founded in 1783 knows change can be hard.\r\nThere are both real, bottom-line costs and less tangible cultural ones a\u2026 [+5565 chars]"
     }
 ]

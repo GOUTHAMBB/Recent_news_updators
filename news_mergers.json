@@ -14,6 +14,58 @@
     },
     {
         "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeffrey Sonnenfeld, Steven Tian, Stephen Henriques",
+        "title": "Dell\u2019s latest reinvention is here \u2014\u00a0and it reveals the AI boom happening \u2018on-premise.\u2019 The markets missed it",
+        "description": "The latest blowout quarter may be the 12th reinvention for the tech company that began in Michael Dell\u2019s dorm room.",
+        "url": "https://fortune.com/2026/09/08/dell-earnings-reveal-ai-buildout-on-premise/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2276442198-e1788810890393.jpg?resize=1200,600",
+        "publishedAt": "2026-09-08T12:00:00Z",
+        "content": "In 2013, as Michael Dell fought Carl Icahn to take his company private, we asked a simple question in the\u00a0New York Times: how do you keep the revolution forever young? Its the same question Thomas Je\u2026 [+10191 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Anthropic said to walk away from $6 billion Decart purchase",
+        "description": "Anthropic explored a deal with Decart but ultimately decided against it; however, they may still seek other collaboration opportunities",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/4ytdrc/article71441192.ece/alternates/LANDSCAPE_1200/2026-09-04T224243Z_1695141281_RC2UNLADKM7X_RTRMADP_3_ANTHROPIC-IPO-TIMELINE.JPG",
+        "publishedAt": "2026-09-08T03:39:30Z",
+        "content": "Anthropic PBC has decided against acquiring artificial intelligence startup Decart AI, people familiar with the matter said.\r\nAnthropic had been exploring a deal and performed due diligence on Decart\u2026 [+2932 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Jules Rimmer",
+        "title": "Why the launch of OpenAI\u2019s latest Astra model reignited the memory-chip trade",
+        "description": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
+        "url": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/28e5559a2332b2be36bccc79b58d8e0ceec955bcdbf670f02caeb86271fff1d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2F11750fbbc8673514d6fabf440152bef8.jpg",
+        "publishedAt": "2026-09-07T11:36:00Z",
+        "content": "Enthusiasm for the latest ChatGPT-6 Astra model lit a fire underneath memory chip makers - AFP via Getty Images\r\nThe launch of OpenAI's newest model ChatGPT-6 Astra revitalized investor interest in t\u2026 [+4223 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Santoli",
+        "title": "Santoli: One key tech ETF may signal whether this bull market can keep marching on",
+        "description": "The winds have shifted back in favor of AI consumption plays over AI construction proxies.",
+        "url": "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357829-1788364301706-Traders-OB-20260902-ACJ-PRESS-2.jpg?v=1788364539&w=1920&h=1080",
+        "publishedAt": "2026-09-08T11:42:04Z",
+        "content": "Get Mike Santoli's Market Memo in your inbox first. SUBSCRIBE HERE\r\nWall Street emerges from the summer respite with its resolute commitment to stocks validated, for now.\r\nThe S&amp;P 500 has done ju\u2026 [+8812 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },

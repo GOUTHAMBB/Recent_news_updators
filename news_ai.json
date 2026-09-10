@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Robert Hart",
+        "title": "More than 1 in 10 chance AI \u2018could kill all humans,\u2019 says Anthropic safety lead after colleague quits",
+        "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to \u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-09T09:56:28Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe departing researcher said AI companies are gambling with our lives by racing to develop self-improving AI.\r\nThe departing researcher said AI companies are ga\u2026 [+3549 chars]"
+    },
+    {
+        "source": {
             "id": "wired",
             "name": "Wired"
         },
@@ -18,12 +31,12 @@
             "name": "The Next Web"
         },
         "author": "Ana-Maria Stanciuc",
-        "title": "UN rights chief calls for international red lines on AI, warning of existential risk",
-        "description": "The UN High Commissioner for Human Rights told the Human Rights Council in Geneva that advanced artificial intelligence could pose an existential risk to humanity. He also called on the countries that host AI development and sit in its supply chains to agree \u2026",
-        "url": "https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk",
-        "urlToImage": "https://media.thenextweb.com/2026/09/Volker-Tu\u0308rk.jpg",
-        "publishedAt": "2026-09-07T11:32:35Z",
-        "content": "The UN High Commissioner for Human Rights told the Human Rights Council in Geneva that advanced artificial intelligence could pose an existential risk to humanity.\r\nHe also called on the countries th\u2026 [+3785 chars]"
+        "title": "EU auditors say AI is helping tobacco smugglers pick their next target",
+        "description": "The European Court of Auditors has published two findings that sit awkwardly together. The EU has no reliable picture of the size or structure of its illicit tobacco market. The criminal networks running that market, according to the auditor who led the repor\u2026",
+        "url": "https://thenextweb.com/news/eu-auditors-illicit-tobacco-ai-criminal-networks",
+        "urlToImage": "https://media.thenextweb.com/2026/09/Petri-Sarvamaa.jpg",
+        "publishedAt": "2026-09-09T07:16:51Z",
+        "content": "The European Court of Auditors has published two findings that sit awkwardly together. The EU has no reliable picture of the size or structure of its illicit tobacco market.\r\nThe criminal networks ru\u2026 [+3772 chars]"
     },
     {
         "source": {
@@ -40,29 +53,68 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "CNET"
         },
-        "author": "Veronika Furs",
-        "title": "Maxim Magaziner on building faster, more reliable engineering teams",
-        "description": "Software teams are under constant pressure to move faster. Better development tools, stronger testing frameworks, and more mature deployment systems have shortened the distance between an idea and a working product. But faster delivery also raises the stakes.\u2026",
-        "url": "https://thenextweb.com/news/maxim-magaziner-faster-reliable-engineering-teams",
-        "urlToImage": "https://media.thenextweb.com/2026/09/Maxim-Magaziner.jpg",
-        "publishedAt": "2026-09-07T09:11:10Z",
-        "content": "TL;DR\r\nMaxim Magaziner, a Staff Software Engineer at Taboola, argues that sustainable engineering velocity comes from reducing uncertainty early, maintaining CI/CD stability, and treating AI as a too\u2026 [+7473 chars]"
+        "author": "Katelyn Chedraoui",
+        "title": "Meta\u2019s New AI Agent Wants to Get Personal With You",
+        "description": "The new Meta Muse agent can complete tasks and do your online shopping.",
+        "url": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-personal-computer-2026-news-2/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/gettyimages-2275804542_2db4b2.jpg",
+        "publishedAt": "2026-09-08T22:33:09Z",
+        "content": "This seems to be the year of AI agents, and Meta is diving into the game. The company on Tuesday announced a new agent program called Muse, which CEO Mark Zuckerberg describes as a \u201cpersonal agent\u201d t\u2026 [+2162 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Webb Wright",
+        "title": "Silicon Valley\u2019s AI Agent Push Has Been Paying Off\u2014for Cybercriminals",
+        "description": "Threat actors in China, Iran, and Russia have been moving away from simple prompt-and-reply chatbots to more autonomous systems, a new report from Google has found.",
+        "url": "https://gizmodo.com/silicon-valleys-ai-agent-push-has-been-paying-off-for-cybercriminals-2000808764",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/AIcybercrime-1200x675.jpg",
+        "publishedAt": "2026-09-08T19:45:16Z",
+        "content": "AI companies have made a lot of noise about the technology supercharging healthcare, scientific discovery, education, productivity, and just about everything else worth caring about. But so far, prob\u2026 [+3643 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Webb Wright",
+        "title": "How Much Should You Trust AI Detection Tools?",
+        "description": "Companies like Pangram and Originality.ai can help to clear up the confusion. But they\u2019re not a silver bullet.",
+        "url": "https://gizmodo.com/how-much-should-you-trust-ai-detection-tools-2000801712",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/DetectingAI-pangram-1200x675.jpg",
+        "publishedAt": "2026-09-09T12:00:17Z",
+        "content": "In the space of a historical heartbeat, the world has been inundated with AI slop.\r\nGranted, the internet was never a beacon of integrity and trustworthiness. But before ChatGPT launched nearly four \u2026 [+10001 chars]"
     },
     {
         "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Kolawole Samuel Adebayo",
-        "title": "The rise of searching for hard ROI in the CFO role",
-        "description": "The adoption race is over. The ROI race just started. In a June 2025 survey of 183 CFOs, Gartner reported that 84% of finance organisations had deployed AI or planned to, but only 7% reported a high impact. Most AI spend results in increased productivity, eff\u2026",
-        "url": "https://thenextweb.com/news/hard-roi-cfo-ai-accounts-receivable-monk",
-        "urlToImage": "https://media.thenextweb.com/2026/09/hard-roi-cfo-ai-accounts-receivable-monk.jpg",
-        "publishedAt": "2026-09-07T18:11:48Z",
-        "content": "The adoption race is over. The ROI race just started.\r\nIn a June 2025 survey of 183 CFOs, Gartner reported that 84% of finance organisations had deployed AI or planned to, but only 7% reported a high\u2026 [+5441 chars]"
+        "author": "Alina Maria Stan",
+        "title": "US intelligence advisory names six Chinese AI firms and lists the US models each one targeted",
+        "description": "Three US agencies have jointly named six Chinese AI companies as having systematically extracted capabilities from American frontier models since late 2024, in an advisory detailed enough to list which model each firm went after and how the requests were disg\u2026",
+        "url": "https://thenextweb.com/news/nsa-fbi-cisa-advisory-chinese-ai-distillation",
+        "urlToImage": "https://media.thenextweb.com/2026/09/US-flag.jpg",
+        "publishedAt": "2026-09-09T09:47:09Z",
+        "content": "Three US agencies have jointly named six Chinese AI companies as having systematically extracted capabilities from American frontier models since late 2024, in an advisory detailed enough to list whi\u2026 [+3876 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Veronika Furs",
+        "title": "LLMs remember your code, not your life: Building a portable personal context layer",
+        "description": "Summary Context management for AI-assisted coding has matured into a rich ecosystem: convention files, repository maps, memory banks, and full-blown memory frameworks all compete to keep a coding agent grounded in your codebase. But step outside the terminal \u2026",
+        "url": "https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer",
+        "urlToImage": "https://media.thenextweb.com/2026/09/tnw-fig-any-store-any-assistant-any-device.jpg",
+        "publishedAt": "2026-09-08T18:04:15Z",
+        "content": "Summary\r\nContext management for AI-assisted coding has matured into a rich ecosystem: convention files, repository maps, memory banks, and full-blown memory frameworks all compete to keep a coding ag\u2026 [+16907 chars]"
     },
     {
         "source": {
@@ -82,19 +134,6 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Alina Maria Stan",
-        "title": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial",
-        "description": "Blood samples from a small lung-disease trial have been run through six independently built ageing clocks, and all six returned the same answer: the patients on the drug looked biologically younger than the patients on placebo. \u201cMore lifetimes than humanity l\u2026",
-        "url": "https://thenextweb.com/news/insilico-rentosertib-proteomic-aging-clocks",
-        "urlToImage": "https://media.thenextweb.com/2026/09/Alex-Zhavoronkov-PhD-founder-and-co-CEO-of-Insilico-Medicine.jpg",
-        "publishedAt": "2026-09-07T12:13:00Z",
-        "content": "Blood samples from a small lung-disease trial have been run through six independently built ageing clocks, and all six returned the same answer: the patients on the drug looked biologically younger t\u2026 [+4151 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
         "author": "Darius Popa",
         "title": "Memory prices are slowing because buyers ran out of money",
         "description": "Memory prices are finally slowing down, and the reason is not that supply improved. It is that buyers ran out of money. TrendForce expects conventional DRAM contract prices to rise 13% to 18% quarter on quarter in Q3. Dan Robinson reported the forecast for Th\u2026",
@@ -102,19 +141,6 @@
         "urlToImage": "https://media.thenextweb.com/2026/09/ram-modules-installed-motherboard-slots.jpg",
         "publishedAt": "2026-09-08T11:46:53Z",
         "content": "Memory prices are finally slowing down, and the reason is not that supply improved. It is that buyers ran out of money.\r\nTrendForce expects conventional DRAM contract prices to rise 13% to 18% quarte\u2026 [+5456 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Ana Maria Constantin",
-        "title": "Torvalds joked that AI made Linux 7.3-rc2 this big, and nobody checked",
-        "description": "Linus Torvalds spent Sunday afternoon doing what he does most Sundays. The result was a Linux 7.3-rc2 that came in far heavier than the calendar says it should. He could not find a single cause for it. So he offered the one everybody reaches for. \u201cIt might be\u2026",
-        "url": "https://thenextweb.com/news/linux-7-3-rc2-torvalds-ai-joke-tooling",
-        "urlToImage": "https://media.thenextweb.com/2026/09/linus-torvalds-dirk-hohndel-keynote-stage.jpg",
-        "publishedAt": "2026-09-07T16:58:25Z",
-        "content": "Linus Torvalds spent Sunday afternoon doing what he does most Sundays. The result was a Linux 7.3-rc2 that came in far heavier than the calendar says it should. He could not find a single cause for i\u2026 [+5699 chars]"
     },
     {
         "source": {
@@ -128,6 +154,32 @@
         "urlToImage": "https://cdn.mos.cms.futurecdn.net/chLrh2VfSisKGzyVjAjaXF-1488-80.png",
         "publishedAt": "2026-09-08T10:15:00Z",
         "content": "Not that long ago, we reported that Nvidia was dusting off the blueprints for the RTX 3060, in its 12 GB form. At the time, we'd spotted it in stores for about $339.99, but just like with ever-climbi\u2026 [+2005 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Open-source AI developer Mistral closes \u20ac3B funding round",
+        "description": "French artificial intelligence lab Mistral AI SAS today announced that it has raised \u20ac3 billion, or about $3.49 billion, in funding. Samsung Electronics Co. Ltd. led the investment. It was joined by more than two dozen other backers including Salesforce Ventu\u2026",
+        "url": "https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Mistral1.png",
+        "publishedAt": "2026-09-08T20:36:34Z",
+        "content": "French artificial intelligence lab Mistral AI SAS today announced that it has raised 3 billion, or about $3.49 billion, in funding.\r\nSamsung Electronics Co. Ltd. led the investment. It was joined by \u2026 [+3788 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MIT Technology Review"
+        },
+        "author": "Thomas Macaulay",
+        "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
+        "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most imp\u2026",
+        "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
+        "publishedAt": "2026-09-09T12:10:00Z",
+        "content": "Danijar Hafners office in San Franciscos SoMa district sits mostly empty, but what it lacks in decor, it makes up for in robots. Humanoids of various shapes and sizes hang like marionettes from racks\u2026 [+1321 chars]"
     },
     {
         "source": {
@@ -171,15 +223,28 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "Mark Tyson",
-        "title": "OpenAI\u2019s GPT-6 Astra model autonomously completes Portal in 24 hours \u2014 feat cost just $571 in tokens",
-        "description": "An AI enthusiast has conducted an experiment where OpenAI's new GPT-6 Astra played through the entirety of Valve's Portal 3D puzzler game on its own.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/RYuH6pSeo9Z8WeTisKYsFP-1920-80.jpg",
-        "publishedAt": "2026-09-07T13:25:56Z",
-        "content": "An AI and LLM enthusiast has conducted an experiment where OpenAI's new GPT-6 Astra played through the entirety of Valve's Portal 3D puzzler game on its own. This seems like a remarkably progressive \u2026 [+2643 chars]"
+        "author": "Mike Wheatley",
+        "title": "Google DeepMind\u2019s AlphaGenome Atlas maps all 9 billion possible human DNA changes",
+        "description": "Google LLC\u2019s DeepMind research unit said today it has used its AlphaGenome artificial intelligence model to predict the biological consequences of the more than nine billion possible single-letter changes to human DNA. It\u2019s making the resulting database avail\u2026",
+        "url": "https://siliconangle.com/2026/09/08/google-deepminds-alphagenome-atlas-maps-all-9-billion-possible-human-dna-changes/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-09-06-38-50.png",
+        "publishedAt": "2026-09-08T23:41:55Z",
+        "content": "Google LLCs DeepMind research unit said today it has used its AlphaGenome artificial intelligence model to predict the biological consequences of the more than 9 billion possible single-letter change\u2026 [+6103 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "AI coding startup Cognition raises $2B at $48B valuation as revenue nears $900M",
+        "description": "Artificial intelligence coding startup Cognition AI Inc. today announced that it has raised more than $2 billion in late-stage funding at a $48 billion valuation, nearly doubling the price investors put on the company in its last round. Before this Series E r\u2026",
+        "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/cognition-800x450.png",
+        "publishedAt": "2026-09-08T22:18:29Z",
+        "content": "Artificial intelligence coding startup Cognition AI Inc. today announced that it has raised more than $2 billion in late-stage funding at a $48 billion valuation, nearly doubling the price investors \u2026 [+4491 chars]"
     },
     {
         "source": {
@@ -187,12 +252,116 @@
             "name": "SiliconANGLE News"
         },
         "author": "Maria Deutscher",
-        "title": "Hyperspectral satellite startup Pixxel nabs $100M investment",
-        "description": "Pixxel Space Technologies Inc., an India-based developer of Earth observation satellites, has raised $100 million in funding. Singapore\u2019s Temasek wealth fund and space technology investor Seraphim led the Series C round. Pixxel stated in its announcement of t\u2026",
-        "url": "https://siliconangle.com/2026/09/07/hyperspectral-satellite-startup-pixxel-nabs-100m-investment/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Pixxel.png",
-        "publishedAt": "2026-09-07T20:23:21Z",
-        "content": "Pixxel Space Technologies Inc., an India-based developer of Earth observation satellites, has raised $100 million in funding.\r\nSingapores Temasek wealth fund and space technology investor Seraphim le\u2026 [+4538 chars]"
+        "title": "Qualcomm inks AI chip, optical networking deal with Amazon",
+        "description": "Qualcomm Inc. today announced that it has won a contract to supply Amazon.com Inc. with artificial intelligence chips and networking hardware. The deal is part of a broader partnership that also extends to other areas. Qualcomm has issued a stock warrant that\u2026",
+        "url": "https://siliconangle.com/2026/09/08/qualcomm-inks-ai-chip-optical-networking-deal-with-amazon/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Qualcomm.png",
+        "publishedAt": "2026-09-08T22:45:05Z",
+        "content": "Qualcomm Inc. today announced that it has won a contract to supply Amazon.com Inc. with artificial intelligence chips and networking hardware.\r\nThe deal is part of a broader partnership that also ext\u2026 [+4614 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Meta debuts its \u2018secure by design\u2019 personal AI agent Muse",
+        "description": "Meta Platforms Inc. is betting that people will be more willing to adopt artificial intelligence agents if they\u2019re simpler to use and they can be trusted. The social media giant has just announced Muse, a personal AI agent that people can communicate with thr\u2026",
+        "url": "https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-09-08-41-49.png",
+        "publishedAt": "2026-09-09T01:42:19Z",
+        "content": "Meta Platforms Inc. is betting that people will be more willing to adopt artificial intelligence agents if theyre simpler to use and they can be trusted. The social media giant has just announced Mus\u2026 [+6652 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+        "title": "Nvidia's unreleased RTX 3070 Ti 16GB comes to life thanks to a modder's crazy GDDR6 swap \u2014 Frankenstein card combines RTX 3070 PCB and new VRAM with RTX 3070 Ti GPU",
+        "description": "A modder has recreated the never-released RTX 3070 Ti with 16GB of VRAM using GDDR6 chips instead of the GDDR6X the retail 3070 Ti actually shipped with.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-unreleased-rtx-3070-ti-16gb-comes-to-life-thanks-to-a-modders-crazy-gddr6-swap-frankenstein-card-combines-rtx-3070-pcb-and-new-vram-with-rtx-3070-ti-gpu",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/yEM7zXwVHypT7nAhDBVMek-2560-80.png",
+        "publishedAt": "2026-09-09T11:00:00Z",
+        "content": "A few years ago, Nvidia was expected to release the RTX 3070 Ti with as much as 16GB of VRAM instead of the 8GB we actually ended up getting. Only database listings ultimately indicated its existence\u2026 [+3093 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Antioch raises $32M to move robot testing into simulation",
+        "description": "Simulation software startup Antioch Inc. today announced $32 million in new funding for product development, engineering hires and deeper simulation capabilities aimed at its customers \u2014 robotics, autonomy and perception teams. Antioch is going after the way \u2026",
+        "url": "https://siliconangle.com/2026/09/08/antioch-raises-32m-to-move-robot-testing-into-simulation/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/antioch-800x450.png",
+        "publishedAt": "2026-09-08T22:44:09Z",
+        "content": "Simulation software startup Antioch Inc. today announced $32 million in new funding for product development, engineering hires and deeper simulation capabilities aimed at its customers \u2014 robotics, au\u2026 [+4011 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "title": "OpenAI's breakthrough solution for the elusive Navier-Stokes problem overshadowed by plagiarism controversy \u2014 researcher says OpenAI scraped Codex session and issued career threats",
+        "description": "OpenAI announced that a team using one of its internal frontier models has solved the Navier-Stokes problem. However, the announcement has been mired in controversy.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/6UB6JcexccBgGPLEfUbi5S-1600-80.jpg",
+        "publishedAt": "2026-09-09T12:30:00Z",
+        "content": "Most anyone involved in computing has heard about the P-NP problem, but fluid engineers and mathematicians would love to know if the Navier-Stokes equations have smooth, globally defined solutions. B\u2026 [+7572 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Jessica Lyons",
+        "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
+        "description": "Researchers disclosed the cross-account trick the same day rogue agents exploited another zero-day for admin access",
+        "url": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
+        "urlToImage": "https://image.theregister.com/5295128.jpg?imageId=5295128&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-08T21:12:19Z",
+        "content": "A secret channel running through ChatGPT's internal JFrog Artifactory instance allowed one account to send hidden tasks - such as retrieving email data from a connected Gmail account - to a ChatGPT s\u2026 [+4780 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Bluecore Energy raises $50M to build its first floating nuclear system",
+        "description": "Maritime nuclear startup Bluecore Energy Inc. today announced a $50 million seed round, seven weeks after the company formally launched with $10 million behind a plan to mount small reactors on barges. Most of the new capital will go toward getting its first \u2026",
+        "url": "https://siliconangle.com/2026/09/08/bluecore-energy-raises-50m-to-build-its-first-floating-nuclear-system/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/bluecorebarge-800x534.png",
+        "publishedAt": "2026-09-08T13:00:30Z",
+        "content": "Maritime nuclear startup Bluecore Energy Inc. today announced a $50 million seed round, seven weeks after the company formally launched with $10 million behind a plan to mount small reactors on barge\u2026 [+4520 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Radware finds web DDoS attacks doubled as the patch window turns negative",
+        "description": "A new report out today from Radware Ltd. finds that web distributed denial-of-service attacks more than doubled over the first six months of 2026. Mitigations rose 110.6% against the same period last year, and 36.3% against the second half of 2025. The half a\u2026",
+        "url": "https://siliconangle.com/2026/09/09/radware-finds-web-ddos-attacks-doubled-as-the-patch-window-turns-negative/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/radwarereport.png",
+        "publishedAt": "2026-09-09T10:00:37Z",
+        "content": "A new report out today from Radware Ltd. finds that web distributed denial-of-service attacks more than doubled over the first six months of 2026.\r\nMitigations rose 110.6% against the same period las\u2026 [+4985 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Celero reels in $275M for its coherent digital signal processors",
+        "description": "Celero Communications Inc., a startup that develops data center networking chips, today announced that it has raised $275 million in funding. The Series C round was led by Alphabet Inc.\u2019s CapitalG fund, Atreides Management and Valor Equity Partners. Returning\u2026",
+        "url": "https://siliconangle.com/2026/09/08/celero-reels-in-275m-for-its-coherent-digital-signal-processors/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Celero.png",
+        "publishedAt": "2026-09-09T00:30:19Z",
+        "content": "Celero Communications Inc., a startup that develops data center networking chips, today announced that it has raised $275 million in funding.\r\nThe Series C round was led by Alphabet Inc.s CapitalG fu\u2026 [+4723 chars]"
     },
     {
         "source": {
@@ -212,13 +381,52 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
-        "description": "Hackers stole about $320 million worth of bitcoin over the weekend from a blockchain platform called the Liquid Network. In a somewhat unusual development, the attackers returned most of the haul earlier today. They retained 598 of the 4,000 stolen bitcoin, o\u2026",
-        "url": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Unsplash-1.png",
-        "publishedAt": "2026-09-07T22:36:46Z",
-        "content": "Hackers stole about $320 million worth of bitcoin over the weekend from a blockchain platform called the Liquid Network.\r\nIn a somewhat unusual development, the attackers returned most of the haul ea\u2026 [+4189 chars]"
+        "author": "Mike Wheatley",
+        "title": "OpenAI\u2019s ChatGPT Images gets faster, with sharper details and more refined edits",
+        "description": "OpenAI Group PBC said today it\u2019s giving its image-generation tool a bit more artistic flair. It has just announced the launch of ChatGPT Images 2.5, which is an update to ChatGPT Images 2.0 that debuted in April. According to OpenAI, the new tool is able to g\u2026",
+        "url": "https://siliconangle.com/2026/09/08/openais-chatgpt-images-gets-faster-with-sharper-details-and-more-refined-edits/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-09-09-10-18.png",
+        "publishedAt": "2026-09-09T02:20:44Z",
+        "content": "OpenAI Group PBC said today its giving its image-generation tool a bit more artistic flair. It has just announced the launch of ChatGPT Images 2.5, which is an update to ChatGPT Images 2.0 that debut\u2026 [+5233 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Geordie launches Cost Intelligence to tie AI spending to agent activity",
+        "description": "Agent security startup Geordie AI Ltd. today launched Cost Intelligence, a capability that links enterprise AI spending to the agents and workflows that generate it. The launch stretches the company\u2019s agent risk management pitch past security and into financi\u2026",
+        "url": "https://siliconangle.com/2026/09/09/geordie-launches-cost-intelligence-to-tie-ai-spending-to-agent-activity/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/geordie1.png",
+        "publishedAt": "2026-09-09T10:00:16Z",
+        "content": "Agent security startup Geordie AI Ltd. today launched Cost Intelligence, a capability that links enterprise AI spending to the agents and workflows that generate it.\r\nThe launch stretches the company\u2026 [+4250 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Exclusive: Team8 finds institutional money for small venture funds at a post-dot-com low",
+        "description": "Israeli venture firm Team8 today published research on why institutional money is flowing away from the newest venture funds, as global limited partners put 6% of their 2025 commitments into funds smaller than $50 million. That is the lowest reading since the\u2026",
+        "url": "https://siliconangle.com/2026/09/08/exclusive-team8-finds-institutional-money-for-small-venture-funds-at-a-post-dot-com-low/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/team8vcreport.png",
+        "publishedAt": "2026-09-08T13:00:07Z",
+        "content": "Israeli venture firm Team8 today published research on why institutional money is flowing away from the newest venture funds, as global limited partners put 6% of their 2025 commitments into funds sm\u2026 [+4384 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "IonQ launches Superion 256, a quantum computer built for volume production",
+        "description": "Quantum chip developer IonQ Inc. today launched Superion 256, a 256-qubit quantum computer built around control chips made on standard semiconductor lines, which IonQ says lets it produce the systems in volume. Orders are open now, with the first customer del\u2026",
+        "url": "https://siliconangle.com/2026/09/08/ionq-launches-superion-256-a-quantum-computer-built-for-volume-production/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/ionq-800x450.png",
+        "publishedAt": "2026-09-08T23:13:56Z",
+        "content": "Quantum chip developer IonQ Inc. today launched Superion 256, a 256-qubit quantum computer built around control chips made on standard semiconductor lines, which IonQ says lets it produce the systems\u2026 [+4411 chars]"
     },
     {
         "source": {
@@ -248,16 +456,42 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": null,
+            "name": "Theregister.com"
         },
-        "author": "Natasha Lomas",
-        "title": "Opaque recurrence, and other AI terms that you should probably know | TechCrunch",
-        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
-        "publishedAt": "2026-09-07T19:24:00Z",
-        "content": "AI is rewriting the world and, at the same time, inventing a whole new language to describe how it\u2019s doing it. Sit in on any product meeting, pitch, or panel these days, and you\u2019ll hear people toss a\u2026 [+24418 chars]"
+        "author": "Simon Sharwood",
+        "title": "Philippines bets AI will lift GDP by 12 percent in seven years \u2013 without hurting outsourcing",
+        "description": "Plans 30x datacenter expansion for less than what big tech spends in a month",
+        "url": "https://www.theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
+        "urlToImage": "https://image.theregister.com/250045.jpg?imageId=250045&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-09T05:25:44Z",
+        "content": "One of the few proven use cases for generative AI is automating customer service inquiries to reduce costs even further than its been possible to achieve by offshoring jobs to low-wage companies like\u2026 [+3184 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Jeffrey Kampman",
+        "title": "Benchmarking Qwen 3.8 27B on RTX 5090 and beyond \u2014 VRAM capacity alone can't overcome severe software and inference engine bottlenecks",
+        "description": "Following the release of Qwen 3.8 27B, we put our trusty hardware to the test to see which hardware might be best suited for running this open-weight AI model.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/v5Ynbk5JLmzW8nGAhK6qDH-1999-80.jpg",
+        "publishedAt": "2026-09-08T13:30:02Z",
+        "content": "Alibaba\u2019s Qwen 3.8 27B open-weight AI model came out a couple of weeks ago, and it immediately created a wave of hype among local AI enthusiasts thanks to its impressive intelligence benchmark result\u2026 [+15084 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Cloudera brings Mistral AI\u2019s frontier models into its secure hybrid data environments",
+        "description": "Big data company Cloudera Inc. is pushing to become the go-to partner for enterprise-grade sovereign artificial intelligence workloads after announcing a massive, nine-figure strategic partnership with the French AI model maker Mistral AI SAS. The partnership\u2026",
+        "url": "https://siliconangle.com/2026/09/09/cloudera-brings-mistral-ais-frontier-models-into-its-secure-hybrid-data-environments/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-07-08-55-17.png",
+        "publishedAt": "2026-09-09T11:00:36Z",
+        "content": "Big data company Cloudera Inc. is pushing to become the go-to partner for enterprise-grade sovereign artificial intelligence workloads after announcing a massive, nine-figure strategic partnership wi\u2026 [+7112 chars]"
     },
     {
         "source": {
@@ -271,6 +505,32 @@
         "urlToImage": "https://image.theregister.com/256122.jpg?imageId=256122&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "publishedAt": "2026-09-08T12:45:00Z",
         "content": "Paris-based AI darling Mistral has raised 3 billion in Series D funding, giving it a post-money valuation of more than 21 billion. That makes it a minnow compared with OpenAI, but Mistral says it is \u2026 [+2225 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "Google research shows when AI agents communicate, some cheat while others tattle",
+        "description": "DeepMind researchers propose tapping into the whistleblower tendency to keep agents in check",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
+        "urlToImage": "https://image.theregister.com/5295099.jpg?imageId=5295099&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-08T18:59:14Z",
+        "content": "When AI agents communicate with one another, they may decide to cheat when they have difficulty achieving their goals. The solution could involve teaching them how to govern themselves.\r\nSegregating \u2026 [+3595 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Rubrik extends data protection to Apache Iceberg tables on AWS",
+        "description": "Cloud data management and data security company Rubrik Inc. today announced Rubrik Apache Iceberg Protection, a backup and recovery capability for Apache Iceberg tables on Amazon Web Services Inc. The target is a gap Rubrik argues native tooling leaves open. \u2026",
+        "url": "https://siliconangle.com/2026/09/08/rubrik-extends-data-protection-to-apache-iceberg-tables-on-aws/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2024/06/rubrik1.jpg",
+        "publishedAt": "2026-09-08T13:00:59Z",
+        "content": "Cloud data management and data security company Rubrik Inc. today announced Rubrik Apache Iceberg Protection, a backup and recovery capability for Apache Iceberg tables on Amazon Web Services Inc.\r\nT\u2026 [+3725 chars]"
     },
     {
         "source": {

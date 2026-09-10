@@ -1,16 +1,120 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Entrepreneur"
+        },
+        "author": "Dan Bova",
+        "title": "\u2018Dirty Data\u2019 Is Hurting Your Company\u2019s AI Strategy \u2014 Here\u2019s How This Tech Founder Is Fixing It",
+        "description": "Zac Choi went from a McKinsey consultant watching his startup clients create extraordinary value to building and selling his own AI startup. Now he's creating a fix for business\u2019s biggest AI hurdle.",
+        "url": "https://www.entrepreneur.com/business-news/dirty-data-is-hurting-your-companys-ai-strategy-heres-how-this-tech-founder-is-fixing-it",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/09/zacchoiheadshot-copy2.jpg?resize=1024,683",
+        "publishedAt": "2026-09-08T17:00:00Z",
+        "content": "Entrepreneur Ventures\u00a0is an early-stage venture capital firm partnered with Entrepreneur Media that is dedicated to backing passionate and innovative founders as early as day one. In this series, we \u2026 [+9254 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Hugh Langley",
+        "title": "Sergey Brin is cooking up Google's AI comeback in a California microkitchen",
+        "description": "Google's AI reshuffle has handed more sway to Sergey Brin, say insiders, who describe an effective operator trying to run Gemini like a startup.",
+        "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-microkitchen-2026-9#article",
+        "urlToImage": "https://i.insider.com/6a9aad00755b3072e51cc3fa?width=1200&format=jpeg",
+        "publishedAt": "2026-09-09T09:00:01Z",
+        "content": "Sergey Brin launched Google from a garage nearly three decades ago.Lionel Hahn/Getty Images; BI\r\nGoogle's AI destiny is being cooked up in a California kitchen.On the second floor of Gradient Canopy,\u2026 [+13505 chars]"
+    },
+    {
+        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
         "author": "Stephen Council",
-        "title": "Inside the tiny Anthropic team designed to kill bad ideas fast and keep starting over",
-        "description": "Anthropic Labs built some of the company's biggest hits, like Claude Code. Cofounder Ben Mann lays out his team's efforts and changing ambitions.",
-        "url": "https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9#article",
-        "urlToImage": "https://i.insider.com/6a99f55da86b54c443140000?width=1200&format=jpeg",
-        "publishedAt": "2026-09-07T09:00:01Z",
-        "content": "Anthropic's Code with Claude conference in May 2026.Don Feria/AP Content Services for Anthropic\r\n<ul><li>Anthropic's Labs team is an in-flux group of around 20 trying to make products at the AI front\u2026 [+5855 chars]"
+        "title": "OpenAI CFO Sarah Friar says ChatGPT's ads should be like 'if Google and Meta had a baby'",
+        "description": "OpenAI's CFO, Sarah Friar, discussed ChatGPT's ad strategy at a conference, revealing that the company is on track to reach $1 billion in annual revenue.",
+        "url": "https://www.businessinsider.com/openai-cfo-chatgpts-ads-google-and-meta-had-a-baby-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aa04fc39b8974787b1c985e?width=1200&format=jpeg",
+        "publishedAt": "2026-09-08T18:11:34Z",
+        "content": "Sarah Friar, OpenAI's chief financial officer.PATRICK T. FALLON/AFP via Getty Images\r\n<ul><li>Sarah Friar, OpenAI's CFO, said ChatGPT's ads could be like 'if Google and Meta had a baby.'</li><li>Open\u2026 [+3551 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lara O'Reilly",
+        "title": "Why Pepsi's surprise $1.7 billion Publicis deal has Madison Avenue reeling",
+        "description": "Publicis stunned Madison Avenue by winning PepsiCo's $1.7 billion account while working for Coke \u2014 and pitching for more.",
+        "url": "https://www.businessinsider.com/pepsi-publicis-deal-underscores-realities-of-agency-consolidation-2026-9#article",
+        "urlToImage": "https://i.insider.com/6a9ff5fc4f6138b37ff3367e?width=1200&format=jpeg",
+        "publishedAt": "2026-09-09T12:30:23Z",
+        "content": "Kevin Carter/Getty Images\r\n<ul><li>A version of this post appears in the CMO Insider newsletter.</li><li>Sign up for Business Insider's weekly marketing newsletter.</li></ul>Forget the Jets and the S\u2026 [+3686 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "DeepSeek taps CITIC Securities for Shanghai STAR Market IPO",
+        "description": "The Hangzhou-based AI startup aims to begin the listing process this year, though deal size and valuation remain undetermined",
+        "url": "https://qz.com/deepseek-ipo-citic-securities-shanghai-star-market-090926",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/83243a6e61d3042189abd4dd12faa8b6b6ddfcc932415727d4c33084fdd3a242/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fd3eb927b0533465885204cf904b41afc.jpg",
+        "publishedAt": "2026-09-09T12:06:50Z",
+        "content": "DeepSeek has engaged CITIC Securities to prepare for an initial public offering on Shanghai's STAR Market, according to Reuters, citing two people with knowledge of the matter who spoke on condition \u2026 [+2398 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "Holtec Nuclear launches $900 million IPO at $10.2 billion valuation",
+        "description": "The Camden, New Jersey-based nuclear technology company plans to list on Nasdaq under the ticker \"HNUC\" at $15 to $18 per share",
+        "url": "https://qz.com/holtec-nuclear-ipo-900-million-valuation-090826",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1629742e99d7aa57cf216296d3482c8cf1e1ab1fdbe9fe912cc530700aabceab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fcda71978c5e950b7bbba77af34254755.jpg",
+        "publishedAt": "2026-09-08T17:28:27Z",
+        "content": "Holtec Nuclear Corporation launched the roadshow for its initial public offering on Tuesday, offering 50 million shares of Class A common stock at a price range of $15 to $18 apiece, which would rais\u2026 [+2138 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "GE Aerospace acquires Consolidated Precision Products for $11.75B",
+        "description": "The deal gives GE Aerospace direct ownership of a key castings supplier serving commercial, defense, and aftermarket engine programs",
+        "url": "https://qz.com/ge-aerospace-consolidated-precision-products-acquisition-090826",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/64e0cead14dedf627f8bfe54b6672e2b6e6941b19d1fa2cc50392d0b63652e0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fb17f70fc5e33dc6afc04ea48c6d012f7.jpg",
+        "publishedAt": "2026-09-08T13:09:46Z",
+        "content": "GE Aerospace agreed to acquire Consolidated Precision Products, a manufacturer of precision castings for jet engines and other aerospace applications, from private equity firms Warburg Pincus and Ber\u2026 [+2508 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Melissa Hancock",
+        "title": "Saudi\u2019s\u00a0Humain\u00a0is planning an IPO and a $2.5 billion fund to fuel its expansion plans",
+        "description": "In this week\u2019s Fortune Gulf Brief.",
+        "url": "https://fortune.com/2026/09/09/saudi-humain-planning-ipo-2-5-billion-fund-expansion-plans-moove-adgm/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2246899597-e1788945624222.jpg?resize=1200,600",
+        "publishedAt": "2026-09-09T09:27:49Z",
+        "content": "Following the event,\u00a0Humains\u00a0CEO Tareq Amin posted on LinkedIn\u00a0to say that\u00a0he was\u00a0looking for a few exceptional individuals\u00a0to join the company as it prepares to launch an IPO.\u00a0\r\nTop-tier management \u2026 [+9569 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Melissa Hancock",
+        "title": "Saudi\u2019s Humain turns to outside investment as the kingdom reins in fiscal spending",
+        "description": "Humain is lining up an IPO and billions in new capital to supercharge its data center buildout and broader AI ambitions. But sequencing projects and securing customers could prove a challenge.",
+        "url": "https://fortune.com/2026/09/09/saudis-humain-turns-to-outside-investment-as-the-kingdom-reins-in-fiscal-spending/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Humain--e1788946741871.jpg?resize=1200,600",
+        "publishedAt": "2026-09-09T09:55:32Z",
+        "content": "Saudi AI company Humain has begun preparations for its IPO, after its CEO Tareq Amin announced he was assembling a team of experts to help lay the groundwork for its listing.\u00a0While he did not specify\u2026 [+5625 chars]"
     },
     {
         "source": {
@@ -43,13 +147,13 @@
             "id": null,
             "name": "MarketWatch"
         },
-        "author": "Jules Rimmer",
-        "title": "Why the launch of OpenAI\u2019s latest Astra model reignited the memory-chip trade",
-        "description": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
-        "url": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/28e5559a2332b2be36bccc79b58d8e0ceec955bcdbf670f02caeb86271fff1d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2F11750fbbc8673514d6fabf440152bef8.jpg",
-        "publishedAt": "2026-09-07T11:36:00Z",
-        "content": "Enthusiasm for the latest ChatGPT-6 Astra model lit a fire underneath memory chip makers - AFP via Getty Images\r\nThe launch of OpenAI's newest model ChatGPT-6 Astra revitalized investor interest in t\u2026 [+4223 chars]"
+        "author": "Steve Goldstein",
+        "title": "Beneath the surface, the next stock-market leaders are getting ready to break out, says Morgan Stanley",
+        "description": "Earnings estimates are starting to pick up for artificial-intelligence adopters \u2014 and their stocks are due to rise as well, argues Morgan Stanley.",
+        "url": "https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/7772b6a479ecf3eba3666f26235cd2871f97d870a905179c129accbbb122a6f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2F9b6e7642295b0a4d0ec3371e2cc1e5c4.jpg",
+        "publishedAt": "2026-09-08T13:33:00Z",
+        "content": "Morgan Stanley says a new class of stocks is getting ready to emerge. - Getty Images\r\nLabor Day marks the beginning of the final stretch of what's been a pretty good year for stocks. The S&amp;P 500 \u2026 [+5478 chars]"
     },
     {
         "source": {
@@ -66,15 +170,28 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "bsaacks@businessinsider.com (Bradley Saacks)",
-        "title": "How the AI and the hedge fund talent war pushed Man Group to reimagine its $156 billion quant empire",
-        "description": "Man Group combined its quant businesses into a $156 billion giant as AI changes how research is done \u2014 and who can be a quant.",
-        "url": "https://www.businessinsider.com/man-group-systematic-hedge-fund-ahl-numeric-merger-quant-talent-2026-9#article",
-        "urlToImage": "https://i.insider.com/6a99c085799bd8525cffd5e4?width=1200&format=jpeg",
-        "publishedAt": "2026-09-07T07:12:01Z",
-        "content": "Man Group the $250 billion-plus asset manager whose roots date to a sugar brokerage founded in 1783 knows change can be hard.\r\nThere are both real, bottom-line costs and less tangible cultural ones a\u2026 [+5565 chars]"
+        "author": "Isabel O'Brien",
+        "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
+        "description": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday.",
+        "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302672-1778030248073-260109_cn_30_tech_corning_meta_cleanmp400_00_27_00Still014.jpg?v=1785269699&w=1920&h=1080",
+        "publishedAt": "2026-09-08T22:02:53Z",
+        "content": "Corning and Qualcomm rallied on Tuesday and brought a host of AI-related stocks along with them, as a pair of infrastructure deals lifted Wall Street's confidence that data center spending will remai\u2026 [+2518 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeremy Kahn",
+        "title": "OpenAI says it cracked one of math\u2019s grand challenges. But there are troubling questions about how they did it\u2014and what it means for us all",
+        "description": "OpenAI denies it stole a mathematician's data. But his fear echoes concerns many CEOs have about AI companies.",
+        "url": "https://fortune.com/2026/09/08/openai-says-it-cracked-navier-stokes-math-grand-challenge-buckmaster-accusation-cheating-intimidation-tao-lament/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-115135450-e1788893955802.jpg?resize=1200,600",
+        "publishedAt": "2026-09-08T19:52:21Z",
+        "content": "Hello and welcome to Eye on AI. In this edition:<ul><li>OpenAI claims it made a mathematical breakthrough. But some mathematicians raise questions about cheatingand intimidation.</li><li>Google DeepM\u2026 [+20147 chars]"
     }
 ]

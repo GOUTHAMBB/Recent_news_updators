@@ -1,19 +1,6 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Entrepreneur"
-        },
-        "author": "Dan Bova",
-        "title": "\u2018Dirty Data\u2019 Is Hurting Your Company\u2019s AI Strategy \u2014 Here\u2019s How This Tech Founder Is Fixing It",
-        "description": "Zac Choi went from a McKinsey consultant watching his startup clients create extraordinary value to building and selling his own AI startup. Now he's creating a fix for business\u2019s biggest AI hurdle.",
-        "url": "https://www.entrepreneur.com/business-news/dirty-data-is-hurting-your-companys-ai-strategy-heres-how-this-tech-founder-is-fixing-it",
-        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/09/zacchoiheadshot-copy2.jpg?resize=1024,683",
-        "publishedAt": "2026-09-08T17:00:00Z",
-        "content": "Entrepreneur Ventures\u00a0is an early-stage venture capital firm partnered with Entrepreneur Media that is dedicated to backing passionate and innovative founders as early as day one. In this series, we \u2026 [+9254 chars]"
-    },
-    {
-        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
@@ -30,13 +17,26 @@
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Stephen Council",
-        "title": "OpenAI CFO Sarah Friar says ChatGPT's ads should be like 'if Google and Meta had a baby'",
-        "description": "OpenAI's CFO, Sarah Friar, discussed ChatGPT's ad strategy at a conference, revealing that the company is on track to reach $1 billion in annual revenue.",
-        "url": "https://www.businessinsider.com/openai-cfo-chatgpts-ads-google-and-meta-had-a-baby-2026-9#article",
-        "urlToImage": "https://i.insider.com/6aa04fc39b8974787b1c985e?width=1200&format=jpeg",
-        "publishedAt": "2026-09-08T18:11:34Z",
-        "content": "Sarah Friar, OpenAI's chief financial officer.PATRICK T. FALLON/AFP via Getty Images\r\n<ul><li>Sarah Friar, OpenAI's CFO, said ChatGPT's ads could be like 'if Google and Meta had a baby.'</li><li>Open\u2026 [+3551 chars]"
+        "author": "Katie Roof,Ben Bergman",
+        "title": "Salesforce has held talks to buy Listen Labs, an AI customer research platform, for $2 billion",
+        "description": "Salesforce has had talks to acquire Listen Labs, an AI startup that provides marketing research to brands, for around $2 billion.",
+        "url": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aa1a93fcc23a829a3b8f84c?width=1200&format=jpeg",
+        "publishedAt": "2026-09-09T19:01:53Z",
+        "content": "Salesforce CEO Marc Benioff speaks to thousands at the Moscone South Hall during Dreamforce in San Francisco on Tuesday, Sept. 17, 2024.Bront\u00eb Wittpenn/San Francisco Chronicle via Getty Images\r\n<ul><\u2026 [+1502 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Tom Carter",
+        "title": "The Boring Company raises $3 billion as demand for Musk Inc booms",
+        "description": "The Boring Company, the tunneling company Musk founded with the aim of \"defeating traffic,\" said it had raised $3 billion at a $23 billion valuation.",
+        "url": "https://www.businessinsider.com/boring-company-raises-billions-as-demand-elon-musk-booms-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aa27e239b8974787b1ca5b6?width=1200&format=jpeg",
+        "publishedAt": "2026-09-10T10:19:54Z",
+        "content": "Elon Musk founded The Boring Company after becoming frustrated with LA traffic.credit should read ROBYN BECK/AFP via Getty Images\r\n<ul><li>Even more money is flowing into Elon Musk's business empire.\u2026 [+2645 chars]"
     },
     {
         "source": {
@@ -63,32 +63,6 @@
         "urlToImage": "https://s.yimg.com/lo/mysterio/api/83243a6e61d3042189abd4dd12faa8b6b6ddfcc932415727d4c33084fdd3a242/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fd3eb927b0533465885204cf904b41afc.jpg",
         "publishedAt": "2026-09-09T12:06:50Z",
         "content": "DeepSeek has engaged CITIC Securities to prepare for an initial public offering on Shanghai's STAR Market, according to Reuters, citing two people with knowledge of the matter who spoke on condition \u2026 [+2398 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Quartz India"
-        },
-        "author": "Cris Tolomia",
-        "title": "Holtec Nuclear launches $900 million IPO at $10.2 billion valuation",
-        "description": "The Camden, New Jersey-based nuclear technology company plans to list on Nasdaq under the ticker \"HNUC\" at $15 to $18 per share",
-        "url": "https://qz.com/holtec-nuclear-ipo-900-million-valuation-090826",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1629742e99d7aa57cf216296d3482c8cf1e1ab1fdbe9fe912cc530700aabceab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fcda71978c5e950b7bbba77af34254755.jpg",
-        "publishedAt": "2026-09-08T17:28:27Z",
-        "content": "Holtec Nuclear Corporation launched the roadshow for its initial public offering on Tuesday, offering 50 million shares of Class A common stock at a price range of $15 to $18 apiece, which would rais\u2026 [+2138 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Quartz India"
-        },
-        "author": "Cris Tolomia",
-        "title": "GE Aerospace acquires Consolidated Precision Products for $11.75B",
-        "description": "The deal gives GE Aerospace direct ownership of a key castings supplier serving commercial, defense, and aftermarket engine programs",
-        "url": "https://qz.com/ge-aerospace-consolidated-precision-products-acquisition-090826",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/64e0cead14dedf627f8bfe54b6672e2b6e6941b19d1fa2cc50392d0b63652e0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fb17f70fc5e33dc6afc04ea48c6d012f7.jpg",
-        "publishedAt": "2026-09-08T13:09:46Z",
-        "content": "GE Aerospace agreed to acquire Consolidated Precision Products, a manufacturer of precision castings for jet engines and other aerospace applications, from private equity firms Warburg Pincus and Ber\u2026 [+2508 chars]"
     },
     {
         "source": {
@@ -121,13 +95,52 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeffrey Sonnenfeld, Steven Tian, Stephen Henriques",
-        "title": "Dell\u2019s latest reinvention is here \u2014\u00a0and it reveals the AI boom happening \u2018on-premise.\u2019 The markets missed it",
-        "description": "The latest blowout quarter may be the 12th reinvention for the tech company that began in Michael Dell\u2019s dorm room.",
-        "url": "https://fortune.com/2026/09/08/dell-earnings-reveal-ai-buildout-on-premise/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2276442198-e1788810890393.jpg?resize=1200,600",
-        "publishedAt": "2026-09-08T12:00:00Z",
-        "content": "In 2013, as Michael Dell fought Carl Icahn to take his company private, we asked a simple question in the\u00a0New York Times: how do you keep the revolution forever young? Its the same question Thomas Je\u2026 [+10191 chars]"
+        "author": "John Kell",
+        "title": "How beauty giant Estee Lauder\u2019s top technologist is betting on \u2018AI everywhere\u2019 to fuel its turnaround",
+        "description": "This week, the M.A.C and Clinique maker announced that Brian Franz\u2014who oversees data, technology, and analytics\u2014will take on an expanded role on the C-suite.",
+        "url": "https://fortune.com/2026/09/09/estee-lauder-ai-shopping-technology/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/BrianFranz3.jpg?resize=1200,600",
+        "publishedAt": "2026-09-09T16:48:48Z",
+        "content": "For the past 18 months, Brian Franz has overseen all data, technology, and analytics at Estee Lauder, the first-ever C-suite leader to fill that role at the beauty giant. As of Tuesday, his role prom\u2026 [+13569 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeff John Roberts",
+        "title": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
+        "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.",
+        "url": "https://fortune.com/2026/09/09/metamask-consensys/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
+        "publishedAt": "2026-09-09T14:00:00Z",
+        "content": "One of the crypto industrys oldest firms is splitting in two. Consensys announced on Wednesday that it is rebranding as MetaMask, which is the name of its flagship wallet product. This unit will oper\u2026 [+3815 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "Disney CFO says this one sector is critical for driving customer lifetime value: \u2018It\u2019s just on fire\u2019",
+        "description": "Hugh Johnston also revealed where the company is drawing hard lines on spending.",
+        "url": "https://fortune.com/2026/09/10/disney-cfo-one-sector-critical-driving-customer-lifetime-value-its-just-on-fire/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2023/11/CFO-Daily-Hugh-F.-Johnston.jpg?resize=1200,600",
+        "publishedAt": "2026-09-10T12:12:46Z",
+        "content": "Good morning. Live sports has become a strategic battleground for media companies and technology platforms competing for consumer attention and advertising dollars. Disney CFO Hugh Johnston also sees\u2026 [+6221 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Joshua Hong",
+        "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland",
+        "description": "Major \u201chyperscalers\u201d are making their way across the pond to build foundations in Europe\u2019s newest data center host.",
+        "url": "https://fortune.com/2026/09/10/europe-data-center-capital-google-microsoft-tiktok-30-2-billion/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2256952622-e1788983544136.jpg?resize=1200,600",
+        "publishedAt": "2026-09-10T07:00:00Z",
+        "content": "Data center expansion in the world is changing fast: while the U.S. boasts data center alley in Virginia and tax incentives for data center investment, Finland has rapidly come onto the scene as one \u2026 [+4595 chars]"
     },
     {
         "source": {
@@ -135,63 +148,89 @@
             "name": "Bloomberg"
         },
         "author": "Bloomberg",
-        "title": "Anthropic said to walk away from $6 billion Decart purchase",
-        "description": "Anthropic explored a deal with Decart but ultimately decided against it; however, they may still seek other collaboration opportunities",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/4ytdrc/article71441192.ece/alternates/LANDSCAPE_1200/2026-09-04T224243Z_1695141281_RC2UNLADKM7X_RTRMADP_3_ANTHROPIC-IPO-TIMELINE.JPG",
-        "publishedAt": "2026-09-08T03:39:30Z",
-        "content": "Anthropic PBC has decided against acquiring artificial intelligence startup Decart AI, people familiar with the matter said.\r\nAnthropic had been exploring a deal and performed due diligence on Decart\u2026 [+2932 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Steve Goldstein",
-        "title": "Beneath the surface, the next stock-market leaders are getting ready to break out, says Morgan Stanley",
-        "description": "Earnings estimates are starting to pick up for artificial-intelligence adopters \u2014 and their stocks are due to rise as well, argues Morgan Stanley.",
-        "url": "https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/7772b6a479ecf3eba3666f26235cd2871f97d870a905179c129accbbb122a6f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2F9b6e7642295b0a4d0ec3371e2cc1e5c4.jpg",
-        "publishedAt": "2026-09-08T13:33:00Z",
-        "content": "Morgan Stanley says a new class of stocks is getting ready to emerge. - Getty Images\r\nLabor Day marks the beginning of the final stretch of what's been a pretty good year for stocks. The S&amp;P 500 \u2026 [+5478 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Santoli",
-        "title": "Santoli: One key tech ETF may signal whether this bull market can keep marching on",
-        "description": "The winds have shifted back in favor of AI consumption plays over AI construction proxies.",
-        "url": "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357829-1788364301706-Traders-OB-20260902-ACJ-PRESS-2.jpg?v=1788364539&w=1920&h=1080",
-        "publishedAt": "2026-09-08T11:42:04Z",
-        "content": "Get Mike Santoli's Market Memo in your inbox first. SUBSCRIBE HERE\r\nWall Street emerges from the summer respite with its resolute commitment to stocks validated, for now.\r\nThe S&amp;P 500 has done ju\u2026 [+8812 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Isabel O'Brien",
-        "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
-        "description": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday.",
-        "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302672-1778030248073-260109_cn_30_tech_corning_meta_cleanmp400_00_27_00Still014.jpg?v=1785269699&w=1920&h=1080",
-        "publishedAt": "2026-09-08T22:02:53Z",
-        "content": "Corning and Qualcomm rallied on Tuesday and brought a host of AI-related stocks along with them, as a pair of infrastructure deals lifted Wall Street's confidence that data center spending will remai\u2026 [+2518 chars]"
+        "title": "Axis Bank\u2019s AI push signals slower hiring ahead for India firm",
+        "description": "\u201cOur hope is that, at least to start with, there is no need to continue to increase the headcount at the same pace as before,\u201d CEO Amitabh Chaudhry said",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/axis-bank-s-ai-push-signals-slower-hiring-ahead-for-india-firm",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/utrw5d/article71450123.ece/alternates/LANDSCAPE_1200/2026-03-18T044850Z_473128317_RC20P5ARI3NK_RTRMADP_3_INDIA-AXIS-BANK-AXIS-FINANCE.JPG",
+        "publishedAt": "2026-09-10T04:04:03Z",
+        "content": "Axis Bank Ltd. expects investments in AI and technology will help it expand without adding many staff, signaling slower hiring even as Indias third-largest private lender scales up its business.\r\nOur\u2026 [+2343 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jeremy Kahn",
-        "title": "OpenAI says it cracked one of math\u2019s grand challenges. But there are troubling questions about how they did it\u2014and what it means for us all",
-        "description": "OpenAI denies it stole a mathematician's data. But his fear echoes concerns many CEOs have about AI companies.",
-        "url": "https://fortune.com/2026/09/08/openai-says-it-cracked-navier-stokes-math-grand-challenge-buckmaster-accusation-cheating-intimidation-tao-lament/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-115135450-e1788893955802.jpg?resize=1200,600",
-        "publishedAt": "2026-09-08T19:52:21Z",
-        "content": "Hello and welcome to Eye on AI. In this edition:<ul><li>OpenAI claims it made a mathematical breakthrough. But some mathematicians raise questions about cheatingand intimidation.</li><li>Google DeepM\u2026 [+20147 chars]"
+        "author": "Beatrice Nolan",
+        "title": "Anthropic researcher resigns, warning that AI companies are \u201cgambling with our lives\u201d",
+        "description": "Departing Anthropic researcher is not the first to warn AI labs are racing towards catastrophe. But this time, key staff members still at Anthropic publicly endorsed the view\u2014with one putting the chance of AI causing human extinction at more than 10%.",
+        "url": "https://fortune.com/2026/09/09/anthropic-researcher-resigns-warn-ai-companies-gambling-with-lives/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2285051384-e1788960235110.jpg?resize=1200,600",
+        "publishedAt": "2026-09-09T14:35:57Z",
+        "content": "An Anthropic engineer has publicly resigned from the high-flying company, warning that AI companies are racing straight to self-improving superintelligence and gambling with our lives.Jacob Coxon, wh\u2026 [+6275 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Kai Nicol-Schwarz",
+        "title": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify",
+        "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
+        "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
+        "publishedAt": "2026-09-10T10:15:35Z",
+        "content": "OpenAI and Anthropic researchers are ramping up calls for an AI slowdown and warning of existential risks to humanity after the resignation of a researcher at Anthropic fueled fresh scrutiny. \r\nThe c\u2026 [+5745 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Elsa Ohlen",
+        "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap",
+        "description": "The deal hands the continent's space industry a commercial boost as governments push for greater sovereign capabilities.",
+        "url": "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108003406-1720552729130-Ariane_6_first_liftoff.png?v=1720553006&w=1920&h=1080",
+        "publishedAt": "2026-09-10T11:26:16Z",
+        "content": "Amazon has ordered six additional launches from Europe's Arianespace as it builds out a satellite network to challenge SpaceX's Starlink, handing the continent's space industry a major commercial boo\u2026 [+4358 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "anicoll@businessinsider.com (Alex Nicoll,Henry Chandonnet,Sydney Bradley)",
+        "title": "Blackstone swipes left on Bumble after doubling its investment",
+        "description": "Bumble's stock is down 96% from its all-time highs, but Blackstone doubled its money by selling out of the company early.",
+        "url": "https://www.businessinsider.com/blackstone-exiting-bumble-investment-return-bmbl-dating-apps-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aa1a741ec15fe2d3cf15688?width=1200&format=jpeg",
+        "publishedAt": "2026-09-10T09:41:01Z",
+        "content": "After almost seven years together, it looks like Blackstone and Bumble are splitting, and the private-equity giant is poised to walk away with a tidy return despite the dating app's massive stock dec\u2026 [+5107 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Priyanka Salve",
+        "title": "Inside India newsletter: India\u2019s green push aims to boost energy security but exposes China dependency",
+        "description": "India's ambition to create a self-reliant energy ecosystem by expanding its renewable energy footprint is facing a China problem.",
+        "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359525-1788830825145-gettyimages-2251835388-AFP_83GQ8NK.jpeg?v=1788830864&w=1920&h=1080",
+        "publishedAt": "2026-09-10T00:09:06Z",
+        "content": "Hello, this is Priyanka Salve, writing to you from Mumbai. \r\nWelcome to the latest edition of \"Inside India\"\u00a0 your one-stop destination for stories and developments from the world's fastest-growing l\u2026 [+6535 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "NSE slashes IPO ambitions as world\u2019s biggest options boom fades",
+        "description": "Investor pressure led NSE executives to reduce their IPO valuation by about 15% ahead of next week\u2019s launch, according to anonymous sources",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/nse-slashes-ipo-ambitions-as-world-s-biggest-options-boom-fades",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/h5o68l/article71450084.ece/alternates/LANDSCAPE_1200/2026-09-09T033235Z_1175100137_RC2ZU9A9KH3E_RTRMADP_3_INDIA-NSE-IPO.JPG",
+        "publishedAt": "2026-09-10T03:32:20Z",
+        "content": "As executives at the National Stock Exchange of India Ltd. pitched their long-awaited initial public offering to global investors, one question kept coming up: How would the bourse keep growing after\u2026 [+9001 chars]"
     }
 ]

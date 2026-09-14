@@ -1,29 +1,29 @@
 [
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Will Knight",
-        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-        "description": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely \u201cspooking people\u201d inside big labs.",
-        "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-        "urlToImage": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
-        "publishedAt": "2026-09-11T09:00:00Z",
-        "content": "Earlier this year, Rishub Jain left his position as an artificial intelligence researcher at Google DeepMind after a revelation.\r\nAs he worked on new models, he came to believe that he and everyone e\u2026 [+3612 chars]"
+        "author": "Terrence O\u2019Brien",
+        "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
+        "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-12T21:41:36Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month.\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face \u2026 [+2116 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNET"
         },
-        "author": "Tyler Lacoma",
-        "title": "Have You Protested AI Recently? Anthropic May Be Watching You for Precrimes",
-        "description": "A recent report alleges Anthropic is finding ways to monitor activists and surveil dissent.",
-        "url": "https://www.cnet.com/tech/services-and-software/have-you-protested-ai-recently-anthropic-may-be-watching-you-for-precrimes/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2293903833.jpg",
-        "publishedAt": "2026-09-11T19:22:07Z",
-        "content": "On Wednesday, investigative reporter Daniel Boguslaw detailed how security officials at Anthropic, the creator of Claude AI, are engaging in monitoring and surveillance, including reporting AI activi\u2026 [+5937 chars]"
+        "author": "Joe Hindy",
+        "title": "The Latest Weird Thing to Play Doom Is the Mapped-Out Brain of a Fruit Fly",
+        "description": "Google Research mapped a male fruit fly\u2019s brain, and it only took a few days for modders to start making it play Doom.",
+        "url": "https://www.cnet.com/tech/gaming/simulated-fruit-fly-brain-plays-doom/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Doomfly.jpg",
+        "publishedAt": "2026-09-13T12:20:03Z",
+        "content": "Doom is such a simple, beautifully designed game that it can run on all sorts of weird things, from pregnancy tests to potatoes. Weird things can play it, too. In an effort to eternally one-up itself\u2026 [+3004 chars]"
     },
     {
         "source": {
@@ -31,77 +31,12 @@
             "name": "The Next Web"
         },
         "author": "Alina Maria Stan",
-        "title": "The UAE plans to invest \u20ac40bn in Germany, including 1GW of data centres",
-        "description": "The United Arab Emirates plans to invest \u20ac40bn ($46.4bn) in Germany, including in new data centres with a combined capacity of about one gigawatt. The two countries announced the package in a joint declaration on 10 September. UAE President Sheikh Mohamed bin\u2026",
-        "url": "https://thenextweb.com/news/uae-germany-40bn-investment-data-centres-bavaria",
-        "urlToImage": "https://media.thenextweb.com/2026/09/merz-mohamed-bin-zayed-chancellery-berlin.jpg",
-        "publishedAt": "2026-09-11T14:17:29Z",
-        "content": "The United Arab Emirates plans to invest 40bn ($46.4bn) in Germany, including in new data centres with a combined capacity of about one gigawatt. The two countries announced the package in a joint de\u2026 [+5323 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Cristian Dina",
-        "title": "Tencent-backed chipmaker Enflame nearly triples in its Shanghai debut",
-        "description": "Shares in Shanghai Enflame Technology closed 179% above their offer price on their first day of trading on Shanghai\u2019s Star Market on Friday. The Tencent-backed AI chipmaker had raised about 6.12bn yuan ($911m) in its initial public offering, Bloomberg reporte\u2026",
-        "url": "https://thenextweb.com/news/enflame-shanghai-ipo-debut-tencent-ai-chips",
-        "urlToImage": "https://media.thenextweb.com/2026/09/tencent-headquarters-building-sign.jpg",
-        "publishedAt": "2026-09-11T13:58:53Z",
-        "content": "Shares in Shanghai Enflame Technology closed 179% above their offer price on their first day of trading on Shanghais Star Market on Friday. The Tencent-backed AI chipmaker had raised about 6.12bn yua\u2026 [+6144 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Ece Yildirim",
-        "title": "Instagram Exec Thinks People Don\u2019t Actually Want A Chronological Feed",
-        "description": "Meanwhile, Australia is gearing up to take serious regulatory action to leave that choice up to users.",
-        "url": "https://gizmodo.com/instagram-exec-thinks-people-dont-actually-want-a-chronological-feed-2000809867",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2291508084-1200x675.jpg",
-        "publishedAt": "2026-09-11T13:00:37Z",
-        "content": "Meta\u2019s Instagram chief Adam Mosseri thinks a chronological feed would overwhelm users more than the algorithm-curated one.\r\nMosseri made the comments at a press briefing in Australia, where the gover\u2026 [+3703 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MIT Technology Review"
-        },
-        "author": "Thomas Macaulay",
-        "title": "The Download: biotech\u2019s future and cheaper, cleaner steel",
-        "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under \u2026",
-        "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
-        "publishedAt": "2026-09-11T12:10:00Z",
-        "content": "Their innovations include a reprogramming therapy that reverses vision loss, tiny brain electrodes inspired by Japanese art, and a personalized gene-editing treatment for a baby with a rare genetic d\u2026 [+1290 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Paul Gillin",
-        "title": "The hard physics and complex economics of AI\u2019s insatiable hunger for power",
-        "description": "Data centers, the windowless, anonymous, boxy structures that few people even notice, have become a rare unifying force across the polarized American landscape this year. Everyone seems to hate them. The explosion in data center construction has been fueled b\u2026",
-        "url": "https://siliconangle.com/2026/09/11/the-hard-physics-and-complex-economics-of-ais-insatiable-hunger-for-power/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Industrial_data_center_with_pipes_202608281525.jpeg",
-        "publishedAt": "2026-09-11T14:30:29Z",
-        "content": "Data centers, the windowless, anonymous, boxy structures that few people even notice, have become a rare unifying force across the polarized American landscape this year. Everyone seems to hate them.\u2026 [+29773 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Salesforce introduces Enterprise AI Harness, AI Control Plane",
-        "description": "Salesforce Inc. today previewed two offerings that will help customers build and manage artificial intelligence agents. Developers turn a large language model into an agent by extending it with various add-ons. Those add-ons can include prompts, database conn\u2026",
-        "url": "https://siliconangle.com/2026/09/10/salesforce-introduces-enterprise-ai-harness-ai-control-plane/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Salesforce1.png",
-        "publishedAt": "2026-09-11T00:19:52Z",
-        "content": "Salesforce Inc. today previewed two offerings that will help customers build and manage artificial intelligence agents.\r\nDevelopers turn a large language model into an agent by extending it with vari\u2026 [+4217 chars]"
+        "title": "Xi pitches open-source AI to BRICS as Beijing weighs curbs on its own models",
+        "description": "Xi Jinping used the BRICS summit to propose a China-led community for open-source AI and to invite members into the World AI Cooperation Organization, a Beijing-founded body of 29 countries with no EU state among them. Europe drew its line in the AI Act, whic\u2026",
+        "url": "https://thenextweb.com/news/xi-brics-open-source-ai-eu",
+        "urlToImage": "https://media.thenextweb.com/2026/09/xi-jinping-chengdu-2023.jpg",
+        "publishedAt": "2026-09-13T09:58:04Z",
+        "content": "Xi Jinping used the BRICS summit to propose a China-led community for open-source AI and to invite members into the World AI Cooperation Organization, a Beijing-founded body of 29 countries with no E\u2026 [+2605 chars]"
     },
     {
         "source": {
@@ -119,132 +54,28 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Salesforce introduces new AI agents to automate sales, support tasks",
-        "description": "Salesforce Inc. today introduced a series of artificial intelligence agents designed to make sales and technical support teams more productive. The agents are rolling out alongside a new version of Agentforce Coworker, an automation tool built into several of\u2026",
-        "url": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/salesforce.png",
-        "publishedAt": "2026-09-11T23:40:26Z",
-        "content": "Salesforce Inc. today introduced a series of artificial intelligence agents designed to make sales and technical support teams more productive.\r\nThe agents are rolling out alongside a new version of \u2026 [+4150 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Valentina Villamil",
-        "title": "Contact center AI faces its resolution test as metrics fall out of step",
-        "description": "Artificial intelligence is moving out of the pilot phase in customer service, and knowledge management is emerging as the constraint that decides whether the investment pays off. Contact centers combine high interaction volumes, heavy labor costs and visible \u2026",
-        "url": "https://siliconangle.com/2026/09/11/knowledge-management-contact-center-ai-contactcentersummit/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Pedro-Andrade_Talkdesk-Clean.jpg",
-        "publishedAt": "2026-09-11T17:29:17Z",
-        "content": "Artificial intelligence is moving out of the pilot phase in customer service, and knowledge management is emerging as the constraint that decides whether the investment pays off. Contact centers comb\u2026 [+4455 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Sam Weston",
-        "title": "Dynatrace and Arize AI push observability from detection toward action",
-        "description": "Enterprise observability is entering a new phase as artificial intelligence changes both the applications companies need to monitor and the way operations teams respond when something goes wrong. Traditional observability platforms were built around determini\u2026",
-        "url": "https://siliconangle.com/2026/09/11/observability-ai-agents-dynatrace-arize-appdevangle/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Header-Image.png",
-        "publishedAt": "2026-09-11T21:17:44Z",
-        "content": "Enterprise observability is entering a new phase as artificial intelligence changes both the applications companies need to monitor and the way operations teams respond when something goes wrong.\r\nTr\u2026 [+9668 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "AI\u2019s existential crisis explodes but AI companies plunge ahead anyway",
-        "description": "The resignation this week of Anthropic researcher Jacob Coxon over concerns that artificial intelligence labs are \u201cgambling with our lives\u201d lit up the long-smoldering argument about whether AI is heading in a direction hazardous to human life. Not only is he \u2026",
-        "url": "https://siliconangle.com/2026/09/11/ais-existential-crisis-explodes-but-ai-companies-plunge-ahead-anyway/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/aiexistential-800x545.png",
-        "publishedAt": "2026-09-11T14:00:28Z",
-        "content": "The resignation this week of Anthropic researcher Jacob Coxon over concerns that artificial intelligence labs are gambling with our lives lit up the long-smoldering argument about whether AI is headi\u2026 [+10451 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "Extreme Networks\u2019 Agent ONE Coworker moves AI networking from dashboards to answers",
-        "description": "Operating a network has not changed in decades. Every network engineer knows the drill. An alert fires. You open a dashboard. Then another. Then you pull logs, review client history, ping the wireless team, and, hopefully, an hour later, there is enough conte\u2026",
-        "url": "https://siliconangle.com/2026/09/10/extreme-networks-agent-one-coworker-moves-ai-networking-from-dashboards-to-answers/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Extreme_Agent_ONE-scaled.jpg",
-        "publishedAt": "2026-09-11T01:58:50Z",
-        "content": "Operating a network has not changed in decades. Every network engineer knows the drill. An alert fires. You open a dashboard. Then another. Then you pull logs, review client history, ping the wireles\u2026 [+10648 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "title": "Anthropic says Claude thwarted bioweapon research from state-sponsored actors \u2014 covert accounts used U.S. proxies to attempt to engineer deadlier viruses, tried to evade identification and regional blocks",
-        "description": "Anthropic claims Claude refused instructions to potentially develop biological weapons \u2014 alleged state-linked accounts tried to evade identification and regional blocks",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-thwarted-bioweapon-research-from-state-sponsored-actors-covert-accounts-used-u-s-proxies-to-attempt-to-engineer-deadlier-viruses-tried-to-evade-identification-and-regional-blocks",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/g4nXrCZY8SaCBTKgyPUXVW-2371-80.jpg",
-        "publishedAt": "2026-09-11T10:00:00Z",
-        "content": "These days, AI companies directly or indirectly announcing how their respective wares are smarter than their competitors has become a genre of elevator music. Even so, some in-depth articles can be q\u2026 [+5125 chars]"
+        "author": "Mark Tyson",
+        "title": "Playable Tomb Raider runs on a humble 1-watt chip \u2014 $25 board with dual-core 400 MHz ESP32-P4 MCU scales OpenLara up to 1,024 x 600 playable pixels",
+        "description": "A retro video gaming devotee has showcased Lara Croft adventuring in and among ancient tombs on a humble ESP32-P4 microcontroller.",
+        "url": "https://www.tomshardware.com/software/programming/playable-tomb-raider-runs-on-a-humble-1-watt-chip-usd25-board-with-dual-core-400-mhz-esp32-p4-mcu-scales-openlara-up-to-1-024-x-600-playable-pixels",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/AMMnDxVJMstjTqgsYNL2XQ-1920-80.jpg",
+        "publishedAt": "2026-09-13T11:00:00Z",
+        "content": "A retro video gaming devotee has showcased Lara Croft adventuring in and among ancient tombs on a humble ESP32-P4 microcontroller. This highly affordable device (available as a sub-$25 dev board) pac\u2026 [+2404 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Theregister.com"
         },
-        "author": "Duncan Riley",
-        "title": "Maven Robotics launches with $100M to scale its industrial robots",
-        "description": "Industrial robotics startup Maven Robotics Inc. launched today with $100 million in Series A funding, two years after it started working with its first customer. Founded in 2024, the Santa Clara, Calif.-based company began with mixed-case palletizing and tote\u2026",
-        "url": "https://siliconangle.com/2026/09/10/maven-robotics-launches-with-100m-to-scale-its-industrial-robots/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/mavenrobotics.png",
-        "publishedAt": "2026-09-11T00:12:55Z",
-        "content": "Industrial robotics startup Maven Robotics Inc. launched today with $100 million in Series A funding, two years after it started working with its first customer.\r\nFounded in 2024, the Santa Clara, Ca\u2026 [+3954 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Ayar Labs bags $150M in additional Series E funding to help make bigger AI chip clusters",
-        "description": "Networking technology startup Ayar Labs Inc. said today it has extended its Series E funding round to $650 million after raising an additional $150 million from an unnamed investor. The company originally disclosed it had raised $500 million in its Series E r\u2026",
-        "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-11-09-33-27.png",
-        "publishedAt": "2026-09-11T02:36:41Z",
-        "content": "Networking technology startup Ayar Labs Inc. said today it has extended its Series E funding round to $650 million after raising an additional $150 million from an unnamed investor.\r\nThe company orig\u2026 [+5775 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Chinese AI chip developer Enflame raises $912M in IPO",
-        "description": "Shares of Shanghai Enflame Technology Co. closed 179% higher today following an initial public offering that raised 6.12 billion yuan, or about $912 billion. The listing drew particularly strong demand from retail investors. Such investors ordered 6,109 times\u2026",
-        "url": "https://siliconangle.com/2026/09/11/chinese-ai-chip-developer-enflame-raises-912m-in-ipo/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Unsplash-1-1.png",
-        "publishedAt": "2026-09-11T20:54:40Z",
-        "content": "Shares of Shanghai Enflame Technology Co. closed 179% higher today following an initial public offering that raised 6.12 billion yuan, or about $912 billion.\r\nThe listing drew particularly strong dem\u2026 [+4151 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "OpenAI targets Wall Street bankers with a new version of ChatGPT",
-        "description": "OpenAI Group PBC is going after Wall Street with a new version of ChatGPT that\u2019s tailor made for financial tasks such as analysis and calculations. Predictably called ChatGPT for Financial Services, it\u2019s designed to combine rich financial data with the powerf\u2026",
-        "url": "https://siliconangle.com/2026/09/10/openai-targets-wall-street-bankers-with-a-new-version-of-chatgpt/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-11-08-51-48.png",
-        "publishedAt": "2026-09-11T01:54:51Z",
-        "content": "OpenAI Group PBC is going after Wall Street with a new version of ChatGPT thats tailor made for financial tasks such as analysis and calculations.\r\nPredictably called ChatGPT for Financial Services, \u2026 [+6659 chars]"
+        "author": "Jessica Lyons",
+        "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+        "description": "RIP, you won't be mourned",
+        "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
+        "urlToImage": "https://image.theregister.com/5296004.jpg?imageId=5296004&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-13T11:21:00Z",
+        "content": "The term \"security through obscurity\" describes an old idea that networks and systems will remain secure so long as their architecture, along with any vulnerabilities or other weaknesses, remains sec\u2026 [+8023 chars]"
     },
     {
         "source": {
@@ -261,55 +92,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Valentina Villamil",
-        "title": "How Conversation to Completion moves contact centers past containment",
-        "description": "For years, contact centers measured success by containment: how many calls never reached a human agent. That metric increasingly misses the point, since a call can be contained and still leave the customer without an actual answer. The shift underway is towar\u2026",
-        "url": "https://siliconangle.com/2026/09/11/conversation-to-completion-zoom-contactcentersummit/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Joe-Rittenhouse-Ram-Rajagolpalan-Thumb.jpg",
-        "publishedAt": "2026-09-11T14:20:13Z",
-        "content": "For years, contact centers measured success by containment: how many calls never reached a human agent. That metric increasingly misses the point, since a call can be contained and still leave the cu\u2026 [+4812 chars]"
+        "author": "Justine Calma",
+        "title": "Trump is giving data centers a pass to pollute",
+        "description": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - pe\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-12T14:41:27Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump administration is sacrificing Americans health to build data centers, former EPA officials warn.\r\nThe Trump administration is sacrificing Americans hea\u2026 [+6400 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Valentina Villamil",
-        "title": "Why Cisco is turning contact centers into context centers",
-        "description": "A customer calling a support line doesn\u2019t think about org charts. They don\u2019t know or care whether they\u2019ve reached the storefront, the billing department or the contact center, since to them it\u2019s all just one continuous relationship with a brand. Most companie\u2026",
-        "url": "https://siliconangle.com/2026/09/11/context-center-cisco-webex-contactcentersummit/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Captura-de-pantalla-2026-09-11-a-las-3.15.29-p.m-scaled.png",
-        "publishedAt": "2026-09-11T20:18:13Z",
-        "content": "A customer calling a support line doesn\u2019t think about org charts. They don\u2019t know or care whether they\u2019ve reached the storefront, the billing department or the contact center, since to them it\u2019s all \u2026 [+5037 chars]"
+        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+        "title": "Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet \u2014 'In 6\u201312 months such a swarm could be capable of taking over the entire internet with a persistent botnet'",
+        "description": "As an Ex-Anthropic warns AI will get self-sufficient and kill our posterity.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/SvLU6cxYvNBbAzAkMrzDeL-1920-80.jpg",
+        "publishedAt": "2026-09-13T13:36:35Z",
+        "content": "The progress of artificial intelligence technologies in recent years is undeniable, and its pace is pretty much unbelievable. With at least four American contenders with frontier AI models, the compe\u2026 [+3132 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Ryan Stevens",
-        "title": "Five9 builds Humantic contact centers instead of full automation",
-        "description": "Contact centers have spent the past two years trying to maximize a single number, the share of calls AI can handle without a human ever picking up. That framing is starting to look too narrow, since the interactions that matter most, the highest-value, most c\u2026",
-        "url": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Amit-Mathradas_Thumb.jpg",
-        "publishedAt": "2026-09-11T19:14:09Z",
-        "content": "Contact centers have spent the past two years trying to maximize a single number, the share of calls AI can handle without a human ever picking up. That framing is starting to look too narrow, since \u2026 [+4755 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Lauren Goode",
-        "title": "One of AI\u2019s Fiercest Critics Says All the Doom Talk Is \u2018Meant to Distract Us\u2019",
-        "description": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-        "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-        "urlToImage": "https://media.wired.com/photos/6aa2e16e1ef586476d0a1793/191:100/w_1280,c_limit/Backchannel-Timnit-Gebru-Business.jpg",
-        "publishedAt": "2026-09-11T15:00:00Z",
-        "content": "How do you interpret the resignation of that Anthropic engineer, whos saying the companies are reckless and gambling with our lives? On the one hand, you seem to agree that the companies are being re\u2026 [+3042 chars]"
+        "author": "Mark Tyson",
+        "title": "Sanders proposes 20 year prison sentence for AI devs who plow ahead with Artificial Superintelligence plans \u2014 penalty on par with illegally developing rogue nuclear weapons",
+        "description": "Senators Bernie Sanders and Greg Cezar have announced their Ban Artificial Superintelligence Act which threatens 20-year prison sentences for rule breakers.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/oAKof7fdsFDAFkCAKvWZud-1920-80.jpg",
+        "publishedAt": "2026-09-13T14:10:00Z",
+        "content": "Senators Bernie Sanders and Greg Cezar have announced their Ban Artificial Superintelligence Act. Seeking to pause advanced AI development, the legislation\u2019s stick is pretty severe. Penalties facing \u2026 [+2734 chars]"
     },
     {
         "source": {
@@ -317,63 +135,24 @@
             "name": "Theregister.com"
         },
         "author": "Tobias Mann",
-        "title": "DeepSeek's new model sets a template for powerful LLMs that run lean",
-        "description": "DeepSeek V4.1 Flash proves that just because you build a bigger model doesn't mean you need more GPUs to serve it",
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715",
-        "urlToImage": "https://image.theregister.com/262727.jpg?imageId=262727&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-09-11T07:15:00Z",
-        "content": "Chinese AI darling DeepSeek unveiled an updated version of its cost-and-latency-optimized Flash model on Thursday, with a new version 4.1 that includes\u00a0architectural improvements more significant tha\u2026 [+7353 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "AI more likely to kill animals if it saves fuel or money",
-        "description": "Machine learning models still have a lot to learn about the value of life",
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
-        "urlToImage": "https://image.theregister.com/5296007.jpg?imageId=5296007&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-09-11T21:49:59Z",
-        "content": "Amid debate about whether AI will kill everyone as a result of continuous self-improvement, it appears that models will kill animals in a simulated environment rather than spend extra fuel avoiding t\u2026 [+5405 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Dhruv Mehrotra",
-        "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-        "description": "The proposed class action alleges Meta illegally harvested people\u2019s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased \u201cNameTag\u201d face recognition feature.",
-        "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-        "urlToImage": "https://media.wired.com/photos/6aa4120d92d2b4de236f2240/191:100/w_1280,c_limit/GettyImages-2289768151.jpg",
-        "publishedAt": "2026-09-11T18:59:25Z",
-        "content": "A set of parents and their children in Illinois and California filed a lawsuit last week in federal court in Chicago alleging that Meta illegally used their Facebook and Instagram photos to build Nam\u2026 [+3761 chars]"
+        "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
+        "description": "Even if regulators did somehow unwind the $20B deal, there's a growing list of alternatives ready to take Groq's place, no merger required",
+        "url": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
+        "urlToImage": "https://image.theregister.com/262815.jpg?imageId=262815&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-12T13:26:00Z",
+        "content": "Nvidia spent a whopping $20 billion late last year to license Groqs AI accelerator tech and hire away key members of its engineering team in an everything-but-the-kitchen-sink deal.\r\nThe acquihire\u00a0te\u2026 [+4441 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Tim Fernholz",
-        "title": "OpenAI's feud with mathematicians is only escalating | TechCrunch",
-        "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-        "publishedAt": "2026-09-11T20:57:36Z",
-        "content": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Each si\u2026 [+3046 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "VentureBeat"
-        },
-        "author": "Louis Columbus",
-        "title": "Security vendors use AI to rank Patch Tuesday CVEs \u2014 and rarely tell customers",
-        "description": "Microsoft's record Patch Tuesday drew seven CVE counts. Security vendors use AI to rank them, and Ivanti's Claude skill invented details reviewers caught.",
-        "url": "https://venturebeat.com/security/security-vendors-use-ai-to-rank-patch-tuesday-cves-and-rarely-tell-customers",
-        "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/6iHhdTwx80LDSAj551caWt/489bd03da6fc3ae2ede0c8133285ab52/final_hero.png?w=800&q=75",
-        "publishedAt": "2026-09-11T19:44:21Z",
-        "content": "Chris Goettl spent months training a Claude skill on the same patch data he had processed by hand for a decade. It kept inventing details.\r\nYou see something blatantly wrong, and at some point, you j\u2026 [+8814 chars]"
+        "author": "Anthony Ha",
+        "title": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019 | TechCrunch",
+        "description": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019 | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+        "publishedAt": "2026-09-12T16:00:57Z",
+        "content": "Weve been seeing increasingly dire warnings from AI researchers about the dangers of artificial intelligence, and even comments from OpenAI CEO Sam Altman that it may be time to pace AI development. \u2026 [+5107 chars]"
     }
 ]

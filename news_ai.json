@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "the-next-web",
+            "name": "The Next Web"
         },
-        "author": "Terrence O\u2019Brien",
-        "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-        "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-09-12T21:41:36Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month.\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face \u2026 [+2116 chars]"
+        "author": "Callum Turner",
+        "title": "The detrimental cost of scaling too fast",
+        "description": "AI has crossed a decisive threshold in the enterprise. McKinsey\u2019s 2026 global survey found that 44% of organizations now report scaling AI across the enterprise, up from 38% a year earlier, with the figure reaching 54% among companies generating at least $1 b\u2026",
+        "url": "https://thenextweb.com/news/detrimental-cost-scaling-too-fast-greg-keith",
+        "urlToImage": "https://media.thenextweb.com/2026/09/detrimental-cost-scaling-too-fast-greg-keith.jpg",
+        "publishedAt": "2026-09-13T16:42:11Z",
+        "content": "TL;DR\r\n44% of organizations are scaling AI enterprise-wide (McKinsey), yet 95% of generative AI pilots show no measurable bottom-line impact (MIT). Greg Keiths Scaling Instability Curve framework mar\u2026 [+5514 chars]"
     },
     {
         "source": {
@@ -30,6 +30,32 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
+        "author": "Callum Turner",
+        "title": "Australia\u2019s AI music decision opens a new front in the fight over human creativity",
+        "description": "Wholly AI-generated songs are no longer accepted in Australia. This August, ABC News reported that the Australian Recording Industry Association (ARIA) stripped machine-made tracks from its official charts last month, ruling that an AI recording can only appe\u2026",
+        "url": "https://thenextweb.com/news/australia-ai-music-aria-human-creativity-craig-anderson",
+        "urlToImage": "https://media.thenextweb.com/2026/09/australia-ai-music-aria-human-creativity-craig-anderson.jpg",
+        "publishedAt": "2026-09-13T16:47:38Z",
+        "content": "TL;DR\r\nARIA stripped AI-generated tracks from Australias charts after an AI-assisted Madonna cover reached number four. More than a third of new Apple Music uploads are reportedly AI-created. Pew fou\u2026 [+5971 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-Maria Stanciuc",
+        "title": "Intrepid Growth Partners closes a $525m AI fund with state money from four countries",
+        "description": "Intrepid Growth Partners has closed its first fund at $525m and launched formally from offices in Toronto and London. Mark Machin, Mark Shulgan and Ajay Agrawal founded the firm in 2023, and it already holds nine portfolio companies, among them PhysicsX in Lo\u2026",
+        "url": "https://thenextweb.com/news/intrepid-growth-partners-525m-ai-fund-state",
+        "urlToImage": "https://media.thenextweb.com/2026/09/Intrepid-Growth-Partners-co-founders.jpg",
+        "publishedAt": "2026-09-14T13:07:36Z",
+        "content": "Intrepid Growth Partners has closed its first fund at $525m and launched formally from offices in Toronto and London. Mark Machin, Mark Shulgan and Ajay Agrawal founded the firm in 2023, and it alrea\u2026 [+4662 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
         "author": "Alina Maria Stan",
         "title": "Xi pitches open-source AI to BRICS as Beijing weighs curbs on its own models",
         "description": "Xi Jinping used the BRICS summit to propose a China-led community for open-source AI and to invite members into the World AI Cooperation Organization, a Beijing-founded body of 29 countries with no EU state among them. Europe drew its line in the AI Act, whic\u2026",
@@ -40,16 +66,94 @@
     },
     {
         "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Alina Maria Stan",
+        "title": "A Senate bill would let Washington block AI models, Reuters reports",
+        "description": "Senate negotiators are drafting a bill that would let the US government stop the release of an AI model. Courtney Rozen reported the terms for Reuters. Her sources are two Senate aides, a person familiar with the deliberations and a lobbyist involved in the t\u2026",
+        "url": "https://thenextweb.com/news/senate-ai-bill-duty-of-care-block-model-releases-state-preemption",
+        "urlToImage": "https://media.thenextweb.com/2026/08/white-house-ai-framework-secret-voluntary-classified.jpg",
+        "publishedAt": "2026-09-14T13:07:12Z",
+        "content": "Senate negotiators are drafting a bill that would let the US government stop the release of an AI model. Courtney Rozen reported the terms for Reuters. Her sources are two Senate aides, a person fami\u2026 [+5838 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Mike Pearl",
+        "title": "Sentient AI\u2019s Bigfoot Era Could Arrive at Any Moment",
+        "description": "Sentient AI is a cryptid for now. That doesn't mean belief in it won't go mainstream.",
+        "url": "https://gizmodo.com/sentient-ais-bigfoot-era-could-arrive-at-any-moment-2000811048",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/bigfoot-1200x675.jpg",
+        "publishedAt": "2026-09-14T10:00:14Z",
+        "content": "Many living thingsfrom humans some of us choose to not see as human, to animals we choose to not see as sentientprobably deserve moral consideration that isnt currently on the table. But its looking \u2026 [+8792 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "Altman Says OpenAI Won\u2019t IPO This Year",
+        "description": "The OpenAI CEO said it's because he'd rather deal with AI safety concerns as a private company.",
+        "url": "https://gizmodo.com/altman-says-openai-wont-ipo-this-year-2000811051",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292627056-1200x675.jpg",
+        "publishedAt": "2026-09-14T01:11:13Z",
+        "content": "OpenAI CEO Sam Altman just admitted that the company\u2019s long-awaited, potentially record-setting IPO won\u2019t be happening this year. Instead of rumored financial woes, Altman is blaming AI safety concer\u2026 [+4203 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Researchers link another hacking campaign to OpenAI agents",
-        "description": "Artificial intelligence agents tied to OpenAI Group PBC reportedly hacked a popular code hosting service earlier this year. The Wall Street Journal detailed\u00a0the breach today. The malicious activity was discovered by a research group that included Nightingale,\u2026",
-        "url": "https://siliconangle.com/2026/09/11/researchers-link-another-hacking-campaign-to-openai-agents/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/openai-1.png",
-        "publishedAt": "2026-09-12T01:25:10Z",
-        "content": "Artificial intelligence agents tied to OpenAI Group PBC reportedly hacked a popular code hosting service earlier this year.\r\nThe Wall Street Journal detailed\u00a0the breach today. The malicious activity \u2026 [+3907 chars]"
+        "author": "Duncan Riley",
+        "title": "Dataminr puts real-time intelligence and agentic AI inside Crisis24 Horizon",
+        "description": "Real-time event and risk detection company Dataminr Inc. today made its threat detection feed and agentic artificial intelligence tools available inside Crisis24 Horizon, the integrated risk management platform sold by Crisis24 Inc. The two companies unveiled\u2026",
+        "url": "https://siliconangle.com/2026/09/14/dataminr-puts-real-time-intelligence-and-agentic-ai-inside-crisis24-horizon/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/crisis24guardian.png",
+        "publishedAt": "2026-09-14T13:00:46Z",
+        "content": "Real-time event and risk detection company Dataminr Inc. today made its threat detection feed and agentic artificial intelligence tools available inside Crisis24 Horizon, the integrated risk manageme\u2026 [+4214 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Buildots raises $130 million to expand AI-powered construction platform",
+        "description": "Artificial intelligence-powered construction management startup Buildots Ltd. said today it has raised $130 million in new late-stage funding to expand its platform and capitalize on rising investment in data centers, manufacturing plants and energy infrastru\u2026",
+        "url": "https://siliconangle.com/2026/09/14/buildots-raises-130-million-to-expand-ai-powered-construction-platform/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Courtesy-Buildots.jpg",
+        "publishedAt": "2026-09-14T12:00:23Z",
+        "content": "Artificial intelligence-powered construction management startup Buildots Ltd. said today it has raised $130 million in new late-stage funding to expand its platform and capitalize on rising investmen\u2026 [+4338 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Kyt Dotson",
+        "title": "Copado extends Agentia agentic AI DevOps platform for Salesforce with headless automation",
+        "description": "Copado Inc., a low-code DevOps solution provider for Salesforce, today announced it\u2019s extending its Agentia platform with Headless, bringing it directly into developer tools and operational workflows. Agentia is Copado\u2019s artificial intelligence-powered AgentO\u2026",
+        "url": "https://siliconangle.com/2026/09/14/copado-extends-agentia-agentic-ai-devops-platform-for-salesforce-with-headless-automation/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2022/09/keyboard-ga0b3ff4d0_1280.jpg",
+        "publishedAt": "2026-09-14T13:00:18Z",
+        "content": "Copado Inc., a low-code DevOps solution provider for Salesforce, today announced its extending its Agentia platform with Headless, bringing it directly into developer tools and operational workflows.\u2026 [+3728 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Zeus Kerravala",
+        "title": "Supio\u2019s long-horizon agents point to a new operating model for law firms",
+        "description": "The next phase of artificial intelligence in legal technology will not be defined by a better chatbot or a faster document-summarization tool. It will be defined by whether AI systems can take responsibility for real work that unfolds over days or weeks, span\u2026",
+        "url": "https://siliconangle.com/2026/09/13/supios-long-horizon-agents-point-to-a-new-operating-model-for-law-firms/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/supio.jpg",
+        "publishedAt": "2026-09-13T16:50:01Z",
+        "content": "The next phase of artificial intelligence in legal technology will not be defined by a better chatbot or a faster document-summarization tool. It will be defined by whether AI systems can take respon\u2026 [+11649 chars]"
     },
     {
         "source": {
@@ -67,6 +171,32 @@
     {
         "source": {
             "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Cornelis Networks raises $205M and scales up and out with its new Active Compute Fabric",
+        "description": "Data center infrastructure startup Cornelis Networks Inc. is taking a major leap forward with the launch of a new Active Compute Fabric architecture to support scale-up and scale-out networks for artificial intelligence workloads. The new fabric was announced\u2026",
+        "url": "https://siliconangle.com/2026/09/14/cornelis-networks-raises-205m-and-scales-up-and-scales-out-with-its-new-active-compute-fabric/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-14-10-59-26.png",
+        "publishedAt": "2026-09-14T13:00:53Z",
+        "content": "Data center infrastructure startup Cornelis Networks Inc. is taking a major leap forward with the launch of a new Active Compute Fabric architecture to support scale-up and scale-out networks for art\u2026 [+7118 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Sam Altman and Elon Musk back Dario Amodei\u2019s call to slow down the frontier of AI development",
+        "description": "Anthropic PBC Chief Executive Dario Amodei has once again called for the artificial intelligence industry to slow down the pace of frontier model development, only this time he\u2019s being backed by two biggest rivals: OpenAI Group PBC CEO Sam Altman and Elon Mus\u2026",
+        "url": "https://siliconangle.com/2026/09/13/sam-altman-and-elon-musk-back-dario-amodeis-call-to-slow-down-the-frontier-of-ai-development/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-14-08-37-28.png",
+        "publishedAt": "2026-09-14T01:37:49Z",
+        "content": "Anthropic PBC Chief Executive Dario Amodei has once again called for the artificial intelligence industry to slow down the pace of frontier model development, only this time hes being backed by two b\u2026 [+9513 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Theregister.com"
         },
         "author": "Jessica Lyons",
@@ -79,29 +209,42 @@
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Isabella Ward",
-        "title": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
-        "description": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work.",
-        "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-        "urlToImage": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
-        "publishedAt": "2026-09-12T10:00:00Z",
-        "content": "Mathematician and author Steven Strogatz starts to cry when he talks about the artificial-intelligence-driven breakthroughs in his field over the past week.\r\nThe science is thrilling, the Cornell Uni\u2026 [+3284 chars]"
+        "author": "Mike Wheatley",
+        "title": "Nvidia expands CUDA-Q platform to support fault-tolerant quantum processors",
+        "description": "Nvidia Corp. said today it\u2019s tackling one of the major headaches for developers of quantum applications with the launch of a new orchestration layer within its open-source CUDA-Q platform. The announcement came at this week\u2019s IEEE Quantum Week 2026 event that\u2026",
+        "url": "https://siliconangle.com/2026/09/14/nvidia-expands-cuda-q-platform-to-support-fault-tolerant-quantum-processors/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/CUDA-Q-Image.jpg",
+        "publishedAt": "2026-09-14T13:00:13Z",
+        "content": "Nvidia Corp. said today its tackling one of the major headaches for developers of quantum applications with the launch of a new orchestration layer within its open-source CUDA-Q platform.\r\nThe announ\u2026 [+5864 chars]"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Justine Calma",
-        "title": "Trump is giving data centers a pass to pollute",
-        "description": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - pe\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-09-12T14:41:27Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump administration is sacrificing Americans health to build data centers, former EPA officials warn.\r\nThe Trump administration is sacrificing Americans hea\u2026 [+6400 chars]"
+        "author": "Paul Gillin",
+        "title": "Exclusive: 45Drives expands ransomware protection and adds multi-server management to its storage line",
+        "description": "Open-source data storage provider 45Drives Ltd. today announced an expansion of its SnapShield cybersecurity platform that adds protection against data exfiltration and centralized management across multiple servers and locations. The maker of high-density st\u2026",
+        "url": "https://siliconangle.com/2026/09/14/exclusive-45drives-expands-ransomware-protection-and-adds-multi-server-management-to-its-storage-line/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/45Drives-800x526.png",
+        "publishedAt": "2026-09-14T12:00:40Z",
+        "content": "Open-source data storage provider 45Drives Ltd. today announced an expansion of its SnapShield cybersecurity platform that adds protection against data exfiltration and centralized management across \u2026 [+4562 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ali Shaikh",
+        "title": "Q-Day is approaching. Most organizations aren\u2019t ready",
+        "description": "\u201cQ-Day,\u201d the point at which quantum computers begin to break the encryption protecting most of the internet, lives in the same mental category as other far-off technology risks: real eventually, but not something requiring immediate action. That assumption is\u2026",
+        "url": "https://siliconangle.com/2026/09/13/q-day-is-approaching-most-organizations-arent-ready/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/cubes-in-space-encryption.jpg",
+        "publishedAt": "2026-09-13T16:49:54Z",
+        "content": "\u201cQ-Day,\u201d the point at which quantum computers begin to break the encryption protecting most of the internet, lives in the same mental category as other far-off technology risks: real eventually, but \u2026 [+7256 chars]"
     },
     {
         "source": {
@@ -131,16 +274,42 @@
     },
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Isabella Ward",
+        "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
+        "description": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China.",
+        "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+        "urlToImage": "https://media.wired.com/photos/6aa7c567181b95a3e876f8f9/191:100/w_1280,c_limit/091426-Trump%20AI%20Leaders.jpg",
+        "publishedAt": "2026-09-14T11:00:00Z",
+        "content": "As calls for artificial intelligence regulation intensify, US President Donald Trumps team have made it clear that if lab leaders want to implement an industry-wide slowdown, theyre going to have to \u2026 [+2861 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Joel Khalili",
+        "title": "\u2018I Like My Big Rat Wife\u2019: Meet the People Using Chatbots to Write Custom Fiction",
+        "description": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+        "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+        "urlToImage": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
+        "publishedAt": "2026-09-14T09:00:00Z",
+        "content": "When Petra Ferraz de Novaes isnt at work, shes probably lost in a fantasy crafted with the help of artificial intelligence.\r\nNovaes, a 36-year-old software engineer from Brazil, has always loved stor\u2026 [+3508 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Tobias Mann",
-        "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
-        "description": "Even if regulators did somehow unwind the $20B deal, there's a growing list of alternatives ready to take Groq's place, no merger required",
-        "url": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
-        "urlToImage": "https://image.theregister.com/262815.jpg?imageId=262815&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-09-12T13:26:00Z",
-        "content": "Nvidia spent a whopping $20 billion late last year to license Groqs AI accelerator tech and hire away key members of its engineering team in an everything-but-the-kitchen-sink deal.\r\nThe acquihire\u00a0te\u2026 [+4441 chars]"
+        "author": "Lindsay Clark",
+        "title": "MPs and peers tell UK to stop winging it on AI regulation",
+        "description": "Rights committee demands watchdog with teeth as patchwork safeguards leave victims hunting for remedies",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/mps-and-peers-tell-uk-to-stop-winging-it-on-ai-regulation/5296108",
+        "urlToImage": "https://image.theregister.com/224202.jpg?imageId=224202&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-14T12:00:00Z",
+        "content": "UK lawmakers want an AI watchdog with the teeth to stop potentially dangerous systems reaching the public, warning that existing rules leave people exposed and struggling to hold anyone accountable.\r\u2026 [+3211 chars]"
     },
     {
         "source": {
@@ -148,11 +317,63 @@
             "name": "TechCrunch"
         },
         "author": "Anthony Ha",
-        "title": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019 | TechCrunch",
-        "description": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019 | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-        "publishedAt": "2026-09-12T16:00:57Z",
-        "content": "Weve been seeing increasingly dire warnings from AI researchers about the dangers of artificial intelligence, and even comments from OpenAI CEO Sam Altman that it may be time to pace AI development. \u2026 [+5107 chars]"
+        "title": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards | TechCrunch",
+        "description": "Obama recently said that Democrats need to make artificial intelligence one of their \u201ccentral agendas\u201d and \u201chave a very clear plan\u201d to address concerns around the technology\u2019s economic impact and safety.",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+        "publishedAt": "2026-09-13T16:30:00Z",
+        "content": "Former President Barack Obama recently said that Democrats need to make artificial intelligence one of their central agendas and have a very clear plan to address concerns around the technologys econ\u2026 [+2635 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "VentureBeat"
+        },
+        "author": "Ankit Anand",
+        "title": "Long-running AI agents quietly drop compliance rules, and bigger context windows won't fix it",
+        "description": "Long-running AI agents quietly drop compliance rules, and bigger context windows won't fix itventurebeat.com",
+        "url": "https://venturebeat.com/orchestration/long-running-ai-agents-quietly-drop-compliance-rules-and-bigger-context-windows-wont-fix-it",
+        "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/1Z4k1A8qAkzZcuAVWGLI2m/07013603fec43c94ab4d08befa8b8fd9/u7277289442_An_AI_robot_is_looking_at_spreadsheets._Dollar_si_51f0b024-c77e-4449-bbef-60a30e0e3a5a_1.png?w=800&q=75",
+        "publishedAt": "2026-09-13T18:05:08Z",
+        "content": "Imagine deploying an AI agent to run a multi-day master data validation workflow. By day three, it has ingested thousands of records. The baseline governance rules you hardcoded into the system promp\u2026 [+5206 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Ana-maria Stanciuc",
+        "title": "Obama warns AI in private hands could be dangerous and urges Democrats to act",
+        "description": "Obama says AI moving fast in private hands could be dangerous, and has urged Democrats to build a policy framework and run on it in 2028.",
+        "url": "https://thenextweb.com/news/obama-ai-warning-democrats-framework-2028",
+        "urlToImage": "https://media.thenextweb.com/2026/09/Barack-Obama-on-stage-at-The-O2.jpg",
+        "publishedAt": "2026-09-13T18:17:09Z",
+        "content": "Barack Obama told a closed Democratic fundraiser last Thursday that artificial intelligence is moving very fast in private hands, and if we dont get on top of it, I think it can be dangerous.\u00a0 \r\nThe \u2026 [+3061 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Kirsten Korosec",
+        "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat | TechCrunch",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-lyft-nashville.jpeg?resize=1200,675",
+        "publishedAt": "2026-09-13T16:05:45Z",
+        "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free just click Tech\u2026 [+8764 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Marina Temkin",
+        "title": "The 9 buzziest startups from Y Combinator\u2019s latest Demo Day, according to VCs | TechCrunch",
+        "description": "The 9 buzziest startups from Y Combinator\u2019s latest Demo Day, according to VCs | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
+        "publishedAt": "2026-09-13T20:29:29Z",
+        "content": "Another Y Combinator Demo Day took place on Thursday, but this batch looked a little different. While every cohort brings a fresh wave of founders, the startups presenting this week skewed far more t\u2026 [+6239 chars]"
     }
 ]

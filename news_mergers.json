@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lara O'Reilly",
+        "title": "Taboola is buying a rival adtech company to gain a bigger foothold with lucrative finance clients",
+        "description": "Taboola CEO Adam Singolda said the company is on a mission to \"monetize everything\" outside of closed platforms such as Google and Meta.",
+        "url": "https://www.businessinsider.com/taboola-acquire-uk-adtech-company-dianomi-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aa8fd3d9b8974787b1cc235?width=1200&format=jpeg",
+        "publishedAt": "2026-09-18T06:49:17Z",
+        "content": "Adam Singolda's Taboola is going shopping.John Lamparski/Getty Images\r\n<ul><li>Taboola is eyeing a bigger slice of the adtech market.</li><li>It has made an offer to acquire fellow adtech firm Dianom\u2026 [+3095 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "Plaud AI note-taker startup targets U.S. IPO in 2028",
+        "description": "The San Francisco-based company says it needs to surpass $1 billion in annual revenue before going public",
+        "url": "https://qz.com/plaud-ai-note-taker-ipo-2028-091726",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/d04dbe5491dbe90a1572d3b5dd6ba99e12592add7880ca50ac020e4b4b231f49/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fac318dc5099c412c614aec1160e90c44.jpg",
+        "publishedAt": "2026-09-17T14:01:49Z",
+        "content": "Co-founder and Chief Executive Nathan Xu told The Wall Street Journal that Plaud is targeting a U.S. initial public offering in 2028.\r\nAccording to Xu, Plaud will move toward a public listing after i\u2026 [+2305 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -14,42 +40,42 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "Quartz India"
         },
-        "author": "Melissa Hancock",
-        "title": "The Gulf\u2019s female startup ecosystem is flourishing. So, where\u2019s the funding?",
-        "description": "In this week\u2019s Fortune Gulf Brief.",
-        "url": "https://fortune.com/2026/09/16/the-gulf-female-startup-ecosystem-is-flourishing-so-wheres-the-funding/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/CHRZ-25-e1789552050225.jpeg?resize=1200,600",
-        "publishedAt": "2026-09-16T09:48:31Z",
-        "content": "Female-founded startups secured just $8.5 million with a total of two transactions.\u00a0\u00a0\r\nIt made for puzzling reading, given that the regions startup ecosystem, particularly in the Gulf, is thriving, w\u2026 [+10229 chars]"
+        "author": "Cris Tolomia",
+        "title": "Salesforce sets $63 billion fiscal 2030 revenue target at Dreamforce",
+        "description": "The software company's long-term outlook exceeded analyst estimates as it promoted AI partnerships at its annual conference",
+        "url": "https://qz.com/salesforce-63-billion-revenue-target-fiscal-2030-dreamforce-091726",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/de44dfbdeef79b33c8add4e29dadd609abc90fee958c92faa24c7d7a00470684/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F9c07896044cc9569fc74812d061090ff.jpg",
+        "publishedAt": "2026-09-17T11:18:46Z",
+        "content": "Salesforce issued a revenue forecast of more than $63 billion for its fiscal year ending in January 2030, topping what analysts had projected. Robin Washington, Salesforce's chief operating and finan\u2026 [+2432 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jim Edwards",
-        "title": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion",
-        "description": "Everything you need to know before you reach the office this morning.",
-        "url": "https://fortune.com/2026/09/16/openai-ipo-sam-altman-vc-funding-valuation-1-2-trillion/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/1GettyImages-2294955001.jpg?resize=1200,600",
-        "publishedAt": "2026-09-16T09:28:35Z",
-        "content": "Did someone forward this email to you? If you would like to receive this information directly, every morning before the markets open in New York,sign up here.IPO NO\r\nOpenAI considers pushing off IPO \u2026 [+7884 chars]"
+        "author": "Emily Forlini",
+        "title": "Exclusive: OpenAI poaches Brian McCarthy from SpaceX to be its VP of worldwide sales",
+        "description": "McCarthy is the first major hire by Dali Rajic, OpenAI's new CRO who joined less than a month ago.",
+        "url": "https://fortune.com/2026/09/17/openai-poache-brian-mccarthy-from-spacex-as-its-vp-of-worldwide-sales/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Edited-Horizontal-of-Brian.jpg?resize=1200,600",
+        "publishedAt": "2026-09-17T19:30:03Z",
+        "content": "OpenAI has hired Brian McCarthy from SpaceX to become its vice president of worldwide sales.McCarthy joined SpaceX in August through its acquisition of Cursor. At both companies he served as the pres\u2026 [+2055 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "John Kell",
-        "title": "AI agents are going rogue. CIOs are racing to put guardrails around them",
-        "description": "As AI agents take on more work\u2014and present new risks\u2014Cisco, Intuit, Workday, and ServiceNow are creating layers of oversight to monitor, govern, and contain them.",
-        "url": "https://fortune.com/2026/09/16/ai-agents-are-going-rogue-cios-are-racing-to-put-guardrails-around-them/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/CIO-Intelligence-Sept-2026.jpg?resize=1200,600",
-        "publishedAt": "2026-09-16T16:49:27Z",
-        "content": "Over the past several days, some of the worlds top artificial intelligence labs have made a public call to slow down the rapid pace of development, ensuring more safety controls as cases continue to \u2026 [+14524 chars]"
+        "author": "Beatrice Nolan",
+        "title": "As AI CEOs clash over regulation, a new culture war is brewing",
+        "description": "Tech leaders are split over who should regulate advanced AI, while the Trump administration and its allies are stoking a culture war.",
+        "url": "https://fortune.com/2026/09/17/as-ai-ceos-clash-over-regulation-a-new-culture-war-is-brewing/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/gettyimages-2281423992-594x594-1.jpg?resize=1200,600",
+        "publishedAt": "2026-09-17T19:20:05Z",
+        "content": "Welcome to Eye on AI. Beatrice Nolan here. In todays issue:<ul><li>The battle lines in AI regulation are forming.</li><li>OpenAI discloses more hacking incidents.</li><li>The King hosts an AI safety \u2026 [+11716 chars]"
     },
     {
         "source": {
@@ -66,6 +92,32 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Oliver Renick",
+        "title": "AI trade rebound sparks flurry of unusually bullish options activity",
+        "description": "Options traders stormed into tech trades on Thursday.",
+        "url": "https://www.cnbc.com/2026/09/18/ai-trade-rebound-sparks-flurry-of-unusually-bullish-options-activity.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
+        "publishedAt": "2026-09-18T11:20:56Z",
+        "content": "Interest rates are up, the leaders of the artificial intelligence movement are warning of doomsday outcomes without regulation, and the Nasdaq-100 index posted its best day in six weeks. Options trad\u2026 [+2557 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Evelyn Cheng",
+        "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+        "description": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+        "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364242-1789632281214-gettyimages-2286500505-CHINA_KIMI.jpeg?v=1789632321&w=1920&h=1080",
+        "publishedAt": "2026-09-17T14:30:25Z",
+        "content": "BEIJING The Chinese artificial intelligence startup behind the Kimi model said Thursday that financial industry giants, including investment banks, funds and venture capital firms are using its Kimi \u2026 [+2056 chars]"
+    },
+    {
+        "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
@@ -76,5 +128,44 @@
         "urlToImage": "https://bl-i.thgim.com/public/incoming/escxat/article71468535.ece/alternates/LANDSCAPE_1200/BL-LEAD_G9FG0JPJ6.1GQ8G0L6JS.3.jpg",
         "publishedAt": "2026-09-17T04:30:04Z",
         "content": "The board of Tata Groups holding company will meet Thursday to discuss how to handle a listing mandated by Indias central bank, including if outgoing Chairman Natarajan Chandrasekaran should be asked\u2026 [+3106 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Isabel O'Brien, Jordan Novet",
+        "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
+        "description": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
+        "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363216-17894958302026-09-15t180749z_2054840051_rc2ujnapd4i5_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
+        "publishedAt": "2026-09-18T11:00:01Z",
+        "content": "Dario Amodei, Anthropic Co-Founder and CEO, and Marc Benioff, Salesforce CEO and Co-Founder, attend Dreamforce 2026 summit in San Francisco, California, U.S., Sept.15, 2026.\r\nAt Salesforce's annual D\u2026 [+7589 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Priyanka Salve",
+        "title": "An intense boardroom battle is brewing at India's giant Tata Group",
+        "description": "In 10 years, India's leading multinational conglomerate, the Tata Group, is facing a new power struggle between the chairman of Tata Sons and Tata Trusts.",
+        "url": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211579-1760409998231-gettyimages-2228175388-INDIA_TATA.jpeg?v=1785766135&w=1920&h=1080",
+        "publishedAt": "2026-09-18T09:29:41Z",
+        "content": "Signage for Tata Electronics Pvt Ltd. at the company's factory in Hosur, Tamil Nadu, India, on Tuesday, Aug. 5, 2025.\r\nAn intense boardroom dispute is brewing for control of Tata Group, the Indian mu\u2026 [+6029 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Samuel O'brient",
+        "title": "Investor Steve Eisman Says AI Companies Want to 'Manufacture a Crisis'",
+        "description": "Steve Eisman said he sees a motive behind the sudden calls to slow AI development from top companies.",
+        "url": "https://www.businessinsider.com/steve-eisman-big-short-ai-crisis-tech-openai-anthropic-doomsday-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aac276b16256d3825fdf0e7?width=1200&format=jpeg",
+        "publishedAt": "2026-09-17T20:25:56Z",
+        "content": "Steve Eisman isn't worried about the robot apocalypse. In fact, he thinks AI companies that say they're worried about doomsday have a specific agenda. \r\n Eisman, who correctly called the housing mark\u2026 [+2431 chars]"
     }
 ]

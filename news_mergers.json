@@ -1,42 +1,16 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Lara O'Reilly",
-        "title": "Taboola is buying a rival adtech company to gain a bigger foothold with lucrative finance clients",
-        "description": "Taboola CEO Adam Singolda said the company is on a mission to \"monetize everything\" outside of closed platforms such as Google and Meta.",
-        "url": "https://www.businessinsider.com/taboola-acquire-uk-adtech-company-dianomi-2026-9#article",
-        "urlToImage": "https://i.insider.com/6aa8fd3d9b8974787b1cc235?width=1200&format=jpeg",
-        "publishedAt": "2026-09-18T06:49:17Z",
-        "content": "Adam Singolda's Taboola is going shopping.John Lamparski/Getty Images\r\n<ul><li>Taboola is eyeing a bigger slice of the adtech market.</li><li>It has made an offer to acquire fellow adtech firm Dianom\u2026 [+3095 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Quartz India"
-        },
-        "author": "Cris Tolomia",
-        "title": "Manus AI seeks $500 million, weighs Hong Kong IPO after Meta split",
-        "description": "The AI agent startup is in talks with IDG Capital, Boyu Capital, and battery maker CATL at a roughly $4 billion valuation",
-        "url": "https://qz.com/manus-ai-fundraising-500-million-hong-kong-ipo-meta-091826",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/be3402ec8edb5d0b175320d7cac28775937801ab61374a020150a3116e098750/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F405fce870bca917e7fc29d66048c6678.jpg",
-        "publishedAt": "2026-09-18T17:58:10Z",
-        "content": "Manus AI is seeking to raise $500 million and exploring a potential initial public offering in Hong Kong after resuming independent operations following Beijing's order to unwind its acquisition by M\u2026 [+2333 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Entrepreneur"
-        },
-        "author": "Sherin Shibu",
-        "title": "This 27-Year-Old Left Wall Street to Create a Product That \u2018Gives People Time Back.\u2019 It Hit $10,000 in Sales in 36 Hours.",
-        "description": "Maria Cabral Menezes worked as a trader before deciding to risk it all and start her own business.",
-        "url": "https://www.entrepreneur.com/building-a-business/this-27-year-old-left-wall-street-to-create-a-product-that-gives-people-time-back-it-hit-10000-in-sales-in-36-hours",
-        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/09/Maria-Cabral-Menezes-Headshot-Credit_-WashWise.jpg?resize=1024,810",
-        "publishedAt": "2026-09-18T20:36:41Z",
-        "content": "Key Takeaways\r\n<ul><li>Maria Cabral Menezes, 27, worked in finance at Citadel and JPMorgan before deciding to create a dry shampoo for clothes.</li><li>The product arose out of necessity: Menezes fre\u2026 [+10659 chars]"
+        "author": "Nick Lichtenberg",
+        "title": "The Axios founders on how AI ruined your inbox, why the \u201990s really were different and how to succeed through \u2018Simplify\u2019",
+        "description": "Jim VandeHei, Mike Allen and Roy Schwartz say the tech that was supposed to save us time has done the opposite. Their book tackles how to \"Simplify.\"",
+        "url": "https://fortune.com/2026/09/20/axios-founders-vandehei-allen-schwartz-simplify-book-interview/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2149733715-e1789650141769.jpg?resize=1200,600",
+        "publishedAt": "2026-09-20T10:00:00Z",
+        "content": "Three years after Smart Brevity became gospel inside corporate comms departments, the founders of Axios are back with a diagnosis of what broke their own prescription: artificial intelligence.Jim Van\u2026 [+11062 chars]"
     },
     {
         "source": {
@@ -53,80 +27,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Oliver Renick",
-        "title": "AI trade rebound sparks flurry of unusually bullish options activity",
-        "description": "Options traders stormed into tech trades on Thursday.",
-        "url": "https://www.cnbc.com/2026/09/18/ai-trade-rebound-sparks-flurry-of-unusually-bullish-options-activity.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
-        "publishedAt": "2026-09-18T11:20:56Z",
-        "content": "Interest rates are up, the leaders of the artificial intelligence movement are warning of doomsday outcomes without regulation, and the Nasdaq-100 index posted its best day in six weeks. Options trad\u2026 [+2557 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lora Kolodny",
-        "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
-        "description": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
-        "url": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108315896-1780491649482-gettyimages-1175168392-AFP_1LB3WB.jpeg?v=1781036537&w=1920&h=1080",
-        "publishedAt": "2026-09-18T19:15:24Z",
-        "content": "SpaceX founder Elon Musk addresses members of the media during a press conference announcing new developments of the Crew Dragon reusable spacecraft, at SpaceX headquarters in Hawthorne, California, \u2026 [+8588 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Ashley Capoot",
-        "title": "Anthropic selects Accenture\u00a0as first embedded evaluator to help implement Amodei's slowdown proposal",
-        "description": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
-        "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1782487686&w=1920&h=1080",
-        "publishedAt": "2026-09-18T21:37:38Z",
-        "content": "Anthropic on Friday announced it has selected Accenture\u00a0as an embedded evaluator, the company's first concrete step toward implementing CEO Dario Amodei's proposal to slow down the pace of artificial\u2026 [+2410 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Isabel O'Brien, Jordan Novet",
-        "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
-        "description": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
-        "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363216-17894958302026-09-15t180749z_2054840051_rc2ujnapd4i5_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
-        "publishedAt": "2026-09-18T11:00:01Z",
-        "content": "Dario Amodei, Anthropic Co-Founder and CEO, and Marc Benioff, Salesforce CEO and Co-Founder, attend Dreamforce 2026 summit in San Francisco, California, U.S., Sept.15, 2026.\r\nAt Salesforce's annual D\u2026 [+7589 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Priyanka Salve",
-        "title": "An intense boardroom battle is brewing at India's giant Tata Group",
-        "description": "In 10 years, India's leading multinational conglomerate, the Tata Group, is facing a new power struggle between the chairman of Tata Sons and Tata Trusts.",
-        "url": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211579-1760409998231-gettyimages-2228175388-INDIA_TATA.jpeg?v=1785766135&w=1920&h=1080",
-        "publishedAt": "2026-09-18T09:29:41Z",
-        "content": "Signage for Tata Electronics Pvt Ltd. at the company's factory in Hosur, Tamil Nadu, India, on Tuesday, Aug. 5, 2025.\r\nAn intense boardroom dispute is brewing for control of Tata Group, the Indian mu\u2026 [+6029 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Cnbc",
-        "title": "Anthropic quietly sets up biology lab as it ramps AI drug program: Report",
-        "description": "Amid AI fears, Anthropic has set up a lab for physical biology experiments as it forays into drug science in a quest to cure rare diseases.",
-        "url": "https://www.cnbc.com/2026/09/18/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108362608-1789409040216-gettyimages-2294307202-Anthropic.jpeg?v=1789409061&w=1920&h=1080",
-        "publishedAt": "2026-09-18T12:35:49Z",
-        "content": "Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.\r\nAt a time when fears of AI are gripping the p\u2026 [+6585 chars]"
+        "author": "nsheidlower@businessinsider.com (Noah Sheidlower,Madison Hoff)",
+        "title": "Dementia care can cost a fortune. Families pay in more ways than one.",
+        "description": "Families caring for loved ones with dementia navigate substantial costs, with memory care facilities averaging over $8,000 monthly across the U.S.",
+        "url": "https://www.businessinsider.com/dementia-care-costs-memory-care-home-care-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aad7ebd6794a2984cfca948?width=1200&format=jpeg",
+        "publishedAt": "2026-09-20T09:44:01Z",
+        "content": "When Angela Davis discovered that her mother with dementia had changed the locks, she knew she had to intervene.\r\nAfter a standard care facility didn't cut it, Davis, 65, moved her mother into her ow\u2026 [+8414 chars]"
     }
 ]

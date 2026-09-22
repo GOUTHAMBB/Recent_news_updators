@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Cris Tolomia",
+        "title": "Priority Technology Holdings going private in $1.6 billion deal",
+        "description": "An investor group led by Chairman and CEO Thomas Priore will pay $8.05 per share, a 65% premium to the company's unaffected share price",
+        "url": "https://qz.com/priority-technology-holdings-going-private-ceo-buyout-092126",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1050acc7da1c7b7251604eda29399b99ca79eba06f70043e3a65def46413f7c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F98d6a6152390eb85421d6fad1790e09c.jpg",
+        "publishedAt": "2026-09-21T12:48:54Z",
+        "content": "Thomas Priore, the Chairman and Chief Executive Officer of Priority Technology Holdings, is leading an investor group that will take the company private in a transaction valued at approximately $1.6 \u2026 [+2437 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -17,13 +30,26 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Pat Gelsinger, Naveen Rao",
-        "title": "Pat Gelsinger and Naveen Rao: we\u2019ve seen Silicon Valley move fast and break things, but consider the math of where we\u2019re headed",
-        "description": "We work in AI and we\u2019ve seen it eliminate jobs. We\u2019ve also seen it create more jobs, too.",
-        "url": "https://fortune.com/2026/09/19/pat-gelsinger-naveen-rao-silicon-valley-move-fast-break-things/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/12/GettyImages-1848352641-e1733419627252.jpg?resize=1200,600",
-        "publishedAt": "2026-09-19T09:00:00Z",
-        "content": "We Work In AI. Weve Seen It Eliminate Jobs. Weve Also Seen It Create More JobsSilicon Valley used to encourage one another to move fast and break things. Then we broke everything. And people started \u2026 [+7403 chars]"
+        "author": "Catherina Gioino",
+        "title": "Moderna\u2019s Bob Langer and AI pioneer Yann LeCun join board of Cellular Intelligence, bringing AI into medicine via a Parkinson\u2019s drug",
+        "description": "CI is pairing top AI and biotech minds on its board (plus an advisory role for OpenAI's Fidji Simo) as it tests models on a Novo Nordisk drug.",
+        "url": "https://fortune.com/2026/09/21/moderna-bob-langer-ai-pioneer-yann-lecun-cellular-intelligence-board-ai-medicine/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2151784856-e1789919893327.jpg?resize=1200,600",
+        "publishedAt": "2026-09-21T07:00:00Z",
+        "content": "Cellular Intelligence is trying to build an AI model that can predict and eventually control how living cells behave, the same way AI models predict text or images, in hopes of making new medicines f\u2026 [+5641 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Ruth Umoh",
+        "title": "Toast\u2019s CMO is also its COO. Here\u2019s how she makes room for both jobs",
+        "description": "Juggling two C-suite roles requires knowing what work to give up.",
+        "url": "https://fortune.com/article/toasts-cmo-is-also-its-coo-heres-how-she-makes-room-for-both-jobs/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/toastjpg.png?resize=1200,600",
+        "publishedAt": "2026-09-21T12:20:15Z",
+        "content": "Over nine years at the restaurant technology giant, Esten has run product launches, led partnerships, and helped grow its business with ever-larger restaurant groups. Today, she is both CMO and chief\u2026 [+3519 chars]"
     },
     {
         "source": {

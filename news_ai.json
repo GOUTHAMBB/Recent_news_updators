@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Lauren Goode",
+        "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+        "description": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+        "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+        "urlToImage": "https://media.wired.com/photos/6ab1a45eebc16c4398b1d95b/191:100/w_1280,c_limit/AI-Models-Built-From-Rat-Brains-Business-MEA-neuron-chip-3.jpg",
+        "publishedAt": "2026-09-22T13:00:00Z",
+        "content": "A biological computing startup that uses neural patterns from rat brain cells to build artificial intelligence just got a major boost from Amazon.\r\nStarting Tuesday, select Amazon Web Services custom\u2026 [+2798 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "Trump\u2019s Attempt to Rename AI Misunderstands the MAGA Faithful",
+        "description": "No better way to reach your base than by insisting that they are inferior.",
+        "url": "https://gizmodo.com/trumps-attempt-to-rename-ai-misunderstands-the-maga-faithful-2000815001",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/trump-rename-AI-1200x675.jpg",
+        "publishedAt": "2026-09-21T20:59:10Z",
+        "content": "Donald Trump has decided that artificial intelligence has a marketing problem. After all, nobody likes anything \u201cartificial.\u201d So this weekend, the branding expert who brought you such perfectly named\u2026 [+4978 chars]"
+    },
+    {
+        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
@@ -43,52 +69,13 @@
             "id": "the-next-web",
             "name": "The Next Web"
         },
-        "author": "Alina Maria Stan",
-        "title": "Trump says the AI backlash is a Democratic hoax. This week\u2019s polling put Republican opposition to data centres at 47%.",
-        "description": "President Donald Trump posted twice about artificial intelligence on Saturday.\u00a0The first post\u00a0asked his followers to vote on a new name for the technology.\u00a0The second\u00a0called the campaign against it a hoax and promised an AI Force and an AI czar. The rename ha\u2026",
-        "url": "https://thenextweb.com/news/trump-ai-force-hoax-republican-opposition",
-        "urlToImage": "https://media.thenextweb.com/2026/08/President-Donald-Trump.jpg",
-        "publishedAt": "2026-09-20T17:49:15Z",
-        "content": "President Donald Trump posted twice about artificial intelligence on Saturday.\u00a0The first post\u00a0asked his followers to vote on a new name for the technology.\u00a0The second\u00a0called the campaign against it a\u2026 [+5276 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Kyle Torpey",
-        "title": "Pentagon Investigators Say Overreliance on Palantir AI Tech Contributed to U.S. Strike That Killed 123 Iranian Children",
-        "description": "An unreleased Pentagon probe investigated the kill chain that hit a school in Minab.",
-        "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/05/digital-pentagon-1200x675.jpg",
-        "publishedAt": "2026-09-20T09:00:14Z",
-        "content": "Back in February, two Tomahawk missiles hit Shajarah Tayyebeh Elementary School in the southern Iranian town of Minab on the opening day of the Iran war. The blasts killed more than 150 people, inclu\u2026 [+7096 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Ece Yildirim",
-        "title": "First Came Space Force. Now Prepare For AI Force",
-        "description": "Trump is forming a new \"AI Force\" and appointing an AI Czar to lead it.",
-        "url": "https://gizmodo.com/first-came-space-force-now-prepare-for-ai-force-2000814525",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2294838569-1200x675.jpg",
-        "publishedAt": "2026-09-20T21:12:14Z",
-        "content": "President Trump is sick of people \u201cattacking\u201d the AI industry, which is why he will be forming an \u201cAI Force\u201d and appointing an \u201cAI Czar.\u201d\r\nIn a rambling rant posted on his Truth Social account, Trump\u2026 [+3575 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Justin Carter",
-        "title": "\u2018VisionQuest\u2019 Had \u2018No Need\u2019 to Use GenAI, Says Showrunner",
-        "description": "GenAI may not have been used to make 'VisionQuest,' but the show still found ways to reference it.",
-        "url": "https://gizmodo.com/visionquest-had-no-need-to-use-genai-says-showrunner-2000814473",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/visionquest-hed-1200x675.jpg",
-        "publishedAt": "2026-09-20T14:30:33Z",
-        "content": "A month out from Marvel Television\u2019s\u00a0VisionQuest,\u00a0showrunner Terry Matalas wanted to make it loud and clear: the show\u2019s production was free of generative AI.\r\nDuring a set visit, Matalas told ScreenR\u2026 [+1598 chars]"
+        "author": "Ana-Maria Stanciuc",
+        "title": "Andy Burnham wants the UK to use its G20 presidency to broker a global AI agreement",
+        "description": "Britain will try to broker a worldwide deal on AI during its upcoming turn at the head of the G20, Prime Minister Andy Burnham told reporters on the eve of the UN General Assembly in New York, Politico Europe reported. Britain was \u201cuniquely positioned to play\u2026",
+        "url": "https://thenextweb.com/news/andy-burnham-uk-g20-global-ai-agreement",
+        "urlToImage": "https://media.thenextweb.com/2026/09/Andy-Burnham-in-Downing-Street.jpg",
+        "publishedAt": "2026-09-22T11:53:21Z",
+        "content": "Britain will try to broker a worldwide deal on AI during its upcoming turn at the head of the G20, Prime Minister Andy Burnham told reporters on the eve of the UN General Assembly in New York, Politi\u2026 [+2716 chars]"
     },
     {
         "source": {
@@ -96,12 +83,51 @@
             "name": "The Next Web"
         },
         "author": "Alina Maria Stan",
-        "title": "US employers use software to punish workers at sixteen times the European rate. The gap is the law.",
-        "description": "An OECD employer survey of 6,047 firms across six countries found that 67% of US firms use software to sanction poor performance, against 4% in the four European countries surveyed. American firms also monitor the content and tone of conversations at 55% agai\u2026",
-        "url": "https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot",
-        "urlToImage": "https://media.thenextweb.com/2026/04/supplier-management-software.jpg",
-        "publishedAt": "2026-09-20T17:28:14Z",
-        "content": "An OECD employer survey of 6,047 firms across six countries found that 67% of US firms use software to sanction poor performance, against 4% in the four European countries surveyed. American firms al\u2026 [+5646 chars]"
+        "title": "Amazon puts another $1.9bn into its delivery partner programme for 2027",
+        "description": "\u201cSpecifics will vary by DSP and geography, as each DSP determines how best to invest in their business and teams,\u201d Amazon wrote on Monday. That sentence sits four lines below the headline figure, which is that drivers will earn a national average of nearly $2\u2026",
+        "url": "https://thenextweb.com/news/amazon-dsp-1-9bn-investment-delivery-driver-pay",
+        "urlToImage": "https://media.thenextweb.com/2026/09/amazon-delivery-driver-prime-electric-van.jpg",
+        "publishedAt": "2026-09-21T15:35:04Z",
+        "content": "Specifics will vary by DSP and geography, as each DSP determines how best to invest in their business and teams, Amazon wrote on Monday. That sentence sits four lines below the headline figure, which\u2026 [+5429 chars]"
+    },
+    {
+        "source": {
+            "id": "the-next-web",
+            "name": "The Next Web"
+        },
+        "author": "Kolawole Samuel Adebayo",
+        "title": "The state of the American advertiser",
+        "description": "American advertisers are operating in a media environment with more channels, more data, and more technology than ever before. Yet for marketers, the central challenge is shifting. It is less about finding another place to advertise. It is more about understa\u2026",
+        "url": "https://thenextweb.com/news/state-of-the-american-advertiser-perion-rob-desalvo",
+        "urlToImage": "https://media.thenextweb.com/2026/09/rob-desalvo-perion-managing-director-americas.jpg",
+        "publishedAt": "2026-09-21T16:00:49Z",
+        "content": "American advertisers are operating in a media environment with more channels, more data, and more technology than ever before. Yet for marketers, the central challenge is shifting. It is less about f\u2026 [+5491 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Bruce Gil",
+        "title": "Nearly $200 Billion Worth of Data Center Projects Have Been Blocked or Delayed This Year",
+        "description": "Communities across the U.S. continue to push back against proposed data center projects.",
+        "url": "https://gizmodo.com/nearly-200-billion-worth-of-data-center-projects-have-been-blocked-or-delayed-this-year-2000815054",
+        "urlToImage": "https://gizmodo.com/app/uploads/2022/09/b76e13c49c200a5246700bd2be8c9939-e1743106723828.jpg",
+        "publishedAt": "2026-09-21T21:10:29Z",
+        "content": "While major tech companies are racing to build massive data centers across the U.S., local communities are increasingly fighting back and in some cases winning.\r\nCiting data from Data Center Watch, B\u2026 [+3247 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "OpenAI Calls for US to Lead Global AI Standards. Will China Be Okay With That?",
+        "description": "United States should lead global AI safety cooperation, OpenAI argues.",
+        "url": "https://gizmodo.com/openai-calls-for-us-to-lead-global-ai-standards-will-china-be-okay-with-that-2000815022",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Sam-altman-china-1200x675.jpg",
+        "publishedAt": "2026-09-21T22:35:00Z",
+        "content": "OpenAI just said it wants Washington to lead a global effort to establish AI standards, as a consequential week of diplomatic discussions on AI safety coordination between Chinese and American offici\u2026 [+5140 chars]"
     },
     {
         "source": {
@@ -115,6 +141,32 @@
         "urlToImage": "https://gizmodo.com/app/uploads/2026/09/MS-September-21-1200x675.jpg",
         "publishedAt": "2026-09-21T12:06:31Z",
         "content": "Akiva Goldsman promises not to kill any dogs in the I Am Legend sequel. A new Clayface TV spot teases his Batman: The Animated Series-inspired final form. Paul Bunyan returns from the dead on Preside\u2026 [+3695 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "John Loeffler",
+        "title": "AI Assistants Belong in Your Ears, Not on Your Face",
+        "description": "The wearable best suited to actually carry a conversational AI assistant everywhere has been sitting in your ears for a decade.",
+        "url": "https://gizmodo.com/ai-assistants-belong-in-your-ears-not-on-your-face-2000814863",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/The-Next-Interface_IpodPro3_FeaturedImage-1200x675.jpg",
+        "publishedAt": "2026-09-22T12:30:12Z",
+        "content": "The tech industry has spent the past few years trying to convince us that the future of AI lives behind a pair of lenses. Meta is betting billions on it so far, Google is rolling out Android XR, Sams\u2026 [+17499 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Barracuda launches AI Data Security to control what employees send to chatbots",
+        "description": "Cybersecurity company Barracuda Networks Inc. today launched Barracuda AI Data Security, a product that monitors and controls what company data employees feed into artificial intelligence tools. The release goes after a control gap that opens when workers ado\u2026",
+        "url": "https://siliconangle.com/2026/09/22/barracuda-launches-ai-data-security-to-control-what-employees-send-to-chatbots/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/barracuda.png",
+        "publishedAt": "2026-09-22T13:00:39Z",
+        "content": "Cybersecurity company Barracuda Networks Inc. today launched Barracuda AI Data Security, a product that monitors and controls what company data employees feed into artificial intelligence tools.\r\nThe\u2026 [+4198 chars]"
     },
     {
         "source": {
@@ -145,15 +197,28 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-        "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 \u2014 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
-        "description": "Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-2560-80.jpg",
-        "publishedAt": "2026-09-20T10:55:00Z",
-        "content": "Jensen Huang, the chief executive of Nvidia, said artificial intelligence will not destroy humanity by the end of the decade, Bloomberg reports, citing a CBS interview. Huang contends that while AI i\u2026 [+2420 chars]"
+        "author": "Duncan Riley",
+        "title": "Exclusive: Darktrace makes SECURE AI generally available to monitor enterprise AI use",
+        "description": "U.K.-based cybersecurity company Darktrace Holdings Ltd. today made its SECURE AI offering generally available, bringing its behavioral detection approach to corporate use of artificial intelligence tools and agents. The release is aimed at AI use that has sp\u2026",
+        "url": "https://siliconangle.com/2026/09/22/exclusive-darktrace-makes-secure-ai-generally-available-to-monitor-enterprise-ai-use/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Darktrace-SECURE-AI_Shadow-AI-image-scaled.jpg",
+        "publishedAt": "2026-09-22T13:00:43Z",
+        "content": "U.K.-based cybersecurity company Darktrace Holdings Ltd. today made its SECURE AI offering generally available, bringing its behavioral detection approach to corporate use of artificial intelligence \u2026 [+4469 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades",
+        "description": "SpaceX Corp. today introduced Grok 4.7, its most capable large language model to date. The Grok algorithm series was originally created by an Elon Musk-founded startup called xAI Corp. Musk merged the company with xAI Inc. last year. The combined organization\u2026",
+        "url": "https://siliconangle.com/2026/09/21/spacex-launches-grok-4-7-with-long-horizon-processing-safety-upgrades/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Unsplash-1.jpg",
+        "publishedAt": "2026-09-22T00:32:34Z",
+        "content": "SpaceX Corp. today introduced Grok 4.7, its most capable large language model to date.\r\nThe Grok algorithm series was originally created by an Elon Musk-founded startup called xAI Corp. Musk merged t\u2026 [+3995 chars]"
     },
     {
         "source": {
@@ -171,41 +236,67 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "title": "Kash Patel says that AI use at the FBI has 'increased by 605%' since he became director \u2014 claims that every major tech player is 'embedded' in the agency",
-        "description": "FBI Director Kash Patel stated in an interview that he's responsible for a \"605% increase\" in the bureau's usage of AI. The problem is that it's hard to pin down what the figure refers to.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kash-patel-says-that-ai-use-at-the-fbi-has-increased-by-605-percent-since-he-became-director-claims-that-every-major-tech-player-is-embedded-in-the-agency",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/HstuJz8U6bpkSURFD5Qh97-1920-80.jpg",
-        "publishedAt": "2026-09-20T11:45:00Z",
-        "content": "FBI Director Kash Patel just stated in an interview that he's responsible for a \"605% increase\" in the bureau's usage of AI. The problem is that while the pattern-recognition abilities of AI models m\u2026 [+3245 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "Mark Tyson",
-        "title": "Noctua fans prevent the CAIM1 \u2018Anti-AI\u2019 4K camera from throttling \u2014 unusual camera\u2019s processor gets toasty as it records while performing cryptographic calculations",
-        "description": "A premium PC DIY fan brand has announced that one of its prized spinners is being used in an 'Anti-AI' 4K camera to prevent throttling.",
-        "url": "https://www.tomshardware.com/pc-components/air-cooling/noctua-fans-prevent-the-caim1-anti-ai-4k-camera-from-throttling-unusual-cameras-processor-gets-toasty-as-it-records-while-performing-cryptographic-calculations",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/oGRSAnhFAdsEgyJLJ43JjF-1920-80.jpg",
-        "publishedAt": "2026-09-20T12:20:57Z",
-        "content": "A premium PC DIY fan brand has announced that one of its prized spinners is being used in a 4K camera. Noctua says that its NF-A4x10 5V PWM was used by the CAIM1 camera designers due to its quiet, co\u2026 [+2880 chars]"
+        "author": "Duncan Riley",
+        "title": "Kantata debuts Agent Studio for building custom AI agents in plain language",
+        "description": "Professional services automation software company Kantata Inc. today unveiled Agent Studio, a tool that lets services firms build custom artificial intelligence agents by describing the job they want done in plain language. The release goes after a problem Ka\u2026",
+        "url": "https://siliconangle.com/2026/09/22/kantata-debuts-agent-studio-for-building-custom-ai-agents-in-plain-language/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/kantanaagentstudio.png",
+        "publishedAt": "2026-09-22T12:00:53Z",
+        "content": "Professional services automation software company Kantata Inc. today unveiled Agent Studio, a tool that lets services firms build custom artificial intelligence agents by describing the job they want\u2026 [+4287 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Lee Peterson",
-        "title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
-        "description": "Stripe Inc.\u2019s planned acquisition of OpenRouter Inc. put a spotlight on dynamic model routing. Information technology organizations need to understand what dynamic model routing is all about, as it will have significant impacts on cost, quality and performanc\u2026",
-        "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/03/aifatoriesattheedge.png",
-        "publishedAt": "2026-09-20T19:32:18Z",
-        "content": "Stripe Inc.s planned acquisition of OpenRouter Inc. put a spotlight on dynamic model routing. Information technology organizations need to understand what dynamic model routing is all about, as it wi\u2026 [+6356 chars]"
+        "author": "Kyt Dotson",
+        "title": "Heidi Health nabs $340M to deepen adoption of AI agents within health systems globally",
+        "description": "Heidi Health Trading Pty Ltd., a healthcare artificial intelligence startup, today announced it has raised a total of $340 million in new funding to support the company\u2019s next phase of growth and deepen adoption throughout health systems. The funding comes fr\u2026",
+        "url": "https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg",
+        "publishedAt": "2026-09-22T13:00:02Z",
+        "content": "Heidi Health Trading Pty Ltd., a healthcare artificial intelligence startup, today announced it has raised a total of $340 million in new funding to support the companys next phase of growth and deep\u2026 [+4771 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Teradata expands AI assistant with tools for governed agents",
+        "description": "Teradata Corp. is expanding its Tera artificial intelligence assistant with a context engine and execution system designed to help agents carry out data tasks across enterprise systems. Tera is an agentic AI workspace and natural-language interface the lets u\u2026",
+        "url": "https://siliconangle.com/2026/09/22/teradata-expands-ai-assistant-with-tools-for-governed-agents/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Teradata-neon-logo.jpg",
+        "publishedAt": "2026-09-22T13:00:37Z",
+        "content": "Teradata Corp. is expanding its Tera artificial intelligence assistant with a context engine and execution system designed to help agents carry out data tasks across enterprise systems.\r\nTera is an a\u2026 [+4710 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "With $35M in early funding, Baselayer is building the trust layer for the agentic economy",
+        "description": "Business identity and risk infrastructure startup Baselayer is shifting its attention to artificial intelligence agents after raising $35 million in early-stage funding today. Alongside the Series A round, it\u2019s announcing the launch of its Agentic Identity Su\u2026",
+        "url": "https://siliconangle.com/2026/09/22/with-35m-in-series-a-funding-baselayer-is-building-the-trust-layer-for-the-agentic-economy/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-06-43-03.png",
+        "publishedAt": "2026-09-22T13:00:03Z",
+        "content": "Business identity and risk infrastructure startup Baselayer is shifting its attention to artificial intelligence agents after raising $35 million in early-stage funding today.\r\nAlongside the Series A\u2026 [+6124 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Vast Data launches confidential computing service for sensitive workloads",
+        "description": "Vast Data Inc. today introduced DataEnclave, a confidential computing environment designed to let companies run advanced artificial intelligence models against sensitive data without exposing either the data or the model\u2019s intellectual property. DataEnclave i\u2026",
+        "url": "https://siliconangle.com/2026/09/22/vast-data-launches-confidential-computing-service-for-sensitive-workloads/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/03/Jeff-Denworth-co-founder-of-Vast-Data-Vast-Forward-2026-e1790015193275.jpg",
+        "publishedAt": "2026-09-22T10:00:47Z",
+        "content": "Vast Data Inc. today introduced DataEnclave, a confidential computing environment designed to let companies run advanced artificial intelligence models against sensitive data without exposing either \u2026 [+5650 chars]"
     },
     {
         "source": {
@@ -225,26 +316,130 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Trump says he\u2019s planning to create an \u2018AI Force\u2019 and hire a new AI czar",
-        "description": "U.S. President Donald Trump said on Saturday that he is going to establish an \u201cAI Force\u201d and will also appoint a new AI czar, while dismissing concerns raised about the potential dangers of artificial intelligence technology taking over the world or killing h\u2026",
-        "url": "https://siliconangle.com/2026/09/20/trump-says-hes-planning-to-create-an-ai-force-and-hire-a-new-ai-czar/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/AA1MYsde.jpeg",
-        "publishedAt": "2026-09-20T23:37:52Z",
-        "content": "U.S. President Donald Trump said on Saturday that he is going to establish an AI Force and will also appoint a new AI czar, while dismissing concerns raised about the potential dangers of artificial \u2026 [+4891 chars]"
+        "author": "Kyt Dotson",
+        "title": "Googlebook brings premium intelligence to a lightweight ChromeOS-based laptop",
+        "description": "Google LLC today announced the launch of its\u00a0Googlebook lineup, a new family of lightweight, higher-power laptops in the Chromebook legacy that feature artificial intelligence and can run Android apps and ChromeOS. Googlebooks bring the company\u2019s flagship Gem\u2026",
+        "url": "https://siliconangle.com/2026/09/21/googlebook-brings-premium-intelligence-to-a-lightweight-chromeos-based-laptop/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/31_Beauty_hardware_video.width-2000.format-webp.png",
+        "publishedAt": "2026-09-21T15:00:15Z",
+        "content": "Google LLC today announced the launch of its\u00a0Googlebook lineup, a new family of lightweight, higher-power laptops in the Chromebook legacy that feature artificial intelligence and can run Android app\u2026 [+5574 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Marshall Choy",
-        "title": "Why AI inference must become a commodity",
-        "description": "The future of artificial intelligence inference isn\u2019t premium; it\u2019s ubiquitous and commoditized. That may sound odd coming from someone in the AI semiconductor business. Conventional wisdom suggests commoditization destroys value, so if AI inference were to b\u2026",
-        "url": "https://siliconangle.com/2026/09/20/why-ai-inference-must-become-a-commodity/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Toyota-Camry-scaled.jpg",
-        "publishedAt": "2026-09-20T19:32:11Z",
-        "content": "The future of artificial intelligence inference isnt premium; its ubiquitous and commoditized.\r\nThat may sound odd coming from someone in the AI semiconductor business. Conventional wisdom suggests c\u2026 [+6526 chars]"
+        "author": "Devony Hof",
+        "title": "On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale goes public",
+        "description": "Salesforce Inc. keeps putting all of its eggs in the agent basket \u2014 but the strategy appears to be paying off so far. At Dreamforce 2026, Marc Benioff, chief executive officer of Salesforce, bantered with Nvidia Corp.\u2019s chief executive officer, Jensen Huang, \u2026",
+        "url": "https://siliconangle.com/2026/09/21/salesforce-dreamforce-nscale-thecubepod/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/John-Furrier-and-Dave-Vellante-theCUBE-Pod-137.png",
+        "publishedAt": "2026-09-21T16:03:58Z",
+        "content": "Salesforce Inc. keeps putting all of its eggs in the agent basket but the strategy appears to be paying off so far.\r\nAt Dreamforce 2026, Marc Benioff, chief executive officer of Salesforce, bantered \u2026 [+5964 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Amazon blocks Meta\u2019s Muse agent from shopping on users\u2019 behalf",
+        "description": "Amazon.com Inc. has blocked Meta Platforms Inc.\u2019s Muse artificial intelligence agent from accessing its e-commerce marketplace. The cloud and online retail giant notified users of the move late Sunday. Meta made Muse available in the U.S. earlier this month v\u2026",
+        "url": "https://siliconangle.com/2026/09/21/amazon-blocks-metas-muse-agent-from-shopping-on-users-behalf/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Amazon.png",
+        "publishedAt": "2026-09-21T22:40:08Z",
+        "content": "Amazon.com Inc. has blocked Meta Platforms Inc.\u2019s Muse artificial intelligence agent from accessing its e-commerce marketplace.\r\nThe cloud and online retail giant notified users of the move late Sund\u2026 [+4200 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment",
+        "description": "Amazon Web Services Inc. says it\u2019s trying to help developers solve the problem of scaling artificial intelligence agents to cloud environments with the launch of Strands Harness, an open-source agent that can help them build and deploy AI applications in any \u2026",
+        "url": "https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-08-22-43.png",
+        "publishedAt": "2026-09-21T16:00:49Z",
+        "content": "Amazon Web Services Inc. says its trying to help developers solve the problem of scaling artificial intelligence agents to cloud environments with the launch of Strands Harness, an open-source agent \u2026 [+4763 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Exclusive: CoreWeave launches Remote Key Encryption to keep customer keys off its cloud",
+        "description": "Artificial intelligence cloud provider CoreWeave Inc. today unveiled Remote Key Encryption, a service that encrypts customer data sitting on its infrastructure with keys the company itself never holds. The service takes aim at the key-custody problem that kee\u2026",
+        "url": "https://siliconangle.com/2026/09/22/exclusive-coreweave-launches-remote-key-encryption-to-keep-customer-keys-off-its-cloud/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/coreweave.png",
+        "publishedAt": "2026-09-22T11:00:34Z",
+        "content": "Artificial intelligence cloud provider CoreWeave Inc. today unveiled Remote Key Encryption, a service that encrypts customer data sitting on its infrastructure with keys the company itself never hold\u2026 [+4900 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "DataDome report finds bad bot traffic growing nine times faster than human traffic",
+        "description": "A new report out today from bot protection company DataDome SAS finds that malicious automated traffic grew 124% between July 2025 and June 2026, more than nine times the rate of human traffic growth \u2014 and most of the popular websites it tested could not stop\u2026",
+        "url": "https://siliconangle.com/2026/09/22/datadome-report-finds-bad-bot-traffic-growing-nine-times-faster-than-human-traffic/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/datadomebadbotreport.png",
+        "publishedAt": "2026-09-22T10:00:51Z",
+        "content": "A new report out today from bot protection company DataDome SAS finds that malicious automated traffic grew 124% between July 2025 and June 2026, more than nine times the rate of human traffic growth\u2026 [+4698 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Google\u2019s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots",
+        "description": "Intrinsic Innovation LLC, the intelligent robotics software company owned by Google LLC\u2019s parent Alphabet Inc., said today that it\u2019s open-sourcing the core components of its industrial robotics platform. Announced at ROSCon 2026 in Toronto today, the new offe\u2026",
+        "url": "https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png",
+        "publishedAt": "2026-09-22T12:00:52Z",
+        "content": "Intrinsic Innovation LLC, the intelligent robotics software company owned by Google LLCs parent Alphabet Inc., said today that its open-sourcing the core components of its industrial robotics platfor\u2026 [+5531 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Google fined $462M in Ireland over location data collection practices",
+        "description": "Ireland\u2019s privacy watchdog today fined\u00a0Google LLC \u20ac403 million, or about $462 million, for collecting users\u2019 location data in breach of GDPR. The tracking was done by three Google features: Web & App Activity, Timeline and GLA. Web & App Activity is a Google \u2026",
+        "url": "https://siliconangle.com/2026/09/21/google-fined-462m-in-ireland-over-location-data-collection-practices/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/google-1.png",
+        "publishedAt": "2026-09-21T20:04:50Z",
+        "content": "Irelands privacy watchdog today fined\u00a0Google LLC 403 million, or about $462 million, for collecting users location data in breach of GDPR.\r\nThe tracking was done by three Google features: Web &amp; A\u2026 [+3869 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Jon Martindale",
+        "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit \u2014 comms channel between both nations to be left open in case of national security threats posed by autonomous artificial intelligence",
+        "description": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/wSrDYk9S7kb9r5UmgxXo7D-1920-80.jpg",
+        "publishedAt": "2026-09-22T12:13:41Z",
+        "content": "The U.S. and China have proposed developing a hotline for AI incident reports to address the risk of a rogue AI model getting out of control and to prevent misinterpretations of attacks that could tr\u2026 [+4312 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Okta adds AI agent runtime gateway, forms Blueprint Alliance with AWS and CrowdStrike",
+        "description": "Identity and access management company Okta Inc. used the opening day of its Oktane conference in Las Vegas today to announce runtime enforcement and a wider kill switch for its Okta for AI Agents platform. Okta also joined 11 other vendors, among them Amazon\u2026",
+        "url": "https://siliconangle.com/2026/09/22/okta-adds-ai-agent-runtime-gateway-forms-blueprint-alliance-with-aws-and-crowdstrike/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2023/11/okta-1.png",
+        "publishedAt": "2026-09-22T12:00:52Z",
+        "content": "Identity and access management company Okta Inc. used the opening day of its Oktane conference in Las Vegas today to announce runtime enforcement and a wider kill switch for its Okta for AI Agents pl\u2026 [+6286 chars]"
     },
     {
         "source": {
@@ -264,13 +459,13 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Emre Kazim",
-        "title": "Pacing AI won\u2019t solve the governance gap",
-        "description": "In May 1972, Richard Nixon and Leonid Brezhnev signed the agreements known as SALT I after years of negotiations over weapons capable of destroying both countries. Even with mutual annihilation as an incentive to cooperate, neither side would accept the other\u2026",
-        "url": "https://siliconangle.com/2026/09/20/pacing-ai-wont-solve-the-governance-gap/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/pacecars-gm.jpg",
-        "publishedAt": "2026-09-20T19:32:26Z",
-        "content": "In May 1972, Richard Nixon and Leonid Brezhnev signed the agreements known as SALT I after years of negotiations over weapons capable of destroying both countries.\r\nEven with mutual annihilation as a\u2026 [+14358 chars]"
+        "author": "Cheryl Knight",
+        "title": "8 insights from the \u2018Certinia at Dreamforce\u2019 event: AI resets the economics of professional services",
+        "description": "AI is rewriting the economics of professional services. Firms that once billed by the hour are quoting fixed bids, compressing delivery timelines and absorbing risk they would previously have pushed onto the client. The labor a single project consumes is fall\u2026",
+        "url": "https://siliconangle.com/2026/09/21/ai-professional-services-fixed-bid-pricing-certiniaatdreamforce/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Prasad-Sulur-and-Robert-Cesafsky-of-Certinia-\u2013-Certinia-at-Dreamforce-2026.png",
+        "publishedAt": "2026-09-21T20:32:03Z",
+        "content": "AI is rewriting the economics of professional services. Firms that once billed by the hour are quoting fixed bids, compressing delivery timelines and absorbing risk they would previously have pushed \u2026 [+7199 chars]"
     },
     {
         "source": {
@@ -284,6 +479,45 @@
         "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/09/bg-video-first-frame-opt.webp?resize=1200,600",
         "publishedAt": "2026-09-21T12:00:00Z",
         "content": "In response to a list of questions, an Anduril spokesperson replied that once a tower is delivered, it is operated by CBP, and directed questions about specific incidents to the agency. The response \u2026 [+51231 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Tobias Mann",
+        "title": "Google smacks forehead, realizes $899+ thin-and-lights were what it was missing",
+        "description": "'A new category,' insists the Chocolate Factory, not a premium Chromebook - yet some of the family resemblance remains",
+        "url": "https://www.theregister.com/personal-tech/2026/09/21/google-smacks-forehead-realizes-899-thin-and-lights-were-what-it-was-missing/5297947",
+        "urlToImage": "https://image.theregister.com/5297962.jpg?imageId=5297962&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-09-21T18:47:52Z",
+        "content": "Google is trying once again to escape the Chromebook reputation for cheap, chintzy hardware and compromised computing.\r\n$899 for a glorified web terminal isnt exactly the easiest sell, but thats not \u2026 [+4159 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Kate Taylor",
+        "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+        "description": "Brian Bot loved talking about improv, while Sophie Bot wouldn\u2019t stop calling me \u201cbig dog.\u201d Welcome to the future of work.",
+        "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+        "urlToImage": "https://media.wired.com/photos/6ab1c8ecddc1b60d84e9c3e3/191:100/w_1280,c_limit/Ai-Version-of-My-Boss-Business.jpg",
+        "publishedAt": "2026-09-22T10:30:00Z",
+        "content": "When I decided to create artificial intelligence clones of my editors, my intentions were pure: I just wanted them to think I was good at my job.\r\nAI assistants are suddenly everywhere in the workpla\u2026 [+3425 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Joel Khalili",
+        "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+        "description": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+        "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+        "urlToImage": "https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg",
+        "publishedAt": "2026-09-22T09:30:00Z",
+        "content": "Academic libraries across the globe are stuffed with hundreds of thousands of Ancient Greek papyrus fragments. Though many are so damaged that their meaning is probably lost, scholars have the abilit\u2026 [+3942 chars]"
     },
     {
         "source": {
@@ -329,6 +563,32 @@
             "id": null,
             "name": "Tom's Hardware UK"
         },
+        "author": "Etiido Uko",
+        "title": "Local opposition blocked 45 data center projects worth $68 billion in the second quarter of 2026 \u2014 data center investments reportedly still on track to hit $32 trillion by 2050",
+        "description": "Local opposition to data center buildouts has blocked $68 billion worth of data center projects in the second quarter of 2026, despite investments still rising.",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the-second-quarter-of-2026-data-center-investments-reportedly-still-on-track-to-hit-usd32-trillion-by-2050",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/v4E3LjqELKvVQfSbGgM4bh-1920-80.png",
+        "publishedAt": "2026-09-21T16:00:00Z",
+        "content": "Local opposition blocked or delayed $68 billion in data center projects between April and June this year, according to a September 21 Bloomberg report citing data from research group Data Center Watc\u2026 [+4463 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Lily Hay Newman",
+        "title": "A New Tool Found Malware That\u2019s Guided by an AI Hive Mind\u2014No Humans in Sight",
+        "description": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots\u2014and quickly discovered something unusual.",
+        "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+        "urlToImage": "https://media.wired.com/photos/6ab1b117c967476bab903a3e/191:100/w_1280,c_limit/Security_CommandCenter_v4.jpg",
+        "publishedAt": "2026-09-22T10:00:00Z",
+        "content": "For years, cybersecurity practitioners have tracked different types of malware and detected potential infections using digital fingerprints to identify different hacking tools and follow their use ov\u2026 [+4216 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
         "author": "brandon.hill@futurenet.com (Brandon Hill) , Brandon Hill",
         "title": "Apple Mac mini (Late 2026) Review: Strong performance, but losing its grip on value",
         "description": "The M6 Mac mini gets a considerable speed boost and a considerable price hike.",
@@ -339,15 +599,15 @@
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Ana-maria Stanciuc",
-        "title": "The White House will not say what Trump\u2019s AI Force is",
-        "description": "Two days after Trump said he would create an AI Force and name an AI czar, the White House has not said whether it is a military branch or a title.",
-        "url": "https://thenextweb.com/news/white-house-ai-force-no-detail",
-        "urlToImage": "https://media.thenextweb.com/2026/06/trump-anthropic-not-national-security-threat-axios-interview.jpg",
-        "publishedAt": "2026-09-21T08:52:42Z",
-        "content": "Two days after Donald Trump announced plans for an AI Force and an AI czar, the White House has not clarified whether the AI Force would be a military branch, a regulatory agency, or something else.\r\u2026 [+2389 chars]"
+        "author": "Mia Sato, Victoria Song, Hayden Field, Lauren Feiner",
+        "title": "Can you forget how you feel about Meta?",
+        "description": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. \u201cWe care deeply about issues like safety, well-being and mental health. It\u2019s difficult to see coverage that mi\u2026",
+        "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268630_META_FALLING_APART_CVIRGINA0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-22T10:00:01Z",
+        "content": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. \u201cWe care deeply about issues like safety, well-bei\u2026 [+42069 chars]"
     }
 ]

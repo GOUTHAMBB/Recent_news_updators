@@ -1,32 +1,6 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "James Faris",
-        "title": "Internal docs show how David Ellison wants Paramount+ to transform as his WBD mega-deal draws near",
-        "description": "Paramount's streaming initiatives list shows how its streamer is improving ahead of the WBD deal that would bring it closer to HBO Max.",
-        "url": "https://www.businessinsider.com/paramount-streaming-initiatives-strategy-david-ellison-hbo-max-pluto-tv-2026-9#article",
-        "urlToImage": "https://i.insider.com/6aac00ab4a3706ac06f84482?width=1200&format=jpeg",
-        "publishedAt": "2026-09-24T18:30:07Z",
-        "content": "Paramount Skydance CEO David Ellison has made streaming and technology a top priority.Illustration by Cheng Xin/Getty Images; Shannon Finney/WireImage\r\n<ul><li>Paramount+ is getting a slew of new fea\u2026 [+5755 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Daniel T. Allen,Jessica Orwig",
-        "title": "Flying in Beta Technologies' Alia CX300 showed me why electric planes aren't mainstream yet",
-        "description": "I flew Beta Technologies' Alia CX300 electric plane and toured its factory. Its heavy battery load is its biggest hurdle to commercial success.",
-        "url": "https://www.businessinsider.com/beta-technologies-alia-cx300-electric-plane-commercial-flight-2026-9#article",
-        "urlToImage": "https://i.insider.com/6aad756c6794a2984cfca8ad?width=1200&format=jpeg",
-        "publishedAt": "2026-09-24T08:33:01Z",
-        "content": "tk\r\n<ul><li>Beta's electric plane can already fly for hours. So why aren't paying passengers riding in one yet?</li><li>The biggest roadblock is hiding under the floor: nearly 3,000 pounds of batteri\u2026 [+5708 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -43,65 +17,13 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jordan Blum",
-        "title": "Fervo brings the first, next-gen geothermal power to the grid to satiate the AI boom",
-        "description": "Next-gen geothermal power aims to combine clean power with reliable 24-7 service to feed to the AI boom.",
-        "url": "https://fortune.com/2026/09/24/fervo-next-gen-geothermal-power-grid-ai-boom/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Fervo-Energy_Cape-Station_1-1-e1778714149190.jpg?resize=1200,600",
-        "publishedAt": "2026-09-24T12:19:52Z",
-        "content": "Startup Fervo Energy flipped the switch on its Cape Station power plant in Utah, officially bringing the first next-generation geothermal power to the grid at a utility scale, the Houston-based start\u2026 [+3396 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jeff John Roberts",
-        "title": "Travis Kalanick is back: How Uber\u2019s ousted founder went from pariah to Silicon Valley hero",
-        "description": "The Uber cofounder returns with a multibillion robotics and AI venture\u2014and a tech sector more receptive to his hard-charging approach.",
-        "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/KAL_Travis-Kalanick-Startup-Fest_also-Social-thumbnail.jpg?resize=1200,600",
-        "publishedAt": "2026-09-24T07:00:00Z",
-        "content": "In 2017, it looked as if the tech world had seen the last of Travis Kalanick. Following a spate of scandals and allegations ranging from sexism to corporate espionage, Ubers own investors took the ex\u2026 [+20194 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Nick Lichtenberg",
-        "title": "Exclusive: AJ Scaramucci comes out of stealth with a $350 million bet on \u2018Programmable Reality\u2019",
-        "description": "Scaramucci talked to Fortune about mentors including Peter Diamandis, Kai-Fu Lee and Eric Schmidt, along with dinosaur bones, AI and the \"cultural trade.\"",
-        "url": "https://fortune.com/2026/09/24/exclusive-aj-scaramucci-comes-out-of-stealth-with-a-350-million-bet-on-programmable-reality/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/TAO_5048-1-e1790184378193.jpg?resize=1200,600",
-        "publishedAt": "2026-09-24T13:00:00Z",
-        "content": "For most of the last decade, AJ Scaramucci has built companies nobody outside his network was watching. He backed a bitcoin miner years before it became a Trump family venture. He wrote the first che\u2026 [+12709 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Beatrice Nolan",
-        "title": "Nscale wants a $35 billion valuation. Nvidia is helping foot the bill",
-        "description": "The neocloud's IPO filing shows a company that burned through cash while a chipmaker that also happens to be its biggest supplier helped keep it alive.",
-        "url": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Nscale-16444140-e1789986151293.jpg?resize=1200,600",
-        "publishedAt": "2026-09-24T17:49:56Z",
-        "content": "Welcome to Eye on AI. Beatrice Nolan here. In todays issue:Another day, another billion-dollar IPO.\r\nThis time its Nscale, the Nvidia-backed neocloud that filed for a New York listing last week at a \u2026 [+10935 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
         "author": "Sheryl Estrada",
-        "title": "McDonald\u2019s bets $8.5 billion on a productivity makeover across more than 46,000 restaurants",
-        "description": "McDonald's plan leans on existing restaurants to drive growth as unit expansion slows.",
-        "url": "https://fortune.com/2026/09/24/mcdonalds-bets-8-5-billion-productivity-makeover-across-more-than-46000-restaurants/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2264705816.jpg?resize=1200,600",
-        "publishedAt": "2026-09-24T13:30:36Z",
-        "content": "Good morning. Ian Borden, McDonalds EVP and global CFO, is betting that the companys next phase of profitable growth will come not just from opening more restaurants, but from making its existing net\u2026 [+5913 chars]"
+        "title": "Fed\u2019s Tom\u00a0Barkin, a former\u00a0McKinsey CFO, says\u00a0the \u2018AI Apocalypse\u2019 hasn\u2019t arrived",
+        "description": "The Richmond Fed president says companies are investing heavily in AI to boost productivity, but strong earnings are keeping them from making deep cuts to their workforces.",
+        "url": "https://fortune.com/2026/09/25/feds-tom-barkin-former-mckinsey-cfo-says-ai-apocalypse-hasnt-arrived/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Tom-Barkin.jpg?resize=1200,600",
+        "publishedAt": "2026-09-25T13:05:58Z",
+        "content": "Good morning. The Federal Reserve raised interest rates for the first time since mid-2023 last week as some of the forces pushing up inflation prove harder to shake, Richmond Fed President and CEO To\u2026 [+8044 chars]"
     },
     {
         "source": {
@@ -118,32 +40,6 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "kroof@businessinsider.com (Katie Roof)",
-        "title": "The 'ChatGPT for doctors,' OpenEvidence, was valued at $15 billion in a new funding round",
-        "description": "The startup has raised nearly $800 million over the past year, from investors including Nvidia, Thrive Capital, Kleiner Perkins, a16z, and Sequoia Capital.",
-        "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9#article",
-        "urlToImage": "https://i.insider.com/6ab3dfefeb72254112679932?width=1200&format=jpeg",
-        "publishedAt": "2026-09-24T17:35:34Z",
-        "content": "OpenEvidence, an AI search engine for doctors, is the latest AI darling to raise back-to-back funding rounds. \r\nThe company recently raised $250 million in investment from hospital systems and Andree\u2026 [+1955 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jim Edwards",
-        "title": "Kalshi could be worth $42 billion\u2014if it can survive the Supreme Court unscathed",
-        "description": "Everything you need to know before you reach the office this morning.",
-        "url": "https://fortune.com/2026/09/24/kalshi-valuation-42-billion-ipo/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2279973763-e1790243488326.jpg?resize=1200,600",
-        "publishedAt": "2026-09-24T09:58:09Z",
-        "content": "Disneys Magic Kingdom in Orlando has been dethroned as the worlds most-visited theme park by Dubai's Global Village, an attraction that began as a small pop-up fair in a parking lot, Chris Sylt repor\u2026 [+8155 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -157,15 +53,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Priyanka Salve",
-        "title": "Inside India newsletter: Apple set to take a bigger bite of the world\u2019s second-largest smartphone market",
-        "description": "Apple's latest iPhone launch will boost its market share in India at a time when many incumbent Chinese brands that dominate the market are struggling to sell.",
-        "url": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108366027-1790061902877-gettyimages-2295333748-20260918_mum-sb-mn_iphone_007.jpeg?v=1790061919&w=1920&h=1080",
-        "publishedAt": "2026-09-24T00:01:54Z",
-        "content": "Hello, this is Priyanka Salve, writing to you from Singapore. \r\nWelcome to the latest edition of \"Inside India\"\u00a0 your one-stop destination for stories and developments from the world's fastest-growin\u2026 [+5959 chars]"
+        "author": "jsor@businessinsider.com (Jennifer Sor)",
+        "title": "A deluge of new stock supply will be a drag on the market for years, GMO says",
+        "description": "The supply publicly traded equities is on track to grow around 5% a year, which could drag on stock returns, GMO said.",
+        "url": "https://www.businessinsider.com/stock-returns-us-market-outlook-equity-supply-gmo-2026-9#article",
+        "urlToImage": "https://i.insider.com/6ab66da8d15f8a572974a85f?width=1200&format=jpeg",
+        "publishedAt": "2026-09-25T17:28:25Z",
+        "content": "The US stock market has a supply problem brewing over the next several years, Jeremy Grantham's GMO is warning.\r\nIn a quarterly note to clients, the asset manager flagged the risk posed by a coming w\u2026 [+2378 chars]"
     }
 ]

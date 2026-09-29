@@ -14,6 +14,19 @@
     },
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "mrobinson@businessinsider.com (Melia Robinson)",
+        "title": "Noa Argamani's venturing out",
+        "description": "Noa Argamani survived Hamas captivity. Two years after her rescue, she's joining the Israel-focused fund Vine Ventures.",
+        "url": "https://www.businessinsider.com/why-noa-argamani-is-joining-israel-focused-fund-vine-ventures-2026-9#article",
+        "urlToImage": "https://i.insider.com/6ab3fd9aeb72254112679a90?width=1200&format=jpeg",
+        "publishedAt": "2026-09-28T08:30:01Z",
+        "content": "A\r\nfter 246 days in Hamas captivity, Israeli special forces rescued Noa Argamani and carried her by helicopter to a hospital outside Tel Aviv. There, a doctor turned to her and said, \"Noa, we're real\u2026 [+9047 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -24,5 +37,57 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2173579376-e1789984388988.jpg?resize=1200,600",
         "publishedAt": "2026-09-27T13:13:28Z",
         "content": "When Martin Ott joined Facebook to lead its Northern and Central Europe operations as MD in 2012, the company was pre-IPO, pivoting from desktop to mobile phones, and had just a few thousand employee\u2026 [+3334 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "Bank of America wants AI to do treasury\u2019s grunt work",
+        "description": "As AI takes over the manual side of treasury work, the job is shifting toward analysis, oversight, and judgment.",
+        "url": "https://fortune.com/2026/09/28/bank-of-america-wants-ai-to-do-treasurys-grunt-work-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1770884450.jpg?resize=1200,600",
+        "publishedAt": "2026-09-28T12:11:06Z",
+        "content": "Good morning. Treasury teams have never had a shortage of data. The harder problem is figuring out what matters.That is increasingly becoming a job for AI. Bank of Americaannounced this morning a new\u2026 [+5380 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+        "description": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+        "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+        "publishedAt": "2026-09-27T19:13:27Z",
+        "content": "Anthropic CEO Dario Amodei will join President Donald Trump for a private dinner at the White House on Sunday, CNBC confirmed, in what will be the first one-on-one meeting between the two leaders.\r\nA\u2026 [+5199 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Ruth Umoh",
+        "title": "At OpenAI, a 9-month search raises questions about the CCO\u2019s place at the table",
+        "description": "OpenAI has operated without a chief communications officer for nine months.",
+        "url": "https://fortune.com/article/openai-cco-communications-officer-search-executive-recruitment/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296177332_1413eb-e1790597078787.jpg?resize=1200,600",
+        "publishedAt": "2026-09-28T12:06:32Z",
+        "content": "For nine months, one of the worlds most closely watched companies has operated without a chief communications officer.OpenAIs former CCO Hannah Wong stepped down in January after nearly five years at\u2026 [+4143 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeff John Roberts",
+        "title": "The crypto pirates have become the Navy. Now what?",
+        "description": "The crypto industry has gotten deeply immersed in the ways of Washington, D.C.\u2014raising questions about what it really stands for.",
+        "url": "https://fortune.com/2026/09/28/the-crypto-pirates-have-become-the-navy-now-what/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2290033073-e1790597713297.jpg?resize=1200,600",
+        "publishedAt": "2026-09-28T12:24:25Z",
+        "content": "Powerful corporate interests have long held outsize sway in Washington, D.C., using their deep pockets to influence elections and to hire former regulators to push preferred policies to law makers. T\u2026 [+4473 chars]"
     }
 ]

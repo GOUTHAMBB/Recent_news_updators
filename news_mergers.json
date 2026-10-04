@@ -17,13 +17,26 @@
             "id": null,
             "name": "Entrepreneur"
         },
-        "author": "James Henderson",
-        "title": "What a Simple Tie Taught Me About Winning Customers for Life",
-        "description": "Two different brands, two very different experiences. How interactions with a brand can someone feel valued, or not.",
-        "url": "https://www.entrepreneur.com/building-a-business/what-a-simple-tie-taught-me-about-winning-customers-for-life",
-        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/09/ties-0926-g-668866900-.jpg?resize=1024,655",
-        "publishedAt": "2026-10-01T14:00:00Z",
-        "content": "Opinions expressed by Entrepreneur contributors are their own.Entrepreneurs spend an extraordinary amount of time thinking about growth. Customer acquisition costs. Conversion rates. Lifetime value. \u2026 [+5296 chars]"
+        "author": "Erik Clarke",
+        "title": "Your Business Model Should Be Built to Absorb Change. Here\u2019s What That Requires.",
+        "description": "Your business model needs to be able to adapt when your assumptions are wrong.",
+        "url": "https://www.entrepreneur.com/building-a-business/your-business-model-should-be-built-to-absorb-change-heres-what-that-requires",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/09/adapt-to-change-0926-g-1253985588.jpg",
+        "publishedAt": "2026-10-02T17:00:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Entrepreneurs spend most of their time planning for growth, but durable businesses are built to absorb external ch\u2026 [+6364 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Henry Chandonnet",
+        "title": "Ramp's Broadway musical was the worst show I've ever seen. I'm still glad it exists.",
+        "description": "I went to Ramp's Broadway musical, \"Bill Pay.\" It was confusing, sloppy, and overly self-loving. But I'm happy the actors got paid.",
+        "url": "https://www.businessinsider.com/ramp-broadway-musical-bill-pay-review-2026-10#article",
+        "urlToImage": "https://i.insider.com/6abad27e265e3f8e338f8024?width=1200&format=jpeg",
+        "publishedAt": "2026-10-03T10:00:01Z",
+        "content": "The \"Bill Pay\" playbill included jokes like \"Guys and Bills\" and \"The Phantom of the Bill.\"Henry Chandonnet/Business Insider\r\n<ul><li>I went to Ramp's Broadway musical, \"Bill Pay.\"</li><li>The show w\u2026 [+4848 chars]"
     },
     {
         "source": {
@@ -43,52 +56,13 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Phil Wahba",
-        "title": "Americans are tired of CEOs lecturing them on politics",
-        "description": "Also: All the news and watercooler chat from Fortune.",
-        "url": "https://fortune.com/2026/10/01/ceo-speaking-out-social-issues-politics-research/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-640629925-e1790846242721.jpg?resize=1200,600",
-        "publishedAt": "2026-10-01T09:36:51Z",
-        "content": "Good morning. Phil Wahba here, writing from New York. A few years ago, the general public expected American CEOs to chime in on the social issues of the day, from gun control to racial diversity to g\u2026 [+5017 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Emily Forlini",
-        "title": "AI \u2018godfather\u2019 Yann LeCun has \u2018zero concerns\u2019 about human extinction, says Anthropic CEO Dario Amodei is \u2018deluded\u2019",
-        "description": "Former Meta Chief AI Scientist shares his take on recent rogue AI incidents, effective altruism, and his plans for his new company, AMI Labs.",
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2197497048-e1790790386809.jpg?resize=1200,600",
-        "publishedAt": "2026-10-01T07:00:00Z",
-        "content": "Yann LeCun won the 2018 Turing Awardcomputer sciences equivalent of the Nobel Prizealong with fellow AI researchers Geoffrey Hinton and Yoshua Bengio for their work on deep learning, the neural netwo\u2026 [+7625 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sheryl Estrada",
-        "title": "HPE\u2019s $1.2 billion order from Vultr puts its AI networking strategy to the test",
-        "description": "HPE is betting that AI networking can turn surging demand into faster revenue growth and higher margins.",
-        "url": "https://fortune.com/2026/10/01/hpe-1-2-billion-vultr-order-puts-ai-networking-strategy-test-cfo/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2292746829.jpg?resize=1200,600",
-        "publishedAt": "2026-10-01T12:37:57Z",
-        "content": "Good morning. A $1.2 billion order from cloud provider Vultr gives Hewlett Packard Enterprise an early commercial win for its new AMD AI system and tests whether AI networking can become a faster-gro\u2026 [+5243 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Wen Shao",
-        "title": "Exclusive: Nine-Person Halluminate Raises $30 Million, Counts Four Top U.S. AI Labs as Customers",
-        "description": "The nine-person company says it has reached a mid-eight-figure annualized revenue run rate selling finance-specific training environments to frontier AI labs.",
-        "url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/photo_48185.jpg?resize=1200,600",
-        "publishedAt": "2026-10-01T15:00:00Z",
-        "content": "Halluminate, a nine-person San Francisco startup building AI training environments for financial work, has raised $30 million in a Series A led by Oak HC/FT, bringing its total funding to $38.5 milli\u2026 [+4262 chars]"
+        "author": "Andrew McGowan",
+        "title": "Mark Ruffalo says Paramount\u2019s $111 billion Warner Bros. deal \u2018Will stifle creativity, weaken free speech, and cost people their jobs\u2019",
+        "description": "A federal judge cleared the final legal hurdle for the megamerger on Wednesday. The deal is expected to close Oct. 6.",
+        "url": "https://fortune.com/2026/10/02/mark-ruffalo-paramount-warner-deal-keep-fighting-comments/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2258097385.jpg?resize=1200,600",
+        "publishedAt": "2026-10-02T23:34:00Z",
+        "content": "Mark Ruffalo isnt giving up his fight against Paramount Skydances takeover of Warner Bros. Discovery, even with the deal days from closing.On Sept. 30, U.S. District Judge Araceli Mart\u00ednez-Olgu\u00edn app\u2026 [+6122 chars]"
     },
     {
         "source": {
@@ -105,68 +79,55 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "kroof@businessinsider.com (Katie Roof)",
-        "title": "Get Access is building an exclusive club for angel investing",
-        "description": "Backed by Sound Ventures, Get Access just raised $5 million at an $85 million valuation.",
-        "url": "https://www.businessinsider.com/get-access-is-building-an-exclusive-club-for-late-stage-startup-investing-2026-9#article",
-        "urlToImage": "https://i.insider.com/6abd8631265e3f8e338f9502?width=1200&format=jpeg",
-        "publishedAt": "2026-10-01T14:00:01Z",
-        "content": "A new startup wants to give wealthy tech insiders access to some of the hottest private-company deals.\r\nGet Access has launched a platform that pools money from individual investors including mega AI\u2026 [+2249 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Cheryl Winokur Munk",
-        "title": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing",
-        "description": "The SEC wants retail investors to access private markets, and with all the hype around tech darlings going public, there's plenty of potential reward and risk.",
-        "url": "https://www.cnbc.com/2026/10/01/sec-private-equity-hedge-funds-stock-investing.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108371136-1790870256539-gettyimages-2223557095-vault_gold.jpeg?v=1790870270&w=1920&h=1080",
-        "publishedAt": "2026-10-01T16:50:28Z",
-        "content": "Amid ongoing hype around tech darlings going public, from Anthropic to OpenAI, many retail investors are chomping at the bit for access to private stock markets.\r\nInvesting in private companies has t\u2026 [+8114 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Jordan Blum",
-        "title": "There\u2019s a pipeline of deals\u2014for pipelines\u2014that will help power the AI boom",
-        "description": "Potential sellers ask for more money on inflated valuations, while the buyers think longer term and conservatively. It\u2019s hard to meet in the middle on a price tag.",
-        "url": "https://fortune.com/2026/10/01/pipeline-deals-help-power-ai-boom/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2270875682-1-e1790852226537.jpg?resize=1200,600",
-        "publishedAt": "2026-10-01T11:03:59Z",
-        "content": "Good morning loyal Term Sheet readers, this is energy editor, Jordan Blum, filling in for Allie. The Middle East remains in a state of chaotic conflict, and fuel and oil prices are still sky high.All\u2026 [+8143 chars]"
+        "author": "Yerbol Orynbayev",
+        "title": "We need a Department of AI, or we risk pushing the U.S. economy over the brink",
+        "description": "I helped steer Kazakhstan out of the 2008 financial crisis. An AI czar is not enough. America needs a Department of AI to protect trust and growth.",
+        "url": "https://fortune.com/2026/10/03/department-of-ai-federal-oversight/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Yerbol_Orynbayev_26-2.jpg?resize=1200,600",
+        "publishedAt": "2026-10-03T07:00:00Z",
+        "content": "Fears surrounding AI are hitting a fever pitch. Rogue agents are running rampant, and even the industrys top figures Amodei, Altman, and Musk are leading calls for a slowdown in development. With pub\u2026 [+4879 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Alex Harring",
-        "title": "The Dow's rough month, Micron's revenue surge, Google launches Gemini 4 and more in Morning Squawk",
-        "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/10/01/5-things-to-know-before-the-stock-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348552-1786549021136-gettyimages-2289681116-LONDIAN_WASON_IPO.jpeg?v=1786549042&w=1920&h=1080",
-        "publishedAt": "2026-10-01T12:45:07Z",
-        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Thursday. If you keep CNBC on your TV tonight, you'll be able to catch Game 3 of the WNBA Pla\u2026 [+5168 chars]"
+        "author": "Sarah Whitten",
+        "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+        "description": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+        "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108010356-1721737934014-gettyimages-2158591030-canneslions_240621_101017_rbord_lyvayzuu.jpeg?v=1790982865&w=1920&h=1080",
+        "publishedAt": "2026-10-03T11:00:01Z",
+        "content": "Entertainment Person of the Year, Mattel's Chairman and CEO Ynon Kreiz speaks during the \"Entertainment Person of the Year Seminar: Mattels Ynon Kreiz\" session at Debussy Theatre during the Cannes Li\u2026 [+9729 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Justina Lee",
-        "title": "CNBC Daily Open: Potential diesel ban, Pentagon's warfare initiative and Google's latest AI model",
-        "description": "U.S. President Donald Trump's comments that he is still \"thinking about\" a diesel export ban has raised worries that U.S. energy prices may rise further.",
-        "url": "https://www.cnbc.com/2026/10/01/cnbc-daily-open-potential-diesel-ban-pentagons-warfare-initiative-and-googles-latest-ai-model-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108370739-17908084182026-09-30t211556z_1144083761_rc2xtnat3vx9_rtrmadp_0_usa-trump.jpeg?v=1790808446&w=1920&h=1080",
-        "publishedAt": "2026-10-01T01:16:32Z",
-        "content": "Hello, this is Justina Lee writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\r\nU.S. President Donald Trump's comments that he is still \"thinking about\" a diesel export ba\u2026 [+3869 chars]"
+        "author": "Caleigh Keating",
+        "title": "Anthropic to invest $100 million to train AI engineer talent",
+        "description": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
+        "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108314565-1780322976363-gettyimages-2276989325-AFS_ClaudeAILogoPhotoIlustrations_6JPG.jpeg?v=1780336837&w=1920&h=1080",
+        "publishedAt": "2026-10-02T21:03:06Z",
+        "content": "Anthropic will invest $100 million into an academy for training AI talent, working with companies to integrate artificial intelligence into their operations.\r\nThe investment will fund a program calle\u2026 [+2300 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Laya Neelakandan",
+        "title": "Private capital is reshaping Hollywood moviemaking",
+        "description": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
+        "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205995-1759261923403-gettyimages-2238378832-6m0a3111_rxohgsms.jpeg?v=1790960712&w=1920&h=1080",
+        "publishedAt": "2026-10-03T12:00:01Z",
+        "content": "A view of the Hollywood sign, in Hollywood, California, Sept. 30, 2025.\r\nAt the Toronto International Film Festival last month, audiences saw \"Wicked\" star Cynthia Erivo return to the big screen for \u2026 [+7361 chars]"
     },
     {
         "source": {
@@ -187,11 +148,11 @@
             "name": "CNBC"
         },
         "author": "Cnbc",
-        "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
-        "description": "Anthropic's IPO prospectus reveals an extensive partnership with chip maker Broadcom that includes $42 billion lent to the AI lab to lease its chips.",
-        "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369749-17907092542026-09-29t190937z_152886332_rc27tnabw2hc_rtrmadp_0_usa-trump.jpeg?v=1790709294&w=1920&h=1080",
-        "publishedAt": "2026-10-01T12:40:01Z",
-        "content": "Anthropic's IPO prospectus documents extensive partnerships with a handful of big tech firms. One stands out: chip maker Broadcom.\r\nThe company's relationship with Anthropic spans compute supply, equ\u2026 [+3188 chars]"
+        "title": "Anthropic warns govt. attitudes may hurt ties, IPO shows: Reuters",
+        "description": "Anthropic CEO Dario Amodei met President Donald Trump last Sunday for dinner as \u200ccalls for greater regulation of AI have grown.",
+        "url": "https://www.cnbc.com/2026/10/02/anthropic-warns-govt-attitudes-may-hurt-ties-ipo-shows.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108360526-1788968630467-gettyimages-2283727461-AI_MODELS.jpeg?v=1788968659&w=1920&h=1080",
+        "publishedAt": "2026-10-02T15:20:13Z",
+        "content": "Anthropic warned that government attitudes toward the company and its technology could have broader implications for its business, including its relationships with commercial customers and partners, \u2026 [+3004 chars]"
     }
 ]

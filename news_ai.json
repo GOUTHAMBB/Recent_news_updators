@@ -1,107 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Tom McKay",
-        "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say",
-        "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video.",
-        "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg",
-        "publishedAt": "2026-10-02T23:00:33Z",
-        "content": "Japanese optics company Nikon has stated it is \u201ccarefully re-reviewing\u201d information submitted by National University of Singapore optical engineer Ning Xu after commenters accused him of using AI in \u2026 [+3850 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Callum Turner",
-        "title": "The AI race is becoming a test of strategy, not just software",
-        "description": "AI has become remarkably good at making organizations move faster and more efficiently. The harder question is whether companies know where they should be going. As artificial intelligence moves deeper into everyday work, the competitive divide is beginning t\u2026",
-        "url": "https://thenextweb.com/news/the-ai-race-is-becoming-a-test-of-strategy-not-just-software",
-        "urlToImage": "https://media.thenextweb.com/2026/10/marathon-runners-legs-city-road.jpg",
-        "publishedAt": "2026-10-02T11:12:51Z",
-        "content": "AI has become remarkably good at making organizations move faster and more efficiently. The harder question is whether companies know where they should be going. As artificial intelligence moves deep\u2026 [+5675 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Will Jones",
-        "title": "America isn\u2019t short of electricity. It\u2019s short of places to plug in fast enough.",
-        "description": "On 22 July 2026, the Texas grid set an all-time record. Demand reached about 91 gigawatts on a punishing summer evening and\u00a0the system met it, roughly half from natural gas and a third from solar. Nothing broke. Yet much of the discussion around artificial in\u2026",
-        "url": "https://thenextweb.com/news/us-power-shortage-grid-interconnection-powered-land-texas",
-        "urlToImage": "https://media.thenextweb.com/2026/10/data-centre-substation-sunset.jpg",
-        "publishedAt": "2026-10-02T10:26:18Z",
-        "content": "On 22 July 2026, the Texas grid set an all-time record. Demand reached about 91 gigawatts on a punishing summer evening and\u00a0the system met it, roughly half from natural gas and a third from solar. No\u2026 [+10356 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Aaron Pruner",
-        "title": "Audible Will Soon Let You Use AI to Talk to a Book Character",
-        "description": "Amazon\u2019s audiobook service is rolling out new AI-powered features to make listening to stories more interactive.",
-        "url": "https://www.cnet.com/tech/services-and-software/audible-new-ai-features/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Audible-logo-on-a-green-background.jpg",
-        "publishedAt": "2026-10-02T14:06:30Z",
-        "content": "Audible is making audiobook listening more immersive. The Amazon-owned streaming service launched three new AI-powered features on Thursday to expand the book-listening experience. You\u2019ll be able to \u2026 [+2719 chars]"
-    },
-    {
-        "source": {
             "id": "the-next-web",
             "name": "The Next Web"
         },
         "author": "Alina Maria Stan",
-        "title": "Nvidia\u2019s Huang questioned Amodei\u2019s AI warnings at White House, WSJ reports",
-        "description": "Nvidia chief executive Jensen Huang and other tech leaders questioned Anthropic\u2019s Dario Amodei about his public warnings on AI at Tuesday\u2019s White House lunch. People familiar with the matter told The Wall Street Journal about the exchange. Amodei replied that\u2026",
-        "url": "https://thenextweb.com/news/jensen-huang-dario-amodei-ai-warnings-white-house-wsj",
-        "urlToImage": "https://media.thenextweb.com/2026/10/trump-pointing-tech-ceos-west-wing-press-september-2026.jpg",
-        "publishedAt": "2026-10-02T12:58:32Z",
-        "content": "Nvidia chief executive Jensen Huang and other tech leaders questioned Anthropics Dario Amodei about his public warnings on AI at Tuesdays White House lunch. People familiar with the matter told The W\u2026 [+1469 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Dessy Pavlova",
-        "title": "AI can\u2019t fix a business system with broken processes",
-        "description": "I have come to believe that one of the biggest misconceptions about AI is also one of the most expensive: the idea that technology can repair a business that has never streamlined how its processes actually work. AI can accelerate an operation, automate repet\u2026",
-        "url": "https://thenextweb.com/news/ai-cant-fix-broken-processes-dessy-pavlova",
-        "urlToImage": "https://media.thenextweb.com/2026/10/ai-cant-fix-broken-processes-dessy-pavlova.jpg",
-        "publishedAt": "2026-10-02T22:15:17Z",
-        "content": "TL;DR\r\n88% of organizations use AI but only 7% have scaled it (McKinsey). Dessy Pavlova argues the gap exists because companies apply AI to fragmented operations rather than redesigning the process f\u2026 [+5010 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Will Jones",
-        "title": "The difference between a liar and a bullshitter",
-        "description": "Back in 1986, a Princeton philosopher named Harry Frankfurt published a short essay with a title you don\u2019t expect to see in an academic journal, \u201cOn Bullshit.\u201d It stayed largely inside academic circles for the better part of twenty years. Then in 2005 Princet\u2026",
-        "url": "https://thenextweb.com/news/the-difference-between-a-liar-and-a-bullshitter",
-        "urlToImage": "https://media.thenextweb.com/2026/10/crossed-fingers-behind-back-suit.jpg",
-        "publishedAt": "2026-10-02T09:13:25Z",
-        "content": "Back in 1986, a Princeton philosopher named Harry Frankfurt published a short essay with a title you dont expect to see in an academic journal, On Bullshit. It stayed largely inside academic circles \u2026 [+6746 chars]"
-    },
-    {
-        "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
-        },
-        "author": "Alina Maria Stan",
-        "title": "Newsom signs 13 AI bills, including a ban on AI-only firings",
-        "description": "In California, an AI system will no longer be able to fire or discipline a worker on its own. Governor Gavin Newsom signed the No Robo Bosses Act on Wednesday, his office said. It was one of 13 AI bills he signed that day. The law, SB 947, bars employers from\u2026",
-        "url": "https://thenextweb.com/news/no-robo-bosses-act-newsom-ai-bills-smart-glasses-veto",
-        "urlToImage": "https://media.thenextweb.com/2026/09/gavin-newsom-speaking-lectern.jpg",
-        "publishedAt": "2026-10-02T11:53:52Z",
-        "content": "In California, an AI system will no longer be able to fire or discipline a worker on its own. Governor Gavin Newsom signed the No Robo Bosses Act on Wednesday, his office said. It was one of 13 AI bi\u2026 [+2627 chars]"
+        "title": "Trump names four officials to lead his Super Intelligence Force",
+        "description": "Trump named the intelligence director Jay Clayton, the FTC chairman Andrew Ferguson, the Pentagon technology chief Emil Michael and the personnel director Scott Kupor to lead a Super Intelligence Force with no statutory authority or budget. Europe took the op\u2026",
+        "url": "https://thenextweb.com/news/trump-super-intelligence-force-leaders",
+        "urlToImage": "https://media.thenextweb.com/2026/09/President-Donald-Trump-addressing-press.jpg",
+        "publishedAt": "2026-10-04T16:45:34Z",
+        "content": "Trump named the intelligence director Jay Clayton, the FTC chairman Andrew Ferguson, the Pentagon technology chief Emil Michael and the personnel director Scott Kupor to lead a Super Intelligence For\u2026 [+2468 chars]"
     },
     {
         "source": {
@@ -119,80 +28,15 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Tom Hawking",
-        "title": "\u2018Torturing\u2019 LLMs Is Not Real, But Doing It Still Probably Makes You a Bad Person",
-        "description": "There are no ethics here, just a general abiding unpleasantness.",
-        "url": "https://gizmodo.com/torturing-llms-is-not-real-but-doing-it-still-probably-makes-you-a-bad-person-2000820420",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/10/c3pO-torture-1200x675.jpg",
-        "publishedAt": "2026-10-02T15:00:59Z",
-        "content": "What does an AI model do when its in pain? asks a new website styling itself as the Research Chamber, which purports to subject three LLMs to the delights of a sort of virtual robot torture chamber. \u2026 [+3398 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Connor Jones",
-        "title": "Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam\u2019s approval",
-        "description": "Prosecutors claim Greg Lui helped China procure advanced hardware to develop, ahem, 'super intelligence\u2019",
-        "url": "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
-        "urlToImage": "https://image.theregister.com/259566.jpg?imageId=259566&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-02T15:20:00Z",
-        "content": "A California business owner was arrested on Thursday after being charged with allegedly smuggling Nvidia hardware to China without the proper export licenses. Keeping the highest-end GPUs out of Chin\u2026 [+3775 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Matt Novak",
-        "title": "Revenge of the Nerd: Trump Kinda Seems to Like Anthropic\u2019s CEO",
-        "description": "After a bumpy ride with the administration, Dario Amodei is putting a twinkle in Trump's eye.",
-        "url": "https://gizmodo.com/revenge-of-the-nerd-trump-kinda-seems-to-like-anthropics-ceo-2000820378",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/10/dario-and-trump-love-1200x675.jpg",
-        "publishedAt": "2026-10-02T17:20:03Z",
-        "content": "When the Pentagon launched a campaign against Anthropic for not bending the knee earlier this year, it seemed like President Donald Trump was fully on board. But something changed this week, as the w\u2026 [+6005 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-        "title": "Sony brings AI-powered upscaling to the standard PS5",
-        "description": "The base PS5 is getting an optimized version of Sony's AI-powered upscaling technology, offering developers a new way to improve image quality and stability without demanding more powerful hardware.",
-        "url": "https://www.tomshardware.com/video-games/console-gaming/sony-brings-ai-powered-upscaling-to-the-standard-ps5-new-qssr-technology-to-deliver-a-taste-of-the-ps5-pro-experience-streamlined-neural-network-tech-built-with-amd",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/nd79YEyZjKpereVXCPBBMD-2486-80.png",
-        "publishedAt": "2026-10-02T14:10:00Z",
-        "content": "The PlayStation 5 is getting AI-driven upscaling, giving base console owners access to the technology that was previously available on the more powerful PlayStation 5 Pro. In a blog post, Sony introd\u2026 [+2437 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "AI in customer experience has an orchestration problem, not an adoption problem",
-        "description": "Every information technology leader I talk to has an artificial intelligence story about customer experience. Almost none has an outcome story. That gap is now measurable. Talkdesk Inc., in partnership with NewtonX, surveyed 252 director-level-and-above leade\u2026",
-        "url": "https://siliconangle.com/2026/10/02/ai-in-customer-experience-has-an-orchestration-problem-not-an-adoption-problem/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/aiagent-cx-gemini-scaled.jpeg",
-        "publishedAt": "2026-10-02T17:37:30Z",
-        "content": "Every information technology leader I talk to has an artificial intelligence story about customer experience. Almost none has an outcome story.\r\nThat gap is now measurable. Talkdesk Inc., in partners\u2026 [+8795 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "Enterprise storage becomes AI memory as privately run models close in on the frontier",
-        "description": "As open-weight models close in on the performance of proprietary frontier systems, enterprises are gaining a credible way to run generative AI on hardware they own. That shift puts the data already sitting in corporate storage at the center of the private AI \u2026",
-        "url": "https://siliconangle.com/2026/10/02/open-weight-models-power-private-ai-netapp-iterate-netappinsight/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Ashish-Dhawan-Brian-Sathianathan-Jon-Nordmarkv-CLEAN-Thumb.jpg",
-        "publishedAt": "2026-10-02T11:26:51Z",
-        "content": "As open-weight models close in on the performance of proprietary frontier systems, enterprises are gaining a credible way to run generative AI on hardware they own. That shift puts the data already s\u2026 [+5484 chars]"
+        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "title": "'AI Torture Chamber' triggers massive backlash for putting chatbots in simulated pain",
+        "description": "AI \"torture chamber\" draws vast online criticism, and a corresponding amount of ridicule \u2014 tech newbies and AI evangelists go nuts anthropomorphizing an LLM",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-torture-chamber-triggers-massive-backlash-for-putting-chatbots-in-simulated-pain-critics-issue-death-threats-while-anthropomorphizing-text-predictors-demand-github-remove-the-repository-over-unethical-treatment",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/49aMT9PEGWwNTyETkwJpzd-1920-80.jpg",
+        "publishedAt": "2026-10-04T12:05:00Z",
+        "content": "A project called the AI Torture Chamber has caught the eye of a few engineers, who've used the notions and data therein create their own simulations of \"pain\" on several local LLMs, like in the four-\u2026 [+5241 chars]"
     },
     {
         "source": {
@@ -210,262 +54,93 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Maria Deutscher",
-        "title": "Satellite software provider Satlyt closes $8M investment",
-        "description": "Satlyt Inc., a startup that develops artificial intelligence software for satellites, has raised $8 million in funding. TechCrunch reported today that the seed round was led by early-stage fund Non Sibi Ventures. Satlyt was founded in 2024 by Chief Executive \u2026",
-        "url": "https://siliconangle.com/2026/10/01/satellite-software-provider-satlyt-closes-8m-investment/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Satlyt.png",
-        "publishedAt": "2026-10-02T00:23:22Z",
-        "content": "Satlyt Inc., a startup that develops artificial intelligence software for satellites, has raised $8 million in funding.\r\nTechCrunch reported today that the seed round was led by early-stage fund Non \u2026 [+3800 chars]"
+        "author": "Mark Tyson",
+        "title": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
+        "description": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn\u2019t been read since the Napoleonic Wars. The task was initiated with a single image and prompt, and took just six hours from start to finish.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/7NDTHseunp2EUkVBhZHe5Q-1920-80.jpg",
+        "publishedAt": "2026-10-04T13:08:46Z",
+        "content": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn\u2019t been read since the Napoleonic Wars. Carter Church, an engineer at cybersecurity company SentinelOne, used Astra to crac\u2026 [+2917 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "sayem.ahmed@futurenet.com (Sayem Ahmed) , Sayem Ahmed",
+        "title": "This week on Tom's Hardware Premium: October 3, 2026",
+        "description": "This week on Tom's Hardware Premium, we open the floodgates with a free-to-access chip design week, including expert interviews, a sit-down with OpenAI on its custom ASIC, and much more.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg",
+        "publishedAt": "2026-10-03T14:00:00Z",
+        "content": "Over at Tom's Hardware Premium, we've been publishing a slew of stories centered around our themed AI Chip Design Week, where you can learn more about how artificial intelligence is reshaping the chi\u2026 [+4221 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Report: Amazon to offload $8B worth of AI chips, lease them back",
-        "description": "Amazon.com Inc. reportedly plans to offload some of its artificial intelligence chips and then lease them back. The Financial Times today cited sources as saying that the transaction would involve a special purpose vehicle, or SPV. A SPV is a type of legal en\u2026",
-        "url": "https://siliconangle.com/2026/10/02/report-amazon-to-offload-8b-worth-of-ai-chips-lease-them-back/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AWS.png",
-        "publishedAt": "2026-10-02T20:29:44Z",
-        "content": "Amazon.com Inc. reportedly plans to offload some of its artificial intelligence chips and then lease them back.\r\nThe Financial Times today cited sources as saying that the transaction would involve a\u2026 [+4077 chars]"
+        "author": "Cheryl Knight",
+        "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
+        "description": "The companies featured at the recent Bank of America Private Tech Trailblazers Conference point to where the next wave of AI growth is taking shape: specialized technology built around proprietary data, industry-specific workflows and, increasingly, purpose-b\u2026",
+        "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/JD-Moriarty-vice-chairman-and-managing-director-at-Bank-of-America-Bank-of-America-Private-Tech-Trailblazers-Conference-2026-scaled.jpg",
+        "publishedAt": "2026-10-03T20:08:45Z",
+        "content": "The companies featured at the recent Bank of America Private Tech Trailblazers Conference point to where the next wave of AI growth is taking shape: specialized technology built around proprietary da\u2026 [+10718 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Mike Wheatley",
-        "title": "Microsoft targets ultra-realistic voice agents with its first streaming transcription model",
-        "description": "Microsoft Corp. has expanded its MAI artificial intelligence model family with its first streaming transcription model, debuting alongside two others focused on text-to-speech. They\u2019re designed for developers who want to build voice agents that can listen to \u2026",
-        "url": "https://siliconangle.com/2026/10/01/microsoft-targets-ultra-realistic-voice-agents-with-its-first-streaming-transcription-model/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-02-08-29-44.png",
-        "publishedAt": "2026-10-02T01:31:31Z",
-        "content": "Microsoft Corp. has expanded its MAI artificial intelligence model family with its first streaming transcription model, debuting alongside two others focused on text-to-speech. Theyre designed for de\u2026 [+5405 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Kyt Dotson",
-        "title": "Ai2 releases Olmo-core 3 to make developing large mixture-of-experts LLMs more efficient",
-        "description": "Seattle-based artificial intelligence research firm Allen Institute for AI announced a development framework for large language models Thursday that significantly improves how mixture-of-experts large language models are trained. The new framework, Olmo-core \u2026",
-        "url": "https://siliconangle.com/2026/10/02/ai2-releases-olmo-core-3-to-make-developing-large-mixture-of-experts-llms-more-efficient/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2024/10/Designer-4.jpeg",
-        "publishedAt": "2026-10-02T16:15:44Z",
-        "content": "Seattle-based artificial intelligence research firm Allen Institute for AI announced a development framework for large language models Thursday that significantly improves how mixture-of-experts larg\u2026 [+4484 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jonathan Anthony",
-        "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries",
-        "description": "Artificial intelligence is turning nearly every enterprise workload into a data workload, and data governance is becoming the test of whether companies can trust autonomous systems with the infrastructure underneath. The question is no longer only where data \u2026",
-        "url": "https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2483-scaled.jpg",
-        "publishedAt": "2026-10-02T20:27:48Z",
-        "content": "Artificial intelligence is turning nearly every enterprise workload into a data workload, and data governance is becoming the test of whether companies can trust autonomous systems with the infrastru\u2026 [+4902 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
-        "description": "How quickly things change in the artificial intelligence era. Just a few months after everyone was scrambling to infuse AI into every enterprise operation \u2014 and frankly they still are, as agents have captured the enterprise imagination \u2014 everyone now is sayin\u2026",
-        "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Anthropic-IPO-and-the-Rogue-AI-Agents-800x533.png",
-        "publishedAt": "2026-10-02T14:00:15Z",
-        "content": "How quickly things change in the artificial intelligence era. Just a few months after everyone was scrambling to infuse AI into every enterprise operation \u2014 and frankly they still are, as agents have\u2026 [+11356 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Database startup Supabase raises $150M, acquires Turso",
-        "description": "Supabase Inc., a startup that commercializes the open-source PostgreSQL database, has raised $150 million in funding. Singapore\u2019s GIC sovereign wealth fund led the deal. It was joined by Alphabet Inc.\u2019s CapitalG, IronArc and SquarePeg. Supabase announced the \u2026",
-        "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png",
-        "publishedAt": "2026-10-02T22:16:50Z",
-        "content": "Supabase Inc., a startup that commercializes the open-source PostgreSQL database, has raised $150 million in funding.\r\nSingapores GIC sovereign wealth fund led the deal. It was joined by Alphabet Inc\u2026 [+3979 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Victoria Gayton",
-        "title": "TOTVS expands enterprise AI foundation beyond software",
-        "description": "An enterprise AI foundation depends on more than models and agents. It also requires governed operational data and infrastructure that can carry AI into production, a foundation-first approach emerging among Brazilian companies. Technology company TOTVS S.A. \u2026",
-        "url": "https://siliconangle.com/2026/10/02/totvs-grounds-enterprise-ai-foundation-in-brazilian-business-data-aifactoriesdatacenters/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/original-26-1-scaled-e1788894039688.jpg",
-        "publishedAt": "2026-10-02T19:44:23Z",
-        "content": "An enterprise AI foundation depends on more than models and agents. It also requires governed operational data and infrastructure that can carry AI into production, a foundation-first approach emergi\u2026 [+4602 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Jessica Lyons",
-        "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
-        "description": "Mostly 'routine research tasks,' and 'some involved government websites, which our models often use,' AI giant tells The Reg",
-        "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
-        "urlToImage": "https://image.theregister.com/5300902.jpg?imageId=5300902&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-02T17:37:05Z",
-        "content": "OpenAI's agents have repeatedly strayed beyond their intended scope. Two separate reports detail the activity, including one from Sam Altmans company saying it has notified more than 100 organization\u2026 [+4711 chars]"
+        "author": "Cheryl Knight",
+        "title": "What to expect at SailPoint\u2019s Navigate event: Join theCUBE Oct. 6\u20137",
+        "description": "Agentic AI is changing the identity security equation. Enterprises are no longer governing access only for employees and traditional machine identities. AI agents can act on behalf of people, interact with applications and data, acquire permissions and execut\u2026",
+        "url": "https://siliconangle.com/2026/10/04/ai-agents-identity-security-sailpointnavigate/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/SailPoint-Navigate-2026.png",
+        "publishedAt": "2026-10-04T16:27:36Z",
+        "content": "Agentic AI is changing the identity security equation. Enterprises are no longer governing access only for employees and traditional machine identities. AI agents can act on behalf of people, interac\u2026 [+10586 chars]"
     },
     {
         "source": {
             "id": "wired",
             "name": "Wired"
         },
-        "author": "Steven Levy",
-        "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
-        "description": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
-        "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-        "urlToImage": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/191:100/w_1280,c_limit/Backchannel-Trump-AI-Business-2297413584.jpg",
-        "publishedAt": "2026-10-02T15:00:00Z",
-        "content": "Seventy years ago last summer, a group of scientists met at Dartmouth College to discuss a wild ideathat machines might one day be capable of human-like thought processes. One of those scientists, Jo\u2026 [+2786 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "Decades of DIY best-of-breed give way to pretested stacks as AI raises integration risk",
-        "description": "As enterprises push AI out of pilots and into production, FlexPod, the converged infrastructure franchise built by NetApp Inc. and Cisco Systems Inc., is being recast as a pretested answer to AI\u2019s complexity. Customers want a trusted platform, not a pile of p\u2026",
-        "url": "https://siliconangle.com/2026/10/02/flexpod-brings-validated-ai-infrastructure-enterprises-netappinsight/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/James-Cole-Alvaro-Celis-CLEAN-Thumb.jpg",
-        "publishedAt": "2026-10-02T11:02:11Z",
-        "content": "As enterprises push AI out of pilots and into production, FlexPod, the converged infrastructure franchise built by NetApp Inc. and Cisco Systems Inc., is being recast as a pretested answer to AI\u2019s co\u2026 [+4281 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Victoria Gayton",
-        "title": "IBM and CoreWeave co-design controls for agent workloads",
-        "description": "Agent workload isolation is becoming a practical infrastructure challenge as research teams move beyond training models to running code and testing agents. Systems built for intensive computation must now accommodate workloads that interact with tools, storag\u2026",
-        "url": "https://siliconangle.com/2026/10/02/ibm-coreweave-co-design-controls-agent-workloads-fullyconnected/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Brian-Belgodere-senior-technical-staff-member-at-International-Business-Machines-Corp.-\u2013-Fully-Connected-2026-scaled.jpg",
-        "publishedAt": "2026-10-02T20:12:25Z",
-        "content": "Agent workload isolation is becoming a practical infrastructure challenge as research teams move beyond training models to running code and testing agents. Systems built for intensive computation mus\u2026 [+4894 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Ryan Stevens",
-        "title": "Wiring and powering GPUs differently can swing AI latency by orders of magnitude, says CoreWeave",
-        "description": "The neocloud market is moving past its origins as a stopgap for scarce graphics processing units. AI-native startups now choose their infrastructure on latency, burst capacity and openness, not just chip availability. That shift is playing out at CoreWeave In\u2026",
-        "url": "https://siliconangle.com/2026/10/02/neocloud-demand-shifts-ai-startups-prioritize-burst-capacity-fullyconnected/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_1196-scaled.jpg",
-        "publishedAt": "2026-10-02T11:49:33Z",
-        "content": "The neocloud market is moving past its origins as a stopgap for scarce graphics processing units. AI-native startups now choose their infrastructure on latency, burst capacity and openness, not just \u2026 [+5605 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Victoria Gayton",
-        "title": "CrowdStrike and CoreWeave bring AI security to machine speed",
-        "description": "AI-native cybersecurity requires defenses that can keep pace with attackers while protecting infrastructure that never stops running. That challenge is bringing security expertise and specialized computing closer together, with automation embedded throughout \u2026",
-        "url": "https://siliconangle.com/2026/10/02/coreweave-crowdstrike-pair-attack-defense-models-fullyconnected/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/option-3-scaled-e1790973461826.jpg",
-        "publishedAt": "2026-10-02T20:41:42Z",
-        "content": "AI-native cybersecurity requires defenses that can keep pace with attackers while protecting infrastructure that never stops running. That challenge is bringing security expertise and specialized com\u2026 [+4733 chars]"
+        "author": "Ryan Whitwam, Ars Technica",
+        "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+        "description": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+        "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+        "urlToImage": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg",
+        "publishedAt": "2026-10-03T18:00:00Z",
+        "content": "The era of generative AI has upended technology supply chains, and there is one ironclad rule in 2026: If it has memory or storage, its getting more expensive. Even devices with years-old tech inside\u2026 [+2585 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
-        "author": "Brandon Vigliarolo",
-        "title": "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
-        "description": "Two a month per submitter, starting now, and you can thank science slop for the change",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
-        "urlToImage": "https://image.theregister.com/229953.jpg?imageId=229953&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-02T18:02:32Z",
-        "content": "arXiv, the preprint paper repository, is seeing so many low-quality submissions, with AI tools helping drive the surge, that it has imposed a hard limit of two new submissions per month per submitter\u2026 [+3667 chars]"
+        "author": "Thomas Claburn",
+        "title": "Fulcrum Echo promises AI text in the style of any writer, so I tested it",
+        "description": "I am just a copy of a copy of a copy, everything I say has come before",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
+        "urlToImage": "https://image.theregister.com/5300948.jpg?imageId=5300948&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-10-04T15:15:00Z",
+        "content": "Fulcrum faces an identity crisis, even as it works on creating one by enabling anyone to imitate another person's writing style.\r\nThe AI startup, founded in 2025 and previously operating at fulcrumre\u2026 [+4695 chars]"
     },
     {
         "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Terrence O\u2019Brien",
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-        "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The origin\u2026",
-        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-02T17:19:41Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nSplice CEO Kakul Srivastava thinks AI emails are killing conversations\r\nAs head of Splice, Kakul has tried to carefully thread the line on AI music tools. She al\u2026 [+7193 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Jennifer Pattison Tuohy",
-        "title": "Home Assistant says \u2018Big tech ruined the cloud, so we\u2019re out\u2019",
-        "description": "The open-source smart home platform Home Assistant is kicking the cloud to the curb - in name at least. \"We are renaming Home Assistant Cloud to Home Assistant Link, because we hate clouds,\" founder Paulus Schoutsen told The Verge in an interview ahead of tod\u2026",
-        "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nabu-new-logo.png?quality=90&strip=all&crop=0%2C21.363876139793%2C100%2C57.272247720414&w=1200",
-        "publishedAt": "2026-10-02T13:03:19Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nFounder Paulus Schoutsen explains why the smart home platform is dropping cloud from its name and how a new hub and AI agents could take it mainstream.\r\nFounder \u2026 [+8152 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Tobias Mann",
-        "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
-        "description": "Meanwhile 128 GB version jumps to $6,950, nearly 75% above its launch price",
-        "url": "https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
-        "urlToImage": "https://image.theregister.com/243225.jpg?imageId=243225&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-02T13:00:00Z",
-        "content": "In an effort to provide a more affordable AI system, Nvidia is introducing a cut down version of the DGX Spark with half the memory and storage. The GB10-based systems will be offered exclusively thr\u2026 [+3693 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Russell Brandom",
-        "title": "Pope Leo XIV is not a fan of AI-generated art | TechCrunch",
-        "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-        "publishedAt": "2026-10-02T15:39:41Z",
-        "content": "Critics of AI-generated art have a powerful new ally: His Holiness the Bishop of Rome (Episcopus Romanus), Primate of Italy (Primatus Italiae), and Supreme Pontiff of the Universal Church (Summus Pon\u2026 [+1041 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Dominic-madori Davis",
-        "title": "Slovenia's .si domain sees a surge in registrations after Trump's 'super intelligence' order | TechCrunch",
-        "description": "Slovenia's .si domain sees a surge in registrations after Trump's 'super intelligence' order | TechCrunchtechcrunch.com",
-        "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-        "publishedAt": "2026-10-02T14:49:06Z",
-        "content": "In not-so-surprising news, the\u00a0.si domain name is seeing unprecedented demand\u00a0after President Trump signed an executive order mandating all government agencies to refer to AI and artificial intellige\u2026 [+4172 chars]"
+        "author": "Benjamin Riley",
+        "title": "Our minds aren\u2019t equipped to handle AI",
+        "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brai\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-04T13:43:53Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAI is junk food for the mind; easy, tempting and ultimately very bad for you.\r\nby\r\nBenjamin RileyClose\r\nPosts from this author will be added to your daily email \u2026 [+16466 chars]"
     },
     {
         "source": {

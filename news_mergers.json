@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Henry Chandonnet",
-        "title": "Ramp's Broadway musical was the worst show I've ever seen. I'm still glad it exists.",
-        "description": "I went to Ramp's Broadway musical, \"Bill Pay.\" It was confusing, sloppy, and overly self-loving. But I'm happy the actors got paid.",
-        "url": "https://www.businessinsider.com/ramp-broadway-musical-bill-pay-review-2026-10#article",
-        "urlToImage": "https://i.insider.com/6abad27e265e3f8e338f8024?width=1200&format=jpeg",
-        "publishedAt": "2026-10-03T10:00:01Z",
-        "content": "The \"Bill Pay\" playbill included jokes like \"Guys and Bills\" and \"The Phantom of the Bill.\"Henry Chandonnet/Business Insider\r\n<ul><li>I went to Ramp's Broadway musical, \"Bill Pay.\"</li><li>The show w\u2026 [+4848 chars]"
+        "author": "Jim Edwards",
+        "title": "OpenAI\u2019s Altman: \u2018The world should accept some bad things happening for the benefits of this technology\u2019",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/10/05/openai-sam-altman-the-world-should-accept-some-bad-things-happening/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/1GettyImages-2294955001.jpg?resize=1200,600",
+        "publishedAt": "2026-10-05T10:21:06Z",
+        "content": "OpenAI CEO Sam Altman told Politico that people should accept the risks of AI in order to gain its benefits. We believe that the world should accept some bad things happening for the benefits of this\u2026 [+8323 chars]"
     },
     {
         "source": {
@@ -43,38 +43,51 @@
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Yerbol Orynbayev",
-        "title": "We need a Department of AI, or we risk pushing the U.S. economy over the brink",
-        "description": "I helped steer Kazakhstan out of the 2008 financial crisis. An AI czar is not enough. America needs a Department of AI to protect trust and growth.",
-        "url": "https://fortune.com/2026/10/03/department-of-ai-federal-oversight/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Yerbol_Orynbayev_26-2.jpg?resize=1200,600",
-        "publishedAt": "2026-10-03T07:00:00Z",
-        "content": "Fears surrounding AI are hitting a fever pitch. Rogue agents are running rampant, and even the industrys top figures Amodei, Altman, and Musk are leading calls for a slowdown in development. With pub\u2026 [+4879 chars]"
+        "author": "Muskaan Arshad",
+        "title": "Adam Neumann says a half-hour car ride with Masayoshi Son is when his ego took over\u2014and WeWork\u2019s $47 billion collapse began",
+        "description": "The WeWork cofounder told Steven Bartlett that by the time he walked back into headquarters after SoftBank's multibillion-dollar offer, \"I forgot what we were all about.\"",
+        "url": "https://fortune.com/2026/10/05/adam-neumann-car-ride-with-masayoshi-son-wework-collapse/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2023/07/53039155920_ef9d40b224_o-e1689161945674.jpg?resize=1200,600",
+        "publishedAt": "2026-10-05T09:02:00Z",
+        "content": "Billionaire WeWork cofounder Adam Neumann is back in the entrepreneurship game with Flow, and he says hes determined not to repeat the mistakes that led to the coworking startups monumental $47 billi\u2026 [+4682 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "Booking Holdings spends nearly $9 billion a year to reach travelers. Its CFO explains how AI is changing trip planning",
+        "description": "Ewout Steenbergen says the company is using AI to make travel more personalized and proactive.",
+        "url": "https://fortune.com/2026/10/05/booking-holdings-spends-nearly-9-billion-a-year-reach-travelers-cfo-ai-changing-trip-planning/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55563536171_3a78140f13_3k.jpg?resize=1200,600",
+        "publishedAt": "2026-10-05T12:05:02Z",
+        "content": "Good morning. The biggest impact of AI on travel may happen before the traveler ever checks into a hotel or boards a plane.At the Fortune AIQ Summit on Oct. 1, I interviewed Ewout Steenbergen, EVP an\u2026 [+7444 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Schneider Electric expands in AI with $22.6 billion PTC purchase",
+        "description": "Schneider Electric to acquire PTC for $22.6 billion, expanding AI-driven industrial software amid a race in factory automation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/f5zzy8/article71546381.ece/alternates/LANDSCAPE_1200/2026-10-05T054120Z_1918214891_RC2LT6AZPL7E_RTRMADP_3_PTC-M-A-SCHNEIDER-ELECTRIC.JPG",
+        "publishedAt": "2026-10-05T08:19:24Z",
+        "content": "Schneider Electric SE said its buying PTC Inc. for about $22.6 billion, further expanding its portfolio of industrial software and offerings powered by artificial intelligence.\r\nThe French conglomera\u2026 [+1973 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Sarah Whitten",
-        "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-        "description": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
-        "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108010356-1721737934014-gettyimages-2158591030-canneslions_240621_101017_rbord_lyvayzuu.jpeg?v=1790982865&w=1920&h=1080",
-        "publishedAt": "2026-10-03T11:00:01Z",
-        "content": "Entertainment Person of the Year, Mattel's Chairman and CEO Ynon Kreiz speaks during the \"Entertainment Person of the Year Seminar: Mattels Ynon Kreiz\" session at Debussy Theatre during the Cannes Li\u2026 [+9729 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Laya Neelakandan",
-        "title": "Private capital is reshaping Hollywood moviemaking",
-        "description": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
-        "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205995-1759261923403-gettyimages-2238378832-6m0a3111_rxohgsms.jpeg?v=1790960712&w=1920&h=1080",
-        "publishedAt": "2026-10-03T12:00:01Z",
-        "content": "A view of the Hollywood sign, in Hollywood, California, Sept. 30, 2025.\r\nAt the Toronto International Film Festival last month, audiences saw \"Wicked\" star Cynthia Erivo return to the big screen for \u2026 [+7361 chars]"
+        "author": "Alex Harring",
+        "title": "Chick-fil-A's growth plans, AI wearables, Gen Z's sports betting and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2026/10/05/5-things-to-know-before-the-stock-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326155-1782311086865-gettyimages-2282560044-20090101260624-99-845794.jpeg?v=1782311145&w=1920&h=1080",
+        "publishedAt": "2026-10-05T12:37:59Z",
+        "content": "1. Fueling concern\r\nOil storage tanks in Tuapse, Russia, March 22, 2020. The G7 price cap on Russian oil shipments is cutting the revenue that Moscow has available to support its invasion of Ukraine,\u2026 [+5518 chars]"
     }
 ]

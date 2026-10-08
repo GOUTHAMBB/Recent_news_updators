@@ -1,55 +1,133 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Jim Edwards",
-        "title": "OpenAI\u2019s Altman: \u2018The world should accept some bad things happening for the benefits of this technology\u2019",
-        "description": "Everything you need to know before you reach the office this morning.",
-        "url": "https://fortune.com/2026/10/05/openai-sam-altman-the-world-should-accept-some-bad-things-happening/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/1GettyImages-2294955001.jpg?resize=1200,600",
-        "publishedAt": "2026-10-05T10:21:06Z",
-        "content": "OpenAI CEO Sam Altman told Politico that people should accept the risks of AI in order to gain its benefits. We believe that the world should accept some bad things happening for the benefits of this\u2026 [+8323 chars]"
+        "author": "James Faris",
+        "title": "Leaked audio: What David Ellison told employees at the first-ever Skydance town hall",
+        "description": "Skydance CEO David Ellison addressed employees after the Paramount-WBD merger closed, forming a new Hollywood giant.",
+        "url": "https://www.businessinsider.com/leaked-audio-what-david-ellison-told-skydance-employees-town-hall-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ac3f25dd4357587843b988f?width=1200&format=jpeg",
+        "publishedAt": "2026-10-06T17:18:58Z",
+        "content": "Media mogul David Ellison has completed Paramount's acquisition of WBD.Gilbert Flores/Variety via Getty Images\r\n<ul><li>David Ellison addressed Skydance employees for the first time at a companywide \u2026 [+2221 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "James Faris",
+        "title": "David Ellison has finally bought Warner Bros. Discovery, remaking Hollywood",
+        "description": "Paramount's WBD is final, putting David Ellison atop the new-look Skydance that aims to rival Disney and Netflix.",
+        "url": "https://www.businessinsider.com/skydance-buys-warner-bros-discovery-david-ellison-paramount-deal-hollywood-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ac3eff8d4357587843b9888?width=1200&format=jpeg",
+        "publishedAt": "2026-10-06T12:56:23Z",
+        "content": "David Ellison has created Skydance by bringing together Paramount and Warner Bros. Discovery.Mario Tama/Getty Images; David Becker/Getty Images for CinemaCon; Mario Tama/Getty Images\r\n<ul><li>Paramou\u2026 [+3915 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Jake Epstein",
+        "title": "Russia\u2019s drones are getting faster and deadlier. The West is racing to catch up.",
+        "description": "Jet-powered drones are wreaking havoc in Ukraine. Defense companies are building a new class of interceptors to defeat them.",
+        "url": "https://www.businessinsider.com/russian-drones-faster-deadlier-west-racing-catch-up-with-interceptors-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ac36258eb7225411267e290?width=1200&format=jpeg",
+        "publishedAt": "2026-10-06T11:07:01Z",
+        "content": "Ukrainian and Western defense firms are making their interceptor drones faster.Ints Kalnins/REUTERS\r\n<ul><li>Russia is increasingly using deadly jet-powered drones to attack Ukrainian cities.</li><li\u2026 [+8205 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "James Faris",
+        "title": "'We did it!': Read David Ellison's memo to employees after Paramount's WBD deal closed",
+        "description": "Skydance CEO David Ellison addressed employees after finalizing Paramount's WBD deal. Read the full memo.",
+        "url": "https://www.businessinsider.com/david-ellison-read-memo-employees-skydance-paramount-wbd-deal-closes-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ac4f975225e4c4a50a38561?width=1200&format=jpeg",
+        "publishedAt": "2026-10-06T14:04:28Z",
+        "content": "David Ellison is CEO of Skydance after Paramount merged with Warner Bros. Discovery.Paul Morigi/Getty Images; David Becker/Getty Images for CinemaCon\r\n<ul><li>Skydance CEO David Ellison sent employee\u2026 [+12042 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "kvlamis@businessinsider.com (Kelsey Vlamis,James Faris)",
+        "title": "Read the memo from Skydance\u2019s product chief after Paramount and WBD joined forces",
+        "description": "The product chief at Skydance said in a memo to staff after the Paramount and WBD merger that they will \"move at a pace that matches our ambition.'",
+        "url": "https://www.businessinsider.com/skydance-product-chief-read-the-memo-paramount-wbd-merger-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ac58d6c690ba96bc83f4a6a?width=1200&format=jpeg",
+        "publishedAt": "2026-10-07T00:25:58Z",
+        "content": "The product chief at the newly dubbed Skydance is ready to get the ball rolling and encouraging employees to do the same on the heels of Paramount Skydance's merger with Warner Bros. Discovery.\r\n\"The\u2026 [+5768 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Tom Carter",
+        "title": "The crown jewel in Elon Musk's empire",
+        "description": "From the front lines of Ukraine to the remote Pacific, the world is increasingly reliant on Starlink.",
+        "url": "https://www.businessinsider.com/starlink-elon-musk-business-empire-crown-jewel-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ac3ef74f66e1154bdfa33d2?width=1200&format=jpeg",
+        "publishedAt": "2026-10-06T08:15:01Z",
+        "content": "Luke Hartley realized how important Elon Musk's Starlink was to him when it fell overboard.\r\nTwo weeks into his voyage across the Pacific in October 2023, Hartley's sailboat, Songbird, was hit by an \u2026 [+16664 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Emma Burleigh",
-        "title": "This founder made millions when LinkedIn bought his start-up\u2014but the stress landed him in the hospital. Now he\u2019s built another $825 million brand",
-        "description": "Rahul Vohra says transcendental meditation and a healthier lifestyle helped him avoid \u201cexistential dread\u201d when selling his second company to Grammarly.",
-        "url": "https://fortune.com/2026/10/04/superhuman-cofounder-rahul-vohra-made-millions-linkedin-bought-startup-stress-landed-him-in-hospital-built-another-825-million-brand/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Rahul-Vohra-headshot-2-e1790972446604.jpg?resize=1200,600",
-        "publishedAt": "2026-10-04T09:30:00Z",
-        "content": "Rahul Vohra was just 27 years old when he was gearing up to sell his company to LinkedIn and add millions to his net worth. Everything looked perfect on paper: a fast-growing startup, a spot in Y Com\u2026 [+6941 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Samantha Subin",
-        "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-        "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-        "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
-        "publishedAt": "2026-10-04T13:22:39Z",
-        "content": "The Meta Ray-Ban Display AI glasses at Meta headquarters in Menlo Park, California, US, on Tuesday, Sept. 16, 2025. \r\nTwo years ago, Bella Nowroozi was on a date at the mall when she noticed somethin\u2026 [+6381 chars]"
+        "author": "Morgan Chittum",
+        "title": "Why Oura really pulled its IPO: Wall Street experts suspect valuation concerns, an insider cash-out, and an Apple-sized threat",
+        "description": "Oura blamed\"uncertainty in the IPO market,\" but maybe investors just didn\u2019t buy the story.",
+        "url": "https://fortune.com/2026/10/06/why-did-oura-pull-its-ipo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2284745626-e1791232907814.jpg?resize=1200,600",
+        "publishedAt": "2026-10-06T07:00:00Z",
+        "content": "Hours before Oura, the smart-ring maker behind one of the seasons most closely watched IPOs, was expected to price its shares, CEO Tom Hale delivered a stunning announcement: The company was calling \u2026 [+6980 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Muskaan Arshad",
-        "title": "Adam Neumann says a half-hour car ride with Masayoshi Son is when his ego took over\u2014and WeWork\u2019s $47 billion collapse began",
-        "description": "The WeWork cofounder told Steven Bartlett that by the time he walked back into headquarters after SoftBank's multibillion-dollar offer, \"I forgot what we were all about.\"",
-        "url": "https://fortune.com/2026/10/05/adam-neumann-car-ride-with-masayoshi-son-wework-collapse/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2023/07/53039155920_ef9d40b224_o-e1689161945674.jpg?resize=1200,600",
-        "publishedAt": "2026-10-05T09:02:00Z",
-        "content": "Billionaire WeWork cofounder Adam Neumann is back in the entrepreneurship game with Flow, and he says hes determined not to repeat the mistakes that led to the coworking startups monumental $47 billi\u2026 [+4682 chars]"
+        "author": "Allie Garfinkle",
+        "title": "Why Oura delayed its IPO",
+        "description": "Oura, the smart ring maker, cited \u201cuncertainty\u201d as its reason for delaying its much-anticipated public offering.",
+        "url": "https://fortune.com/2026/10/07/why-oura-delayed-its-ipo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2258985522-e1774623154532.jpg?resize=1200,600",
+        "publishedAt": "2026-10-07T11:06:40Z",
+        "content": "I was wrong.A few weeks ago, on my merry way to vacation, I wrote about Ouras pending IPO and how, amazingly, in the AI era it was a smart ring maker we could rely on to take the go-public plunge. No\u2026 [+7945 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Alyson Shontell",
+        "title": "Why the AI age calls for \u2018founder mode\u2019",
+        "description": "The onset of the technology demands leaders who stay close to the work, move quickly, and rethink what their companies can become.",
+        "url": "https://fortune.com/2026/10/07/founder-mode-ai-age-ceo-leadership-business-transformation/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Oct-Nov-2026-Cover-Horizontal.jpg?resize=1200,600",
+        "publishedAt": "2026-10-07T14:40:13Z",
+        "content": "AI anxiety hit a fever pitch this September, when a former Anthropic researcher warned on X that the technology could destroy humanityand accused major frontier labs of gambling with our lives. The o\u2026 [+2993 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Melissa Hancock",
+        "title": "\u2018The secret world of secondaries\u2019: How a niche area of finance is emerging as a new liquidity engine in the Gulf",
+        "description": "As global and regional liquidity tightens, a nascent Gulf secondary market is giving investors, founders, and early backers a new route to monetisation",
+        "url": "https://fortune.com/2026/10/07/the-secret-world-secondaries-how-niche-area-finance-is-emerging-as-new-liquidity-engine-in-gulf/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Basil-Moftah-Jefferies-event-e1791289209473.webp?resize=1200,600",
+        "publishedAt": "2026-10-07T09:47:33Z",
+        "content": "In recent years, the Gulfs secondaries market has started transitioning from a niche area of finance to an increasingly important allocation channel for capital.\u00a0\u00a0With traditional exit pathways, such\u2026 [+6939 chars]"
     },
     {
         "source": {
@@ -57,25 +135,116 @@
             "name": "Fortune"
         },
         "author": "Sheryl Estrada",
-        "title": "Booking Holdings spends nearly $9 billion a year to reach travelers. Its CFO explains how AI is changing trip planning",
-        "description": "Ewout Steenbergen says the company is using AI to make travel more personalized and proactive.",
-        "url": "https://fortune.com/2026/10/05/booking-holdings-spends-nearly-9-billion-a-year-reach-travelers-cfo-ai-changing-trip-planning/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55563536171_3a78140f13_3k.jpg?resize=1200,600",
-        "publishedAt": "2026-10-05T12:05:02Z",
-        "content": "Good morning. The biggest impact of AI on travel may happen before the traveler ever checks into a hotel or boards a plane.At the Fortune AIQ Summit on Oct. 1, I interviewed Ewout Steenbergen, EVP an\u2026 [+7444 chars]"
+        "title": "Meet 10 finance leaders on Fortune\u2019s Most Powerful Women Asia list",
+        "description": "Finance chiefs at Huawei, ByteDance, and Sony are among the executives recognized in the 2026 ranking.",
+        "url": "https://fortune.com/2026/10/07/meet-10-finance-leaders-fortunes-most-powerful-women-asia-list-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/MPWA-2026-Meng_Wanzhou.jpg?resize=1200,600",
+        "publishedAt": "2026-10-07T12:15:51Z",
+        "content": "Good morning. This week, Fortune released the third annual Most Powerful Women Asia list, recognizing 100 women whose leadership, business performance, and influence are helping shape the regions eco\u2026 [+6917 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Bloomberg",
-        "title": "Schneider Electric expands in AI with $22.6 billion PTC purchase",
-        "description": "Schneider Electric to acquire PTC for $22.6 billion, expanding AI-driven industrial software amid a race in factory automation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/f5zzy8/article71546381.ece/alternates/LANDSCAPE_1200/2026-10-05T054120Z_1918214891_RC2LT6AZPL7E_RTRMADP_3_PTC-M-A-SCHNEIDER-ELECTRIC.JPG",
-        "publishedAt": "2026-10-05T08:19:24Z",
-        "content": "Schneider Electric SE said its buying PTC Inc. for about $22.6 billion, further expanding its portfolio of industrial software and offerings powered by artificial intelligence.\r\nThe French conglomera\u2026 [+1973 chars]"
+        "author": "Sam Forsdick",
+        "title": "Inside Europe\u2019s biggest companies\u2014and the forces reshaping them",
+        "description": "As the combined revenues of Europe\u2019s largest companies hit a record high, the continent\u2019s CEOs must navigate a new business landscape shaped by AI, geopolitics, climate change, and intensifying global competition.",
+        "url": "https://fortune.com/2026/10/06/fortune-500-europe-2026-biggest-companies-record-revenue-profits-uk-overtakes-germany/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Oct-Nov-2026-Europe-Cover-Horizontal.jpg?resize=1200,600",
+        "publishedAt": "2026-10-06T07:00:00Z",
+        "content": "Fortunes Europe team descended on the London Stock Exchange on Sept. 16 for a special launch of the Fortune 500 Europe list. The ceremonial ringing of the bell to open the market also signified the r\u2026 [+2926 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jim Edwards",
+        "title": "\u2018We take the unpopular stance that a bond-market crisis would be a good thing\u2019: Wall Street is losing its patience with government debt",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/10/06/bond-market-crisis-would-be-a-good-thing-wall-street-government-debt/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298151665.jpg?resize=1200,600",
+        "publishedAt": "2026-10-06T10:11:55Z",
+        "content": "This year, our Most Powerful Women Asia list captures the women at the forefront of change in Asia. DBS Group CEO Tan Su Shan retains the No. 1 spot, while Lens Technology founder Zhou Qunfei makes t\u2026 [+7897 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Melissa Hancock",
+        "title": "Saudi\u2019s economic transformation collides with war and falling FDI",
+        "description": "In this week\u2019s Fortune Gulf Brief.",
+        "url": "https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1775590070-e1791365726504.jpg?resize=1200,600",
+        "publishedAt": "2026-10-07T09:36:55Z",
+        "content": "The sharp pullback comes at a difficult time for the kingdoms growth ambitions.\u00a0\r\nRiyadh is targeting $100 billion in annual FDI by 2030 to help finance and accelerate the economic transformation env\u2026 [+12134 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Allie Garfinkle",
+        "title": "Why Sam Altman takes his hardest questions to Nikesh Arora",
+        "description": "The Palo Alto Networks CEO doesn\u2019t do sugarcoating. And it\u2019s made him a go-to advisor.",
+        "url": "https://fortune.com/2026/10/06/why-sam-altman-takes-his-hardest-questions-to-nikesh-arora/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/NEW_Nikesh_Arora.jpg?resize=1200,600",
+        "publishedAt": "2026-10-06T11:37:34Z",
+        "content": "Nikesh Arora has a knack for piercing directness.\u00a0I profiled the Palo Alto Networks CEO for our latest issue. A tech veteran leading the only pure-play cybersecurity company in the Fortune 500, Arora\u2026 [+4675 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Nicholas Gordon",
+        "title": "OKX debuts a platform that turns 50 currencies into digital dollars, betting emerging market investors want stablecoins",
+        "description": "\"The key gap for people and institutions is settlement,\" Haider Rafique, OKX's global managing partner, tells Fortune.",
+        "url": "https://fortune.com/2026/10/05/okx-money-us-dollar-stablecoins-launch/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2295195837.jpg?resize=1200,600",
+        "publishedAt": "2026-10-06T03:40:00Z",
+        "content": "Crypto exchange OKX launched a standalone app on Tuesday that lets users convert more than 50 local currencies into U.S. dollar-backed stablecoins, as the company tries to expand its offerings beyond\u2026 [+3602 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Deena Zaidi, Sean Conlon",
+        "title": "Chart: A look at the S&P 500's remarkable and defiant trip a new record",
+        "description": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
+        "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108370319-1790781020673-Traders-Photo-20260929-KK-PRESS-004.jpg?v=1790781195&w=1920&h=1080",
+        "publishedAt": "2026-10-06T20:41:31Z",
+        "content": "The S&amp;P 500 rose to an all-time intraday on Tuesday, touching 7844.52 and surpassing its August 13 intraday peak when it hit 7,830. The benchmark also closed for the first time over 7,800.\r\nThe r\u2026 [+3017 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ananya Chetia",
+        "title": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
+        "description": "Edge Markets' new infrastructure aims to support institutional trading for markets that operate around the clock.",
+        "url": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080",
+        "publishedAt": "2026-10-06T13:01:20Z",
+        "content": "Startup Edge Markets is building an automated system that allows institutions to authorize capital for prediction markets and helps companies move money to cover margin calls even when traditional ba\u2026 [+2019 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+        "description": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+        "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349279-1786641474597-gettyimages-2283915428-TFSPI_03072026-6044.jpeg?v=1789409239&w=1920&h=1080",
+        "publishedAt": "2026-10-06T16:00:28Z",
+        "content": "Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen its ties to founders and fast-growing companies. \r\nClaude Startups i\u2026 [+1737 chars]"
     },
     {
         "source": {
@@ -83,11 +252,50 @@
             "name": "CNBC"
         },
         "author": "Alex Harring",
-        "title": "Chick-fil-A's growth plans, AI wearables, Gen Z's sports betting and more in Morning Squawk",
+        "title": "Paramount-WBD merger, Musk's return to trillionaire, AI researchers' warning and more in Morning Squawk",
         "description": "Here are five key things investors need to know to start the trading day.",
-        "url": "https://www.cnbc.com/2026/10/05/5-things-to-know-before-the-stock-market-opens.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326155-1782311086865-gettyimages-2282560044-20090101260624-99-845794.jpeg?v=1782311145&w=1920&h=1080",
-        "publishedAt": "2026-10-05T12:37:59Z",
-        "content": "1. Fueling concern\r\nOil storage tanks in Tuapse, Russia, March 22, 2020. The G7 price cap on Russian oil shipments is cutting the revenue that Moscow has available to support its invasion of Ukraine,\u2026 [+5518 chars]"
+        "url": "https://www.cnbc.com/2026/10/06/5-things-to-know-before-the-stock-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334336-1783975362519-gettyimages-2285923979-dji_20260713093855_0155_d_lbcei8zc.jpeg?v=1783975391&w=1920&h=1080",
+        "publishedAt": "2026-10-06T12:46:42Z",
+        "content": "This is CNBC's Morning Squawk newsletter.\u00a0Subscribe here\u00a0to receive future editions in your inbox.\r\nHappy Tuesday. If you have a sweet tooth, you may need to prepare for sticker shock as cocoa prices\u2026 [+5204 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Diane Brady",
+        "title": "The Supreme Court takes up climate costs. CEOs should worry about the cost of doing nothing",
+        "description": "Also: All the news and watercooler chat from Fortune.",
+        "url": "https://fortune.com/2026/10/06/supreme-court-climate-change-cost-ceos-doing-nothing/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298696602-e1791269048732.jpg?resize=1200,600",
+        "publishedAt": "2026-10-06T09:43:17Z",
+        "content": "Good morning. The Supreme Court kicked off its new term yesterday with a case that could determine whether state and local governments can hold companies responsible for the costs associated with cli\u2026 [+5970 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Anniek Bao",
+        "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
+        "description": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
+        "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373192-1791288371612-gettyimages-2196098758-arriens-aiillust250130_nprzf.jpeg?v=1791288400&w=1920&h=1080",
+        "publishedAt": "2026-10-06T12:59:10Z",
+        "content": "China's DeepSeek is considering expanding its latest funding round to as much as 100 billion yuan ($14.9 billion), double its earlier target, with state-backed funds and corporate investors jostling \u2026 [+2840 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Maersk\u2019s owner seeks investments in Asian startups with new office",
+        "description": "The firm, funded entirely by the billionaire Maersk family with no external investors, will open the office \u2014 its first outside of Denmark \u2014 this week. It has more than $50 billion of net assets.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-06/maersk-owner-seeks-investments-in-asia-startups-with-new-office",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/ji1h9s/article71529740.ece/alternates/LANDSCAPE_1200/PO16_Fund_raising.jpg",
+        "publishedAt": "2026-10-07T03:55:31Z",
+        "content": "A.P. Moller Holding A/S, which controls Danish shipping giant A.P. Moller-Maersk A/S, is opening a new office in Singapore to invest in growth companies in Asia.\r\nThe firm, funded entirely by the bil\u2026 [+1423 chars]"
     }
 ]

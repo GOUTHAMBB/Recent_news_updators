@@ -1,29 +1,55 @@
 [
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Alina Maria Stan",
-        "title": "Salesforce renames AIForce to SIForce as Trump\u2019s AI rebrand spreads",
-        "description": "Salesforce is renaming its AIForce agent platform to SIForce, chief executive Marc Benioff said on Friday, as Katherine Li reported for Business Insider. \u201cThe era of Super Intelligence is here. AIForce is officially SIForce,\u201d Benioff\u00a0wrote on X. The change co\u2026",
-        "url": "https://thenextweb.com/news/salesforce-aiforce-siforce-trump-super-intelligence",
-        "urlToImage": "https://media.thenextweb.com/2026/09/marc-benioff-dreamforce-2025-stage-audience.jpg",
-        "publishedAt": "2026-10-10T09:48:50Z",
-        "content": "Salesforce is renaming its AIForce agent platform to SIForce, chief executive Marc Benioff said on Friday, as Katherine Li reported for Business Insider.\r\nThe era of Super Intelligence is here. AIFor\u2026 [+994 chars]"
+        "author": "Mike Pearl",
+        "title": "A Guide to Which AI CEOs Now Say \u2018Super Intelligence\u2019 and Which Don\u2019t",
+        "description": "Which CEO has sunk the furthest into the putrid muck of Donald Trump\u2019s decaying brain?",
+        "url": "https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/10/trump-dario-amodei-mike-johnson-zuckerberg-3-1200x675.jpg",
+        "publishedAt": "2026-10-12T09:30:32Z",
+        "content": "Artificial intelligence or AI started out in the 1950s as an observation about the potential capabilities of computer systems. It evolved into an area of inquiry within computer science. Eventually, \u2026 [+6815 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jennifer Pattison Tuohy",
+        "title": "How Apple can win the smart home",
+        "description": "This week, Apple is hosting its first-ever dedicated smart home event. While the company hasn't shared details about what it will reveal at the \"Welcome Home experience\" in New York City on Tuesday, October 13th, it doesn't take an army of internet sleuths to\u2026",
+        "url": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC08260.webp?quality=90&strip=all&crop=0.8390625%2C17.438505725309%2C93.97109375%2C73.799686622789&w=1200",
+        "publishedAt": "2026-10-12T11:42:06Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nNew hardware could put Apple back in the race, but software will determine whether it wins.\r\nNew hardware could put Apple back in the race, but software will det\u2026 [+9794 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "SiliconANGLE News"
         },
-        "author": "Alex Valdes",
-        "title": "Elon Musk Eyes \u2018Complete Phone Coverage in America\u2019 as SpaceX Clears Hurdle",
-        "description": "Starlink Mobile satellites could eventually improve enough to pass their signals through walls, dense foliage, and hilly terrain.",
-        "url": "https://www.cnet.com/tech/mobile/starlink-acquires-low-band-spectrum/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/39c10b83-da49-4722-8876-71b79b81a239.jpg",
-        "publishedAt": "2026-10-10T17:56:12Z",
-        "content": "Elon Musk\u2019s reach spans multiple global industries, placing the billionaire (sometimes trillionaire, depending on the stock market) at the center of the electric-vehicle industry, space exploration, \u2026 [+3802 chars]"
+        "author": "Mike Wheatley",
+        "title": "Report: Amazon in talks with AI startup Decart over possible $7B acquisition",
+        "description": "Amazon.com Inc. is reportedly engaged in discussion over the potential acquisition of artificial intelligence developer Decart.ai Inc. in a deal that could be worth up to $7 billion. Decart has developed software that makes it easier for developers to run the\u2026",
+        "url": "https://siliconangle.com/2026/10/11/report-amazon-in-talks-with-ai-startup-decart-over-possible-7b-acquisition/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-12-07-31-02.png",
+        "publishedAt": "2026-10-12T00:31:19Z",
+        "content": "Amazon.com Inc. is reportedly engaged in discussion over the potential acquisition of artificial intelligence developer Decart.ai Inc. in a deal that could be worth up to $7 billion.\r\nDecart has deve\u2026 [+3786 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Jason Bloomberg",
+        "title": "Why AI agents might not be right for you",
+        "description": "There\u2019s no question that 2026 is the year of the artificial intelligence agent. AI agents are remarkably ubiquitous, as people use them to write code, communicate with customers, identify and resolve issues in their information technology environments, and ex\u2026",
+        "url": "https://siliconangle.com/2026/10/11/why-ai-agents-might-not-be-right-for-you/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/holdup.jpg",
+        "publishedAt": "2026-10-11T19:59:34Z",
+        "content": "Theres no question that 2026 is the year of the artificial intelligence agent. AI agents are remarkably ubiquitous, as people use them to write code, communicate with customers, identify and resolve \u2026 [+9250 chars]"
     },
     {
         "source": {
@@ -41,28 +67,28 @@
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "Top AI labs reportedly planning for catastrophic AI event fallout",
-        "description": "One focus of these contingency plans is how to manage Congress after a catastrophic event puts these labs in the spotlight.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/aaUMGJEBG5xJ4EZgtX34Ff-1920-80.png",
-        "publishedAt": "2026-10-10T13:20:00Z",
-        "content": "Anthropic, OpenAI, and other AI labs are reportedly gaming out scenarios where a rogue AI wreaks havoc on critical infrastructure, like financial services, internet and telecommunications, or utiliti\u2026 [+3153 chars]"
+        "author": "Duncan Riley",
+        "title": "Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding",
+        "description": "Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system out of beta test on Apple Inc. devices, backed by $26 million in new funding. Ambi is designed to act without being asked. Chief Executive Peter Mo said most AI p\u2026",
+        "url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Ambi-by-Mistlabs.png",
+        "publishedAt": "2026-10-12T13:00:06Z",
+        "content": "Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system out of beta test on Apple Inc. devices, backed by $26 million in new funding.\r\nAmbi is designed to act\u2026 [+3737 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-        "title": "SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors",
-        "description": "SoftBank plans to buy companies that do not use AI or robotics, then apply new technologies to improve their operations and valuation.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/NJE7ecUR7gWFdjcKJvSty6-2560-80.jpg",
-        "publishedAt": "2026-10-10T15:40:00Z",
-        "content": "Masayoshi Son, founder of SoftBank, is seeking up to $100 billion from Gulf investors to establish a fund that would acquire companies and improve their operations using artificial intelligence and r\u2026 [+3384 chars]"
+        "author": "Kyt Dotson",
+        "title": "Nvidia tackles AI factory scaling bottlenecks with open rack designs and networking advances",
+        "description": "Nvidia Corp. today announced new partnerships and contributions to the open-source community at the Open Compute Project Global Summit in San Jose, aimed at laying the foundation for the future of agentic artificial intelligence infrastructure. At the core of\u2026",
+        "url": "https://siliconangle.com/2026/10/12/nvidia-tackles-ai-factory-scaling-bottlenecks-with-open-rack-designs-and-networking-advances/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/ethernet-spectrum-6-fboss-standalone-blog-1920x1080-5802633.jpg",
+        "publishedAt": "2026-10-12T15:00:53Z",
+        "content": "Nvidia Corp. today announced new partnerships and contributions to the open-source community at the Open Compute Project Global Summit in San Jose, aimed at laying the foundation for the future of ag\u2026 [+5473 chars]"
     },
     {
         "source": {
@@ -70,38 +96,64 @@
             "name": "SiliconANGLE News"
         },
         "author": "Cheryl Knight",
-        "title": "AI reshapes professional services around trust and business outcomes",
-        "description": "Professional services firms are rethinking how they deliver client value as artificial intelligence takes on more routine work, shifting attention toward human judgment, trusted outcomes and new operating models. The transition is changing how firms structure\u2026",
-        "url": "https://siliconangle.com/2026/10/10/human-judgment-ai-professional-services-certinia/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Certinia-CUBE-Conversation-800x420.png",
-        "publishedAt": "2026-10-10T20:22:06Z",
-        "content": "Professional services firms are rethinking how they deliver client value as artificial intelligence takes on more routine work, shifting attention toward human judgment, trusted outcomes and new oper\u2026 [+6843 chars]"
+        "title": "What to expect during SEMICON West: Join theCUBE Oct. 14",
+        "description": "The semiconductor industry is entering a new era of hardware engineering as artificial intelligence accelerates demand for more powerful chips, interconnected systems and faster product development. But increasing design complexity, power consumption and ther\u2026",
+        "url": "https://siliconangle.com/2026/10/11/ai-powered-engineering-semiconwest/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/SEMICON-West-2026.png",
+        "publishedAt": "2026-10-11T20:39:00Z",
+        "content": "The semiconductor industry is entering a new era of hardware engineering as artificial intelligence accelerates demand for more powerful chips, interconnected systems and faster product development. \u2026 [+6740 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dave Vellante",
-        "title": "The AI control gap: Who gets to say \u2018It\u2019s safe\u2019?",
-        "description": "We see a control gap between what artificial intelligence can do and what the evidence supports trusting it to do. A great demo doesn\u2019t prove that a system will stay within the limits of an intended deployment\u2019s goals. The question is: Who gets to decide when\u2026",
-        "url": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/329-_-Breaking-Analysis-_-329-AI_Control_Gap_Final.pptx_.jpg",
-        "publishedAt": "2026-10-10T16:54:10Z",
-        "content": "We see a control gap between what artificial intelligence can do and what the evidence supports trusting it to do. A great demo doesnt prove that a system will stay within the limits of an intended d\u2026 [+19107 chars]"
+        "author": "Mike Wheatley",
+        "title": "Cisco Systems scales programmable AI network capacity with new silicon and repluggable optics innovations",
+        "description": "Cisco Systems Inc. took to the stage at the annual Open Compute Project Global Summit today, unveiling a new suite of open silicon and optical networking systems as it delivered one of the event\u2019s most eagerly anticipated keynotes. The new innovations are des\u2026",
+        "url": "https://siliconangle.com/2026/10/12/cisco-systems-scales-programmable-ai-network-capacity-with-new-silicon-and-repluggable-optics-innovations/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-12-10-10-43.png",
+        "publishedAt": "2026-10-12T15:00:03Z",
+        "content": "Cisco Systems Inc. took to the stage at the annual Open Compute Project Global Summit today, unveiling a new suite of open silicon and optical networking systems as it delivered one of the events mos\u2026 [+6172 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "SiliconANGLE News"
         },
-        "author": "sayem.ahmed@futurenet.com (Sayem Ahmed) , Sayem Ahmed",
-        "title": "This week on Tom's Hardware Premium: October 10, 2026",
-        "description": "This week on Tom's Hardware Premium, we covered how the AI buildout is affecting the industry supporting it across all axioms, including in law, chip design, manufacturing, and finance.",
-        "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/jq3f9gJdDJqZFw6FQjz6MV-1920-80.jpg",
-        "publishedAt": "2026-10-10T15:00:00Z",
-        "content": "In case you've been missing out on the action over on Tom's Hardware Premium, we're back with another roundup to fill you in on everything you missed. Central to this week's theme is how Artificial I\u2026 [+5453 chars]"
+        "author": "Mike Wheatley",
+        "title": "E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences",
+        "description": "Agentic e-commerce startup Loops Smart AI wants to help online retailers create more seamless buying journeys and streamline the shopping experience after raising $3.5 million in seed funding today. Andreessen Horowitz\u2019s a16z speedrun accelerator led the roun\u2026",
+        "url": "https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-12-08-49-25.png",
+        "publishedAt": "2026-10-12T12:00:10Z",
+        "content": "Agentic e-commerce startup Loops Smart AI wants to help online retailers create more seamless buying journeys and streamline the shopping experience after raising $3.5 million in seed funding today.\r\u2026 [+6846 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Nvidia reportedly in early talks to buy, acqui-hire or invest more in Reflection AI",
+        "description": "Nvidia Corp. is in early talks to acquire open-weight model developer Reflection AI Inc. or invest more in the startup, according to the Financial Times. People familiar with the matter told the paper that an agreement could come within weeks. The talks could\u2026",
+        "url": "https://siliconangle.com/2026/10/11/nvidia-reportedly-in-early-talks-to-buy-acqui-hire-or-invest-more-in-reflection-ai/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Reflection-AI.png",
+        "publishedAt": "2026-10-11T22:38:36Z",
+        "content": "Nvidia Corp. is in early talks to acquire open-weight model developer Reflection AI Inc. or invest more in the startup, according to the Financial Times.\r\nPeople familiar with the matter told the pap\u2026 [+3668 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Terrence O\u2019Brien",
+        "title": "Silicon Valley is falling in line with Trump\u2019s attempt to rename AI",
+        "description": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most p\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+        "publishedAt": "2026-10-11T18:33:56Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nMusk, Benioff, Huang, and now Nadella have all capitulated to Trumps super intelligence rebrand.\r\nMusk, Benioff, Huang, and now Nadella have all capitulated to T\u2026 [+2848 chars]"
     },
     {
         "source": {
@@ -122,38 +174,25 @@
             "name": "SiliconANGLE News"
         },
         "author": "Devony Hof",
-        "title": "Flahy uses knowledge graphs to support AI-powered healthcare",
-        "description": "AI is helping companies interpret biological data for drug discovery and more personalized care. Healthcare technology company Flahy Inc. is applying that approach to clinical decision support, bringing together information that could affect a person\u2019s next s\u2026",
-        "url": "https://siliconangle.com/2026/10/11/flahy-uses-knowledge-graphs-support-ai-powered-healthcare-neo4jdatatoknowledge/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Jagjit-Singh-founder-and-CEO-of-Flahy-Neo4j-AI-Luminaries.png",
-        "publishedAt": "2026-10-11T16:05:40Z",
-        "content": "AI is helping companies interpret biological data for drug discovery and more personalized care.\r\nHealthcare technology company Flahy Inc. is applying that approach to clinical decision support, brin\u2026 [+4567 chars]"
+        "title": "BotMan AI uses knowledge graphs for legacy modernization",
+        "description": "Legacy modernization requires understanding how an application\u2019s code, data and business rules fit together before rebuilding it. BotMan AI uses an AI-powered migration pipeline that maps an application\u2019s dependencies, business logic and data models in a know\u2026",
+        "url": "https://siliconangle.com/2026/10/11/botman-ai-uses-knowledge-graphs-for-legacy-modernization-neo4jdatatoknowledge/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Alejandro-DAndrea.jpg",
+        "publishedAt": "2026-10-12T01:46:26Z",
+        "content": "Legacy modernization requires understanding how an applications code, data and business rules fit together before rebuilding it.\r\nBotMan AI uses an AI-powered migration pipeline that maps an applicat\u2026 [+4418 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Cheryl Knight",
-        "title": "What to expect during LogicMonitor\u2019s Elevate event: Join theCUBE Oct. 14",
-        "description": "Enterprise IT teams are deploying applications faster than ever, but their ability to detect and resolve production problems isn\u2019t always keeping pace. The growing complexity of hybrid infrastructure, cloud-native applications and interconnected digital servi\u2026",
-        "url": "https://siliconangle.com/2026/10/10/autonomous-it-logicmonitor-elevate-2026-logicmonitorelevate/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/LogicMonitor-Elevate-2026.png",
-        "publishedAt": "2026-10-10T19:29:21Z",
-        "content": "Enterprise IT teams are deploying applications faster than ever, but their ability to detect and resolve production problems isn\u2019t always keeping pace.\r\nThe growing complexity of hybrid infrastructur\u2026 [+9972 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
-        "description": "The first version of Microsoft-Decision-1 is based on Qwen3.5-9B, but the next will sport homegrown tech, Redmond reassures",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
-        "urlToImage": "https://image.theregister.com/5302477.jpg?imageId=5302477&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-10T07:10:00Z",
-        "content": "Microsoft has joined the Jev fan club, an accidental group of companies that share a common desire to be recognized for their own decision models.\r\nJev, announced by TypeSafe AI three weeks ago, is a\u2026 [+2962 chars]"
+        "author": "Devony Hof",
+        "title": "Flahy uses knowledge graphs to support AI-powered healthcare",
+        "description": "AI is helping companies interpret biological data for drug discovery and more personalized care. Healthcare technology company Flahy Inc. is applying that approach to clinical decision support, bringing together information that could affect a person\u2019s next s\u2026",
+        "url": "https://siliconangle.com/2026/10/11/flahy-uses-knowledge-graphs-support-ai-powered-healthcare-neo4jdatatoknowledge/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Jagjit-Singh-founder-and-CEO-of-Flahy-Neo4j-AI-Luminaries.png",
+        "publishedAt": "2026-10-11T16:05:40Z",
+        "content": "AI is helping companies interpret biological data for drug discovery and more personalized care.\r\nHealthcare technology company Flahy Inc. is applying that approach to clinical decision support, brin\u2026 [+4567 chars]"
     },
     {
         "source": {
@@ -171,41 +210,41 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Cheryl Knight",
-        "title": "What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13",
-        "description": "The artificial intelligence infrastructure race is no longer just about building faster chips. AI infrastructure bottlenecks are shifting attention to a bigger challenge: keeping those chips supplied with data, connected through high-speed networks and operat\u2026",
-        "url": "https://siliconangle.com/2026/10/10/ai-infrastructure-bottlenecks-forum-aidatapipelineforum/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AI-Data-Pipeline-Forum-2026.png",
-        "publishedAt": "2026-10-10T22:06:15Z",
-        "content": "The artificial intelligence infrastructure race is no longer just about building faster chips. AI infrastructure bottlenecks are shifting attention to a bigger challenge: keeping those chips supplied\u2026 [+6394 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Theregister.com"
         },
-        "author": "Lindsay Clark",
-        "title": "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
-        "description": "Source attribution matters to 79% of respondents \u2013 handy for a company licensing its Q&A archive to model builders",
-        "url": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
-        "urlToImage": "https://image.theregister.com/5238106.jpg?imageId=5238106&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-10T08:14:00Z",
-        "content": "Nearly a third of developers who use AI daily spend four hours or more of their working day with it, according to Stack Overflow's latest survey.\r\nThe survey received 30,903 responses from developers\u2026 [+2334 chars]"
+        "author": "Brandon Vigliarolo",
+        "title": "Imagine there's no Shiny Hunters \u2013 AI could make human hacking crews obsolete",
+        "description": "This week on The Kettle, we discuss some arrests and how Mythos' mathematical expertise has led to a second exploited bug that no human would have found",
+        "url": "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
+        "urlToImage": "https://image.theregister.com/5295418.jpg?imageId=5295418&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-10-12T10:27:00Z",
+        "content": "KETTLE\u00a0The FBI has announced what appears to be a third arrest in the ShinyHunters investigation, following the group's breach of Bureau systems, even as AI advances potentially leave human hackers o\u2026 [+24223 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Maria Deutscher",
-        "title": "Oxide Computer raises $445M to step up data center rack production",
-        "description": "Data center hardware startup Oxide Computer Inc. today announced that it has raised $445 million in funding. Returning backer Eclipse Capital led the Series D round. It was joined by AMD Ventures, Riot Ventures, Jane Street, Atreides Management and USIT, whic\u2026",
-        "url": "https://siliconangle.com/2026/10/09/oxide-computer-raises-445m-to-step-up-data-center-rack-production/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Oxide.png",
-        "publishedAt": "2026-10-10T00:47:34Z",
-        "content": "Data center hardware startup Oxide Computer Inc. today announced that it has raised $445 million in funding.\r\nReturning backer Eclipse Capital led the Series D round. It was joined by AMD Ventures, R\u2026 [+3803 chars]"
+        "author": "Rebecca Bellan",
+        "title": "Microsoft president says UK is best placed to drive AI regulation | TechCrunch",
+        "description": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+        "publishedAt": "2026-10-12T15:31:19Z",
+        "content": "Microsoft President Brad Smith is calling for urgent regulation of AI, and his argument is that consumer products like milk and washing machines have more oversight than the companies building artifi\u2026 [+2644 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Kirsten Korosec",
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes | TechCrunch",
+        "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
+        "publishedAt": "2026-10-12T15:28:53Z",
+        "content": "Nearly two decades ago, a young college student wrote his final thesis about software capable of generating design documents for school buildings. Al Drams was studying architecture following in the \u2026 [+4329 chars]"
     },
     {
         "source": {

@@ -1,68 +1,120 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Phil Wahba",
-        "title": "How tech icon Meg Whitman is already leaving her mark on grocery giant Albertsons",
-        "description": "The grocer is losing out to Walmart, Costco and Kroger.",
-        "url": "https://fortune.com/2026/10/13/how-tech-icon-meg-whitman-is-already-leaving-her-mark-on-grocery-giant-albertsons/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1683123693.jpg?resize=1200,600",
-        "publishedAt": "2026-10-13T20:21:37Z",
-        "content": "Its never a good sign when a company pulls its financial forecasts mid-turnaround.But Albertsons did just that on Tuesday in the first clear sign of how deeply newly appointed Executive Chairman Meg \u2026 [+4267 chars]"
+        "author": "rjetha@businessinsider.com (Rya Jetha)",
+        "title": "Inside the race to train robots on human work",
+        "description": "Thousands of workers are recording everyday tasks to create training data for robots that could staff factories, clean homes, and even fight wars.",
+        "url": "https://www.businessinsider.com/ai-companies-human-workers-robot-training-data-2026-10#article",
+        "urlToImage": "https://i.insider.com/6acfdfcde50b02f612be3a0c?width=1200&format=jpeg",
+        "publishedAt": "2026-10-15T10:00:01Z",
+        "content": "One Friday evening this summer, a private chef prepared a three-course meal burrata salad, baked salmon, and tiramisu for two friends and me.\r\nThe dinner was free, but there was a catch. A camera mou\u2026 [+10658 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "Entrepreneur"
         },
-        "author": "Sheryl Estrada",
-        "title": "Centene CEO sees health care\u2019s biggest AI opportunity beyond automation",
-        "description": "Sarah London argues that AI\u2019s greatest potential lies not in streamlining billing and paperwork.",
-        "url": "https://fortune.com/2026/10/13/centene-ceo-health-care-biggest-ai-opportunity-beyond-automation/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55585053007_90c61ec22c_3k.jpg?resize=1200,600",
-        "publishedAt": "2026-10-13T20:55:20Z",
-        "content": "I sat down with Sarah London, CEO of Centene, on Monday. She offered her perspective on health cares AI boom. Much of the AI being deployed at scale today, London said, goes toward what she calls inf\u2026 [+4329 chars]"
+        "author": "Al Sefati",
+        "title": "Why Your AI-Generated Marketing Strategy Looks Great on Paper \u2014 But Fails in Practice",
+        "description": "It's okay to use ChatGPT and other LLMs to formulate a marketing strategy, but your marketing plan should not be formed without using real data and inputs from your business.",
+        "url": "https://www.entrepreneur.com/building-a-business/marketing/why-your-ai-generated-marketing-strategy-looks-great-on-paper-but-fails-in-practice",
+        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-generated-marketing-plan-1026_g2284518892.jpg",
+        "publishedAt": "2026-10-14T17:00:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>AI-generated marketing plans often fail because they lack business context. A real strategy isn\u2019t a comprehensive \u2026 [+7591 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "kroof@businessinsider.com (Katie Roof)",
-        "title": "AI agent company Decagon held early M&A talks with ServiceNow, others",
-        "description": "Buzzy AI agent company Decagon is in early talks to be acquired by ServiceNow, and has hired an investment bank to evaluate M&A interest.",
-        "url": "https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10#article",
-        "urlToImage": "https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&format=jpeg",
-        "publishedAt": "2026-10-13T16:36:00Z",
-        "content": "Buzzy AI agent startup Decagon could be the latest company swept up in a growing wave of AI dealmaking.\r\nThe company, which was last valued at $4.5 billion earlier this year, has hired a bank to eval\u2026 [+1806 chars]"
+        "author": "Thibault Spirlet",
+        "title": "Anthropic's Daniela Amodei says AI girlfriends and boyfriends are a 'terrible use of AI'",
+        "description": "Anthropic President Daniela Amodei warned that AI romantic partners could worsen loneliness and push people further away from human relationships.",
+        "url": "https://www.businessinsider.com/anthropic-president-amodei-ai-romantic-partners-terrible-use-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ad0a09b2428f6b45581293d?width=1200&format=jpeg",
+        "publishedAt": "2026-10-15T12:55:13Z",
+        "content": "Anthropic's president, Daniela Amodei, says AI girlfriends and boyfriends risk deepening loneliness by replacing real human connections.Bloomberg/Getty Images\r\n<ul><li>Anthropic President Daniela Amo\u2026 [+3824 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "James Faris",
+        "title": "5 reasons Netflix is struggling as it cuts about 1,000 staffers",
+        "description": "Netflix's stock has fallen after slower engagement growth and stiff competition from YouTube. Here's why Wall Street is upset.",
+        "url": "https://www.businessinsider.com/why-netflix-is-struggling-layoffs-engagement-viewership-youtube-free-streaming-2026-10#article",
+        "urlToImage": "https://i.insider.com/6acf8ca8e50b02f612be31c1?width=1200&format=jpeg",
+        "publishedAt": "2026-10-14T19:24:06Z",
+        "content": "Netflix co-CEO Ted Sarandos is looking to kickstart growth at the streaming giant.Patrick T. Fallon / AFP via Getty Images; Jakub Porzycki/NurPhoto via Getty Images\r\n<ul><li>Netflix shares have strug\u2026 [+7496 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jim Edwards",
+        "title": "Global wave of selling as traders flee tech stocks\u2014and futures are signaling the bloodbath will continue today",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/10/15/wall-street-us-economy-vulnerable-stocks/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2207393948.jpg?resize=1200,600",
+        "publishedAt": "2026-10-15T10:23:11Z",
+        "content": "In an exclusive interview with Fortunes Jeremy Kahn and Bea Nolan, Nvidia CEO Jensen Huang shrugged off existential-risk warnings from many leaders in the AI space, including Anthropics Dario Amodei,\u2026 [+5504 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Nick Lichtenberg",
+        "title": "Exclusive: \u2018I\u2019ve seen this movie before\u2019: A Michigan-raised ex-Tesla exec raises $45 million to break China\u2019s grip on batteries",
+        "description": "\"We will not be able to out-China China,\u201d Holyvolt COO Steven Prast told Fortune. \u201cThey\u2019re the world champions at being China.\u201d",
+        "url": "https://fortune.com/2026/10/15/holyvolt-funding-45-million-battery-startup-ai-sweden-michigan-prast-ingvarsson/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/1788884365250.jpg?resize=1200,600",
+        "publishedAt": "2026-10-15T13:00:00Z",
+        "content": "Steven Prast is old enough to remember when a mobile phone came in a bag. It was too heavy to carry around, so most people mounted it in the car. Prast argued in a Zoom interview with Fortune that wh\u2026 [+6347 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "CoreWeave says market acting \u2018irrationally,\u2019 stands by model",
+        "description": "Shares slid 15% to $65.78 on Wednesday, the biggest one-day drop since February, after an 8.7% gain for the year through Tuesday",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-ceo-blames-rout-on-market-acting-irrationally",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/q8bcof/article71586505.ece/alternates/LANDSCAPE_1200/2026-04-09T123239Z_618137882_RC2EMDA4C5D1_RTRMADP_3_META-PLATFORMS-COREWEAVE-AI.JPG",
+        "publishedAt": "2026-10-15T02:29:17Z",
+        "content": "CoreWeave Inc. Chief Executive Officer Mike Intrator, facing a plunge in the companys stock and bond prices, said the market is acting irrationally and that he remains confident in the AI cloud compa\u2026 [+3128 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "madams@businessinsider.com (Max Adams)",
+        "title": "The bond market is sending a warning about a darling of the AI infrastructure boom",
+        "description": "A surge in CoreWeave's bond yields has sent the company's stock plummeting, drawing a \"yikes\" from Elon Musk.",
+        "url": "https://www.businessinsider.com/coreweave-stock-bond-yields-distressed-debt-ai-infrastructure-crwv-2026-10#article",
+        "urlToImage": "https://i.insider.com/6acfca262428f6b455812634?width=1200&format=jpeg",
+        "publishedAt": "2026-10-14T19:21:10Z",
+        "content": "\"Yikes.\"\r\nThat's the message in the market on Wednesday swirling around CoreWeave, as the company, which leases high-end GPU compute to companies building AI tools, saw the yield on its 2032 bonds su\u2026 [+1923 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Kate Rooney, Leslie Picker",
-        "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-        "description": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
-        "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&w=1920&h=1080",
-        "publishedAt": "2026-10-13T14:55:51Z",
-        "content": "Anthropic plans to disclose its third-quarter financials for the first time at a meeting with potential investors on Wednesday as the artificial intelligence giant prepares for what could be the larg\u2026 [+2560 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Diana Olick",
-        "title": "BlackRock and Baillie Gifford bet big on Icon 3D printed homes",
-        "description": "Icon, one of the biggest players in 3D printed real estate, is announcing its $200 million Series D financing co-led by Baillie Gifford and funds managed by BlackRock, among others.",
-        "url": "https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108399710-1791833928327-OperatingTitan_PhotoCreditCaseyDunn.jpg?v=1791842299&w=1920&h=1080",
-        "publishedAt": "2026-10-13T12:04:22Z",
-        "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v\u2026 [+4371 chars]"
+        "author": "Priyanka Salve",
+        "title": "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality check amid Musk spat",
+        "description": "Jio Platforms, the company at the center of Musk\u2019s remarks, is launching an IPO later this month.",
+        "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108407087-1791955760925-gettyimages-2299270775-DSC_0650.jpeg?v=1791955782&w=1920&h=1080",
+        "publishedAt": "2026-10-15T00:30:13Z",
+        "content": "Hello, this is Priyanka Salve, writing to you from Singapore. \r\nWelcome to the latest edition of \"Inside India\"\u00a0 your one-stop destination for stories and developments from the world's fastest-growin\u2026 [+6417 chars]"
     },
     {
         "source": {
@@ -82,39 +134,13 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Lora Kolodny",
-        "title": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
-        "description": "SpaceX has agreed to testify before the New York City Council as part of an investigation into AI safety risks.",
-        "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
-        "publishedAt": "2026-10-13T09:00:01Z",
-        "content": "SpaceX has agreed to testify before the New York City Council this week as part of a legislative investigation concerning artificial intelligence safety risks, the council announced on Tuesday.\r\nThe \u2026 [+2584 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kai Nicol-Schwarz",
-        "title": "Why this little known Chinese chipmaker has caused a global stock rout",
-        "description": "China's leading memory chipmaker CXMT has reportedly made progress on new designs.",
-        "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108380599-1791533540689-gettyimages-2296187355-vcg111668191353.jpeg?v=1791533555&w=1920&h=1080",
-        "publishedAt": "2026-10-13T12:41:56Z",
-        "content": "Tech stocks plummeted on Tuesday after a Chinese memory chipmaker said it had made significant progress in developing new and more efficient designs. \r\nChangXin Memory Technologies, or CXMT, announce\u2026 [+2960 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Entrepreneur"
-        },
-        "author": "Leo Zevin",
-        "title": "The World\u2019s Largest Eyewear Company Isn\u2019t Just Selling Glasses. It\u2019s Solving Problems.",
-        "description": "From Ray-Ban and Oakley to Nuance Audio, EssilorLuxottica is redefining eyewear with smart glasses that combine hearing support and fashion in one wearable device.",
-        "url": "https://www.entrepreneur.com/building-a-business/the-worlds-largest-eyewear-company-isnt-just-selling-glasses-its-solving-problems",
-        "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/EssilorLuxottica.jpg",
-        "publishedAt": "2026-10-13T13:00:00Z",
-        "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Nearly 90% of people with hearing loss havent adopted a solution; the barrier isnt technology, its stigma, and Ess\u2026 [+7312 chars]"
+        "author": "Priyanka Salve",
+        "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+        "description": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024.",
+        "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
+        "publishedAt": "2026-10-15T01:56:53Z",
+        "content": "Meta- and Google-backed Jio Platforms, India's largest telecom operator, is looking to raise up to 302 billion rupees ($3.2 billion) through an initial public offering of shares.\r\nJio Platforms will \u2026 [+2138 chars]"
     },
     {
         "source": {
@@ -131,29 +157,16 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Jeremy Kahn",
-        "title": "Strict liability is gaining traction as a solution to force AI companies to institute better safety controls. But it has some big downsides too",
-        "description": "Strict liability might not work, could curtail open source AI development, and might even push AI companies to move into their customers' turf.",
-        "url": "https://fortune.com/2026/10/13/strict-liability-is-gaining-traction-as-a-solution-to-force-ai-companies-to-institute-better-safety-controls-but-it-has-some-big-downsides-too/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297765991_574855-e1791918169970.jpg?resize=1200,600",
-        "publishedAt": "2026-10-13T19:52:42Z",
-        "content": "Hello and welcome to Eye on AI. In this edition:<ul><li>Anthropics rogue AI agent filled in visa applications, filed murder tip</li><li>Strict liability for AI companies gains traction</li><li>Meta s\u2026 [+20249 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Harvard Business Review"
-        },
-        "author": null,
-        "title": "Why Great Teams Don\u2019t Need to Like Each Other",
-        "description": "What makes a great team? It might have less to do with whether colleagues like one another and more to do with whether they\u2019re aligned on a shared purpose. Organizational psychologist and Wharton professor Adam Grant says leaders can build stronger connection\u2026",
-        "url": "https://hbr.org/podcast/2026/10/why-great-teams-dont-need-to-like-each-other",
-        "urlToImage": "https://hbr.org/resources/images/article_assets/2025/02/wide-ideacast_25.png",
-        "publishedAt": "2026-10-13T10:52:21Z",
-        "content": "ADI IGNATIUS: I\u2019m Adi Ignatius.\r\nALISON BEARD: I\u2019m Alison Beard, and this is the HBR IdeaCast.\r\nADI IGNATIUS: Alison, how important is it to actually need to like the people you work with?\r\nALISON BE\u2026 [+33330 chars]"
+        "author": "Bloomberg",
+        "title": "Fairfax\u2019s \u20b952,878 crore bank deal signals zest for India assets",
+        "description": "The interest suggests robust appetite for financial services assets as the population of wealthy citizens expands and earnings of the middle class rise",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-15/fairfax-s-6-billion-bank-deal-signals-zest-for-indian-assets",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/mkeb68/article71395020.ece/alternates/LANDSCAPE_1200/Govt-weighs-optGVHG0EUO4.4.jpg.jpg",
+        "publishedAt": "2026-10-15T07:47:26Z",
+        "content": "Indias sale of a controlling stake in IDBI Bank Ltd. to Canadas Fairfax Financial Holdings Ltd. for 52,878 crore helps jump-start the South Asian countrys push to reform its banking sector and shows \u2026 [+6606 chars]"
     },
     {
         "source": {
@@ -167,5 +180,31 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374148-1791392801813-108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpg?v=1791914404&w=1920&h=1080",
         "publishedAt": "2026-10-14T01:09:16Z",
         "content": "Hello, this is Justina Lee writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\r\nU.S. President Donald Trump's diesel deal with Russia may not be able to do enough to signi\u2026 [+3367 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Netflix lays off film and TV executives amid programming woes",
+        "description": "Netflix, which reports financial results on October 20, is expected to see its sales climb 11.9% to $12.88 billion, its slowest level of growth in three years",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/netflix-cuts-of-film-and-tv-executives-hint-at-programming-woes",
+        "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/c1r9di/article71585554.ece/alternates/LANDSCAPE_1200/Netflix-to-cut-G80GLQ4UT.4.jpg.jpg",
+        "publishedAt": "2026-10-15T06:25:48Z",
+        "content": "Netflix Inc. laid off several high-profile film and television executives Wednesday, amid a broader round of job cuts, as the company struggles to find its next generation of hits.\u00a0\r\nAmong the senior\u2026 [+3277 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Annika Kim Constantino",
+        "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+        "description": "His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.",
+        "url": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107370990-1707414387296-gettyimages-1995499516-247a0388_agtnstai.jpeg?v=1736898742&w=1920&h=1080",
+        "publishedAt": "2026-10-14T17:33:57Z",
+        "content": "Merck CEO Rob Davis told CNBC on Wednesday that he expects the company's breakthrough cancer vaccine with\u00a0Moderna to get faster to manufacture over time. \r\nShortening the current six-week timeline co\u2026 [+5096 chars]"
     }
 ]

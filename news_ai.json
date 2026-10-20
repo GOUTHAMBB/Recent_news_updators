@@ -41,41 +41,28 @@
     {
         "source": {
             "id": null,
-            "name": "CNET"
+            "name": "MIT Technology Review"
         },
-        "author": "Tyler Lacoma",
-        "title": "I Test Home Security Tech. Here Are 4 Devices I Rely on to Guard My Porch",
-        "description": "Porch security is the best, easiest safety project for anyone new to smart homes.",
-        "url": "https://www.cnet.com/home/security/devices-i-rely-on-for-porch-security/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/00caf16b-9d49-4ab2-a406-8e685b6d270d.jpg",
-        "publishedAt": "2026-10-17T10:00:27Z",
-        "content": "Your front door is your first line of defense against, well, anything you dont want in your home. Its also one of the first places burglars check when theyre looking for an easy break-in, and the spo\u2026 [+5642 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "Corinne Reichert",
-        "title": "Disneyland and Disney World: New Lands, Rides and Areas in 2026 and Beyond",
-        "description": "Monstropolis, Villains Land, Piston Peak, Avengers rides, Indiana Jones and more. Here are all the details.",
-        "url": "https://www.cnet.com/tech/walt-disney-world-disneyland-new-rides-lands-shows-attractions-characters-2026/",
-        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/38b47493-a502-4843-b834-26a1f9fc31b6.jpg",
-        "publishedAt": "2026-10-17T12:42:19Z",
-        "content": "After finally wrapping up its yearlong\u00a070th anniversary celebrations, Disneyland is looking ahead to the future. Disney is building three new rides at its California parks and revealed new details ab\u2026 [+14922 chars]"
+        "author": "Amit Katwala",
+        "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
+        "description": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014cop\u2026",
+        "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+        "publishedAt": "2026-10-19T09:08:05Z",
+        "content": "AI systems are usually trained through supervised learning, where they copy examples provided by humans, or through reinforcement learning, where they pursue a reward through trial and error. This ex\u2026 [+1734 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters",
-        "description": "Microsoft Corp. has developed a new large language model that it says is significantly more efficient than leading open-source alternatives.\u00a0 The company\u2019s artificial intelligence research group detailed the algorithm on Thursday. MAI-Base-2 is not a full-fle\u2026",
-        "url": "https://siliconangle.com/2026/10/16/microsoft-reveals-cutting-edge-mai-base-2-model-with-2t-parameters/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/microsoft2.png",
-        "publishedAt": "2026-10-17T00:39:50Z",
-        "content": "Microsoft Corp. has developed a new large language model that it says is significantly more efficient than leading open-source alternatives.\u00a0\r\nThe companys artificial intelligence research group deta\u2026 [+3884 chars]"
+        "author": "Duncan Riley",
+        "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
+        "description": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tasks faster. DeepSeek-V4.1-Flash-1017 arrives a little over fi\u2026",
+        "url": "https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/deepseek-scaled.png",
+        "publishedAt": "2026-10-18T22:34:04Z",
+        "content": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tas\u2026 [+3722 chars]"
     },
     {
         "source": {
@@ -92,41 +79,106 @@
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Terrence O\u2019Brien",
-        "title": "J Mascis has nothing better to do",
-        "description": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation\u2026",
-        "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/J-Mascis-Dinosaur-Jr-interview-Babys-All-Right.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-17T12:22:11Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nDinosaur Jr.s frontman finally addresses the AI video for Old Friends.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be added to your daily email diges\u2026 [+5482 chars]"
+        "author": "Mike Wheatley",
+        "title": "Chip legend Jim Keller\u2019s Tenstorrent raises $1.5B to expand its open compute ecosystem",
+        "description": "Artificial intelligence computing hardware startup Tenstorrent Inc. is pushing hard to position itself as an alternative to Nvidia Corp.\u2019s graphics processing units after raising a massive $1.5 billion in a late-stage funding round today. The Series E round w\u2026",
+        "url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-19-09-13-39.png",
+        "publishedAt": "2026-10-19T12:00:46Z",
+        "content": "Artificial intelligence computing hardware startup Tenstorrent Inc. is pushing hard to position itself as an alternative to Nvidia Corp.s graphics processing units after raising a massive $1.5 billio\u2026 [+6014 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dave Vellante",
-        "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
-        "description": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise AI. The company says AI Control Tower can discover and govern any agent, work across models and clouds, track cost and value, and shut down behavior that violates policy. T\u2026",
-        "url": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AI-Control-Tower-at-Sunset.png",
-        "publishedAt": "2026-10-17T14:49:22Z",
-        "content": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise AI. The company says AI Control Tower can discover and govern any agent, work across models and clouds, track co\u2026 [+26911 chars]"
+        "author": "Mike Wheatley",
+        "title": "Motive Technologies revs up new AI Agents to automate fleet management",
+        "description": "Motive Technologies Inc. is pushing the needle for fleet management automation with the launch of a new artificial intelligence offering called Agents today. As the name strongly hints at, Motive\u2019s Agents are autonomous AI agents designed to take a more proac\u2026",
+        "url": "https://siliconangle.com/2026/10/19/motive-technologies-revs-up-new-ai-agents-to-automate-fleet-management/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-15-09-43-55.png",
+        "publishedAt": "2026-10-19T13:00:16Z",
+        "content": "Motive Technologies Inc. is pushing the needle for fleet management automation with the launch of a new artificial intelligence offering called Agents today.\r\nAs the name strongly hints at, Motives A\u2026 [+5989 chars]"
     },
     {
         "source": {
-            "id": "the-next-web",
-            "name": "The Next Web"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Ana Maria Constantin",
-        "title": "Google\u2019s AI news pilot grows to 400 publications as CNN and the FT join",
-        "description": "\u2018We pay participating news publications,\u2019 Google said, as CNN, the FT and Axios join its News AI pilot of 400+ publications.",
-        "url": "https://thenextweb.com/news/google-news-ai-pilot-400-publications-cnn-ft",
-        "urlToImage": "https://media.thenextweb.com/2026/09/google-headquarters-glass-facade-colourful-logo.jpg",
-        "publishedAt": "2026-10-17T20:17:07Z",
-        "content": "More than 400 publications worldwide now take part in Googles News AI pilot, the company said on Thursday. The programme pays publishers to license content for experimental AI features in Google News\u2026 [+2303 chars]"
+        "author": "Duncan Riley",
+        "title": "Fortanix extends Confidential AI to Kubernetes workloads through Confidential Containers",
+        "description": "Data security company Fortanix Inc. today extended its Fortanix Confidential AI platform to support the Cloud Native Computing Foundation\u2019s Confidential Containers project, so enterprises can run artificial intelligence workloads on Kubernetes inside hardware\u2026",
+        "url": "https://siliconangle.com/2026/10/19/fortanix-extends-confidential-ai-to-kubernetes-workloads-through-confidential-containers/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/fortanixconfidentialai.png",
+        "publishedAt": "2026-10-19T13:00:51Z",
+        "content": "Data security company Fortanix Inc. today extended its Fortanix Confidential AI platform to support the Cloud Native Computing Foundation\u2019s Confidential Containers project, so enterprises can run art\u2026 [+4280 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker",
+        "description": "Small business software marketplace Pax8 Inc. today launched 8os, an operating system that lets its information technology service provider partners govern the artificial intelligence agents running inside their customers\u2019 businesses. A second product, 8bot, \u2026",
+        "url": "https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/pax8-800x450.png",
+        "publishedAt": "2026-10-19T09:00:58Z",
+        "content": "Small business software marketplace Pax8 Inc. today launched 8os, an operating system that lets its information technology service provider partners govern the artificial intelligence agents running \u2026 [+4120 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Axonius launches AI Workforce virtual workers as AI Companion and MCP Server go live",
+        "description": "Asset intelligence company Axonius Inc. today added Axonius AI Workforce to its Asset Cloud platform to let security teams hand ongoing remediation work to autonomous, artificial intelligence-powered virtual workers. AI Workforce is meant to take over follow-\u2026",
+        "url": "https://siliconangle.com/2026/10/19/axonius-launches-ai-workforce-virtual-workers-as-ai-companion-and-mcp-server-go-live/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/axonius1-800x450.png",
+        "publishedAt": "2026-10-19T13:00:11Z",
+        "content": "Asset intelligence company Axonius Inc. today added Axonius AI Workforce to its Asset Cloud platform to let security teams hand ongoing remediation work to autonomous, artificial intelligence-powered\u2026 [+4773 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "ICANN vows to work faster, improve transparency",
+        "description": "Leaders expect AI and geopolitics will throw up more governance challenges and threats",
+        "url": "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
+        "urlToImage": "https://image.theregister.com/252831.jpg?imageId=252831&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-10-19T03:28:34Z",
+        "content": "Internet governance organization the Internet Corporation for Assigned Names and Numbers (ICANN) has come to the realization it needs to move faster.\r\nThe org today opened its annual conference in Ba\u2026 [+3188 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Terrence O\u2019Brien",
+        "title": "Vibe coding is turning the music gear world upside down",
+        "description": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of them is that they were made possible by\u2026",
+        "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-19T11:03:53Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nLLMs have led to an explosion of custom firmware and hacks for synths, samplers, and grooveboxes.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be adde\u2026 [+7368 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Neocloud operator Nscale\u2019s IPO plans could be at risk after Microsoft cancels U.K. data center project",
+        "description": "British neocloud startup Nscale Global Holdings Ltd.\u2019s plans to launch an initial public offering in the U.S. have suffered a massive setback after its biggest customer Microsoft Corp. pulled out of a critical data center deal this weekend. A report in The Te\u2026",
+        "url": "https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-19-07-57-01.png",
+        "publishedAt": "2026-10-19T00:57:31Z",
+        "content": "British neocloud startup Nscale Global Holdings Ltd.s plans to launch an initial public offering in the U.S. have suffered a massive setback after its biggest customer Microsoft Corp. pulled out of a\u2026 [+6394 chars]"
     }
 ]

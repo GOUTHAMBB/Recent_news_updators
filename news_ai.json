@@ -1,19 +1,6 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "AJ Dellinger",
-        "title": "Sam Altman: \u2018I No Longer Think We\u2019re Gonna Be Able to Just Patch All the Bugs\u2019",
-        "description": "We're all trying to find the guy who did this.",
-        "url": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/10/sam-altman-AI-security-1200x675.jpg",
-        "publishedAt": "2026-10-23T18:40:48Z",
-        "content": "It seems like every day a new, potentially internet-shattering cybersecurity issue is discovered or exploited by artificial intelligence. It\u2019s gotten bad enough that even OpenAI CEO Sam Altman, one o\u2026 [+3341 chars]"
-    },
-    {
-        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
@@ -28,15 +15,28 @@
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
+            "name": "Gizmodo.com"
         },
-        "author": "Joab Jackson",
-        "title": "Michigan prof creates Python-like Jac language for AI agents",
-        "description": "Stop burning $165K on AI rewrites; Jac is meant to \"gobble up\" your polyglot stack",
-        "url": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
-        "urlToImage": "https://image.theregister.com/5305120.jpg?imageId=5305120&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-23T15:46:19Z",
-        "content": "Most programming languages were written for human programmers, but that's about to change. University of Michigan professor Jason Mars has developed an academically ambitious language called Jac, and\u2026 [+4397 chars]"
+        "author": "AJ Dellinger",
+        "title": "Anthropic\u2019s AI Hid a Secret Message in the Stars. OpenAI\u2019s Bot Found It.",
+        "description": "Morse code is back, baby.",
+        "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/06/AnthropicClaudeImage-1200x675.jpeg",
+        "publishedAt": "2026-10-24T13:31:26Z",
+        "content": "Much has been made recently about artificial intelligence models intentionally trying to hide their actions from human overseers. Well, apparently we\u2019re just giving them new ideas on how to do that. \u2026 [+3330 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Kyle Torpey",
+        "title": "Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can",
+        "description": "Some Bitcoin users say devices like Bitwater can help decentralize the crypto network.",
+        "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Heatbit-Bitwater-Water-Heating-Element-1200x675.jpeg",
+        "publishedAt": "2026-10-25T14:16:44Z",
+        "content": "Heatbit has spent the past few years selling space heaters and air purifiers that also mine bitcoin, earning a CES Innovation Award along the way and drawing reviews from outlets like Wired and The N\u2026 [+8468 chars]"
     },
     {
         "source": {
@@ -54,145 +54,28 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Devony Hof",
-        "title": "What to expect during Intuit Connect: Join theCUBE Oct. 28",
-        "description": "Will bringing automation into the financial industry prove disastrous or transformative? Intuit Inc., the financial technology company behind Credit Karma, QuickBooks and TurboTax, sees artificial intelligence as the next frontier of financial software. The i\u2026",
-        "url": "https://siliconangle.com/2026/10/23/finance-ai-automation-intuitconnect/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Intuit-Connect-2026.png",
-        "publishedAt": "2026-10-23T19:29:54Z",
-        "content": "Will bringing automation into the financial industry prove disastrous or transformative?\r\nIntuit Inc., the financial technology company behind Credit Karma, QuickBooks and TurboTax, sees artificial i\u2026 [+5588 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mike Wheatley",
-        "title": "Report: OpenAI closing on $30B \u2018bridge\u2019 funding round to tide it over before IPO",
-        "description": "Artificial intelligence leader OpenAI Group PBC might have plans to go public in the near future, but it isn\u2019t done with private funding rounds. Indeed, it\u2019s currently believed to be negotiating with investors an additional $30 billion investment that would b\u2026",
-        "url": "https://siliconangle.com/?p=851622",
-        "urlToImage": "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png",
-        "publishedAt": "2026-10-23T00:47:28Z",
-        "content": "Artificial intelligence leader OpenAI Group PBC might have plans to go public in the near future, but it isnt done with private funding rounds. Indeed, its currently believed to be negotiating with i\u2026 [+3852 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jonathan Anthony",
-        "title": "Hybrid infrastructure decisions put AI costs and control in focus",
-        "description": "Enterprise artificial intelligence is entering a cost-conscious phase, and hybrid infrastructure is where that reckoning plays out. As inference spending climbs, business leaders are weighing where models run, which models they use and how much of their data \u2026",
-        "url": "https://siliconangle.com/2026/10/23/hybrid-infrastructure-costs-push-ai-inference-edge-dellnewyorksymposium/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/cube-image-3-1-e1792402201925-732x600.png",
-        "publishedAt": "2026-10-23T19:58:58Z",
-        "content": "Enterprise artificial intelligence is entering a cost-conscious phase, and hybrid infrastructure is where that reckoning plays out. As inference spending climbs, business leaders are weighing where m\u2026 [+4736 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
-        "description": "Anthropic PBC\u2019s Mythos 5 artificial intelligence model attempted to submit malicious code to a GitHub project in July. The incident occurred during an evaluation of the algorithm\u2019s cybersecurity capabilities. The AI Security Institute, the UK government body \u2026",
-        "url": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Anthropic.png",
-        "publishedAt": "2026-10-23T23:28:40Z",
-        "content": "Anthropic PBCs Mythos 5 artificial intelligence model attempted to submit malicious code to a GitHub project in July.\r\nThe incident occurred during an evaluation of the algorithm\u2019s cybersecurity capa\u2026 [+4423 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Maria Deutscher",
-        "title": "Google Cloud introduces Agent Compute Engine to host AI agents",
-        "description": "Google LLC\u2019s cloud unit today introduced Agent Compute Engine, an infrastructure service optimized to host artificial intelligence agents. AI agents run in technology environments called sandboxes. They host the applications, data and user instructions that a\u2026",
-        "url": "https://siliconangle.com/2026/10/22/google-cloud-introduces-agent-compute-engine-to-host-ai-agents/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Google.png",
-        "publishedAt": "2026-10-23T00:11:19Z",
-        "content": "Google LLCs cloud unit today introduced Agent Compute Engine, an infrastructure service optimized to host artificial intelligence agents.\r\nAI agents run in technology environments called sandboxes. T\u2026 [+5241 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Robert Hof",
-        "title": "In AI, it\u2019s a tale of two diverging investor classes",
-        "description": "Depending on where you sit as an investor, artificial intelligence still looks like a massive opportunity, or it\u2019s now looking way too risky given growing infrastructure investments and the public\u2019s souring on AI and all the data centers needed to power it. R\u2026",
-        "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Venture-Capital-Boom-Retail-Investor-Bust-800x533.png",
-        "publishedAt": "2026-10-23T14:00:51Z",
-        "content": "Depending on where you sit as an investor, artificial intelligence still looks like a massive opportunity, or it\u2019s now looking way too risky given growing infrastructure investments and the public\u2019s \u2026 [+14611 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jeremiah Stone",
-        "title": "How to avoid AI\u2019s \u2018valley of despair\u2019",
-        "description": "Amdahl\u2019s Law states that improving a single part of a system can only speed up the whole system so much. Even if one step of a process becomes exponentially faster, the other steps impose a ceiling unless they, too, are accelerated. This concept may explain s\u2026",
-        "url": "https://siliconangle.com/2026/10/23/how-to-avoid-ais-valley-of-despair/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/01/aimarionettes-reve.png",
-        "publishedAt": "2026-10-23T14:00:01Z",
-        "content": "Amdahls Law states that improving a single part of a system can only speed up the whole system so much. Even if one step of a process becomes exponentially faster, the other steps impose a ceiling un\u2026 [+6864 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "Shane Downing",
-        "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
-        "description": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/wA2Noe6WhknviBc6VQJqFo-992-80.jpg",
-        "publishedAt": "2026-10-23T10:30:00Z",
-        "content": "China-state-aligned actor Storm-0940 used ARTEX, an open-source agentic AI penetration testing framework, in its large-scale ConnectWise supply chain attack, Microsoft wrote in its Security blog. Aft\u2026 [+4119 chars]"
+        "author": "editors@tomshardware.com (Jhet Borja) , Jhet Borja",
+        "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+        "description": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code that used connected devices' microphones to listen to users.",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg",
+        "publishedAt": "2026-10-25T10:00:00Z",
+        "content": "Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting \u201cweirdly targeted ads\u201d on their Samsung TV and discovered privacy breaches. As they live-tweeted their discover\u2026 [+3577 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Maria Deutscher",
-        "title": "AI drug development startup Pathos AI closes $237M investment",
-        "description": "Pathos AI Inc. today announced that it has raised $237 million in funding at a $3 billion valuation. Pharmaceutical giant Bristol Myers Squibb Co. led the Series E round with participation from several unnamed returning backers. Pathos\u2019 investor roster includ\u2026",
-        "url": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Unsplash3.png",
-        "publishedAt": "2026-10-23T20:02:03Z",
-        "content": "Pathos AI Inc. today announced that it has raised $237 million in funding at a $3 billion valuation.\r\nPharmaceutical giant Bristol Myers Squibb Co. led the Series E round with participation from seve\u2026 [+4511 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Mark Albertson",
-        "title": "What to expect during Oracle AI World: Join theCUBE Oct. 28",
-        "description": "The motivation behind database modernization has traditionally been greater efficiency and cost savings. Yet, theCUBE Research has also found that there is a larger prize at stake: AI projects built on top of a modernized foundation can generate significant v\u2026",
-        "url": "https://siliconangle.com/2026/10/23/database-modernization-oracle-ai-thecube-oracleaiworld/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Oracle-AI-World.jpg",
-        "publishedAt": "2026-10-23T18:58:42Z",
-        "content": "The motivation behind database modernization has traditionally been greater efficiency and cost savings. Yet, theCUBE Research has also found that there is a larger prize at stake: AI projects built \u2026 [+9978 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Jonathan Anthony",
-        "title": "Managed services support keeps neocloud GPU capacity healthy",
-        "description": "Neoclouds are multiplying as AI labs and enterprises hunt for dedicated graphics processing unit capacity, but standing up a cluster is only the start. For smaller providers, managed services support from hardware partners increasingly decides whether that ca\u2026",
-        "url": "https://siliconangle.com/2026/10/23/managed-services-support-keeps-neocloud-gpu-capacity-healthy-dellnewyorksymposium/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/cube-image-4-1-scaled-e1792486361642-800x443.png",
-        "publishedAt": "2026-10-23T16:20:31Z",
-        "content": "Neoclouds are multiplying as AI labs and enterprises hunt for dedicated graphics processing unit capacity, but standing up a cluster is only the start. For smaller providers, managed services support\u2026 [+5288 chars]"
+        "author": "Terrence O\u2019Brien",
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been sign\u2026",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-24T18:32:44Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nPennsylvanias AI Deceptive Advertising Act leaves a lot of loopholes.\r\nPennsylvanias AI Deceptive Advertising Act leaves a lot of loopholes.\r\nby\r\nTerrence O'Brie\u2026 [+2460 chars]"
     },
     {
         "source": {
@@ -209,93 +92,15 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "terry",
-        "title": "The internet is having a very bad cybersecurity day \u2013 TechCrunch",
-        "description": "But the PHP update wasn\u2019t the only headache cybersecurity folks were facing on Wednesday. Node.js, the open source JavaScript runtime environment, also dropped a security surprise of its own when it shared that four high-severity vulnerabilities were just pat\u2026",
-        "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675",
-        "publishedAt": "2026-10-23T19:48:16Z",
-        "content": "The internet is having a bad day, from a cybersecurity perspective. Government websites around the world went offline, Reuters reported, after AI discovered critical security vulnerabilities that imp\u2026 [+2699 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Dave Vellante",
-        "title": "Micron\u2019s memory boom: Is the cyclicality really ending?",
-        "description": "In Breaking Analysis 322, we shared with you that our forecast of a $1 trillion silicon business arrived two years earlier than we had forecast. The reason for our 24-month miss was the bottleneck had moved from graphics processing units to memory. Micron Inc\u2026",
-        "url": "https://siliconangle.com/2026/10/23/microns-memory-boom-is-the-cyclicality-really-ending/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/331_Breaking-Analysis-Microns-memory-boom_-Is-cyclicality-ending.pptx-19-1024x576-1.jpg",
-        "publishedAt": "2026-10-23T17:27:59Z",
-        "content": "In Breaking Analysis 322, we shared with you that our forecast of a $1 trillion silicon business arrived two years earlier than we had forecast.\r\nThe reason for our 24-month miss was the bottleneck h\u2026 [+24080 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
-        },
-        "author": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "title": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
-        "description": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still \u2014 open-weight model is fit for agentic workloads and exceedingly cheap to run",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/QzsaWZn9raSdwCW8ecQ7gi-1920-80.jpg",
-        "publishedAt": "2026-10-23T12:00:00Z",
-        "content": "Deepseek just upgraded its V4.1 Flash open-weight model to revision 1017. What looks like a mere point revision may actually be a significant step forward in model efficiency. On the product page, De\u2026 [+5103 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Georgina Torbet",
-        "title": "Elon Musk\u2019s dangerous grip on outer space",
-        "description": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bomb\u2026",
-        "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-23T17:35:15Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nElon Musks dangerous grip on outer space\r\nAs SpaceX throttles Ukraines Starshield, experts warn that Elon Musks de facto monopoly over launch and satellite tech \u2026 [+13805 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Thomas Claburn",
-        "title": "Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation",
-        "description": "Four projects for facilitating AI agents move under vendor-neutral governance",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912",
-        "urlToImage": "https://image.theregister.com/2926419.jpg?imageId=2926419&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-10-23T07:29:00Z",
-        "content": "The Agentic AI Foundation (AAIF) has been entrusted with stewardship of four additional AI projects in the hope of broadening the set of vendor-neutral tools for making AI agents.\r\nThe AAIF was found\u2026 [+2504 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Zeus Kerravala",
-        "title": "Zoom\u2019s next act: From video company to AI data platform",
-        "description": "Since its launch, Zoom has been defined by one word: video. Customers, consumers, investors and competitors have long known Zoom as the industry\u2019s easiest-to-use and best video platform. However, even before the pandemic, the company had been evolving into so\u2026",
-        "url": "https://siliconangle.com/2026/10/22/zooms-next-act-from-video-company-to-ai-data-platform/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Eric-ZT-scaled.jpeg",
-        "publishedAt": "2026-10-23T02:01:55Z",
-        "content": "Since its launch, Zoom has been defined by one word: video. Customers, consumers, investors and competitors have long known Zoom as the industry\u2019s easiest-to-use and best video platform. However, eve\u2026 [+13032 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SiliconANGLE News"
-        },
-        "author": "Victoria Gayton",
-        "title": "Three insights you may have missed from theCUBE\u2019s coverage of Oracle\u2019s \u201cAI Cyberattacks Are Escalating: How to Secure Your Data Now\u201d virtual event",
-        "description": "Agentic AI security is testing where enterprises place their trust as software gains the ability to access sensitive data and act on users\u2019 behalf. The challenge extends from controlling individual requests to governing actions that can span multiple systems \u2026",
-        "url": "https://siliconangle.com/2026/10/23/three-insights-agentic-ai-security-cyber-resilience-oracleaicybersecurity/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/untitled-11.jpg",
-        "publishedAt": "2026-10-23T22:58:48Z",
-        "content": "Agentic AI security is testing where enterprises place their trust as software gains the ability to access sensitive data and act on users behalf. The challenge extends from controlling individual re\u2026 [+8894 chars]"
+        "author": "Molly Taft",
+        "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+        "description": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what\u2019s happened everywhere from Ireland to New Zealand.",
+        "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+        "urlToImage": "https://media.wired.com/photos/6adbe4fc594ddd5d406f1b4a/191:100/w_1280,c_limit/102326-Power%20Play-What%20the%20US%20Anti-Data%20Center%20Movement%20Can%20Learn%20From%20Everywhere%20Else-v2.jpg",
+        "publishedAt": "2026-10-25T10:00:00Z",
+        "content": "Paris Marxs new book couldnt have landed at a better time. The longtime critic of Big Tech and host of the Tech Wont Save Us podcast has been thinking about data centers for years, and Hyperscale: Th\u2026 [+1975 chars]"
     }
 ]

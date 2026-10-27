@@ -1,16 +1,29 @@
 [
     {
         "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "scouncil@businessinsider.com (Stephen Council,Brent D. Griffiths,Natalie Musumeci,Tom Carter)",
+        "title": "Anthropic's IPO paperwork reveals the stunning finances behind its meteoric rise",
+        "description": "Anthropic, the company behind Claude, filed its public S-1 paperwork, setting the stage for an enormous IPO and shedding light on its finances.",
+        "url": "https://www.businessinsider.com/anthropic-s-1-filing-public-finances-compute-deals-2026-10#article",
+        "urlToImage": "https://i.insider.com/6a7bcacbc78818eff7d2beea?width=1200&format=jpeg",
+        "publishedAt": "2026-10-26T13:11:29Z",
+        "content": "Anthropic is ready for Wall Street.\r\nThe company behind Claude filed its public S-1 paperwork on Monday, revealing its plans to list on the Nasdaq under the ticker symbol ANTand setting the stage for\u2026 [+4122 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Daniel Kjell\u00e9n",
-        "title": "I sold to Visa for $2 billion. I could be on a beach right now, but I\u2019m risking my own money to solve the problem that held my first company back",
-        "description": "Listen to European founders talk over dinner after a few glasses of wine, and you\u2019d think the U.S. is a gung-ho frontier. The reality is different.",
-        "url": "https://fortune.com/2026/10/24/i-sold-to-visa-for-2-billion-founded-freda/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/daniel-k.png?resize=1200,600",
-        "publishedAt": "2026-10-24T07:00:00Z",
-        "content": "A successful exit brings with it a world of possibilities. You can move your family halfway around the world, back the next generation of brilliant ideas, or never answer a work email again.My first \u2026 [+4884 chars]"
+        "author": "Jim Edwards",
+        "title": "How they fumbled the cola wars: Pepsi generates twice the revenue of Coca-Cola, yet its market cap is only half as big",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/10/26/pepsico-twice-revenue-coca-cola-market-cap/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2267379920_aaffe9-e1792791132952.jpg?resize=1200,600",
+        "publishedAt": "2026-10-26T10:37:03Z",
+        "content": "PepsiCo has suffered many setbacks in recent years, but perhaps few were as symbolic as being jilted by a long-time partner it used to own, KFC. The fried chicken chain said earlier this month that i\u2026 [+7578 chars]"
     },
     {
         "source": {
@@ -24,31 +37,5 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108448204-1792698576376-gettyimages-2235177281-McGregor250915NYCbusinesses04.jpeg?v=1792698756&w=1920&h=1080",
         "publishedAt": "2026-10-25T12:00:01Z",
         "content": "Less than a decade after its founding, food startup Wonder has seen its footprint and valuation soar. \r\nStill, the company has even more ambitious plans ahead, like a subscription program to let dine\u2026 [+10588 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "tmohamed@businessinsider.com (Theron Mohamed)",
-        "title": "A veteran tech investor says 'doom and gloom' over the AI boom is overblown, even though it has shades of the dot-com bubble",
-        "description": "Paul Wick of Seligman Investments said the tech industry seems \"healthier\" today than during the Internet bubble, but flagged some trends to watch.",
-        "url": "https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10#article",
-        "urlToImage": "https://i.insider.com/6ada1b77510d67c758d85bd0?width=1200&format=jpeg",
-        "publishedAt": "2026-10-24T10:38:01Z",
-        "content": "The AI boom has shades of the dot-com bubble, but fears of an imminent crash and mass unemployment are overblown, a veteran tech investor says.\r\nAt the turn of this century, there was an explosion in\u2026 [+3239 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kif Leswing, Isabel O'Brien",
-        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-        "description": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-        "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108450923-1792750261614-gettyimages-2300714363-GERMANY_NVIDIA.jpeg?v=1792750317&w=1920&h=1080",
-        "publishedAt": "2026-10-24T11:00:01Z",
-        "content": "Jensen Huang, CEO of NVIDIA, presents new NVIDIA Vera Rubin DSX Pod Full-Stack Modular AI Factory as he gives a keynote address at the Berlin GPU Technology Conference (GTC) on October 21, 2026 in Be\u2026 [+10960 chars]"
     }
 ]

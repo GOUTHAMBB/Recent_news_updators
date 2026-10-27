@@ -1,29 +1,42 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Katelyn Chedraoui",
+        "title": "Why You Shouldn\u2019t Use AI Chatbots to Decide Who to Vote For",
+        "description": "The midterm elections are upon us, but before you use an AI tool to help you decide on your votes, you need to know these things.",
+        "url": "https://www.cnet.com/tech/services-and-software/ai-chatbots-election-voting-research-decisions/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_389619492.jpeg",
+        "publishedAt": "2026-10-26T12:20:03Z",
+        "content": "The US midterm elections are scheduled for Nov. 3, and early voting is already underway in some states. Many tech issues are on the ballot, including AI policies \u2014 but people are also reportedly turn\u2026 [+6849 chars]"
+    },
+    {
+        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "David Pierce",
-        "title": "It\u2019s time to find a new browser",
-        "description": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer \u2026",
-        "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
-        "publishedAt": "2026-10-24T01:16:47Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Call of Duty is back, Kindle Plus is sort of new, and you need to watch Wildwood.\r\nPlus, in this weeks Installer: Call of Duty is \u2026 [+11426 chars]"
+        "author": "Terrence O\u2019Brien",
+        "title": "Zen Browser is the Arc replacement I was looking for",
+        "description": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even mor\u2026",
+        "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
+        "publishedAt": "2026-10-25T19:24:50Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nZen rips off all the best bits of Arc, but skips the AI and bloat.\r\nZen rips off all the best bits of Arc, but skips the AI and bloat.\r\nby\r\nTerrence O'BrienClose\u2026 [+4331 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Theregister.com"
         },
-        "author": "AJ Dellinger",
-        "title": "Anthropic\u2019s AI Hid a Secret Message in the Stars. OpenAI\u2019s Bot Found It.",
-        "description": "Morse code is back, baby.",
-        "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/06/AnthropicClaudeImage-1200x675.jpeg",
-        "publishedAt": "2026-10-24T13:31:26Z",
-        "content": "Much has been made recently about artificial intelligence models intentionally trying to hide their actions from human overseers. Well, apparently we\u2019re just giving them new ideas on how to do that. \u2026 [+3330 chars]"
+        "author": "Lindsay Clark",
+        "title": "Euro open source specialist proposes LLM gateway to ease token bills",
+        "description": "Aiven hopes to do for LLMs what it does for databases",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
+        "urlToImage": "https://image.theregister.com/5242717.jpg?imageId=5242717&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-10-26T10:15:00Z",
+        "content": "European open source database service provider Aiven says it has saved 80 percent of its AI token costs internally by moving to open-weight models and is building a gateway to help devs swap models i\u2026 [+3340 chars]"
     },
     {
         "source": {
@@ -41,15 +54,15 @@
     {
         "source": {
             "id": null,
-            "name": "SiliconANGLE News"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Maria Deutscher",
-        "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-        "description": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intelligence company release\u2026",
-        "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/unsplash2-2.png",
-        "publishedAt": "2026-10-24T00:55:53Z",
-        "content": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra.\r\nThe LLM is a post-trained, or upgraded, version of an algor\u2026 [+3877 chars]"
+        "author": "Newton Gitonga",
+        "title": "Reddit\u2019s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
+        "description": "Reddit\u2019s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors, while restrictions on non-English speakers have sparked further \u2026",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/wA2Noe6WhknviBc6VQJqFo-992-80.jpg",
+        "publishedAt": "2026-10-26T10:00:00Z",
+        "content": "Reddit communities are increasingly tightening their rules around artificial intelligence, with some restricting AI-generated submissions and others limiting discussions about the technology. The lat\u2026 [+5098 chars]"
     },
     {
         "source": {
@@ -66,29 +79,120 @@
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Terrence O\u2019Brien",
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been sign\u2026",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-24T18:32:44Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nPennsylvanias AI Deceptive Advertising Act leaves a lot of loopholes.\r\nPennsylvanias AI Deceptive Advertising Act leaves a lot of loopholes.\r\nby\r\nTerrence O'Brie\u2026 [+2460 chars]"
+        "author": "Mike Wheatley",
+        "title": "Elon Musk predicts neocloud shakeout as credit for AI infrastructure dries up",
+        "description": "Space Exploration Technologies Corp. Chief Executive Elon Musk (pictured) revealed his company has secured $40 billion in debt financing in order to purchase powerful chips for artificial intelligence workloads. The revelation came as the entrepreneur predict\u2026",
+        "url": "https://siliconangle.com/2026/10/25/elon-musk-predicts-neocloud-shakeout-as-credit-for-ai-infrastructure-dries-up/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-07-27-20.png",
+        "publishedAt": "2026-10-26T00:28:13Z",
+        "content": "Space Exploration Technologies Corp. Chief Executive Elon Musk (pictured) revealed his company has secured $40 billion in debt financing in order to purchase powerful chips for artificial intelligenc\u2026 [+5412 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Victoria Gayton",
-        "title": "Three insights you may have missed from theCUBE\u2019s coverage of Okta\u2019s Oktane event",
-        "description": "AI agent governance is moving identity security into the flow of work. As agents call tools, delegate tasks and act across applications, enterprises need controls that follow those actions beyond an initial login. The challenge is making those controls work a\u2026",
-        "url": "https://siliconangle.com/2026/10/23/ai-agent-governance-takes-shape-oktas-oktane-event-oktane/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Charlotte-Wylie-scaled.jpg",
-        "publishedAt": "2026-10-24T03:52:19Z",
-        "content": "AI agent governance is moving identity security into the flow of work. As agents call tools, delegate tasks and act across applications, enterprises need controls that follow those actions beyond an \u2026 [+7780 chars]"
+        "author": "Mike Wheatley",
+        "title": "Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI",
+        "description": "Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the world\u2019s largest inve\u2026",
+        "url": "https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-08-34-51.png",
+        "publishedAt": "2026-10-26T01:31:12Z",
+        "content": "Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff,\u2026 [+5006 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "ProjectDiscovery adds Neo Triage to confirm which vulnerabilities are exploitable",
+        "description": "Open-source cybersecurity company ProjectDiscovery Inc. today added Neo Triage to its Neo security testing platform to confirm which reported vulnerabilities can actually be exploited before teams start fixing them. The new capability goes after the triage ba\u2026",
+        "url": "https://siliconangle.com/2026/10/26/projectdiscovery-adds-neo-triage-to-confirm-which-vulnerabilities-are-exploitable/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/projectdiscovery.png",
+        "publishedAt": "2026-10-26T14:00:17Z",
+        "content": "Open-source cybersecurity company ProjectDiscovery Inc. today added Neo Triage to its Neo security testing platform to confirm which reported vulnerabilities can actually be exploited before teams st\u2026 [+4070 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Exclusive: iMerit launches platform to connect AI developers with specialized domain experts",
+        "description": "IMerit Technology Service Pvt Ltd., a provider of data annotation and artificial intelligence training services that was acquired by ExlService Holdings Inc. in July, today launched a platform to help AI developers recruit and manage specialized experts who c\u2026",
+        "url": "https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2023/10/hand-3685829_1280.jpg",
+        "publishedAt": "2026-10-26T12:00:49Z",
+        "content": "IMerit Technology Service Pvt Ltd., a provider of data annotation and artificial intelligence training services that was acquired by ExlService Holdings Inc. in July, today launched a platform to hel\u2026 [+4855 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Shane Downing",
+        "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+        "description": "Linux kernel modules lift Nvidia\u2019s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-2560-80.jpg",
+        "publishedAt": "2026-10-26T11:00:00Z",
+        "content": "Modders have discovered a way to remove imposed half-speed AI performance limits on Nvidia RTX 20, 30, and 40-series GPUs with a firmware exploit, VideoCardz reports. Without the limitation, the RTX \u2026 [+7827 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Colare raises $2.5M to help firms vet engineering candidates with advanced simulations",
+        "description": "Engineering talent vetting startup Colare Inc. says its simulated candidate testing platform is ready for prime time today after closing on a $2.5 million pre-seed funding round backed by Afore Capital, Garage Capital and Acadian Ventures. The company has cre\u2026",
+        "url": "https://siliconangle.com/2026/10/26/colare-raises-2-5m-to-help-aerospace-and-defense-firms-vet-engineering-candidates-with-advanced-simulations/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-10-08-55.png",
+        "publishedAt": "2026-10-26T12:00:57Z",
+        "content": "Engineering talent vetting startup Colare Inc. says its simulated candidate testing platform is ready for prime time today after closing on a $2.5 million pre-seed funding round backed by Afore Capit\u2026 [+7347 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Newton Gitonga",
+        "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+        "description": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America\u2019s largest technology companies and the rest of the S&P 500.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/eUsopxGWaQRSbUiwq7RUch-1920-80.jpg",
+        "publishedAt": "2026-10-25T15:25:40Z",
+        "content": "AI spending is generating revenue for technology providers, but most other S&amp;P 500 companies have yet to show comparable gains in productivity or profit margins, a report byApollo\u2019s Daily Spark a\u2026 [+5086 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Shane Downing",
+        "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
+        "description": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/FNTwpzmM9udZzzp9cdDzTa-2560-80.jpg",
+        "publishedAt": "2026-10-26T13:20:00Z",
+        "content": "Cadence, one of the largest electronic design automation (EDA) companies, has unveiled Maestro, its new portfolio of domain-specialized AI models tailored for its chip design agents, in a press relea\u2026 [+10116 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
+        "description": "Today, I\u2019m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but \u2026",
+        "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-26T13:37:13Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe author of The AGI Chronicles and co-host of Machine Gods on going all-in on YouTube and the AI race.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be ad\u2026 [+62468 chars]"
     },
     {
         "source": {

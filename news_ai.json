@@ -27,6 +27,45 @@
     },
     {
         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "Affinity\u2019s creative studio is now available on iPad for free",
+        "description": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinit\u2026",
+        "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Canva-Affinity-for-iPad-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-11-02T14:10:55Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nCanva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesnt have to cost them a thing. After relaunching the\u2026 [+3258 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Mike Pearl",
+        "title": "OpenAI Would Reportedly Like You to Use Its Pleasant New Term for Data Centers",
+        "description": "Trump isn\u2019t the only one who wants to rebrand stuff.",
+        "url": "https://gizmodo.com/openai-would-reportedly-like-you-to-use-its-pleasant-new-term-for-data-centers-2000833570",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+        "publishedAt": "2026-11-02T00:11:54Z",
+        "content": "Compute campuses.\r\nThats the latest AI newspeak.\r\nThis time, the proposed rebrand is coming from OpenAI, whose spokesperson apparently confirmed to Business Insider on Sunday that this was its new pr\u2026 [+1974 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+        "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+        "publishedAt": "2026-11-01T22:10:45Z",
+        "content": "AI hasnt benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity gia\u2026 [+1122 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
@@ -41,41 +80,41 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Tom's Hardware UK"
         },
-        "author": "Tom McKay",
-        "title": "Pope Leo XIV Reminds World That AIs Aren\u2019t Conscious Beings, Urges Autonomous Weapon Ban",
-        "description": "Leo is not the biggest fan of claims that computers have souls.",
-        "url": "https://gizmodo.com/pope-leo-xiv-reminds-world-that-ais-arent-conscious-beings-urges-autonomous-weapon-ban-2000833335",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/05/GettyImages-2213411719-1200x675.jpg",
-        "publishedAt": "2026-10-31T03:53:59Z",
-        "content": "Newly cancer-free Pope Leo XIV is urging the nations of the world to \u201cdisarm\u201d AI, including a specific call for United Nations members to \u201ctake concrete steps toward banning lethal autonomous weapons\u2026 [+2819 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Justin Caffier",
-        "title": "What Nathan Fielder\u2019s \u2018You Can See Everything\u2019 Taught Me About Tech Journalism",
-        "description": "Nathan Fielder's hit doc follows Elizabeth Holmes in her own home and unexpectedly opened my eyes to the problems in my own.",
-        "url": "https://gizmodo.com/what-nathan-fielders-you-can-see-everything-taught-me-about-tech-journalism-2000830561",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/10/you-can-see-everything1-1200x675.jpg",
-        "publishedAt": "2026-10-31T14:10:44Z",
-        "content": "Nathan Fielder and Lance Oppenheims sublime documentary, You Can See Everything, has established itself as nothing short of a cultural seismic event. The three-hour brain melter thats taken over the \u2026 [+26221 chars]"
+        "author": "Mark Tyson",
+        "title": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it \u2014 experimental AI model can run Doom and C code using its own weights as RAM",
+        "description": "Qwenputer is an experimental blend of the stock Qwen 3.5 4B LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/vDamaQXjMra2LE6RAc87N6-1920-80.jpg",
+        "publishedAt": "2026-11-02T13:30:00Z",
+        "content": "AI engineer Divyansh Agrawal has revealed the Qwenputer. Described in its most basic terms, Qwenputer is an experimental blend of the stock Qwen 3.5 4B AI LLM with a 32-bit RISC-V CPU compiled and in\u2026 [+3282 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Maria Deutscher",
-        "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
-        "description": "Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial intelligence developers from using their content to train \u2026",
-        "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AI-1-1.png",
-        "publishedAt": "2026-10-31T02:00:23Z",
-        "content": "Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard.\r\nThe technology will enable website operators to block artifici\u2026 [+3748 chars]"
+        "author": "Mike Wheatley",
+        "title": "With Agentic Studio, LinearB provides the critical context needed to accelerate software delivery",
+        "description": "Application development intelligence startup LinearB Inc. said today it\u2019s trying to ease the growing congestion in organization\u2019s software delivery pipelines that has arisen with the widespread adoption of artificial intelligence coding tools. It\u2019s doing so w\u2026",
+        "url": "https://siliconangle.com/2026/11/02/with-agentic-studio-linearb-provides-the-critical-context-needed-to-accelerate-software-delivery/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-01-11-30-53.png",
+        "publishedAt": "2026-11-02T14:00:26Z",
+        "content": "Application development intelligence startup LinearB Inc. said today its trying to ease the growing congestion in organizations software delivery pipelines that has arisen with the widespread adoptio\u2026 [+5564 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Google finds \u2018LLMjacking\u2019 attackers running up $100K a day in fraudulent cloud charges",
+        "description": "A new report out today from Google LLC\u2019s Mandiant and Google Threat Intelligence Group finds that attackers who hijack enterprise access to large language models are running up fraudulent cloud charges of more than $100,000 in a single day. The report, \u201cThe R\u2026",
+        "url": "https://siliconangle.com/2026/11/02/google-finds-llmjacking-attackers-running-up-100k-a-day-in-fraudulent-cloud-charges/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/llmjacking-800x450.png",
+        "publishedAt": "2026-11-02T15:00:41Z",
+        "content": "A new report out today from Google LLC\u2019s Mandiant and Google Threat Intelligence Group finds that attackers who hijack enterprise access to large language models are running up fraudulent cloud charg\u2026 [+6368 chars]"
     },
     {
         "source": {
@@ -89,6 +128,19 @@
         "urlToImage": "https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-2000-80.jpg",
         "publishedAt": "2026-11-01T14:21:23Z",
         "content": "OpenAI CEO Sam Altman has met with about 50 senior Samsung executives in South Korea, as the company seeks to expand its Artificial Intelligence and memory capacity, Bloomberg reports. Altman\u2019s visit\u2026 [+3681 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work",
+        "description": "Artificial intelligence agents have become two a penny in the enterprise today, but just because they\u2019re rapidly being commoditized does not mean organizations know how best to use them. That\u2019s the challenge a startup called Marble Cognition is trying to solv\u2026",
+        "url": "https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-02-08-34-32.png",
+        "publishedAt": "2026-11-02T09:00:22Z",
+        "content": "Artificial intelligence agents have become two a penny in the enterprise today, but just because theyre rapidly being commoditized does not mean organizations know how best to use them.\r\nThat\u2019s the c\u2026 [+5254 chars]"
     },
     {
         "source": {
@@ -108,13 +160,39 @@
             "id": null,
             "name": "SiliconANGLE News"
         },
-        "author": "Dave Vellante",
-        "title": "Can enterprise AI pay for the boom?",
-        "description": "The artificial intelligence buildout is making an enormous bet on what businesses will eventually be willing to pay for intelligence. In our research this summer on forecasting the AI bubble, we argued that a key indicator to watch is productive utilization b\u2026",
-        "url": "https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Gemini_Generated_Image_romv33romv33romv-1-2048x1143-1.jpeg",
-        "publishedAt": "2026-10-31T17:12:02Z",
-        "content": "The artificial intelligence buildout is making an enormous bet on what businesses will eventually be willing to pay for intelligence. In our research this summer on forecasting the AI bubble, we argu\u2026 [+48170 chars]"
+        "author": "Duncan Riley",
+        "title": "Exclusive: Guardz brings Palo Alto Networks browser protection to MSPs serving small businesses",
+        "description": "Cybersecurity startup Guardz Cyber Ltd. today added browser protection from Palo Alto Networks Inc.\u2019s Prisma Browser for Business to its security platform for managed service providers that protect small businesses. The integration is aimed at phishing attack\u2026",
+        "url": "https://siliconangle.com/2026/11/02/exclusive-guardz-brings-palo-alto-networks-browser-protection-to-msps-serving-small-businesses/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/guardz-800x450.png",
+        "publishedAt": "2026-11-02T14:00:29Z",
+        "content": "Cybersecurity startup Guardz Cyber Ltd. today added browser protection from Palo Alto Networks Inc.\u2019s Prisma Browser for Business to its security platform for managed service providers that protect s\u2026 [+3863 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "MazeBolt launches native RADAR deployment for Akamai DDoS protection customers",
+        "description": "Distributed denial-of-service testing company MazeBolt Technologies Ltd. today launched a native deployment of its RADAR validation platform for customers of Akamai Technologies Inc. Enterprises using Akamai\u2019s DDoS protection can have continuous testing runni\u2026",
+        "url": "https://siliconangle.com/2026/11/02/mazebolt-launches-native-radar-deployment-for-akamai-ddos-protection-customers/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/05/mazebolt.png",
+        "publishedAt": "2026-11-02T14:00:45Z",
+        "content": "Distributed denial-of-service testing company MazeBolt Technologies Ltd. today launched a native deployment of its RADAR validation platform for customers of Akamai Technologies Inc.\r\nEnterprises usi\u2026 [+3868 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Project-by-project security reviews can\u2019t keep pace with enterprise AI agents",
+        "description": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move. But sensitive data fed into models is hard to pull back \u2014 and security reviews built for a slower era \u2026",
+        "url": "https://siliconangle.com/2026/11/01/tokenization-helps-enterprises-move-ai-agents-production-evolve26/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_6247.jpg",
+        "publishedAt": "2026-11-01T14:25:54Z",
+        "content": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move.\r\nBut sensitive data fed into models is har\u2026 [+4112 chars]"
     },
     {
         "source": {
@@ -135,12 +213,12 @@
             "name": "SiliconANGLE News"
         },
         "author": "Ryan Stevens",
-        "title": "Project-by-project security reviews can\u2019t keep pace with enterprise AI agents",
-        "description": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move. But sensitive data fed into models is hard to pull back \u2014 and security reviews built for a slower era \u2026",
-        "url": "https://siliconangle.com/2026/11/01/tokenization-helps-enterprises-move-ai-agents-production-evolve26/",
-        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_6247.jpg",
-        "publishedAt": "2026-11-01T14:25:54Z",
-        "content": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move.\r\nBut sensitive data fed into models is har\u2026 [+4112 chars]"
+        "title": "Enterprises bring AI to their data as privacy rules tighten and costs climb",
+        "description": "Every enterprise AI strategy eventually comes down to the same question: Should proprietary data travel to the model, or should the model come to the data? As privacy rules tighten and geopolitical risk rises, more organizations are choosing the second option\u2026",
+        "url": "https://siliconangle.com/2026/11/02/enterprise-ai-strategy-cloudera-brings-models-data-evolve26/",
+        "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-2026-11-02-at-13.14.00-scaled.png",
+        "publishedAt": "2026-11-02T11:34:14Z",
+        "content": "Every enterprise AI strategy eventually comes down to the same question: Should proprietary data travel to the model, or should the model come to the data?\r\nAs privacy rules tighten and geopolitical \u2026 [+4093 chars]"
     },
     {
         "source": {
@@ -157,41 +235,93 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Tom's Hardware UK"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "sayem.ahmed@futurenet.com (Sayem Ahmed) , Sayem Ahmed",
-        "title": "This week in Tom's Hardware Premium: October 31, 2026 \u2014 Vera CPUs available on Oracle clusters, building an agentic CPU benchmark and a primer to LLMs",
-        "description": "In case you're not yet subscribed to our Tom's Hardware Premium subscription service, here's what you've been missing out on this week",
-        "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-october-31-2026-vera-cpus-available-on-oracle-clusters-building-an-agentic-cpu-benchmark-and-a-primer-to-llms",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/eRuBmbo6Lk5aDxn4D79nAE-1920-80.jpg",
-        "publishedAt": "2026-10-31T13:30:00Z",
-        "content": "In case you're not yet subscribed to our Tom's Hardware Premium subscription service, here's what you've been missing out on this week. We detail our thoughts on Anthropic's filings pre-IPO, Cadence'\u2026 [+6215 chars]"
+        "author": "Jess Weatherbed",
+        "title": "Affinity\u2019s creative studio is now available on iPad for free",
+        "description": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinit\u2026",
+        "url": "https://www.theverge.com/design/1024283/canva-affinity-for-ipad-design-app-availability",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Canva-Affinity-for-iPad-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-11-02T12:10:16Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe core art and photo editing tools are free for individuals, but AI features require a Canva subscription.\r\nThe core art and photo editing tools are free for i\u2026 [+3657 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Tom's Hardware UK"
         },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "Startup uses AI agent to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
-        "description": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/eoGRcXGHJPaiRv8XJmVA96-1920-80.png",
-        "publishedAt": "2026-10-31T12:00:00Z",
-        "content": "Exin Therapeutics, a biotech startup focusing on next-generation neurotherapeutics, claims it has successfully conducted brain surgery on a mouse using an AI agent. Its co-founder and CEO, Gabriel Oc\u2026 [+5286 chars]"
+        "author": "Mark Tyson",
+        "title": "Military explores commercial 5G networks for enemy drone defense \u2014 AI agents developed the system recently used in battlefield trials in Latvia",
+        "description": "The military is looking at leveraging commercial 5G networks to sense and track drone incursions.",
+        "url": "https://www.tomshardware.com/networking/military-explores-commercial-5g-networks-for-enemy-drone-defense-ai-agents-developed-the-system-recently-used-in-battlefield-trials-in-latvia",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ATjdgYQePNDxpwcfdLGsmn-1920-80.jpg",
+        "publishedAt": "2026-11-02T11:00:00Z",
+        "content": "The military is looking at leveraging commercial 5G communications to enhance battlefield sensing. We have two examples of the reuse of existing communications infrastructure for drone detection. In \u2026 [+3293 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Newton Gitonga",
+        "title": "Google data center wins approval in Minnesota after protests delay council vote twice \u2014 200-acre project moves forward despite opposition from local residents, tech giant scales down project and drops $80 million tax break request",
+        "description": "Google\u2019s proposed Hermantown data center has cleared a major approval hurdle after the city council unanimously backed the project on October 30.",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/google-data-center-wins-approval-in-minnesota-after-protests-delay-council-vote-twice-200-acre-project-moves-forward-despite-opposition-from-local-residents-tech-giant-scales-down-project-and-drops-usd80-million-tax-break-request",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZBz8tMdiR9FaRK5xeafByT-1280-80.jpg",
+        "publishedAt": "2026-11-02T13:00:00Z",
+        "content": "Google has secured approval for a proposed data center in Hermantown, Minnesota, following a unanimous vote by the city council, MPR News reports. The decision, reached on Friday, October 30, clears \u2026 [+4158 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tom's Hardware UK"
+        },
+        "author": "Shane Downing",
+        "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims\u2019 assets by value, then deletes itself \u2014 payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
+        "description": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/SwXoTJq5pcxA7urt6ryrQZ-1744-80.jpg",
+        "publishedAt": "2026-11-01T21:00:00Z",
+        "content": "A self-deleting Windows infostealer that calls itself VOLTA-AUTODOXER steals everything it can from a victim\u2019s PC, then asks an AI model, Anthropic\u2019s Claude by default, to turn the haul into a target\u2026 [+5129 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Rupert Goodwins",
+        "title": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it",
+        "description": "Flash the cash, flush the cache",
+        "url": "https://www.theregister.com/columnists/2026/11/02/microsofts-moolah-mountain-is-more-massive-than-ever-it-just-doesnt-want-the-people-who-built-it/5306576",
+        "urlToImage": "https://image.theregister.com/227772.jpg?imageId=227772&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-11-02T10:15:00Z",
+        "content": "Capitalism can seem so perverse. Take Microsoft, which is celebrating record financial performance by inviting 60,000 employees to consider continuing their careers outside the company. Voluntary red\u2026 [+4509 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Rupert Goodwins",
+        "title": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it",
+        "description": "Flash the cash, flush the cache",
+        "url": "https://www.theregister.com/software/2026/11/02/microsofts-moolah-mountain-is-more-massive-than-ever-it-just-doesnt-want-the-people-who-built-it/5306576",
+        "urlToImage": "https://image.theregister.com/227772.jpg?imageId=227772&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-11-02T10:15:00Z",
+        "content": "Capitalism can seem so perverse. Take Microsoft, which is celebrating record financial performance by inviting 60,000 employees to consider continuing their careers outside the company. Voluntary red\u2026 [+4509 chars]"
     },
     {
         "source": {
             "id": "wired",
             "name": "Wired"
         },
-        "author": "Lily Hay Newman, Matt Burgess",
-        "title": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
-        "description": "Named \u201cVolta-Autodoxer,\u201d the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-        "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-        "urlToImage": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/191:100/w_1280,c_limit/KernelPanic_10312026_v1.jpg",
-        "publishedAt": "2026-10-31T12:00:00Z",
-        "content": "Welcome to Kernel Panic,a weekly newsletter by Lily Hay Newman and Matt Burgess from inside the new world of privacy and digital security. To receive this newsletter in your inbox each week, sign up \u2026 [+2968 chars]"
+        "author": "David Nield",
+        "title": "When You Should\u2014and Shouldn\u2019t\u2014Use AI to Search the Web",
+        "description": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you\u2019ll get better results by typing your query into a good old search engine.",
+        "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+        "urlToImage": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/191:100/w_1280,c_limit/102926-AI%20Web_.jpg",
+        "publishedAt": "2026-11-02T12:00:00Z",
+        "content": "If you've interacted with the likes of Claude, ChatGPT, and Gemini, you've noticed that in addition to everything else they do, these AI chatbots can search the web for you. Depending on what youre l\u2026 [+1403 chars]"
     }
 ]
